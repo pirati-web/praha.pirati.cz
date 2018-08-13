@@ -77,12 +77,13 @@ layout: default
 
 <div class="row">
   <div class="columns large-6">
-    <h2 id="p5">Praha 5<br><small></small></h2>
+    <h2 id="p5"><a href="https://praha5.pirati.cz/">Praha 5</a><br><small></small></h2>
     <p><a href="{{ '/lide/daniel-mazur/'  }}">Daniel Mazur</a>, člen Pirátů</p>
     <ul>{% for post in site.posts %}{% if post.tags contains 'p5' %}
             <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}</ul>
   </div>
+ 
   <div class="columns large-6">
     <h2 id="p6"><a href="https://praha6.pirati.cz/">Praha 6</a><br><small></small></h2>
     <p><a href="{{ '/lide/viktor-mahrik/'  }}">Viktor Mahrik</a>, člen Pirátů, zastupitel v ZHMP</p>
