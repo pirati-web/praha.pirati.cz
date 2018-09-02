@@ -37,7 +37,7 @@ collections:
     permalink: /program/:path/
     teams:
     output: true
-    permalink: /pripoj-se/mc/:title/
+    permalink: /program/:title/
   candidatelists:
     output: false
 
