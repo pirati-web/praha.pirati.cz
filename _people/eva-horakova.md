@@ -33,5 +33,5 @@ Pochází z východních Čech a od 18ti let žije v Praze, je šťastně vdaná
 
 Během vysokoškolských studií stále pracovala jako zdravotní sestra a to v nemocnici Milosrdných sester sv. Karla Boromejského. Učila také na Vyšší odborné zdravotnické škole v Kladně. Díky vědomostem a znalostem v oboru chtěla víc. Další meta byla farmaceutická firma. Bylo jich několik a všechny až na první originální farmaceutické firmy, podléhající AIFP, tedy zákonům a normám. V současné době je na pozici medicínského zástupce u Sanofi s.r.o. Je specialista v oblasti diabetologie. V roce 2018 byla zvolena do zastupitelstva hl. m. Prahy ze 7. místa kandidátky Pirátů. Uspěla rovněž i ve volbách do zastupitelstva městské části Prahy 5.
 
-Angažuje se v aktivitách souvisejících se svojí dosavadní praxí a vzdělaním a to jsou zdravotnictví, sociální práce a dobrovolnictví. Před vlastní transplantací v roce 2011 chodila darovat krev. Při poslední návštěvě svatého otce Dalajlamy byla dobrovolník na jeho setkání a setkala se s ním i osobně.
+Angažuje se v aktivitách souvisejících se svojí dosavadní praxí a vzdělaním a to jsou zdravotnictví, sociální práce a dobrovolnictví. Před vlastní transplantací (jakou transplantací????) v roce 2011 chodila darovat krev. Při poslední návštěvě svatého otce Dalajlamy byla dobrovolník na jeho setkání a setkala se s ním i osobně.
 
