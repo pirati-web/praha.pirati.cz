@@ -36,13 +36,13 @@ Po studiích působil v Praze a v Mnichově ve společnosti Telefónica (O2) jak
 
 Ve volném čase hraje na saxofon a klarinet v kapele Mizmar a je spoluautorem blogu o pražských cukrárnách s názvem Cukrouši.cz. Donedávna byl aktivní jako člen divadlení umělecké skupiny OLDstars a instruktor Prázdninové školy Lipnice. Mezi jeho zájmy patří outdoorové sporty, cestování, fotografování, hudba a divadlo. Je pravidelným bezpříspěvkovým dárcem krve a členem Klubu přátel Paměti národa. Má rád deskové hry, vlaky a tramvaje, sníh, zmrzlinu, upřímnost a liduprázdnou krajinu. Trápí ho SUV a elektrické koloběžky ve městě, globální oteplování a lidská hloupost.
 
-Jaromír je svobodný a bezdětný, hovoří plynně anglicky a německy a dorozumí se francouzsky. U Pirátů zastával od ledna 2017 do prosince 2018 roli vedoucího finančního odboru, od prosince 2017 do prosince 2018 byl 4. místopředsedou a od ledna 2019 je předsedou krajského sdružení v Praze, kde zodpovídá za finance a strategii. Vedle digitálních technologií a inovací se zajímá o otázky dopravy, udržitelnosti a volnočasových aktivit dětí a mládeže.
+Jaromír je svobodný a bezdětný, hovoří plynně anglicky a německy a dorozumí se francouzsky. U Pirátů zastával od ledna 2017 do prosince 2018 roli vedoucího finančního odboru, od prosince 2017 je též členem předsednictva krajského sdružení v Praze, kde zodpovídá za finance a strategii. Vedle digitálních technologií a inovací se zajímá o otázky dopravy, udržitelnosti a volnočasových aktivit dětí a mládeže.
 
 V roce 2018 byl zvolen z 11. místa kandidátní listiny Pirátů do zastupitelstva hl. m. Prahy, od října 2019 je místopředsedou zastupitelského klubu. Jako předseda Výboru pro IT a Smart City ZHMP se věnuje primárně Smart City a inovačním projektům a podpoře podnikání. Dále se zabývá hospodařením hlavního města, evropskými záležitostmi a spolupracuje rovněž na rozvoji integrovaného dopravního systému a podpoře bezemisní mobility.
 
 ***
 
-Jaromir Beranek (* May 14, 1986) is a member of the Prague City Assembly, representing the Pirate Party, and Chairman of the IT and Smart City Committee of the Prague City Assembly. He has been with the Czech Pirate Party since November 2016, later served as a financial manager and currently acts as the leader of Prague Pirates.
+Jaromir Beranek (* May 14, 1986) is a member of the Prague City Assembly, representing the Pirate Party, and Chairman of the IT and Smart City Committee of the Prague City Assembly. He has been with the Czech Pirate Party since November 2016, later served as a financial manager of the party, and a member of the steering board of Prague Pirates.
 
 Jaromir studied at universities in Prague, Cologne and Fort Lauderdale and holds Master's degrees in International Management and Law. He is a seasoned financial and portfolio manager with experience from multinationals (Bosch, O2) as well as the startup community (Wayra, StartupYard). Jaromir is fluent in English and German and has a basic command of French. He is an avid runner and musician and enjoys travelling and long hikes in the mountains.
 
