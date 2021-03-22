@@ -11,7 +11,7 @@ Klub Pirátů v Zastupitelstvu hl. m. Prahy hledá vhodného kandidáta do dozor
 
 Člen dozorčí rady se účastní 1x měsíčně jednání tohoto orgánu (podrobněji je toto uvedeno ve stanovách společnosti v části věnované působnosti dozorčí rady). Organizuje kontrolu účetních dokladů a smluv, komunikuje s představenstvem a ostatními členy dozorčí rady, politickým klubem a gesčním radním, případně dalšími politickými představiteli. Připravuje písemné dokumenty. Při tom všem je ale schopen dodržet závazek loajality ke společnosti a mlčenlivosti k jejím chráněným informacím. 
 
-Zaujala Vás nabídka? Podrobněji se můžete na ni podívat na [pirátském fóru](https://forum.pirati.cz/viewtopic.php?f=572&t=56434&p=749221)! Přihlášku lze podat elektronicky na **e-mail lidepraha@pirati.cz do neděle 21. 3. 2021, 23:59.** Zastupitelský klub si vyhrazuje právo termín prodloužit. Uchazeč by nám měl zaslat svůj strukturovaný životopis, motivační dopis a odpovědi na následující otázky:
+Zaujala Vás nabídka? Podrobněji se můžete na ni podívat na [pirátském fóru](https://forum.pirati.cz/viewtopic.php?f=572&t=56434&p=749221)! Přihlášku lze podat elektronicky na **e-mail lidepraha@pirati.cz do <s>neděle 21. 3. 2021, 23:59.</s> neděle 28. 3. 2021, 23:59** Zastupitelský klub si vyhrazuje právo termín prodloužit. Uchazeč by nám měl zaslat svůj strukturovaný životopis, motivační dopis a odpovědi na následující otázky:
 
 Proč se hlásíte do dozorčí rady DPP, a.s.?
 
