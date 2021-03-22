@@ -2,8 +2,8 @@
 date:         2021-03-19
 tags:         
 - doprava
-title:        "Tramvaje vyjedou na Václavské náměstí"
-image: 	      tomas-murnak.jpg
+title:        "Tramvaje vyjedou i k Hlavnímu nádraží"
+image: 	      trat.jpg
 author:       MHMP
 ---
 
