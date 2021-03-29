@@ -7,7 +7,7 @@ image: 	      magistrat3.jpg
 author:       MHMP
 ---
 
-Rada hlavního města Prahy dnes schválila materiál, který umožní pronájem dvou bytů svěřených městské části Praha 3 pražské příspěvkové organizaci Centrum služeb pro rodinu a dítě a dětský domov Charlotty Masarykové.
+Rada hlavního města Prahy v pondělí 29. března 2021 schválila materiál, který umožní pronájem dvou bytů svěřených městské části Praha 3 pražské příspěvkové organizaci Centrum služeb pro rodinu a dítě a dětský domov Charlotty Masarykové.
 
 Do bytů na území Prahy 3 budou díky rozhodnutí radních přesunuta krizová lůžka. Příspěvková organizace Centrum služeb pro rodinu a dítě a dětský domov Charlotty Masarykové jich momentálně v rámci zařízení pro děti vyžadující okamžitou pomoc provozuje deset. Určena jsou většinou pro děti ve věku jednoho roku až šesti let, které se ocitly bez jakékoliv péče, jsou mentálně nebo fyzicky týrané či je jejich život nebo standardní vývoj vážně ohrožen.
 
