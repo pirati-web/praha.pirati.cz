@@ -30,4 +30,4 @@ Pan Augustin na mne namísto odklízení svých věcí podal v této věci žalo
 
 ### Odkazy 
 
-* [Článek na Respektu o Norbertu Naxerovi](https://gisat.blog.respekt.cz/norbert-naxera-jako-bezpartajnik-neuspesne-kandidoval-za-krajne- pravicovou-narodni-stranu-nyni-kandiduje-za-spd/)
+* [Článek na Respektu o Norbertu Naxerovi](https://gisat.blog.respekt.cz/norbert-naxera-jako-bezpartajnik-neuspesne-kandidoval-za-krajne-pravicovou-narodni-stranu-nyni-kandiduje-za-spd/)
