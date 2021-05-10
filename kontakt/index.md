@@ -79,5 +79,6 @@ Přidejte se k [pražskému sdružení](/pripoj-se) nebo k jednotlivým [místn�
   <h1 class="t-h2-alt">Telefonický kontakt pro občany ČR</h1>
 </div>
 
-**Celostátní pirátská infolinka:**  +420 703 681 682, +420 608 963 111, PO-PÁ, 9-19 hod
+**Celostátní pirátská infolinka:**  +420 703 681 682, +420 608 963 111,
+PO-PÁ, 9-19 hod
 
