@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor
 img: people/jaromir-beranek.jpg    # 165 x 220
 profilebadge: people/badge/08-beranek.jpg
-description: místopředseda zastupitelského klubu Pirátů,<br/> předseda krajského sdružení Pirátů v Praze<br/> zastupitel s gescemi Smart City, Evropské fondy, finance a inovace
+description: místopředseda zastupitelského klubu Pirátů,<br/> místopředseda krajského sdružení Pirátů v Praze<br/> zastupitel s gescemi Smart City, Evropské fondy, finance a inovace
 descvyb: předseda výboru pro IT a Smart City ZHMP, člen finančního výboru ZHMP
 mail:
 - jaromir.beranek@pirati.cz
@@ -28,7 +28,7 @@ redmine: 223
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
 ---
 
-Mgr. Ing. Jaromír Beránek, CEMS MIM (* 14. května 1986) je uvolněným zastupitelem hl. m. Prahy za Piráty a předsedou Výboru pro IT a Smart City ZHMP. Je rovněž i členem výboru pro evropské záležitosti. Členem České pirátské strany je od listopadu 2016, v současnosti je předsedou pražských Pirátů.
+Mgr. Ing. Jaromír Beránek, CEMS MIM (* 14. května 1986) je uvolněným zastupitelem hl. m. Prahy za Piráty a předsedou Výboru pro IT a Smart City ZHMP. Je rovněž členem Výboru pro evropské záležitosti a Výboru finančního. Členem České pirátské strany je od listopadu 2016, v současnosti je místopředsedou pražských Pirátů.
 
 Jaromír se narodil a vyrůstal v Praze. Po maturitě na Gymnáziu Jana Nerudy vystudoval obory CEMS – Mezinárodní management na VŠE v Praze a Právo na Univerzitě Karlově. Během studií absolvoval studijní stáže na univerzitách v Kolíně nad Rýnem v Německu a ve Fort Lauderdale ve Spojených státech a také pracovní stáž ve společnosti Bosch v holandském Eindhovenu. Několik let spolupracoval jako ekonomický komentátor a moderátor s Českým rozhlasem (stanice ČRo 6, v současnosti ČRo Plus).
 
