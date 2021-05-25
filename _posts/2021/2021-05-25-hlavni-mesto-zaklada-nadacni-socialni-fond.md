@@ -8,7 +8,7 @@ image: 	      magistrat2.jpg
 author:       MHMP
 ---
 
-Pražští radní dnes schválili záměr založit Sociální nadační fond hlavního města Prahy. Po vzoru jiných krajů a obcí by měl fond pomáhat těm, kteří se z různých důvodů ocitli v tíživé sociální situaci a nemohou využít jiné zdroje, ať už státní nebo obecní pomoci. Fond bude ve čtyřech programech nabízet podporu pěstounské péče, nezávislého života lidí s postižením, domácnostem v bytové nouzi a jiné tíživé situaci.
+Pražští radní v pondělí 24. května 2021 schválili záměr založit Sociální nadační fond hlavního města Prahy. Po vzoru jiných krajů a obcí by měl fond pomáhat těm, kteří se z různých důvodů ocitli v tíživé sociální situaci a nemohou využít jiné zdroje, ať už státní nebo obecní pomoci. Fond bude ve čtyřech programech nabízet podporu pěstounské péče, nezávislého života lidí s postižením, domácnostem v bytové nouzi a jiné tíživé situaci.
 
 Sociální nadační fond hlavního města Prahy, jehož zakládací listinu dnes schválila Rada hlavního města Prahy, doplní nové nástroje pražské sociální a bytové politiky. Koaliční partneři tímto naplňují další body programového prohlášení. Fond totiž bude pomáhat například lidem se zdravotním znevýhodněním žít samostatně ve svém bytě, pěstounům dosáhnout na terapie nebo zajistit víc oddechu od náročné péče, rodinám i jednotlivcům ohroženým ztrátou bydlení si své bydlení udržet nebo třeba mladým lidem opouštějícím náhradní péči při dokončení vzdělání. Tedy v případech, kdy k překonání tíživé sociální situace nepostačuje využití jiných vhodných nástrojů pomoci.
 
