@@ -18,10 +18,10 @@ asistenti:
     position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: kristyna.nouzakova@praha.eu
     tel: <!--Není na webu praha.eu uveden-->
-  - name: Lucie Charvátová
-    position: poradkyně pro oblast sportu a volného času <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: lucie.charvatova@praha.eu
-    tel: <!--Není na webu praha.eu uveden-->
+  - name: Barbora Stárková
+    position: asistentka<!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
+    mail: barbora.starkova@praha.eu
+    tel: 236 002 944
   - name: Kamila Bílá
     position: komunikace s médii <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: kamila.bila@praha.eu
