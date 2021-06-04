@@ -1,7 +1,7 @@
 ---
 date:         2020-03-20
 tags:         bezpečnost zdravotnictví koronavirus
-title:        Krizový štáb hl. m. řeší dostupnost lékařů v souvislosti s nedostatkem ochranných prostředků"
+title:        Krizový štáb hl. m. řeší dostupnost lékařů v souvislosti s nedostatkem ochranných prostředků
 image: 	      magistrat2.jpg
 author:       MHMP
 ---
