@@ -4,7 +4,7 @@ tags:
 - inzerát
 title:        "Staňte se asistentem/asistentkou předsedkyně sociálního výboru Evy Horákové"
 image: 	      inzerat.jpg
-author:       MHMP
+author:       Jan Loužek
 ---
 
 Předsedkyně výboru pro výboru pro sociální politiku ZHMP [Eva Horáková](/lide/eva-horakova) hledá k sobě do týmu asistenta/asistentku. Pokud tě zajímá sociální problematika, rád(a) pomáháš druhým a chceš něco změnit s pomocí Pirátů řídících naší stověžatou matičku, přidej se k nám!
