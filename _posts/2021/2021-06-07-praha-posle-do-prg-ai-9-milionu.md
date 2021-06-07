@@ -1,8 +1,8 @@
 ---
 date:         2021-06-07
 tags:         
-- inzerát
-title:        "Staňte se asistentem/asistentkou předsedkyně sociálního výboru Evy Horákové"
+- informatika
+title:        "Praha jako centrum umělé inteligence. Do rozvoje prg.ai pošle přes 9 milionů"
 image: 	      prg.jpg
 author:       MHMP
 ---
