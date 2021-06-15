@@ -13,11 +13,6 @@ profilebadge: people/badge/06-horakova.jpg
 description: místopředsedkyně zastupitelského klubu Pirátů<br/> zastupitelka s gescemi sociální věci, zdravotnictví, pohřebnictví   	# kratký popis, max 160 znaků
 descvyb: předsedkyně výboru pro sociální politiku ZHMP
 asistenti:
-  - name: Lucie Horáková
-    uid: lucie.horakova
-    position: asistentka
-    mail: lucie.horakova@praha.eu
-    tel: 236 002 142
   - name: Tereza Kroužková
     uid: tereza.krouzkova
     position: sekretářka
