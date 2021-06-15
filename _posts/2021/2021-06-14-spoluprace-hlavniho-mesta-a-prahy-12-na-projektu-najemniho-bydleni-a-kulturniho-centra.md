@@ -7,7 +7,7 @@ image: 	      novaradnice.jpg
 author:       MHMP
 ---
 
-Rada hlavního města Prahy dnes schválila spolupráci  s městskou částí Praha 12 na společném projektu výstavby městského nájemního bydlení a multifunkčního sálu pro společenské akce. Projekt, který na pozemcích hlavního města podél ulice Písková naváže na Novou Radnici Praha 12, zahrnuje rekonstrukci a rozšíření kulturního centra MusicArt a výstavbu 45 městských nájemních bytů.
+Rada hlavního města Prahy v pondělí 14. 6. schválila spolupráci s městskou částí Praha 12 na společném projektu výstavby městského nájemního bydlení a multifunkčního sálu pro společenské akce. Projekt, který na pozemcích hlavního města podél ulice Písková naváže na Novou Radnici Praha 12, zahrnuje rekonstrukci a rozšíření kulturního centra MusicArt a výstavbu 45 městských nájemních bytů.
 
 Přípravou a koordinací projektu byla pověřena Pražská developerská společnost (PDS). Předpokládá se, že po dokončení bude multifunkční sál a deset bytů spravovat Praha 12 a zbývajících 35 bytů s městskými pozemky připadnou do správy hlavnímu městu. Celkové náklady takového záměru se budou pohybovat mezi 200-250 miliony Kč, prověření možností financování takového projektu bude součástí materiálu zpracovaného PDS:
 
