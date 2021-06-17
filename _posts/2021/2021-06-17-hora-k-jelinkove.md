@@ -4,7 +4,7 @@ tags:
 - praha-4
 title:        "Pirát Hora: Proti metru D se staví nezávislá zastupitelka Jelínková. Piráti metro podporují"
 image: 	      hora2.jpg
-author:       MHMP
+author:       Jan Hora
 ---
 
 V posledních komunálních volbách na Praze 4 jsme kandidovali na společné kandidátce jako Piráti a nezávislí. Do voleb jsme šli s programem, ve kterém klademe důraz na stavbu metra D, jako klíčové dopravní stavby pro městskou část i celé město.
