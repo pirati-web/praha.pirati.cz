@@ -1,0 +1,21 @@
+---
+date:         2021-06-21
+tags:         
+- životní-prostředí
+title:        "Piráti v pražské Stromovce pořádali happening na podporu městské zeleně s názvem Svátek stromů"
+image: 	      strom7.jpg
+author:       MHMP
+---
+
+Akce byla zaměřena zejména na výsadbu stromů v městském prostředí v rámci Týdne pro klima. Pořádala ji Dana Balcarová, poslankyně za Piráty, která má v gesci životní prostředí. Happeningu se zúčastnili také předseda strany Ivan Bartoš, primátor hlavního města Prahy Zdeněk Hřib i zastupitel hlavního města Prahy Tomáš Murňák. Podpora městské zeleně je jednou z programových priorit, se kterou jdou Piráti na podzim do voleb společně v koalici se STAN ([Program zde](https://www.piratiastarostove.cz/program/resort/zivotni-prostredi/)). 
+
+Hlavním tématem byla výsadba stromů v městském prostředí a adaptace na změnu klimatu. Mimo jiné propojení městské zeleně v rámci územního plánování a její ochrana. Zazněly i připomínky k péči o stromy a ke stavu městské zeleně v Praze. Akce přilákala nejen dospělé, ale i děti. Dospělí mohli diskutovat s přítomnými politiky. Pro děti bylo součástí programu například malování na obličej, maskérna, fotokoutek nebo Orloj snivců.
+
+> „Města je třeba zazelenit, protože se vlivem klimatických změn čím dál více přehřívají. Plníme proto náš plán vysadit milion stromů pro Prahu během osmi let. Do dnešního dne jsme vysadili 370 000 stromů jak ve vnějším prstenci města, tak přímo v srdci Prahy. Třeba na Václavském náměstí, které právě rekonstruujeme, vzniknou dvě úplně nová stromořadí. Aktuálně jsme také podpořili částkou 160 milionů Kč vznik dalších zelených a vodních prvků v jednotlivých městských částech. Vzniknout tak nové zasakovací průlehy, které pomáhají udržet vodu v krajině, pítka, fontány vodní trysky nebo obnovené studny. Příroda nepočká, musíme jí věnovat péči hned teď,” apeluje primátor Prahy Zdeněk Hřib.
+
+Akce zároveň navázala na Akční plán výsadby milionu stromů pro Prahu a nedávno spuštěný pilotní projekt Adoptuj strom na Praze 14 v Parku U Čeňku, jehož autorem je právě Tomáš Murňák. Obě akce naleznete na [www.zastromujprahu.cz](https://www.zastromujprahu.cz). 
+ 
+> „Pro mě, jako pro zastupitele hlavního města Prahy a pro místopředsedu výboru pro životní prostředí magistrátu hlavního města, je stav zeleně v Praze stěžejním tématem. Stromy jsou nejen ve městech důležitými prvky zeleně. Nedovedu si představit rozpálené ulice města bez stromů. Bez místa, které vám dává stín, vlhkost a kyslík. V Praze máme obrovský problém s tepelným ostrovem, který vzniká pohlcováním tepla přes den. Po rozpálených ulicích nechce nikdo chodit, natož v nich někdo žít. A právě proto jsme si dali závazek vysadit milion stromů pro Prahu, který se již 2,5 roku daří naplňovat. Protože zeleň a zejména stromy ulice ochlazují. Jedná se nejen o stromy v ulicích, ale také v příměstských parcích a lesích. Vysadit strom v ulici není žádná procházka růžovou zahradou. Jejich výsadbu komplikují zejména sítě, ale i parkovací místa nebo podloží. Nicméně i na tomto důsledně pracujeme a stromy v ulicích začínají přibývat. Navázal jsem na to projektem Adoptuj strom, který zatím funguje na Praze 14 v Parku U Čeńku a chtěli bychom jej postupně rozšířit na celou Prahu. Pevně věřím tomu, že se nám náš plán podaří naplnit a že se povede i do pražských ulic vysadit co nejvíce stromů, které přinesou nejen stín, ale i estetičnost ulic samotných. Aby se nám i budoucím generacím v Praze žilo co možná nejlépe,” komentuje situaci Tomáš Murňák (Piráti), místopředseda výboru pro infrastrukturu, veřejnou vybavenost a životní prostředí ZHMP. 
+
+> „Smyslem happeningu Svátek stromů bylo upozornit na význam zeleně ve městech. Popovídat si s návštěvníky o tom, jak vnímají stromy v ulicích a co by se mělo zlepšit. Víkendová vedra nám nahrála na další téma a tím je rozpálené město v horkých dnech. Piráti se hlásí ke své politické odpovědnosti za adaptaci měst na postupující projevy změny klimatu, ať to jsou  na vlny veder nebo přívalové deště. Mým úkolem bylo připravit do sněmovních voleb programovou prioritu Mírnější vedra ve městech. Nechceme se totiž v Praze upéct,” říká Dana Balcarová, pirátská poslankyně a organizátorka happeningu.
+
