@@ -8,7 +8,7 @@ residences:
    address: |
      Na Moráni 3,
      120 00 Praha 2
-   spravce: ladislav.dvorak
+   spravce: pavel.zamazal
    residenceImg: kontakt/novepice.jpg
    mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
  - name: Magistrát
