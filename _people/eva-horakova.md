@@ -16,7 +16,7 @@ asistenti:
   - name: Sára Dvořáková
     uid: sara.dvorakova
     position: sekretářka
-    mail: jana.grossmanova@praha.eu
+    mail: sara.dvorakova@praha.eu
     tel: 
 mail:
 - eva.horakova@pirati.cz
