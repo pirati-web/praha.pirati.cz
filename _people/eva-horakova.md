@@ -13,11 +13,11 @@ profilebadge: people/badge/06-horakova.jpg
 description: místopředsedkyně zastupitelského klubu Pirátů<br/> zastupitelka s gescemi sociální věci, zdravotnictví, pohřebnictví   	# kratký popis, max 160 znaků
 descvyb: předsedkyně výboru pro sociální politiku ZHMP
 asistenti:
-  - name: Tereza Kroužková
-    uid: tereza.krouzkova
+  - name: Jana Grossmanová
+    uid: jana.grossmanova
     position: sekretářka
-    mail: tereza.krouzkova@praha.eu
-    tel: 777 356 139
+    mail: jana.grossmanova@praha.eu
+    tel: 
 mail:
 - eva.horakova@pirati.cz
 mob: +420 727 870 828
