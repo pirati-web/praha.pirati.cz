@@ -13,8 +13,8 @@ profilebadge: people/badge/06-horakova.jpg
 description: místopředsedkyně zastupitelského klubu Pirátů<br/> zastupitelka s gescemi sociální věci, zdravotnictví, pohřebnictví   	# kratký popis, max 160 znaků
 descvyb: předsedkyně výboru pro sociální politiku ZHMP
 asistenti:
-  - name: Jana Grossmanová
-    uid: jana.grossmanova
+  - name: Sára Dvořáková
+    uid: sara.dvorakova
     position: sekretářka
     mail: jana.grossmanova@praha.eu
     tel: 
