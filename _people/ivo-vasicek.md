@@ -5,9 +5,8 @@ titles:
   before: PaedDr.
   after: 
 category:
- - dr
 img: 		people/ivo-vasicek.jpg    # 165 x 220
-description: člen dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.
+description: bývalý člen dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.
 mail:
 - ivo.vasicek@pirati.cz
 mob: +420 608 240 742
@@ -19,7 +18,7 @@ profiles:
   flickr:     		  
 ---
 
-**Ivo Vašíček** je členem dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.
+**Ivo Vašíček** je bývalým členem dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.
 
 Ivo má zkušenosti z dopravního podniku města Brna, kde pracoval na transparenci IT zakázek. Pracoval jako TOP manažer a nyní se chce plně věnovat práci v dozorčí radě. Vystudoval Univerzitu J. E. Purkyně, konkrétně fakultu pedagogickou se zaměřením na fyziku. Na konci devadesátých let byl jedním z hlavních protagonistů procesního řízení, což vedlo i k tomu, že firma Ivo Vašíčka poskytovala poradenství pro MF, které řešilo přerozdělování daňových prostředků do nově vzniklých krajů. V oblasti procesního řízení a zefektivňování práce organizací řídil desítky projektů. Mnoho lidí v tomto oboru vzdělával v rozličných vzdělávacích kurzech.
 
