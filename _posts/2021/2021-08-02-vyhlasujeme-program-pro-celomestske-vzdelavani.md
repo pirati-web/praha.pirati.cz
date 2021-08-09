@@ -7,7 +7,7 @@ image: 	      skola.jpg
 author:       MHMP
 ---
 
-Pražští radní dnes odsouhlasili vyhlášení Programu celoměstské podpory vzdělávání na území hl. m. Prahy pro rok 2022. Program se zaměřuje na sedm tematických okruhů s celkovou finanční alokací 13 milionů korun. Například se jedná o podporu dalšího vzdělávání pražských učitelů v IT nebo v anglickém jazyce.
+Pražští radní v pondělí 2. 8. odsouhlasili vyhlášení Programu celoměstské podpory vzdělávání na území hl. m. Prahy pro rok 2022. Program se zaměřuje na sedm tematických okruhů s celkovou finanční alokací 13 milionů korun. Například se jedná o podporu dalšího vzdělávání pražských učitelů v IT nebo v anglickém jazyce.
 
 Program podpory celoměstského vzdělávání vychází z tezí obsažených v Dlouhodobém záměru vzdělávání a rozvoje vzdělávací soustavy hlavního města Prahy 2020 až 2024. 
 
