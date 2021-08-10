@@ -3,7 +3,7 @@ date:         2021-08-06
 tags:         
 - koronavirus
 - očkování
-title:        "Praha podporuje výchovu budoucích odborníků na umělou inteligenci"
+title:        "V Metropolitním očkovacím centru se budou moci neregistrovaní zájemci nechat očkovat i vakcínou Janssen"
 image: 	      ockobus.jpg
 author:       MHMP
 ---
