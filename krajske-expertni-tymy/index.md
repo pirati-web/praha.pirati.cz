@@ -9,8 +9,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 
 * **[Bezpečnost](https://forum.pirati.cz/viewforum.php?f=1260")** – Vedoucí: Patrik Šebesta (patrik.sebesta@pirati.cz)
 * **[Cestovní ruch](https://forum.pirati.cz/viewforum.php?f=1261")** – Vedoucí: Ondřej Chrást (ondrej.chrast@pirati.cz)
-* **[Doprava a infrastruktura](https://forum.pirati.cz/viewforum.php?f=1262")** – Vedoucí: Michal Štěpán (michal.stepan@pirati.cz)
-* **[Finance](https://forum.pirati.cz/viewforum.php?f=1263")** Vedoucí: Jaromír Beránek (jaromir.beranek@pirati.cz)
+* **[Doprava a infrastruktura](https://forum.pirati.cz/viewforum.php?f=1262")** – Vedoucí: Blanka Charvátová (blanka.charvatova@pirati.cz)
 * **[IT a Smart City](https://forum.pirati.cz/viewforum.php?f=1264")** – Vedoucí: Jan Hora (jan.hora@pirati.cz)
 * **[Kultura](https://forum.pirati.cz/viewforum.php?f=1266")** – Vedoucí: Ondřej Chrást (ondrej.chrast@pirati.cz)
 * **[Sociální politika](https://forum.pirati.cz/viewforum.php?f=1268")** – Vedoucí: Eva Horáková (eva.horakova@pirati.cz)
