@@ -48,6 +48,9 @@ main:
   - link: /mestske-casti/
     name: Městské části
     match: mestske-casti
+  - link: /krajske-expertni-tymy/
+    name: Experti
+    match: krajske-expertni-tymy
   - link: /kontakt/
     name: Kontakt
     match: kontakt
