@@ -44,7 +44,7 @@ contactSummaryItems:
   - type: custom
     iconClass: fa fa-user
     label: Předseda krajského sdružení
-    body: <a href="/lide/jaromir-beranek">Jaromír Beránek</a>
+    body: <a href="/lide/danie-mazur">Daniel Mazur</a>
   - type: custom
     iconClass: fa fa-user
     label: Předseda zastupitelského klubu
