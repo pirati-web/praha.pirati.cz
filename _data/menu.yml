@@ -45,6 +45,9 @@ main:
       - link: /pripoj-se/posadky.html
         name: Posádky
         match: /pripoj-se/posadky.html
+      - link: https://kampan-praha.pirati.cz/
+        name: Kampaň!
+        match: https://kampan-praha.pirati.cz/
   - link: /mestske-casti/
     name: Městské části
     match: mestske-casti
