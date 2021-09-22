@@ -2,7 +2,7 @@
 date:         2021-09-22
 tags:         
 - bydlení
-title:        "Praha s Prahou 10 uzavřou memorandum o spolupráci. Rozvoj Vršovické ulice a stadionu Bohemians, vznikne Bytový dům Vršovická s městskými byty"
+title:        "Díky memorandu Magistrátu s Prahou 10 vznikne Bytový dům Vršovická s městskými byty"
 image: 	      adam-zabransky-5.jpg
 author:       MHMP
 ---
