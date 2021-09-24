@@ -24,6 +24,6 @@ Jednotlivé zastávky se vždy nacházely na oblíbených místech Pražanů a t
 
 Celou akci zastřešuje příspěvková organizace Metropolitní zdravotnický servis a v Očkovacím autobusu pracuje zdravotnický tým ze společnosti MEDICON, a.s. Autobus bezplatně zapůjčil Dopravní podnik hl. m. Prahy a Zdravotnická záchranná služba hl. m. Prahy zase poskytla automatizovaný externí defibrilátor (AED). Na provozu Očkovacího autobusu se v neposlední řadě podílel Český červený kříž, Městská poliklinika Praha pomáhala s očkováním samoplátců.
 
-Kdo se ještě nestihl naočkovat proti koronaviru a má zájem, nabízí se mu stále řada možností po celé Praze, kde mu vakcína bude aplikována. K dispozici je nové menší očkovací místo v Kongresovém centru Praha nebo například očkovací centra ve větších nemocnicích, případně nadále očkují někteří praktičtí lékaři. Kompletní přehled i další aktuální informace jsou na webu ockovani.praha.eu.
+Kdo se ještě nestihl naočkovat proti koronaviru a má zájem, nabízí se mu stále řada možností po celé Praze, kde mu vakcína bude aplikována. K dispozici je nové menší očkovací místo v Kongresovém centru Praha nebo například očkovací centra ve větších nemocnicích, případně nadále očkují někteří praktičtí lékaři. Kompletní přehled i další aktuální informace jsou na webu [ockovani.praha.eu](https://ockovani.praha.eu).
 
 
