@@ -1,0 +1,28 @@
+---
+date:         2021-10-01
+tags:         
+- sport
+title:        "Chůzí ke zdraví. Odstartovala výzva 10 000 kroků"
+image: 	      podzim.jpg
+author:       MHMP
+---
+
+V pátek 1. října začíná výzva 10 000 kroků, která má nejen posílit zdraví, ale také upozornit na podmínky pro chůzi především ve městech. Novinkou říjnové výzvy je virtuální pouť po zajímavých místech naší země. Patrony akce jsou známé osobnosti jako například herec a moderátor Lukáš Pavlásek nebo šestinásobná juniorská mistryně ČR v závodní chůzi Eliška Martínková. U startu akce stojí také náměstek primátora hl. m. Prahy Petr Hlubuček a radní hl. m. Prahy Vít Šimral. Aktuálně se do výzvy zapojilo 65 různých měst a téměř 7 000 účastníků. Šance přihlásit se trvá až do 4. října.
+
+> „Není náhodou, že startujeme právě dnes – na Mezinárodní den seniorů. Tato skupina potřebuje podpořit, aby se zapojila do komunitních aktivit, a právě chůze je k tomu ideální příležitostí. Na seniory a osoby s nadváhou se zaměřuje akce deset tisíc kroků, tyto osoby patří mezi nejvíce ohrožené jakoukoli epidemií,“ uvedl o akci Petr Hlubuček, náměstek primátora hl. m. Prahy pro oblast životního prostředí.
+
+> „Chůze je pro člověka přirozeným pohybem, který dokáže s tělem dělat zázraky a nese s sebou i řadu výhod. Například, že k ní nepotřebujete žádné vybavení. Prostě tak, jak jste, tak jdete. Procházka v přírodě navíc člověku prokazatelně zlepšuje náladu a povzbuzuje kreativní mysl. Jednou z možností, jak začít, je třeba jen vyměnit automobilovou dopravu či MHD za vlastní nohy. Uděláte tak něco pro svoje zdraví, zlepšíte si kondici i životní prostředí. Já tuto výzvu ujít denně deset tisíc kroků přijímám,“ řekl radní hl. m. Prahy pro oblast sportu Vít Šimral.
+
+Pravidla výzvy jsou nastavena tak, aby podpořila v pravidelném pohybu zejména osoby s vyšším věkem a nadváhou, které tak dostávají šanci symbolicky vyhrát. „O vítězství tady vůbec nejde. Hlavně ohrožené skupiny chceme motivovat k pravidelnému pohybu či podporovat místní komunity. Proto jsme i přišli s nápadem virtuální pouti po krásách Česka, aby tu motivaci měli ještě větší,“ popsal Jaroslav Martinek, jednatel pořádající organizace Partnerství pro městskou mobilitu. „Získat věcnou odměnu je opravdu vedlejší, protože to nejdůležitější je vyhrát pevné zdraví. Nejde o to ujít každý den deset tisíc kroků, to je pouze ideální cíl, ale chodit častěji než dosud. Nejlépe každý den, i když to půjde zpočátku třeba jen po velmi malých dávkách a pomalu,“ doplnila koordinátorka kampaně Sylva Machová. Speciálně pro říjnovou výzvu vznikla série českých designových triček od firmy UAX!, kterou si nejen účastníci mohou koupit a tím finančně podpořit výzvu.
+
+Nově také bude možné pro zaznamenávání pěších cest po Praze využít aplikaci Na kole Prahou, která je od 1. října rozšířena o množství zajímavých funkcí pro chodce. Jedná se o funkce nejen navigační, ale i statistické, motivační a informační. Aplikaci tak bude možné využívat jak k plánování zajímavých pěších tras, tak i ke sledování ušlých kilometrů. „Město nyní intenzivně pracuje na propojení tak, aby do systému výzvy deseti tisíc kroků bylo možné zaznamenané trasy z aplikace Na kole Prahou velmi jednoduše posílat. Data o pohybu z aplikace jsou také využívána při plánování nové infrastruktury pro chodce i cyklisty,“ přiblížila Karolína Klímová, která se na pražském magistrátu specializuje na chodce.
+
+Výzvu podpořila celá řada osobností, ty se rozhodly stát se [ambasadory akce](https://www.desettisickroku.cz/podporuji-nas). 
+
+> „Od mala strašně rád chodím – po městě, v přírodě, zkrátka všude. Výborně se mi u toho přemýšlí, takže jsem za chůze vymyslel spoustu věcí. Taky mi to zlepšuje náladu i kondici. A vzhledem k tomu, že chůzi mám už zažitou, není pro mě deset tisíc kroků vůbec žádný problém, takže je to jediná výzva, ke které se můžu přihlásit, protože vím, že ji hravě dokážu splnit,“ nastínil herec Lukáš Pavlásek.
+
+Jak dokládá celá řada vědeckých studií, pravidelná chůze je lékem na velmi široké spektrum zdravotních problémů. Především se jedná o takzvané „nemoci životního stylu“, na které dnes podle Světové zdravotnické organizace (WHO) umírá 71 % lidí na světě. „Hlavní příčiny jsou kouření, nedostatek pohybových aktivit, alkohol a nezdravá strava,“ vysvětlil ředitel Fakultní nemocnice Olomouc Roman Havlík. K tomu patří zejména veškerá onemocnění srdce a cév včetně vysokého tlaku a špatně fungujícího krevního oběhu, dále například cukrovka 2. typu. Chůze snižuje i riziko vzniku některých druhů rakoviny, posiluje svaly i kosti a zlepšuje trávení. Významně snižuje stres, který může poškozovat imunitní systém a přispět tím k získání a rozvoji jakékoli choroby. Že chůze zpomaluje stárnutí, potvrzuje 70letý účastník výzvy, chodec Rostislav Kovář, který se řídí mottem: „Nepřestaneš běhat, protože jsi zestárl, ale zestárneš, protože jsi přestal běhat“.
+
+O fyzické kondici ví své sportovkyně Eliška Martínková, která má na svém kontě už šest titulů mistra republiky. I podle ní je ale chůze vhodná pro každého, bez ohledu na věk nebo hmotnost. „Je jedno, jestli půjdete pomalu, nebo rychle, protože už jen to, že vyjdete, vás dělá lepšími, než jsou ti, co sedí doma,“ uzavřela juniorská mistryně ČR v závodní chůzi.
+
+A že chůze může změnit život, to dokládají i [příběhy pana Radka z Prostějova](https://www.desettisickroku.cz/o-chuzi/14/pribeh-radka-z-prostejova.), který kvůli své váze ještě před nedávnem nemohl chodit, nebo [pana Mahdala ze Zábřehu](https://www.desettisickroku.cz/o-chuzi/12/pribeh-ktery-stoji-za-zverejneni). Akce tak může být prvním impulsem k trvalejším změnám.
