@@ -8,9 +8,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - ga
 - carousel
-- pos
 img: people/ondrej-profant.jpg # 165 x 220
-description: poslanec, garant informatiky             	# kratký popis, max 160 znaků
+description: garant informatiky             	# kratký popis, max 160 znaků
 mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015
@@ -31,7 +30,7 @@ carousel:
     <p><strong>Předseda sdružení Pirátů</strong> v Praze, poslanec PSP ČR. </p>
 ---
 
-Ondřej Profant (2. května 1988) je předseda krajského [sdružení v Praze][] a poslanec zvolený za Pirátskou stranu. Byl členem přípravného výboru České pirátské strany.
+Ondřej Profant (2. května 1988) byl v letech 2017–2021 poslanec za Prahu zvolený za Pirátskou stranu. Byl členem přípravného výboru České pirátské strany.
 
 ### Motivace
 
@@ -53,7 +52,6 @@ Z dopravních prostředků preferuje kolo. Rád čte satirickou fantasy. Má rá
 
 > „Jen ten, kdo je zaslepen lakotou, nenechá přítele kopírovat.“ -- *Aaron Swartz*.
 
-[sdružení v Praze]: https://praha.pirati.cz
 [Otevřená města]: http://otevrenamesta.cz
 [Supervizor]: http://data.mfcr.cz/supervizor/
 [otevřených dat]: http://opendata.praha.eu
