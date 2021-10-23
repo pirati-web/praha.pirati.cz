@@ -5,7 +5,6 @@ fullname: Jaromír Beránek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
-- pks
 - vybor
 img: people/jaromir-beranek.jpg    # 165 x 220
 profilebadge: people/badge/08-beranek.jpg
