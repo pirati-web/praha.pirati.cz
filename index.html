@@ -1,13 +1,10 @@
 ---
 layout: default
 ---
-{% capture imgPath %}{% asset "praha-13.jpg" @path %}{% endcapture %}
-{% assign imgPath = imgPath | absolute_url %}
 
-{% include hero/simple.html headline="Piráti Praha 13" description="Makáme v opozici. Držíme směr!" bgImg=imgPath %}
 
 <div class="container container--default pt-4 lg:pb-24">
-  {% include homepage/news.html title="Co se děje v Praze 13:" %}
+  {% include homepage/news.html title="Co se děje v Praze" %}
   {% include homepage/calendar.html %}
   {% include homepage/social.html %}
 </div>
