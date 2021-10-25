@@ -3,7 +3,7 @@ date:         2020-07-22
 tags:         
  - informatika
 title:        "Hlavní město podepsalo memorandum s ministerstvem vnitra. Propojí Portál Pražana s Portálem občana"
-image: posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

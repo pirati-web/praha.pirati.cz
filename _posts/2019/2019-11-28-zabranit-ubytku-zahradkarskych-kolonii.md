@@ -2,7 +2,7 @@
 date:         2019-11-28
 tags:         životní-prostředí
 title:        "Tomáš Murňák: musíme zamezit úbytku zahrádkářských kolonií"
-image: posts/murnak-9.jpg
+image: 	      murnak-9.jpg
 author:       Tomáš Murňák
 ---
 

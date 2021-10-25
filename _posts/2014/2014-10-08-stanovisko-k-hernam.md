@@ -3,7 +3,7 @@ title:	Regulace či zákaz heren?
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image: posts/herny.jpg
+image:	herny.jpg
 tags:	herny
 date:	2014-10-08
 ---

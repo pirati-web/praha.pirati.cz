@@ -3,7 +3,7 @@ title:	Pražští Piráti vyzvali TOP09 k jednání o koalici proti Březinovi a
 layout:	post
 category:	blog
 author:	Jakub Michálek, Ondřej Profant
-image: posts/zastupitelstvo5.jpg
+image:	zastupitelstvo5.jpg
 tags:	územní-plán koalice piráti
 date:	2015-12-07
 ---

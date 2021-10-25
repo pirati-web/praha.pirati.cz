@@ -4,7 +4,7 @@ category:     blog
 tags:         zhmp
 layout:       post
 title:        "Piráti k zasedání pražského zastupitelstva: zbytečná silnice za miliardy" 
-image: posts/z26.jpg
+image:        z26.jpg
 author:       Adam Zábranský
 ---
 

@@ -4,7 +4,7 @@ category: blog
 title: "Praha pokračuje v modernizaci škol. Studenti se dočkají nových specializovaných učeben a laboratoře"
 date: 2019-07-03
 author: "Vít Šimral"
-image: posts/vitsimral2.jpg
+image: vitsimral2.jpg
 tags: školství
 ---
 

@@ -4,7 +4,7 @@ category: blog
 title: "Michálek: Ubytovací poplatky? – AirBnB proklouzlo kvůli ODS a ANO mezi prsty. Praha mohla mít víc, město bude tratit desítky milionů"
 date: 2019-06-19
 author: "Jakub Michálek"
-image: posts/michalek9.jpg
+image: michalek9.jpg
 tags: turistika praha legislativa
 ---
 

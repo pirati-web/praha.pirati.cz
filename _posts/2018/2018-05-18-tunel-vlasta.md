@@ -4,7 +4,7 @@ category:     blog
 tags:         doprava
 layout:       post
 title:        "Tunel Vlasta (Blanka 2) bude!" 
-image: posts/blanka2.jpg
+image:        blanka2.jpg
 author:       Viktor Mahrik
 ---
 

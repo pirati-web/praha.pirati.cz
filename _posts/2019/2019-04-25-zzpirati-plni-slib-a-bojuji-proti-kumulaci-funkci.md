@@ -5,7 +5,7 @@ title: >-
   Piráti plní slib a bojují proti kumulaci funkcí, tak jak avizovali v povolební strategii. 2 uvolněné zastupitele nahradili další v pořadí
 date: '2019-04-25 00:01am'
 author: Mediální odbor
-image: posts/arden-kos.jpg
+image: arden-kos.jpg
 tags: praha transparentnost
 ---
 

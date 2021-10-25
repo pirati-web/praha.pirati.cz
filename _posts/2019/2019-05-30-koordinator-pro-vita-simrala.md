@@ -4,7 +4,7 @@ category: blog
 title: "Volné místo na pirátské palubě: Koordinátor pro radního Víta Šimrala"
 date: 2019-05-23
 author: "Jan Loužek"
-image: posts/vitsimral2.jpg
+image: vitsimral2.jpg
 tags: inzerát
 ---
 

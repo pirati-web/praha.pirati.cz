@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-1
 layout:       post
 title:        "Vyzýváme TOP 09: Zbavte se Lomeckého"
-image: posts/hrib3.jpg
+image:        hrib3.jpg
 author:       Zdeněk Hřib
 ---
 

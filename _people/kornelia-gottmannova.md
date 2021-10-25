@@ -18,7 +18,6 @@ profiles:
   facebook:  
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Kornélia Gottmannová** (* 24. června 1972) je absolventkou VŠCHT Praha, obor Fyzikální chemie. Během své desetileté manažerské praxe pracovala na různých úrovních řízení: od vedoucího malého týmu po úroveň B-1. Má zkušenosti z managementu provozních i obchodních týmů v různých oborech průmyslu a obchodu (olejářský průmysl, logistika, odpadové hospodářství). Od roku 2006 pracuje v oblasti rozvoje lidí jako lektor, kouč a konzultant. Ve výběrovém řízení byla zvolena do dozorčí rady společnosti Pražské služby a.s.

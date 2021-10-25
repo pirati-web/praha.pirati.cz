@@ -3,7 +3,7 @@ date:         2020-07-23
 tags:         
  - školství
 title:        "Praha nesouhlasí s plánovaným zrušením dětských skupin: zásadně by to ohrozilo návrat rodičů do práce"
-image: posts/vitsimral3.jpg
+image: 	      vitsimral3.jpg
 author:       MHMP
 ---
 

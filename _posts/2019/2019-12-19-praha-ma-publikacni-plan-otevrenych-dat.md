@@ -2,7 +2,7 @@
 date:         2019-12-19
 tags:         open-data
 title:        "Praha má první publikační plán otevřených dat"
-image: posts/opendata5.jpg
+image: 	      opendata5.jpg
 author:       MHMP
 ---
 

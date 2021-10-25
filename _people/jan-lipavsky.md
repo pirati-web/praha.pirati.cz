@@ -4,7 +4,6 @@ name:                           Jan Lipavský  	# běžně používáné jméno
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - rp
-- pos
 img: 		people/jan-lipavsky.jpg    # 165 x 220
 description: poslanec    	        			# kratký popis, max 160 znaků
 mail:
@@ -16,10 +15,9 @@ profiles:
   twitter: 
   flickr: 
 ordpos: 5
-heroImg: banner-default.jpg  
 ---
 
-Jan Lipavský (* 2. července 1985) je pirátský poslanec za Prahu, člen republikového výboru a zahraničního odboru. Jan žije na Praze 6, ze které také pochází. Mezi jeho hlavní oblasti zájmu patří mezinárodní politika, Evropská politika a otázky bezpečnosti.
+Jan Lipavský (* 2. července 1985) byl v letech 2017–2021 pirátský poslanec za Prahu, člen republikového výboru a zahraničního odboru. Jan žije na Praze 6, ze které také pochází. Mezi jeho hlavní oblasti zájmu patří mezinárodní politika, Evropská politika a otázky bezpečnosti.
 
 Vystudoval bakalářský obor Mezinárodní teritoriální studia (Univerzita Karlova, Fakulta sociálních věd – Institut mezinárodních studií). Absolvoval dvousemestrální pobyt na University of Kent v rámci studijního programu ERASMUS.
 

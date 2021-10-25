@@ -19,7 +19,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Pavel Hájek** (*30. září 1983) je člen místního sdružení Pirátů na Praze 10 a člen výboru pro výchovu a vzdělávání v ZHMP

@@ -16,7 +16,6 @@ profiles:
   facebook: https://www.facebook.com/filip.ryant
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Filip Ryant** (* 1984) kandiduje do zastupitelstva městské části Praha 13 pod společnou vlajkou Pirátů a Zelených. Sám je členem Strany zelených. Povoláním je web developer.

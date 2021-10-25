@@ -18,19 +18,18 @@ asistenti:
     position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: kristyna.nouzakova@praha.eu
     tel: <!--Není na webu praha.eu uveden-->
-  - name: Lucie Charvátová
-    position: poradkyně pro oblast sportu a volného času <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: lucie.charvatova@praha.eu
-    tel: <!--Není na webu praha.eu uveden-->
-  - name: Prokop Laichter
-    uid: prokop.laichter
-    position: asistent <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: prokop.laichter@praha.eu
-    tel: 236 00 2944
-  - name: Helena Barkmannová
-    <!--uid: helena.barkmannova-->
+  - name: Barbora Stárková
+    position: asistentka<!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
+    mail: barbora.starkova@praha.eu
+    tel: 236 002 944
+  - name: Kamila Bílá
+    position: komunikace s médii <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
+    mail: kamila.bila@praha.eu
+    tel: 774 236 034
+  - name: Helena Barkmanová
+    <!--uid: helena.barkmanova-->
     position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: helena.barkmannova@praha.eu
+    mail: helena.barkmanova@praha.eu
     <!--tel: 236 00 2944-->
 mail:
 - vit.simral@pirati.cz
@@ -45,13 +44,20 @@ ordga: 7
 ordvyb: 31
 redmine: 164
 calendar: erijtgm3jaa14hnr4d5urm37t4@group.calendar.google.com
-heroImg: banner-default.jpg  
 ---
 
-Vít Šimral (9. července 1986, Roudnice nad Labem) je člen Rady hl. m. Prahy s gescí školství, sportu, vědy a podpory podnikání. Je rovněž členem výboru pro evropské záležitosti ZHMP.
+Vít Šimral (9. července 1986, Roudnice nad Labem) je pirátským zastupitelem a radním hlavního města Prahy pro oblast školství, sportu, volného času, vědy, inovací a podpory podnikání. Byl asistentem v Senátu a místopředsedou Pirátů v Praze. Vítek pochází z Roudnice nad Labem.
 
-Vystudoval politologii, historii, právo, historickou sociologii a ekonometrii na univerzitách v Brně, Praze, Leicesteru a v Lucce. Akademicky se specializuje na otázky financování politiky, transparentního propojení politiky a businessu a business intelligence. V současnosti působí jako výzkumník na Ekonomické fakultě Technické univerzity v Liberci a na Filozofické fakultě Univerzity Hradec Králové.
+Vystudoval politologii, historii, právo, historickou sociologii a ekonometrii na univerzitách v Brně, Praze, Leicesteru a v Lucce, v současné době studuje projektové řízení na ČVUT. Před zvolením do funkce člena Rady hl. m. Prahy působil jako postdoktorand na Ekonomické fakultě Technické univerzity v Liberci a na Filozofické fakultě Univerzity Hradec Králové.
 
-V roce 2017 působil v zastupitelském klubu Pirátů v hl. m. Prahy jako tzv. „stínový zastupitel“. V komunálních volbách v říjnu 2018 byl zvolen zastupitelem hl. m. Prahy, Piráti jej nominovali na člena Rady hl. m. Prahy, do které byl zvolen na ustavujícím zasedání pražského zastupitelstva dne 15. listopadu 2018.
-Mezi jeho zájmy patří běh, divadlo, jazz a literatura. Je celoživotním skautem.
+Ve volebním období 2013-2017 byl odborným mluvčím Rekonstrukce státu pro novelizaci zákonů týkajících se financování politických stran a kampaní. Rekonstrukci státu také zastupoval na Pracovní komisi k lobbingu Rady vlády pro koordinaci boje proti korupci
+
+V letech 2013-2018 vedl jako hlavní řešitel tři projekty financované z českých a rakouských grantových agentur, na spoluřešitelské úrovni nebo jako kontraktor ve stejném období pracoval na různých výzkumných projektech univerzit v Brně a v Liberci, rakouské Transparency International nebo Evropské komise.
+
+Mezi jeho zájmy patří triatlon, divadlo, jazz a literatura. Je celoživotním skautem.
+
+### Odkazy 
+
+* [Blog Vítka Šimrala jakdalseskolstvim.cz](http://www.jakdalseskolstvim.cz/)
+* [instagramový profil Víta Šimrala](http://www.instagram.com/piratsimral)
 

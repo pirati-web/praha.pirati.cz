@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy
 layout:       post
 title:        "Libeňský most se měl opravovat už dva roky" 
-image: posts/libensky.jpg
+image:        libensky.jpg
 author:       Ondřej Kallasch
 ---
 

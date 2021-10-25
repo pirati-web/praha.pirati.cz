@@ -16,7 +16,6 @@ profiles:
   facebook: 		  https://www.facebook.com/michal.prager
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=michal%20prager
-heroImg: banner-default.jpg  
 ---
 
 **Michal Prager** (* 10. ledna 1981) je od dubna 2018 členem Pirátské strany a aktivním zakladatelem místního sdružení na Praze 14. Pochází z Brandýsa nad Labem-Staré Boleslavi a od roku 1987 žije v Praze přechodně a od roku 2000 trvale. Kandiduje jako lídr na Praze 14 v komunálních volbách v roce 2018.

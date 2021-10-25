@@ -4,7 +4,7 @@ category: CLANKY
 title: "Pirátská solární loď v Praze"
 date: 2017-09-03
 author: Ondřej Profant
-image: posts/solarni-lod.jpg
+image: solarni-lod.jpg
 tags: kampaň
 ---
 

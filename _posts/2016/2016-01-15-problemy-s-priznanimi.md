@@ -3,7 +3,7 @@ title:	Majetkové přiznání Béma a dalších se ztratilo, registr střetu zá
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image: posts/neporadek.jpg
+image:	neporadek.jpg
 tags:	majetková-přiznání magistrát kauzy
 date:	2016-01-15
 ---

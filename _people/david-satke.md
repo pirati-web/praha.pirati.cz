@@ -16,7 +16,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **David Satke** (*3. srpna 1983) je registrovaným příznivcem Pirátské strany a ve straně v současné době nemá žádnou funkci. David pochází z Hodonína a od roku 2003 žije v Praze.

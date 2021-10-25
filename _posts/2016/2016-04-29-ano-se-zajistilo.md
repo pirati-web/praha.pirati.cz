@@ -4,7 +4,7 @@ category:	blog
 tags:	Praha zhmp Karel-Březina
 layout:	post
 title:	"Březina bude předsedou výboru pro majetek, ANO se zajistilo." 
-image: posts/brezina-ludvik.jpg
+image:	brezina-ludvik.jpg
 author:	Mikuláš Ferjenčík, Ondřej Profant, Jan Loužek
 ---
 

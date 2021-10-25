@@ -22,7 +22,6 @@ profiles:
 ordpraha: 13
 ordvyb: 17
 calendar: hannette88%40gmail.com
-heroImg: banner-default.jpg  
 ---
 
 **Aneta Heidlová** (* 04. února 1988) je zastupitelkou hl. m. Prahy a městské části Prahy 9 za Piráty. Je rovněž členkou výboru pro kulturu, turismus a cest. ruch ZHMP. Pochází z obce Dubí, která se nachází v blízkosti Teplic, ale od 9 let žila v Ústí nad Labem, kde také vystudovala jak střední průmyslovou školu chemickou a stavební, tak i vysokou školu Jana Evangelisty Purkyně - obor Aplikovaná Informatika - Informační systémy a získala tak titul Bc. Při studiu na vysoké škole se podílela na mezinárodním projektu INWEST, konkrétně na části RFID (identifikace na rádiové frekvenci).

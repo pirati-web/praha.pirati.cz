@@ -4,7 +4,7 @@ category:	blog
 tags:	Praha zhmp
 layout:	post
 title:	"Zastupitelstvo 16. 6. nepřineslo změnu"
-image: posts/navrh-ondra.jpg
+image:	navrh-ondra.jpg
 author: Ondřej Profant, Jakub Michálek
 ---
 

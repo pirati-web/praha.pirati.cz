@@ -3,9 +3,8 @@ title:	Změny územního plánu jinak
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image: posts/uplan.jpg
-tags:	
- - územní plán
+image:	uplan.jpg
+tags:	územní-plán
 date:	2015-02-16
 ---
 

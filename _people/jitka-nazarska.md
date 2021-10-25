@@ -13,7 +13,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Jitka Nazarská** je členkou Pirátů na Praze 1. Celý svůj život prožila v Praze, nejprve na Žižkově a poté na Jižním Městě. Tam se podílela na vzniku mateřského centra, který rok řídila. V současné době pracuje jako učitelka mateřské školy. V minulosti vedla kurzy pro rodiče a děti, ráda se věnuje práci s lidmi. 

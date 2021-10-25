@@ -17,7 +17,6 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpraha: 
-heroImg: banner-default.jpg  
 ---
 
 **Michaela Beránková** je asistentka předsedy výboru pro legislativu, veřejnou správu a transparentnost, Tomáše Murňáka. Pochází z jižní Moravy. Vystudovala obor Ekologie a ochrana krajiny na Střední odborné škole a gymnáziu ve Starém městě u Uherského Hradiště. Studuje obor speciální pedagogika na Karlově univerzitě v bakalářském studijním programu. 

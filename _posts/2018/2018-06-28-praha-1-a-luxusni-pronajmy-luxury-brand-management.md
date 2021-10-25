@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy praha-1
 layout:       post
 title:        "Praha 1 před volbami uzavírá smlouvy s pochybnou firmou, přijde o desítky milionů" 
-image: posts/bakala.jpg
+image:        bakala.jpg
 author:       Adam Zábranský
 ---
 

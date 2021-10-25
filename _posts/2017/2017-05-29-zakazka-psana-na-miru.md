@@ -4,7 +4,7 @@ category:     blog
 tags:         praha informatika
 layout:       post
 title:        "Zakázka na datové centrum psaná na míru"
-image: posts/dc04.jpg
+image:        dc04.jpg
 author:      Ondřej Profant
 ---
 

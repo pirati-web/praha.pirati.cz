@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Piráti jsou druhou největší stranou v Praze. V obecních volbách se pokusí úspěch zopakovat"
-image: posts/volby.jpg
+image:        volby.jpg
 author:       Adam Zábranský
 ---
 

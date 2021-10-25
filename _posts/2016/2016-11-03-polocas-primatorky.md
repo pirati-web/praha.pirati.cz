@@ -4,7 +4,7 @@ category:     blog
 tags:         Praha
 layout:       post
 title:        "Jakub Michálek k poločasu primátorky Adriany Krnáčové" 
-image: posts/jakub-tiskovka.jpg
+image:        jakub-tiskovka.jpg
 author:       Jakub Michálek
 ---
 

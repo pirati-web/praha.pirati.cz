@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-1
 layout:       post
 title:        "Nadace má podporovat pražské děti, přitom krmí turisty trdelníkem. Kauza stánků na Staroměstském náměstí" 
-image: posts/kafe.jpg
+image:        kafe.jpg
 author:       Adam Zábranský, Jan Loužek
 ---
 

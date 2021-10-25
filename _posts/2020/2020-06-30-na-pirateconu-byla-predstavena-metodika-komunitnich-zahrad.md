@@ -2,7 +2,7 @@
 date:         2020-06-29
 tags:         životní-prostředí
 title:        "Piráti představili metodiku zakládání komunitních zahrad na konferenci PirateCon. Pomůže se založením komunitní zahrady"
-image: posts/zahrady.jpg
+image: 	      zahrady.jpg
 author:       Michaela Beránková
 ---
 

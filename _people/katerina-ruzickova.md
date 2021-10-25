@@ -17,7 +17,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Kateřina Růžičková** je členkou dozorčí rady společnosti Pražská vodohospodářská společnost a.s.

@@ -4,7 +4,7 @@ category: blog
 title: "Rada hl. m. Prahy zjišťuje od městských společností, jak dodržují zákon o svobodném přístupu k informacím"
 date: 2019-07-03
 author: "Adam Zábranský"
-image: posts/adam-zabransky-4.jpg
+image: adam-zabransky-4.jpg
 tags: transparentnost legislativa informace
 ---
 

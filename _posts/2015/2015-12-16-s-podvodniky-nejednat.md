@@ -3,7 +3,7 @@ title:	"Piráti: s podvodníky se nevyjednává"
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image: posts/brezina-nabidka.jpg
+image:	brezina-nabidka.jpg
 tags:	zhmp
 date:	2015-12-16
 ---

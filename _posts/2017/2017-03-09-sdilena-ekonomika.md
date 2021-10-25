@@ -4,7 +4,7 @@ category:     blog
 tags:         ekonomika
 layout:       post
 title:        "Piráti apelují na vládu, chtějí jasná pravidla pro sdílenou ekonomiku." 
-image: posts/prapor.jpg
+image:        prapor.jpg
 author:       Jakub Michálek
 ---
 

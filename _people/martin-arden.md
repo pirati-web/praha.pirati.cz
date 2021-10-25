@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - kontaktni_osoba
 - vybor
-contactType: Kontakt pro občany
+contactType: Kontakt ZK MHMP pro občany Prahy
 img: people/martin-arden.jpg   # 165 x 220
 profilebadge: people/badge/07-arden.jpg
 description: zastupitel hl. m. Prahy<br/> zastupitel s gescemi kultura, nár. menšiny, bydlení     	# kratký popis, max 160 znaků
@@ -26,7 +26,6 @@ ordpraha: 11
 ordvyb: 8
 ordpak: 1
 calendar: pirat.arden@gmail.com
-heroImg: banner-default.jpg  
 ---
 
 Martin Arden (* 29. března 1967) je zastupitel hl. m. Prahy za Piráty. Je rovněž členem výboru pro sociální politiku ZHMP, kulturu a cestovní ruch ZHMP a výboru pro národnostní menšiny ZHMP. U Pirátů je od roku 2012. Je evangelický duchovní a učitel francouzštiny. Pracuje jako poradce pro neziskové organizace. V roce 2005 založil Českou kulturní tiskovou kancelář. Je aktivní uživatel a šiřitel operačního systému Linux.

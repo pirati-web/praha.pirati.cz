@@ -17,7 +17,6 @@ profiles:
   facebook: 		  
   twitter: 		  
   flickr:     		  
-heroImg: banner-default.jpg  
 ---
 
 **Mgr. Jindřich Lechovský** je členem dozorčí rady společnosti Pražská plynárenská a.s.

@@ -3,7 +3,7 @@ title:	Magistrát vypověděl nevýhodnou správcovskou smlouvu, na kterou se pt
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image: posts/vrtbovska-zahrada.jpg
+image:	vrtbovska-zahrada.jpg
 tags:	majetek
 date:	2015-12-09
 ---

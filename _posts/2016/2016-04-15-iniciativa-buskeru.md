@@ -4,7 +4,7 @@ category:	blog
 tags:	Praha busking
 layout:	post
 title:	Výzva pouličním umělcům postiženým pražskou vyhláškou
-image: posts/kytarista.jpg
+image:	kytarista.jpg
 author:	Mikuláš Ferjenčík
 ---
 

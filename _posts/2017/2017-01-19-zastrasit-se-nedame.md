@@ -4,7 +4,7 @@ category:     blog
 tags:         praha kauzy skoduv-palac
 layout:       post
 title:        "Bafuňář Jansta vs Piráti: Zastrašit se nedáme" 
-image: posts/jansta.jpg
+image:        jansta.jpg
 author:       Jakub Michálek
 ---
 

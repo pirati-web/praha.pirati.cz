@@ -17,7 +17,6 @@ profiles:
   facebook: 		  https://www.facebook.com/filip.Miler
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=Filip%20Miler
-heroImg: banner-default.jpg  
 ---
 
 Filip Miler (*2. března 1979) je pirátským zastupitelem na Praze 11. Filip pochází ze Vsetína a od roku 1979 žije v Praze. Vystudoval střední průmyslovou školu elektrotechnickou v Ječné ulici, obor automatizační technika. Prošel několika firmami, kde se věnoval vývoji informačních systémů. V současnosti pracuje jako kontraktor na vývoji informačních systémů pro zahraniční zákazníky. V roce 2014 byl v komunálních volbách zvolen do zastupitelstva městské části Praha 11 za Pirátskou stranu. 

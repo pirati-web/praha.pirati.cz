@@ -3,7 +3,7 @@ title:	České Budějovice poskytly Pirátům smlouvu na SMS jízdenky.
 layout:	post
 category:	blog
 author:	Jan Loužek
-image: posts/budejovice.jpg
+image:	budejovice.jpg
 tags:	sms-jízdenky doprava
 date:	2015-06-22
 ---

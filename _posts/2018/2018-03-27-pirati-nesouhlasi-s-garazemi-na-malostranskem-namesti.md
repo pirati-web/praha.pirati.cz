@@ -4,7 +4,7 @@ category:     blog
 tags:         doprava
 layout:       post
 title:        "Odmítáme podzemní garáže na Malostranském náměstí" 
-image: posts/garaze-mal.jpg
+image:        garaze-mal.jpg
 author:       Adam Zábranský
 ---
 

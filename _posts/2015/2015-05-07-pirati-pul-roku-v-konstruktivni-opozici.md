@@ -3,7 +3,7 @@ title:	Půl roku v konstruktivní opozici. Piráti skládají učty z působení
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image: posts/pirs.jpg
+image:	pirs.jpg
 tags:	opozice Praha zhmp
 date:	2015-05-07
 ---

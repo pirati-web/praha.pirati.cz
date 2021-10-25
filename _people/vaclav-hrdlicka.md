@@ -14,7 +14,6 @@ profiles:
   facebook: 
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Václav Hrdlička** (* 1980) je zastupitelem městské části Praha 13 pod společnou vlajkou Pirátů a Zelených. Sám je členem Pirátů. Povoláním je manažer v telekomunikační společnosti.

@@ -4,7 +4,7 @@ category:     blog
 tags:         praha doprava
 layout:       post
 title:        "Piráti: V Praze by se dalo šlapat, pokud by vedení města chtělo" 
-image: posts/cyklo.jpg
+image:        cyklo.jpg
 author:       Mikuláš Ferjenčík
 ---
 

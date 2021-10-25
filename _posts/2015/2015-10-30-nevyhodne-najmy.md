@@ -3,7 +3,7 @@ title:	Praha tratí stamiliony kvůli neprůhlednému pronajímání kancelář�
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image: posts/cenovyraj.jpg
+image:	cenovyraj.jpg
 tags:	majetek kauzy
 date:	2015-10-30
 ---

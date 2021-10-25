@@ -16,7 +16,6 @@ profiles:
   facebook:  
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Roman Kučera** (* 12. listopadu 1963, Jihlava) je pražský Pirát a kandidát do zastupitelstva městské části Praha 7 za společnou kandidátku Pirátů a Zelených. Programuje, kóduje, píše texty a fotografuje. V Pirátské straně dále pracuje jako člen rozhodčí komise a jako garant programového bodu svoboda projevu. Povoláním je servisní technik.

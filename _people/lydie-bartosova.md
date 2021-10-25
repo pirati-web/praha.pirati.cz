@@ -13,7 +13,6 @@ profiles:
   flickr:
 ordpraha: 
 ordpks: 
-heroImg: banner-default.jpg  
 ---
 
 Lydie Franka Bartošová je vzděláním knihovnice a humanitární pracovnice. V roce 2017 kandidovala v Praze do Parlamentu České republiky s myšlenkou prosazení reformy sociálního bydlení, změnu systému péče o ohrožené děti a jejich rodiny. Je členkou Republikového výboru Pirátů.

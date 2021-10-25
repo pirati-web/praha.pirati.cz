@@ -5,7 +5,7 @@ title: >-
   Padla rada MČ Praha 4; přichází návrat do klientelistických 90. let
 date: '2019-04-24 00:01am'
 author: Piráti Praha 4
-image: posts/svrzeni.jpg
+image: svrzeni.jpg
 tags: praha-4 koalice
 ---
 

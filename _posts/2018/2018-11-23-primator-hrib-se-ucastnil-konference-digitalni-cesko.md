@@ -4,7 +4,7 @@ category:     blog
 tags:         informatika
 layout:       post
 title:        "Primátor hl. m. Prahy Zdeněk Hřib se zúčastnil konference Digitální Česko 2018+"
-image: posts/hrib3.jpg
+image:        hrib3.jpg
 author:       Zdeněk Hřib
 ---
 

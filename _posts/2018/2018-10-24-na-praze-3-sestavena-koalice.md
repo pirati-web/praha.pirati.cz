@@ -4,7 +4,7 @@ category:     blog
 tags:         koaliční-vyjednávání praha-3
 layout:       post
 title:        "Na Praze 3 vzniká koalice Pirátů, TOP 09 a Zelených"
-image: posts/praha3.jpg
+image:        praha3.jpg
 author:       Zdeněk Hřib
 ---
 

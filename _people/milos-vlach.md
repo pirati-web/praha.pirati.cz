@@ -18,7 +18,6 @@ profiles:
   facebook:  
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Miloš Vlach** je členem výboru pro IT a Smart Cities ZHMP. Je rovněž zastupitel na městské části Praha 6. Kromě toho se věnuje Pirátům, audio-vizuální tvorbě, hře Magic the Gathering, kryptoměnám a jiným spekulacím, a pro “ajťáka” z Prahy celkem překvapivě i zemědělství.

@@ -14,7 +14,6 @@ profiles:
   facebook:  
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Zuzana Ujhelyiová** (16. března 1983) je radní městské části Praha 11 a členka Pirátů. Vystudovala SPŠ zeměměřickou a katolickou teologii na Katolické teologické fakultě Univerzity Karlovy. Před rodičovskou dovolenou se profesně věnovala práci v oblasti HR a financí v českých i mezinárodních firmách. O politiku se aktivně zajímá již od mládí, byla členem Mladých sociálních demokratů a následně České strany sociálně demokratické.

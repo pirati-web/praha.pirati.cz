@@ -18,7 +18,6 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpraha: 
-heroImg: banner-default.jpg  
 ---
 
 **Tomáš Vovsík** je poradce pražského primátora, Social Media Manager.

@@ -17,7 +17,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Tomáš Šídlo** je členem dozorčí rady společnosti Technologie hlavního města Prahy a.s. a zastupitelem za Piráty na městské části Praha 6. 

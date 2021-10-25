@@ -1,5 +1,5 @@
 ---
-image: posts/brevnov.jpg
+image:	brevnov.jpg
 tags:	praha-6
 category:	blog
 author:	Jan Lipavský

@@ -3,7 +3,7 @@ title:	ČSSD tají smlouvu s developerem, pro kterého Praha staví tramvaj
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image: posts/obalka.jpg
+image:	obalka.jpg
 tags:	zhmp
 date:	2016-01-21
 ---

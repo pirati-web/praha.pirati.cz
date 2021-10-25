@@ -13,16 +13,11 @@ profilebadge: people/badge/06-horakova.jpg
 description: místopředsedkyně zastupitelského klubu Pirátů<br/> zastupitelka s gescemi sociální věci, zdravotnictví, pohřebnictví   	# kratký popis, max 160 znaků
 descvyb: předsedkyně výboru pro sociální politiku ZHMP
 asistenti:
-  - name: Lucie Horáková
-    uid: lucie.horakova
-    position: asistentka
-    mail: lucie.horakova@praha.eu
-    tel: 236 002 142
-  - name: Tereza Kroužková
-    uid: tereza.krouzkova
+  - name: Sára Dvořáková
+    uid: sara.dvorakova
     position: sekretářka
-    mail: tereza.krouzkova@praha.eu
-    tel: 777 356 139
+    mail: sara.dvorakova@praha.eu
+    tel: 
 mail:
 - eva.horakova@pirati.cz
 mob: +420 727 870 828
@@ -35,7 +30,6 @@ ordpraha: 5
 ordvyb: 7
 redmine: 520
 calendar: ewa.horakowa@gmail.com
-heroImg: banner-default.jpg  
 ---
 
 **Mgr.Eva Horáková** (*1980) je předsedkyně výboru pro sociální politiku ZHMP, zastupitelka hlavního města Prahy a MČ Prahy 5, místopředsedkyně zastupitelského klubu Pirátů na MHMP.

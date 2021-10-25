@@ -4,7 +4,7 @@ category:     blog
 tags:         praha registr-smluv
 layout:       post
 title:        "Každá třetí pražská instituce nedodržuje zákon o registru smluv" 
-image: posts/registr-smluv.jpg
+image:        registr-smluv.jpg
 author:       Adam Zábranský
 ---
 

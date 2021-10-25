@@ -3,7 +3,7 @@ title:	Vendor lock-in pokračuje
 layout:	post
 category:	blog
 author:	Ondřej Profant
-image: posts/magistrat.jpg
+image:	magistrat.jpg
 tags:	projev
 date:	2014-12-05
 ---

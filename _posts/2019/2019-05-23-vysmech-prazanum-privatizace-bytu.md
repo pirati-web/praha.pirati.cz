@@ -4,7 +4,7 @@ category: blog
 title: "Výsměch Pražanům: Spojené síly chtějí rozprodávat městské byty za 23 tisíc Kč za m2 a připravit tak Prahu o stovky milionů korun"
 date: 2019-05-23
 author: "Zastupitelský klub Pirátů"
-image: posts/adam-zabransky-5.jpg
+image: adam-zabransky-5.jpg
 tags: bydlení praha koalice
 ---
 

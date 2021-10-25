@@ -4,7 +4,7 @@ category: blog
 title: "Duben Víta Šimrala: Školy bez plastů i rozvoj inovačních center"
 date: 2019-05-07
 author: "Vít Šimral"
-image: posts/vitsimral2.jpg
+image: vitsimral2.jpg
 tags: praha školství
 ---
 

@@ -3,7 +3,7 @@ title:	Magistrát zničil doklady o vzniku pražských stavebních předpisů
 layout:	post
 category:	blog
 author:	Jakub Michálek, Mikuláš Ferjenčík
-image: posts/stopy.jpg
+image:	stopy.jpg
 tags:	stavební-předpisy koalice kauzy
 date:	2015-09-02
 ---

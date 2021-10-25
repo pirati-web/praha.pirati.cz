@@ -3,7 +3,7 @@ title:	Absurdistán. Praha nevlastní studie ke svým stavbám
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image: posts/blanka2.jpg
+image:	blanka2.jpg
 tags:	Praha doprava
 date:	2016-02-17
 ---

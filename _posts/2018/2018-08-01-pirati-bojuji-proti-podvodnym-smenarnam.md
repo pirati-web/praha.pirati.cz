@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy směnárny
 layout:       post
 title:        Piráti vyhladoví nepoctivé směnárny
-image: posts/hrib-zabransky.jpg
+image:        hrib-zabransky.jpg
 author:       Zdeněk Hřib
 ---
 

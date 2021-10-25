@@ -3,10 +3,8 @@ title:	Otázky Pirátů v kauze Škodův palác
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image: posts/kaceri.jpg
-tags:	
- - kauzy
- - Škodův palác
+image:	kaceri.jpg
+tags:	kauzy skoduv-palac
 date:	2015-04-08
 ---
 

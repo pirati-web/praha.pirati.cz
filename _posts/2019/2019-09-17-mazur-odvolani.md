@@ -2,7 +2,7 @@
 date:         2019-09-17
 tags:         praha-5
 title:        "Audit dal Pirátům za pravdu u podezřelých zakázek, a proto na Městské části Praha 5 končí"
-image: posts/mazur2.jpg
+image: 	      posts/mazur2.jpg
 author:       Daniel Mazur
 ---
 

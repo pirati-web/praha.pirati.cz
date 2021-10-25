@@ -3,7 +3,7 @@ title:	Projekt turistika v Praze
 layout:	post
 category:	blog
 author:	Alexandra Herzog
-image: posts/staromak.jpg
+image:	staromak.jpg
 tags:	Praha
 date:	2015-07-12
 ---

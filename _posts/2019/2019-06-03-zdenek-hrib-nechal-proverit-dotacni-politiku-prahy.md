@@ -4,7 +4,7 @@ category: blog
 title: "Primátor Hřib nechal prověřit dotační politiku Prahy"
 date: 2019-05-23
 author: "MHMP"
-image: posts/8hrib.jpg
+image: 8hrib.jpg
 tags: dotace praha
 ---
 

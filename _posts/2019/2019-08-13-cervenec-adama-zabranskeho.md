@@ -2,7 +2,7 @@
 date:         2019-08-13
 tags:         praha bydlení
 title:        "Analýza IPRu o neobsazených bytech a seznam nebytových prostor ve vlastnictví metropole: Červenec Adama Zábranského."
-image: posts/adam-zabransky-5.jpg
+image: 	      posts/adam-zabransky-5.jpg
 author:       Adam Zábranský
 ---
 

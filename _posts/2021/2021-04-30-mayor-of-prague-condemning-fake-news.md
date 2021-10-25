@@ -1,0 +1,22 @@
+---
+date:         2021-04-30
+tags:         
+- english
+title:        "Terrorist Attack in the Czech Republic: Mayor of Prague Zdeněk Hřib Condemns Czech President's Speech"
+image: 	      8hrib.jpg
+author:       MHMP
+---
+
+On the 17th April, the Czech government announced that the two Russian spies accused of a nerve agentpoisoning in the UK in 2018 were also behind the 2014 arms depot explosions in the Czech Republic. Theexplosions killed two people and caused material costs in the value of more than 1 billion Czech Crown (40 million Euro). According to the Mayor of Prague Zdeněk Hřib, the Czech president Miloš Zeman disseminatedfake news in his address to the nation which weakened the Czech position and strengthened Russia’s denialof responsibility.
+
+The Czech Republic as an EU member state has been facing an unprecedented challenge. The act of terrorismwith two fatalities was committed on its land by agents of the secret services of the Russian Federation (GRU). The Czech Republic subsequently expelled 18 Russian agents who were working at the embassy in Prague asdiplomats. Russia then expelled 20 employees of the Czech embassy in Moscow without accusing them of anywrongdoing. Both countries announced further expulsions of staff from both embassies.
+
+The Czech president Miloš Zeman refrained from commenting on the case for more than a week. In his officialaddress to the nation last Sunday, he disseminated a number of speculations and caused confusion. Forinstance, he announced that the police are pursuing two lines of inquiry, instead of one. Apart from the oneannounced by the government, he also announced another line of inquiry based on the mishandling ofammunition by the members of staff involved. In his speech, Zeman also repeatedly suggested thatrepresentatives of the company, whose employees died in the attack could be involved in the attack. Despitethe fact that the police has not accused them of any wrongdoing.
+
+In reaction to Zeman’s speech, Russian media immediately reported that the Czech Republic had admitted thepossibility that Russian agents had not been involved. Russian foreign minister Sergey Lavrov and otherrepresentatives of the Russian government have been using Zeman’s claims to diminish the Czech revelationson Russian involvement in the explosions. Zeman has also sparked domestic conspiracy theories doubting theRussian involvement in the explosions. The Czech prime minister as well as the minister of interior andmembers of the parliamentary committee on security have denied the specualtions and confirmed that thepolice are working only with one line of inquiry – that of Russian secret agents involvement. The police hasdropped the second line of inquiry mentioned by Zeman already in December 2014.
+
+The mayor of Prague Zdeněk Hřib strongly condemns Zeman’s actions. “The role of the president is to defendand protect the interests of the Czech Republic. By his speech, the president clearly undermined the interestsof his own country and created confusion which was then used by Russian representatives to discredit theCzech revelations. This is yet another in a long-term series of actions by president Zeman wherein he defends Russian interests rather than interests of the Czech Republic, the EU and our other allies. Moreover, adissemination of confusion, fake news, ‘alternative’ explanations of events and downplaying independentinvestigation are typical tools of hybrid information war. Unfortunately, president Zeman decided to use thistechnique when addressing the Czech people.
+
+> ”Back in 2018 for instance, president Zeman created confusion after the Scripal poisoning by saying that thenovichok poison has been developed in the Czech Republic. By this claim he diminished the allegation thatRussia was behind the Salisbury poisoning, instead he allowed for speculations that his own country wasinvolved in the attack. President Zeman and his cronies have been known for close ties with Russia.
+
+> “It is not acceptable that the president uses his favouritism towards Russia when the Czech Republic is underthis unprecedented challenge. I completely trust the work of our security services, the Police of the CzechRepublic and other institutions involved in the independent investigation. I also support the strict andappropriate reaction of the Czech Ministry of Foreign Affairs and appreciate the support of our internationalallies. The representatives of the Czech Republic shouldn’t allow Russia to diminish our sovereignty byservility.” says Zdeněk Hřib.

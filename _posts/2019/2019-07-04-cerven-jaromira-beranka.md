@@ -4,7 +4,7 @@ category: blog
 title: "Červen Jaromíra Beránka: Dobíjecí stanice pro elektromobily, metro D a pražský inovační maraton"
 date: 2019-07-04
 author: "Jaromír Beránek"
-image: posts/jaromir-beranek2.jpg
+image: jaromir-beranek2.jpg
 tags: informatika 
 ---
 

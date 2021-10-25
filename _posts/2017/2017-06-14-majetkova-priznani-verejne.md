@@ -4,7 +4,7 @@ category:     blog
 tags:         kontrolní-výbor transparentnost
 layout:       post
 title:        "Majetková přiznání na web, žádá zítřejší zastupitelstvo kontrolní výbor a Piráti" 
-image: posts/michalek2.jpg
+image:        michalek2.jpg
 author:       Jakub Michálek
 ---
 

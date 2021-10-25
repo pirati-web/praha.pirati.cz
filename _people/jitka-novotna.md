@@ -15,7 +15,6 @@ profiles:
   facebook:    https://www.facebook.com/jitka.novotna.7528
   twitter:   https://twitter.com/__jitka__
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Jitka Novotná** (* 1989) je Pirátka z Prahy 8. Studovala na matematickém gymnáziu v Bílovci a následně Matfyz, obor informatika, zaměření diskrétní modely a algoritmy. Následně pracovala jako testerka v SUSE Linuxu a studovala doktorát na ČVUT. Organizovala předvolební PirateCon a pomáhala v kampani do poslanecké sněmovny v roce 2017. Nyní se věnuje především technickému odboru Pirátů a dění na Praze 8.

@@ -3,7 +3,7 @@ title:	Shrnutí květnového zasedání zastupitelstva
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image: posts/magistrat.jpg
+image:	magistrat.jpg
 tags:	zhmp
 date:	2015-06-06
 ---

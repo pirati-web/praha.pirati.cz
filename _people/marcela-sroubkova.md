@@ -14,7 +14,6 @@ profiles:
   facebook: https://www.facebook.com/marcela.sroubkova 
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 Marcela Šoubková (* 5. 2. 1987) byla jeden z koordinátorů dobrovolníků pro Prahu. Vystudovala Management obchodních činností a Ekonomiku a management na ZČU v Plzni. Za svou pracovní kariéru mimo jiné nasbírala zkušenosti jako asistentka, analytik, projektový manažer ICT projektů, nebo kuchař.

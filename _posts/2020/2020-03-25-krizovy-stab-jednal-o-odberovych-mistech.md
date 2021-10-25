@@ -2,7 +2,7 @@
 date:         2020-03-25
 tags:         zdravotnictví bezpečnost koronavirus
 title:        "Krizový štáb hl. m. Prahy jednal o odběrových místech, o dětských skupinách, ochranných prostředcích a také o pomoci osobám bez domova"
-image: posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 

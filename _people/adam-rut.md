@@ -17,7 +17,6 @@ profiles:
   flickr:
 ordpraha: 
 calendar: 
-heroImg: banner-default.jpg  
 ---
 
 **MgA. Adam Rut** (* 5. května 1986) je členem Pirátské strany a předseda zastupitelského klubu Piráti na Praze 5. Adam pochází z Prahy, ve které také žije. Od začátku roku 2019 působí jako asistent pro transparentnost radního Adama Zábranského. Předtím pracoval několik let jako analytik a projektový manažer v Otevřené společnosti (jedna z garantských organizací Rekonstrukce státu), kde se také zabýval právem na informace (zejména Infozákonem a registrem smluv). Zajímají ho témata otevřené radnice, účasti veřejnosti na rozhodování, fungování radničního tisku i efektivita a transparentnost hospodaření.

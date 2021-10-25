@@ -3,7 +3,7 @@ title:	Trojkoalice omezila diskusi a odmítla protikorupční opatření
 layout:	post
 category:	blog
 author:	Jakub Michálek, Adam Zábranský
-image: posts/proti-cenzure.jpg
+image:	proti-cenzure.jpg
 tags:	kontrolní-výbor transparentnost
 date:	2015-05-28
 ---

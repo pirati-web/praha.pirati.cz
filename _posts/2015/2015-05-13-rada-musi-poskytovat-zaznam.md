@@ -3,7 +3,7 @@ title:	Úspěch Pirátů. Rada jim musí poskytovat záznamy ze svého jednání
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image: posts/zaznam.jpg
+image:	zaznam.jpg
 tags:	transparentnost zhmp informace
 date:	2015-05-13
 ---

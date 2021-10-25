@@ -4,7 +4,7 @@ category:     blog
 tags:         rozhvory
 layout:       post
 title:        "Trafiky vyhovují všem stranám u moci, říká Pirát Zábranský" 
-image: posts/adamzabransky.jpg
+image:        adamzabransky.jpg
 author:       Adam Zábranský, Neovlivní
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         piráti
 layout:       post
 title:        "Staň se stínovým pirátským zastupitelem" 
-image: posts/zastupitele.jpg
+image:        zastupitele.jpg
 author:       Jan Loužek
 ---
 

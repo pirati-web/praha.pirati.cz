@@ -5,7 +5,7 @@ title: >-
   Piráti jdou příkladem: Vladimír Šraier vyvodil osobní odpovědnost za pořízení služebního telefonu a rezignoval na post v dozorčí radě Trade Centre Praha, a. s.
 date: '2019-05-06 00:01am'
 author: Piráti Praha
-image: posts/sraier.jpg
+image: sraier.jpg
 tags: dozorčí-rady 
 ---
 

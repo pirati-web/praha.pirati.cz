@@ -3,7 +3,7 @@ title:	Staňte se pirátským koordinátorem dobrovolníků!
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image: posts/bxl.jpg
+image:	bxl.jpg
 tags:	inzerát
 date:	2015-10-07
 ---

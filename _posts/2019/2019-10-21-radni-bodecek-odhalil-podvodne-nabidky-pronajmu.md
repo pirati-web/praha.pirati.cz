@@ -2,7 +2,7 @@
 date:         2019-10-21
 tags:         praha-1 piráti
 title:        "Radní Bodeček pomohl s odhalením podvodných nabídek pronájmu na Praze 1"
-image: posts/david-bodecek.jpg
+image: 	      david-bodecek.jpg
 author:       MHMP
 ---
 

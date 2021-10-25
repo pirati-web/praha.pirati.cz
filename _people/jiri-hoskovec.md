@@ -6,7 +6,6 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
-- dr
 img: people/jiri-hoskovec.jpg   # 165 x 220
 description: vedoucí oddělení poradců primátora, zástupce Mediálního odboru Pirátů, zastupitel na Praze 6      	# kratký popis, max 160 znaků
 mail:
@@ -18,7 +17,6 @@ profiles:
   facebook:
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Jiří Hoskovec** (*1992) je vedoucí poradců pražského primátora. Je rovněž i zástupcem pro management mediálního odboru. Je zastupitelem na Praze 6, která je také jeho domovským místním sdružením.

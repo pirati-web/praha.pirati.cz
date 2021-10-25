@@ -2,7 +2,7 @@
 date:         2019-03-17
 tags:         praha bydlení
 title:        "Hlavní město porušovalo při pronajímání bytů zákon. Radnice to nyní napravila"
-image: posts/adam-zabransky-3.jpg
+image: 	      posts/adam-zabransky-3.jpg
 author:       Adam Zábranský
 ---
 

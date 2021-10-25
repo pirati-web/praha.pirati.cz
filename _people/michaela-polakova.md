@@ -17,7 +17,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Michaela Poláková** je členkou dozorčí rady společnosti Pražské vodohospodářské společnosti a.s. Zvítězila ve výběrovém řízení uskutečněném Piráty.

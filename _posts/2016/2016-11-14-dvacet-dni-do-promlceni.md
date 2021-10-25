@@ -4,7 +4,7 @@ category:     blog
 tags:         Praha
 layout:       post
 title:        "Do promlčení kauzy Opencard zbývá 20 dní" 
-image: posts/hodiny.jpg
+image:        hodiny.jpg
 author:       Mikuláš Ferjenčík
 ---
 

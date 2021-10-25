@@ -5,7 +5,7 @@ title: >-
   Michal Špaček promluví o řešeních a problémech sociálních sítí
 date: '2019-04-25 00:01am'
 author: Zdeněk Zchar
-image: posts/novepice.jpg
+image: novepice.jpg
 tags: informatika
 ---
 

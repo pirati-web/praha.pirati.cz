@@ -4,7 +4,7 @@ category:     blog
 tags:         doprava kauzy
 layout:       post
 title:        "Piráti varují před společným podnikem Dopravního podniku s Pentou k metru D" 
-image: posts/pimp2.jpg
+image:        pimp2.jpg
 author:       Zdeněk Hřib
 ---
 

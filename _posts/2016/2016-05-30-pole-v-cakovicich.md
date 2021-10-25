@@ -4,7 +4,7 @@ category:	blog
 tags:	majetek kauzy Karel-Březina
 layout:	post
 title:	"Kauza Březina, spekulace, nebo spekulace s pozemky?" 
-image: posts/karel-brezina-naklani.jpg
+image:	karel-brezina-naklani.jpg
 author:	Mikuláš Ferjenčík
 ---
 

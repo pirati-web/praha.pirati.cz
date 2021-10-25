@@ -4,7 +4,7 @@ category: blog
 title: "Radou Prahy 4 prošel pirátský návrh na ztransparentnění veřejných zakázek"
 date: 2019-04-03
 author: "Piráti Praha 4"
-image: posts/praha4.jpg
+image: praha4.jpg
 tags: transparentnost 
 ---
 

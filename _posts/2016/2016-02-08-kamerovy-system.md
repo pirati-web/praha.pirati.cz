@@ -3,7 +3,7 @@ title:	Nechceme Velkého bratra v Praze
 layout:	post
 category:	blog
 author:	Ondřej Profant, Adam Zábranský
-image: posts/kamery.jpg
+image:	kamery.jpg
 tags: kamery
 date:	2016-02-08
 ---

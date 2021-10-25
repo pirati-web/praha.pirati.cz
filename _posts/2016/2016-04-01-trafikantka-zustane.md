@@ -4,7 +4,7 @@ category:	blog
 tags:	magistrát open-source trafiky
 layout:	post
 title:	Trafikantka zůstane v dozorčí radě, v pražských školách se začně zavádět otevřený software
-image: posts/monika-karel.jpg
+image:	monika-karel.jpg
 author:	Jakub Michálek, Adam Zábranský
 ---
 

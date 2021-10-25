@@ -17,7 +17,6 @@ profiles:
   facebook: 
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Jiří Belšán** je koordinátor dobrovolníků odpovědný za administraci členských přihlášek a technickou podporu akcí pořádaných v Pirátském centru.

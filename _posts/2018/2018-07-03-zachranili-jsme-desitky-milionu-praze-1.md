@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-1 majetek
 layout:       post
 title:        "Pirátům se podařilo zastavit nevýhodné pronájmy, Praha 1 nepřijde o desítky milionů" 
-image: posts/bakala.jpg
+image:        bakala.jpg
 author:       Adam Zábranský, David Bodeček
 ---
 

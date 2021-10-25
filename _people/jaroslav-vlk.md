@@ -17,12 +17,11 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Jaroslav Vlk** je členem dozorčí rady společnosti Pražská plynárenská distribuce a.s.
 
-Vystudoval ekonomickou fakultu VŠB – technické univerzity v Ostravě. Jaroslav má zkušenosti z různých ekonomických pozic jak z veřejného, tak ze soukromého sektoru. Po studiích začal pracovat v Praze v oblasti financí jako analytik a později ve finančním managementu státem ovládané společnosti. Následně pracoval pro zpravodajské složky ČR v oblasti ochrany ekonomických zájmů ČR, mj. v oblasti státem ovládaných aktiv. Od roku 2017 je konzultantem a analytikem v oblasti audit & assurance a AML (anti money laundering). V této oblasti je rovněž poradcem kanceláře primátora hlavního města Prahy.
+Vystudoval ekonomickou fakultu VŠB – technické univerzity v Ostravě. Jaroslav má zkušenosti z různých ekonomických pozic jak z veřejného, tak ze soukromého sektoru. Po studiích začal pracovat v Praze v oblasti financí jako analytik a později ve finančním managementu státem ovládané společnosti. Následně pracoval pro zpravodajské složky ČR v oblasti ochrany ekonomických zájmů ČR, mj. v oblasti státem ovládaných aktiv. Od roku 2017 je konzultantem a analytikem v oblasti audit & assurance a AML (anti money laundering). 
 
 ### Další informace
 

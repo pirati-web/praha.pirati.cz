@@ -18,7 +18,6 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpraha: 
-heroImg: banner-default.jpg  
 ---
 
 **Adéla Cinkaničová**  se narodila v Praze v roce 1988. Vystudovala Českoslovanskou akademii obchodní v Resslově ulici. Má za sebou více jak desetiletou praxi z malých i velkých firem, především v oblasti HR a projektového řízení. Ve volném čase čte nebo cestuje. Také se aktivně zabývá jógou a osobním rozvojem.

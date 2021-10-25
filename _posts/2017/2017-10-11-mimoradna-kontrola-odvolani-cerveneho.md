@@ -4,7 +4,7 @@ category:     blog
 tags:         hrbitovy
 layout:       post
 title:        "Kontrolní výbor doporučil mimořádnou kontrolu správy hřbitovů a nesouhlasí s utajením posudku před zastupiteli"
-image: posts/michalek-mikrofon.jpg
+image:        michalek-mikrofon.jpg
 author:       Jakub Michálek
 ---
 

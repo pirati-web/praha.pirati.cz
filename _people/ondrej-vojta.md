@@ -16,7 +16,6 @@ profiles:
   facebook:  https://www.facebook.com/OndrejVojta.Pirati/
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Ondřej Vojta** (* 20. května 2000) je člen České pirátské strany. Žije v Petrovicích a působí v rámci akčního týmu Pirátů na Praze 15. Je členem komise prevence kriminality rady hl. m. Prahy, také členem povodňové komise na své MČ. Je studentem multimediální tvorby.

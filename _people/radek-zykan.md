@@ -17,7 +17,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Radek Zykan** je členem dozorčí rady společnosti Trade Centre Praha, a.s.

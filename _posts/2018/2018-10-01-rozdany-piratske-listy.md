@@ -4,7 +4,7 @@ category:     blog
 tags:         kampaň
 layout:       post
 title:        "Pirátské listy v rekordním nákladu rozdává v ulicích Prahy dosud největší počet dobrovolníků"
-image: posts/dobrovolnik.jpg
+image:        dobrovolnik.jpg
 author:       Marcela Šroubková
 ---
 

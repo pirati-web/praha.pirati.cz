@@ -5,7 +5,6 @@ img: 		people/pavel-tauer.jpg    # 165 x 220
 description:            	        			# kratký popis, max 160 znaků
 mail:
 - pavel.tauer@pirati.cz
-heroImg: banner-default.jpg  
 ---
 
 **Pavel Tauer** (*31. prosince 1968) je členem Pirátů od dubna roku 2018. Vyrůstal v Úvalech a od roku 1994 žije v Praze. Na Praze 7 kandiduje za společnou kandidátní listinu Pirátů a Zelených.

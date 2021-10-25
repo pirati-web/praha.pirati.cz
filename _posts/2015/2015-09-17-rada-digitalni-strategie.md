@@ -3,7 +3,7 @@ title:	Rada Prahy schválila kvalitní teze digitální strategie
 layout:	post
 category:	blog
 author:	Ondřej Profant, Adam Zábranský
-image: posts/opendata.jpg
+image:	opendata.jpg
 tags:	informatika zhmp
 date:	2015-09-17
 ---

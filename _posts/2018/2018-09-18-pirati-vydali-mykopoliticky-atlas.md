@@ -4,7 +4,7 @@ category:     blog
 tags:         kampaň
 layout:       post
 title:        "Piráti vydali mykopolitický atlas, aby se voliči neotrávili předvolební kampaní"
-image: posts/mykopoliticky-atlas.jpg
+image:        mykopoliticky-atlas.jpg
 author:       Adam Zábranský
 ---
 

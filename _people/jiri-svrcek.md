@@ -16,7 +16,6 @@ profiles:
   facebook:  
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 Jiří Svrček (* 25. října 1991) pochází z Prahy a od narození žije na pražském Žižkově. Vystudoval Aplikovanou ekologii na fakultě životního prostředí České Zemědělské Univerzity v Praze a v současnosti pokračuje ve studiu na stejné fakultě na oboru Ochrana přírody. V průběhu studia se specializoval na ochranu dřevin a mimolesní zeleně a enviromentální management maloplošných chráněných území. Pracuje u soukromé společnosti jako dendrolog se zaměřením na hodnocení dřevin podél silnic, realizaci náhradních výsadeb a celkovou péči o zeleň.

@@ -2,7 +2,7 @@
 date:         2019-03-12
 tags:         praha
 title:        "Na Nové radnici dnes vlaje vlajka NATO. Slaví i MHD"
-image: posts/vlajka.jpg
+image: 	      posts/vlajka.jpg
 author:       Martina Vacková
 ---
 

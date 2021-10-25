@@ -4,7 +4,7 @@ category:	blog
 tags:	praha-1
 layout:	post
 title:	"Utajené smlouvy Prahy 1. Kdo na nich vydělává?" 
-image: posts/praha1.jpg
+image:	praha1.jpg
 author:	Adam Zábranský
 ---
 

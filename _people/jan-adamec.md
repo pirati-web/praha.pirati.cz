@@ -14,7 +14,6 @@ profiles:
   facebook:     
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Jan Adamec** (* 1977) vystudoval informatiku na Matematicko-fyzikální fakultě Univerzity Karlovy, se zaměřením na 2D/3D grafiku, a začal pracovat jako programátor. Od dětství žil v Praze 4, ale Prahu 12 zná od mala, a od roku 2007 se sem už trvale přestěhoval.

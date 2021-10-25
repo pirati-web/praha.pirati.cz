@@ -4,7 +4,7 @@ category: blog
 title: "Reakce Pirátů na alternativní způsob hlasování na pondělní Radě hl. m Prahy "
 date: 2019-05-22
 author: "Martina Vacková"
-image: posts/hrib-kamera2.jpg
+image: hrib-kamera2.jpg
 tags: zahraničí
 ---
 

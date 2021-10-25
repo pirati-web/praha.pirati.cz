@@ -17,7 +17,6 @@ profiles:
   facebook: 		  
   twitter: 		  
   flickr:     		  
-heroImg: banner-default.jpg  
 ---
 
 **Jakub Veselý** je členem dozorčí rady společnosti Obecní dům a.s.

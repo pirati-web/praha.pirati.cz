@@ -4,11 +4,9 @@ name: Michal Zachar
 fullname: Michal Zachar
 mail: michal.zachar@pirati.cz
 category: 
- - pks
 img: people/michal-zachar.jpg
-description: místopředseda pražského sdružení, vedoucí mediálního týmmu KS Praha
+description: vedoucí mediálního týmu KS Praha
 ordpks: 4
-heroImg: banner-default.jpg  
 ---
 
 Narodil jsem se 17. června 1966 v Hořicích v Podkrkonoší. Od sedmé třídy ZŠ žiju v Praze. Zde jsem na Praze 6 vystudoval Akademické gymnázium Štěpánská. To se v době rekonstrukce přestěhovalo na Prahu 6 (gymnázium Nad Alejí) a tak začal můj vztah. Prahu 6 mám jako druhý domov. Piráti jsou stranou, která je v mém osobním životě silně etablovaná, protože vznikla v den mých narozenin. Takže jsem v roce 2017 spojil do té doby svůj bezpartijní život s Piráty. Jejich ideály jsou v souladu s těmi mými. 

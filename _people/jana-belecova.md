@@ -13,7 +13,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Jana Belecova** (* 11. srpna 1977) je dlouhodobou sympatizantkou Pirátské strany. 

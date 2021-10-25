@@ -16,7 +16,6 @@ profiles:
   facebook: 		  https://www.facebook.com/kos.ladislav
   twitter:
 ordsenat: 3
-heroImg: banner-default.jpg  
 ---
 
 Ladislav Kos (31. května 1958, Praha) je senátor za volební obvod Praha 11, spolunominovaný Pirátskou stranou, bývalý místostarosta Městské části Praha 11 a člen finančního výboru zastupitelstva hlavního města Prahy za Piráty

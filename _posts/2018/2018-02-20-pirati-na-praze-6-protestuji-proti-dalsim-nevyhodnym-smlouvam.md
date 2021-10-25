@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-6
 layout:       post
 title:        "Piráti na Praze 6 protestují proti dalším nevýhodným smlouvám na 30 let" 
-image: posts/solinova.jpg
+image:        solinova.jpg
 author:       Viktor Mahrik
 ---
 

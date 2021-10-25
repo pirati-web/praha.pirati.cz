@@ -4,7 +4,7 @@ category:     blog
 tags:         zhmp
 layout:       post
 title:        "Divoké změny územního plánu a záchrana jednoho volebního obvodu" 
-image: posts/zastupitelstvo37.jpg
+image:        zastupitelstvo37.jpg
 author:       Viktor Mahrik, Jan Loužek, Adam Zábranský
 ---
 

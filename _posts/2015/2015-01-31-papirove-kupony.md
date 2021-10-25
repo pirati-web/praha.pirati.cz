@@ -3,11 +3,8 @@ title:	Papírové kupóny jsou důležitý doplněk Opencard
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image: posts/mhd-prukaz.jpg
-tags:	
- - zhmp
- - opencard 
- - doprava
+image:	mhd-prukaz.jpg
+tags:	zhmp opencard doprava
 date:	2015-01-31
 ---
 

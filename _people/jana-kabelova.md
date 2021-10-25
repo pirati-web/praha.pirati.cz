@@ -13,7 +13,6 @@ profiles:
   facebook:     
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 Jana Kabelová (* 9. dubna 1959 ve Zlíně) je kandidátkou Pirátů do zastupitelstva městské části Praha 6. Vystudovala SPŠ stavební v Brně. Od roku 1983 žije v Praze. Je autorizovaná stavební technička. Pracovala jako projektantka a v posledních 20 letech ve stavebních firmách jako rozpočtářka. Její životní filosofii vystihuje citát z filmu Solaris Andreje Tarkovského: „Honíme se za cíli, které ve skutečnosti vůbec nepotřebujeme. Jediné, co doopravdy potřebujeme, je člověk“. V tom vidí společné východisko i s principy Pirátské strany.

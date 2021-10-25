@@ -18,7 +18,6 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpraha: 
-heroImg: banner-default.jpg  
 ---
 
 **Veronika Kubičková** se narodila v roce 1991 v Písku, kde vystudovala dvojjazyčné francouzské gymnázium – zakončené certifikátem C1. Na Západočeské univerzitě v Plzni pak studovala obor Politologie a mezinárodní vztahy na katedře filozofické (přerušeno ze zdravotních důvodů).

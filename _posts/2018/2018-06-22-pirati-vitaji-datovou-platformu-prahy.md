@@ -4,7 +4,7 @@ category:     blog
 tags:         informatika
 layout:       post
 title:        "Vítáme novou datovou platformu Prahy" 
-image: posts/golemio.jpg
+image:        golemio.jpg
 author:       Adam Zábranský
 ---
 

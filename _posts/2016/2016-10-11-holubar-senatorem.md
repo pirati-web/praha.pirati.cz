@@ -4,7 +4,7 @@ category:        blog
 tags:        Praha
 layout:        post
 title:        "Kandidát do Senátu zneužil osobní údaje svých pacientů pro politickou agitaci" 
-image: posts/dopisy.jpg
+image:        dopisy.jpg
 author:       Adam Zábranský
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         koaliční-vyjednávání
 layout:       post
 title:        "Hřib: Primátor má být Pirát, Čižinskému a Pospíšilovi nabízíme každému po čtyřech radních"
-image: posts/hrib-stab.jpg
+image:        hrib-stab.jpg
 author:       Zdeněk Hřib
 ---
 

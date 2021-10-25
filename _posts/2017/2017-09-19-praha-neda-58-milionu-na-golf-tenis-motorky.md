@@ -4,7 +4,7 @@ category: CLANKY
 title: "Praha nedá 58 milionů dotaci na golf, tenis a motorky"
 date: 2017-09-19T15:20:00+02:00
 author: Jakub Michálek
-image: posts/golf.jpg
+image: golf.jpg
 tags: sport
 ---
 

@@ -13,7 +13,6 @@ profiles:
   facebook: 		  https://www.facebook.com/renata.chmelova.90
   twitter: 		  https://twitter.com/SenatorkaRenata
 ordsenat: 4
-heroImg: banner-default.jpg  
 ---
 
 Renata Chmelová (17. února 1971 v Praze) je senátorka zvolená za volební obvod Praha 10, spolunominovaná Piráty. Střední školu vystudovala na Střední průmyslové škole elektrotechnické na Praze 10. Poté pracovala jako operátorka grafického informačního systému v Útvaru hlavního architekta hl. m. Prahy (předchůdce dnešního Institutu plánování a rozvoje). V letech 1990 až 2009 zastávala různé manažerské pozice. V letech 2011 až 2012 byla výkonnou ředitelkou ekologické organizace Arnika.

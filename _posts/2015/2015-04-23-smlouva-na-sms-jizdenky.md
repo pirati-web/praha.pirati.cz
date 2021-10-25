@@ -3,7 +3,7 @@ title:	"Analýza smlouvy na SMS jízdenky: Praha má právo jednat o slevě"
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image: posts/revize.jpg
+image:	revize.jpg
 tags:	kauzy sms-jízdenky
 date:	2015-04-23
 ---

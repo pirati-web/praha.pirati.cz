@@ -4,7 +4,7 @@ category:     blog
 tags:         doprava libeňský-most
 layout:       post
 title:        "Vyzýváme náměstka Dolínka k rezignaci kvůli současnému stavu pražských mostů" 
-image: posts/ruiny-mostu.jpg
+image:        ruiny-mostu.jpg
 author:       Viktor Mahrik
 ---
 

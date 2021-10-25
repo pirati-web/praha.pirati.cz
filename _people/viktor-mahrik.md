@@ -40,7 +40,6 @@ carousel:
     <p>Předseda zastupitelského klubu Pirátů, člen předsednictva krajského sdružení Pirátů v Praze. </p>
 redmine: 5
 calendar: 2l6sfsk9eeb3qfkuhtfuu44od4%40group.calendar.google.com
-heroImg: banner-default.jpg  
 ---
 
 Viktor Mahrik (* 21. dubna 1982) je předseda zastupitelského klubu Pirátů, člen předsednictva krajského sdružení Praha a místopředseda místního sdružení Praha 6. Je rovněž předsedou výboru pro správu majetku a majetkové podíly ZHMP a členem výboru pro dopravu ZHMP.

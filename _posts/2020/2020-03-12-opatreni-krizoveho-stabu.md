@@ -2,7 +2,7 @@
 date:         2020-03-12 
 tags:         zdravotnictví koronavirus
 title:        "Krizový štáb hl. m. Prahy doporučil opatření pro území hl. m. Prahy"
-image: posts/8hrib.jpg
+image: 	      8hrib.jpg
 author:       MHMP
 ---
 

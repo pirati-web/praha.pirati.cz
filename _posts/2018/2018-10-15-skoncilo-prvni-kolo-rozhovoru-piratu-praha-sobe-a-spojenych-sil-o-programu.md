@@ -4,7 +4,7 @@ category:     blog
 tags:         koaliční-vyjednávání
 layout:       post
 title:        "Skončila první kola schůzek o programu nově se rodící pražské koalice. Žádné zásadní neshody, shodují se lídři Pirátů, PRAHA SOBĚ a Spojených sil pro Prahu"
-image: posts/hrib-cizinsky-pospisil.jpg
+image:        hrib-cizinsky-pospisil.jpg
 author:       Zdeněk Hřib
 ---
 

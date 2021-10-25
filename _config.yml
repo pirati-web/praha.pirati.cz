@@ -1,135 +1,106 @@
 # Welcome to Jekyll!
-#
-# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
-# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
-# technické nastavení
-#
-
-title: Pirátská strana Praha
-email: to@pirati.cz
-description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
-# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: pražský, kraj, praha, piráti, česká pirátská strana, svoboda, demokracie 
-url: "https://praha.pirati.cz" # the base hostname & protocol for your site
-
-#mediaStorage: praha
-
 administrator:
-  email: jitka.novotna@pirati.cz, jan.louzek@pirati.cz
+  email: jan.suchanek@gmail.com
+github:
+  url: https://github.com/pirati-web/praha.pirati.cz/
+  branch: master
+url: "https://praha.pirati.cz"
+
+mediaStorage: praha
+
+title: "Piráti Praha"
+description: "Česká pirátská strana - místní sdružení Praha"
+keywords: "piráti, praha, česká pirátská strana, svoboda, demokracie, piráti v Praze"
 
 organization:
-  name: Pirátská strana Praha
-  shortName: Piráti Praha
-  email: kodo-praha@pirati.cz
-  phone: +420 606 168 306
+  name: "Piráti Praha"
+  email: prahapirati.cz
   address: |
-    Na Moráni 3,
-    120 00 Praha 2
-  residenceImg: kontakt/novepice.jpg
-  mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
-  redmineLink: https://redmine.pirati.cz/projects
+      Na Moráni 3
+      120 00 Praha 2
+  mapLink: https://mapy.cz/s/norubuzado
+  redmineLink: https://redmine.pirati.cz/projects/praha
+  residenceImg:
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
+  donateLink: https://dary.pirati.cz/podpor-kraj/praha/
+  onboardingLink: https://nalodeni.pirati.cz/
 
-# Nastavení zobrazení tabulky kontaktů.
-# Lze využít:
-# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
-# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
   - type: organizationEmail
   - type: organizationRedmineLink
-  - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
 
-organization:
-  name: Pirátská strana Praha
-  shortName: Piráti Praha
-  email: kodo-praha@pirati.cz
-  phone: +420 606 168 306
-  address: |
-    Na Moráni 3,
-    120 00 Praha 2
-  mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
-  redmineLink: https://redmine.pirati.cz/projects
-  dataBoxId: b2i4r6j
-  transparentAccount: 2100048174/2010
-
 calendar:
-  apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
-  id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
-  title: "Celopražský kalendář"
-  page: pripoj-se/kalendar
+  id: b5bl4lv8m2fill0tho6esj2avs@group.calendar.google.com
+  apiKey: AIzaSyDHKIVQI4mPRoXZQv5GGunWlHjuMWGVDfE
+  id: piratzetrinactky@gmail.com  
+  title: "Kalendář Pirátů Prahy"
+  page: "https://calendar.google.com/calendar/embed?src=piratizetrinactky%40gmail.com&ctz=Europe%2FPrague"
 
 facebook:
   loadSDK: true
-  profilePage: "https://www.facebook.com/CeskaPiratskaStranaPraha/"
+  profilePage: "https://www.facebook.com/PiratiPraha/"
+  profilePageName: "Piráti Praha"
   appId: 1526197851008996
-markdown: kramdown
+
+matomo:
+  loadSDK: true
+  siteId: 68
+
+forum:
+  page: https://forum.pirati.cz/viewforum.php?f=791
+
+youtube:
+  channel: UC_zxYLGrkmrYazYt0MzyVlA
 
 twitter:
   loadSDK: true
   profile: piratipraha
 
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+  #profilePage: 
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
-forum:
-  page: https://forum.pirati.cz/viewforum.php?f=78&sid=44b065968620303e7f4058202f146b94  i
+styleguide_base_url: 'https://styleguide.pirati.cz/latest'
 
-github:
-  url: https://github.com/pirati-web/praha.pirati.cz/
-  branch: master
-
-youtube:
-  url: "https://www.youtube.com/channel/UC6zpUdw-MTT1WUBDo4K-nHA/videos" 
-
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-github_username:  pirati-web
-
-sass:
-  style: compressed
-  sass_dir: _sass
+############### SETTINSG #################
 
 theme: jekyll-theme-pirati
 
+# Build settings
 markdown: kramdown
 theme: jekyll-theme-pirati
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-environment-variables
-paginate_path: "/aktuality/:num/"
-paginate: 12
+
+pagination:
+  per_page: 9
+  permalink: '/:num/'
+  title: ':title - stránka :num'
+  trail: 7
 
 exclude:
-  - readme.md
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - docker-compose.yml
   - vendor
 
-permalink: /:title.html
+permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path/
+    permalink: /lide/:path:output_ext
   program:
     output: true
-    permalink: /program/:path/
+    permalink: /volby/:path:output_ext
+
+  # Sole purpose is to create candidate lists in separate files.
   candidatelists:
     output: false
 
@@ -144,46 +115,32 @@ defaults:   # defaults values for collection scope
         - people
   -
     scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
       path: "_program"
     values:
       layout: "program-post"
       rbar:
          - garant
          - program
-  -
-    scope:
-      path: "_posts"
-    values:
-      layout: "post"
-      rbar:
-        - foto
-        - personContact
-        - people
-emptyArray: []
 
 assets:
   source_maps: true
   compression: true
   gzip: false
   plugins:
-    css: { autoprefixer: {}}
     img:
       optim:
         jpegoptim:
           strip: all
           max_quality: 80
-  autoprefixer:
     browsers:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
-    - assets/css
-    - assets/fonts
-    - assets/video
-    - assets/img/posts
-    - assets/snippet
-    - assets/img    
-    - _sass
-
-styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
+    - assets/js
+    - assets/img
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.4/assets/img

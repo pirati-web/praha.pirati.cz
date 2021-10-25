@@ -19,7 +19,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Ivo Slávka** (* 29. září 1966) je člen výboru pro legislativu, veřejnou správu a transparentnost ZHMP. 

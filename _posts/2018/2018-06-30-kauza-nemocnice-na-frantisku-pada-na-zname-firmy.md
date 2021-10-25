@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy praha-1
 layout:       post
 title:        "Kauza Nemocnice Na Františku padá na hlavu “známých firem” z vedení Prahy 1" 
-image: posts/nemocnice-na-frantisku.jpg
+image:        nemocnice-na-frantisku.jpg
 author:       Zdeněk Hřib
 ---
 

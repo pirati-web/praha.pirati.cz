@@ -3,7 +3,7 @@ title:	Rozpočet 2015? Nediskutovat!
 layout:	post
 category:	blog
 author:	Viktor Mahrik
-image: posts/rozpocet.jpg
+image:	rozpocet.jpg
 tags:	rozpočet
 date:	2015-02-18
 ---

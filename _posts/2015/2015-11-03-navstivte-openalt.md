@@ -3,7 +3,7 @@ title:	Tento víkend nabídne Brno ochutnávku svobodné kultury
 layout:	post
 category:	blog
 author:	Jan Loužek
-image: posts/openalt.jpg
+image:	openalt.jpg
 tags:	akce
 date:	2015-11-03
 ---

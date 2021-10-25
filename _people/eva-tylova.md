@@ -19,7 +19,6 @@ profiles:
   facebook:     
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Eva Tylová** (* 12. prosince 1959) je od roku 2014 předsedkyně klubu zastupitelů Piráti, Zelení a LES na Praze 12. Je rovněž členkou výboru pro životní prostředí, infrastrukturu a vybavenost při pražském zastupitelstvu.

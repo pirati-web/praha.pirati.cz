@@ -7,7 +7,7 @@ titles:
 category: 
 - kontaktni_osoba
 img: people/michal-polak.jpg
-contactType: Kontakt média
+contactType: Kontakt krajského sdružení Praha pro média
 img: people/michal-polak.jpg
 contactType: Kontakt pro média
 description: kontaktní osoba pro média (KS Praha)
@@ -19,7 +19,6 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpak: 5
-heroImg: banner-default.jpg  
 ---
 
 **Michal Polák** je kontaktní osobou Pirátů krajského sdružení v Praze pro média.

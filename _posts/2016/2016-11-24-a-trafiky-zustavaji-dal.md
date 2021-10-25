@@ -4,7 +4,7 @@ category:     blog
 tags:         Praha
 layout:       post
 title:        "Piráti: Pražská koalice se rozhodla zachovat politické trafiky" 
-image: posts/trafiky-banner.jpg
+image:        trafiky-banner.jpg
 author:       Adam Zábranský
 ---
 

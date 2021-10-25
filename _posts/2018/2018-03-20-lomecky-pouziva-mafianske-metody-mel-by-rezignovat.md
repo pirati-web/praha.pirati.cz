@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-1
 layout:       post
 title:        "Starosta Prahy 1 Lomecký používá mafiánské metody, měl by rezignovat" 
-image: posts/praha-1.jpg
+image:        praha-1.jpg
 author:       Adam Zábranský
 ---
 

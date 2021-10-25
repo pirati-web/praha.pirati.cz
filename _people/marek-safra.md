@@ -18,7 +18,6 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpraha: 
-heroImg: banner-default.jpg  
 ---
 
 **Marek Šafra** se narodil v roce 1992 v Turnově a do Prahy se přestěhoval v roce 2012.

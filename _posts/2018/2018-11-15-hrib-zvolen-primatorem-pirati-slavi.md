@@ -4,7 +4,7 @@ category:     blog
 tags:         koalice praha
 layout:       post
 title:        "Zdeněk Hřib byl zvolen pražským primátorem. Piráti slaví"
-image: posts/retez.jpg
+image:        retez.jpg
 author:       Zdeněk Hřib
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Promlčeno! Krnáčová nepodala žalobu na Béma včas, i když jí Piráti opakovaně varovali."
-image: posts/nepovedlo.jpg
+image:        nepovedlo.jpg
 author:       Jakub Michálek
 ---
 

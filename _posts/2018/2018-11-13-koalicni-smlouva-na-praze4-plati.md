@@ -4,7 +4,7 @@ category:     blog
 tags:         koalice praha-4
 layout:       post
 title:        "Piráti dementují: Koaliční smlouva v Praze 4 platí"
-image: posts/vansa2.jpg
+image:        vansa2.jpg
 author:       Tibor Vansa
 ---
 

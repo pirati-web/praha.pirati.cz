@@ -4,7 +4,7 @@ category:     blog
 tags:         informatika
 layout:       post
 title:        "Zakázka na míru podruhé – datové centrum Chodovec pod taktovkou velkých IT firem" 
-image: posts/box.jpg
+image:        box.jpg
 author:       Ondřej Profant, Ondřej Kallasch
 ---
 

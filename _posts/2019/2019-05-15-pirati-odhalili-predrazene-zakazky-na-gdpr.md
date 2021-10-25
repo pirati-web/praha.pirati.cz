@@ -4,7 +4,7 @@ category: blog
 title: "Pirátská analýza odhalila předražené zakázky na GDPR"
 date: 2019-05-15
 author: "Štěpán Štrébl"
-image: posts/strebl.jpg
+image: strebl.jpg
 tags: praha kauzy
 ---
 

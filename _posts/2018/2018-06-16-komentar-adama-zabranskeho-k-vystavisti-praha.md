@@ -4,7 +4,7 @@ category:     blog
 tags:         komentář
 layout:       post
 title:        "Transparence v podání Výstaviště Praha – příklad špatné praxe" 
-image: posts/adam-zabransky-2.jpg
+image:        adam-zabransky-2.jpg
 author:       Adam Zábranský
 ---
 

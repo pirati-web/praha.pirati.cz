@@ -4,7 +4,7 @@ category:     blog
 tags:         transparentnost
 layout:       post
 title:        "Kauza miliardové zakázky v TSK je absurdní, je potřeba změnit pravidla pro hospodaření příspěvkových organizací" 
-image: posts/zabransky-2.jpg
+image:        zabransky-2.jpg
 author:       Adam Zábranský
 ---
 

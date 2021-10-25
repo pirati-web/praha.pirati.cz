@@ -4,7 +4,7 @@ category:	blog
 tags:	magistrát
 layout:	post
 title:	ANO vytáhlo z kuchyňky 20 miliónů na účetní systém
-image: posts/penize-primatorka.jpg
+image:	penize-primatorka.jpg
 author:	Ondřej Profant
 ---
 

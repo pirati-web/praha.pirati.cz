@@ -3,7 +3,7 @@ title:	Praha má do ledna zrušit politické trafiky v městských firmách
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image: posts/protest.jpg
+image:	protest.jpg
 tags:	trafiky
 date:	2015-11-05
 ---

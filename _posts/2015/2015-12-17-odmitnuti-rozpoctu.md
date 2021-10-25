@@ -3,7 +3,7 @@ title:	Zastupitelstvo se vzbouřilo proti Březinovu rozpočtu, chce šetřit
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image: posts/vysledek-hlasovani.jpg
+image:	vysledek-hlasovani.jpg
 tags:	zhmp rozpočet
 date:	2015-12-17
 ---

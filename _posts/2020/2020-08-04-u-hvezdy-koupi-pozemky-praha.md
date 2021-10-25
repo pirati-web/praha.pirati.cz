@@ -3,8 +3,8 @@ date:         2020-08-04
 tags:         
  - životní-prostředí
 title:        "Hlavní město Praha kupuje pozemky u Hvězdy, kde majitel usiloval o bytovou výstavbu"
-image: posts/malybrevnov.jpg
-author:       Piráti Praha 6
+image: 	      malybrevnov.jpg
+author:       "Piráti Praha 6"
 ---
 
 Praha, 4. srpna 2020 – Pondělní rozhodnutí Rady hl. m. Prahy definitivně rozseklo letitý problém ohledně využití pozemků u jižní zdi obory Hvězda v ochranném pásmu národní kulturní památky. Územní plán území definuje jako přírodní rekreační plochu, jako rekreační lokalita parkového charakteru jsou pozemky vedeny i v Metropolitním plánu. Území souvisle porostlé vzrostlými dřevinami tvoří pruh mezi zdí a bezejmennou zpevněnou komunikací nad ulicí Moravanů. Majitel pozemků opakovaně žádal o změnu územního plánu s cílem realizovat zde bytovou výstavbu. 

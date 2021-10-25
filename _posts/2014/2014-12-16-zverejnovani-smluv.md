@@ -3,9 +3,8 @@ title:	Zveřejňujme smlouvy lépe
 layout:	post
 category:	blog
 author:	Jan Loužek
-image: posts/dotaz-michalek.jpg
-tags:	
- - zveřejňování smluv
+image:	dotaz-michalek.jpg
+tags:	zveřejňování-smluv
 date:	2014-12-16
 ---
 

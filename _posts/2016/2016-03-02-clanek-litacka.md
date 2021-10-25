@@ -3,7 +3,7 @@ title:	Lítačka je krok správným směrem
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík, Ondřej Profant
-image: posts/litacka.png
+image:	litacka.png
 tags:	doprava
 date:	2016-03-02
 ---

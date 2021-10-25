@@ -2,7 +2,7 @@
 date:         2019-03-31
 tags:         praha zahraničí
 title:        "Primátor Hřib požádal prezidentku Tchaj-wanu o zřízení přímé letecké linky Praha – Tchaj-pei"
-image: posts/taipei2.jpg
+image: 	      posts/taipei2.jpg
 author:       MHMP
 ---
 

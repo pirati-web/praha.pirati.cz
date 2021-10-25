@@ -4,7 +4,7 @@ category:     blog
 tags:         doprava cyklistika
 layout:       post
 title:        "Piráti vyrazili na velkou jarní cyklojízdu" 
-image: posts/cyklojizda.jpg
+image:        cyklojizda.jpg
 author:       Viktor Mahrik
 ---
 

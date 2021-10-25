@@ -2,7 +2,7 @@
 date:         2019-09-25
 tags:         praha-8
 title:        "Piráti z Prahy 8 mají recept, jak rozvíjet Palmovku. Torzo radnice nechtějí prodávat pod cenou"
-image: posts/palmovka.jpg
+image: 	      posts/palmovka.jpg
 author:       Michal Novák, Ivo Slávka
 ---
 

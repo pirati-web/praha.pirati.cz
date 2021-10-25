@@ -17,7 +17,6 @@ profiles:
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=tibor%20vansa
 ordpraha: 9
-heroImg: banner-default.jpg  
 ---
 
 **Tibor Vansa** (* 4. listopadu 1983) je 1. místopředseda Pirátů na Praze 4 a garant programového bodu finance v celostátní politice Pirátů. Vystudoval Matematicko-fyzikální fakultu UK, obor ekonometrie. Pracoval 7 let v bance jako analytik kreditního rizika, kde také připravoval retailový rozpočet banky. Působil jako ambasador Rekonstrukce státu, byl také členem hnutí Brontosaurus a vstoupil také do spolku Idealisté. Pochází z Rychvaldu u Ostravy, žije od dob svých studií v Praze. 

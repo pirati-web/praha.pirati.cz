@@ -3,7 +3,7 @@ title:	Na magistrátu zavlaje duhová vlajka
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image: posts/duhova-vlajka.jpg
+image:	duhova-vlajka.jpg
 tags:	Praha
 date:	2015-07-17
 ---

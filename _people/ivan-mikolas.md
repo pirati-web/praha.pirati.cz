@@ -17,7 +17,6 @@ profiles:
   twitter: 		  
   flickr:		  
 ordpraha: 3
-heroImg: banner-default.jpg  
 ---
 
 Ivan Mikoláš (8. dubna 1965) je zastupitel městské části Prahy 10. Je členem Pirátů na městské části Praha 10. Povoláním je technik a podnikatel. Jako zastupitel se mimo jiné zaměřuje na kontakt s občany. V letech 2017–2018 byl zastupitelem hl. m. Prahy. V říjnu 2018 byl zvolen ze 7. místa kandidátní listiny zastupitelem městské části Praha 10.

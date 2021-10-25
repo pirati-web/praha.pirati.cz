@@ -4,7 +4,7 @@ category: blog
 title: "Piráti: na snížení počtu členů v dozorčí radě Pražské plynárenské se koalice jednomyslně shodla, Pospíšil na jednání nebyl"
 date: 2019-04-11
 author: "Piráti Praha"
-image: posts/plyn.jpg
+image: plyn.jpg
 tags: praha městské-firmy
 ---
 

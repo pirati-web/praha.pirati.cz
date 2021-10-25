@@ -9,42 +9,14 @@ top:
     url:  "http://www.piratskelisty.cz"
     icon: "ico--newspaper"
 
+
 main:
   - link: /aktuality/
     name: Aktuality
-    match: aktuality
-  - link: /program/
-    name: Program
-    match: program
-    submenu:
-      - link: /program/
-        name: Praha 2018
-        match: praha2018/
-      - link: /program/komunal2018/
-        name: Komunální 2018
-        match: komunal2018/
-      - link: /program/praha2014/
-        name: Praha 2014
-        match: praha2014/
   - link: /lide/
-    name: lidé
-    match: lide
-  - link: /pripoj-se/ 
-    name: Připoj se
-    match: pripoj-se
-    submenu:
-      - link: /pripoj-se/rozhlednete-se-po-lodi.html
-        name: Rozhlédněte se po lodi
-        match: /pripoj-se/rozhlednete-se-po-lodi.html
-      - link: /pripoj-se/posadky.html
-        name: Posádky
-        match: /pripoj-se/posadky.html
-  - link: /mestske-casti/
-    name: Městské části
-    match: mestske-casti
+    name: Lidé
   - link: /kontakt/
     name: Kontakt
-    match: kontakt
 
 bottom:
   - class: small-12 medium-4
@@ -54,16 +26,11 @@ bottom:
         name: Dej nám vědět
       - link: "https://nalodeni.pirati.cz"
         name:  Nalodění
-    icon: "fa fa-user-plus"
   - class: small-12 medium-4
     title: Makáme
     links:
       - link: /lide/
         name: Lidé
-      - link: /pomahame/
-        name: Záchranný kruh
-      - link: /volby-2018/
-        name: Volby 2018
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
@@ -81,9 +48,5 @@ bottom:
 transparencySection: false
 
 contact:
-  - id: martin.arden
-    position: Kontakt pro občany
-  - id: martina.vackova
-    position: Kontakt pro media
-  - id: michal.hrib
-    position: Koordinátor dobrovolníků
+  - tomas.murnak
+  - michaela.berankova

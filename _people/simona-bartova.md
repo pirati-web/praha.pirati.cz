@@ -8,12 +8,11 @@ category:
 img: people/simona-bartova.jpg
 description: Koordinátorka dobrovolníků
 mail: simona.bartova@pirati.cz
-mob: +420 770 113 642
+mob: +420 603 523 065
 profiles:
   github:       
   facebook: 
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 

@@ -21,7 +21,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Jiří Koudelka** (* 2. srpna 1981) je členem Pirátů od dubna 2017 a 2. místopředsedou sdružení Pirátů na Praze 13 od května 2018. Je rovněž členem výboru pro IT a Smart City v ZHMP. Narodil se v Mělníce, nicméně většinu života strávil na Praze 13 a 17.

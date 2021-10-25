@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-12
 layout:       post
 title:        "Sbíráme na Praze 12 podpisy pod petici za záchranu louky u Modřanské rokle" 
-image: posts/nahupech.jpg
+image:        nahupech.jpg
 author:       Eva Tylová
 ---
 

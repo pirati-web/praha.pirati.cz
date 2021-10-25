@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy směnárny
 layout:       post
 title:        Majitel nepoctivých směnáren se snaží zastrašit Piráty. Jeho ochranka používá nevybíravé metody
-image: posts/smenarna-bodyguard.jpg
+image:        smenarna-bodyguard.jpg
 author:       Magdalena Valdmanová
 ---
 

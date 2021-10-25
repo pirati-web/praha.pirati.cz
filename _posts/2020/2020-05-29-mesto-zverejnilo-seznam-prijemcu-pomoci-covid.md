@@ -2,7 +2,7 @@
 date:         2020-05-29
 tags:         finance koronavirus
 title:        "Hlavní město zveřejňuje seznam doposud podpořených žadatelů v programu COVID Praha"
-image: posts/tk-koalice.jpg
+image: 	      tk-koalice.jpg
 author:       MHMP
 ---
 

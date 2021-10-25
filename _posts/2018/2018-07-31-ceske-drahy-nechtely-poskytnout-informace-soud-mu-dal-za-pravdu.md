@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy České-dráhy
 layout:       post
 title:        České dráhy nechtěly Pirátovi poskytnout informace o Kleslové, soud mu dal za pravdu
-image: posts/kleslova-vlak.png
+image:        kleslova-vlak.png
 author:       Adam Zábranský
 ---
 

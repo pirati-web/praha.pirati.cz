@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí
 layout:       post
 title:        "Místo klimatizace potřebujeme ve městě stromy" 
-image: posts/strom.jpg
+image:        strom.jpg
 author:       Eva Tylová
 ---
 

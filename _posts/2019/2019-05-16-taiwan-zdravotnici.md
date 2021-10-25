@@ -4,7 +4,7 @@ category: blog
 title: "Podporujeme účast Tchaj-wanu na Světovém zdravotnickém shromáždění"
 date: 2019-05-16
 author: "Joey Wang, Michaela Krausová"
-image: posts/taiwan.jpg
+image: taiwan.jpg
 tags: zahraničí
 ---
 

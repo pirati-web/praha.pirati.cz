@@ -17,7 +17,6 @@ profiles:
   flickr:
 ordpraha: 
 calendar: 
-heroImg: banner-default.jpg  
 ---
 
 **Tereza Kroužková** je od roku 2020 sekretářkou předsedkyně Výboru pro sociální politiku na Magistrátu hl.m. Prahy, Mgr. Evy Horákové. 

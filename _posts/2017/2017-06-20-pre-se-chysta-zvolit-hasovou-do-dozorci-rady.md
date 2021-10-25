@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Michálek: Chci, aby Pražská energetika nezvolila přeběhlici do své dozorčí rady."
-image: posts/jakub-akcie.jpg
+image:        jakub-akcie.jpg
 author:       Jakub Michálek
 ---
 

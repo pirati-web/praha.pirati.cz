@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-9
 layout:       post
 title:        "Dana Balcarová varuje: Náměstí OSN čeká další zástavba" 
-image: posts/praha-9-namesti-osn.jpg
+image:        praha-9-namesti-osn.jpg
 author:       Jakub Dušánek
 ---
 

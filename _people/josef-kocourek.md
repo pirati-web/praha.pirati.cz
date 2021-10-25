@@ -10,7 +10,6 @@ mail:
 profiles:
   facebook: https://www.facebook.com/josef.kocourek.96
 calendar: f3qhbmobjuqjojhmjbihr480cc@group.calendar.google.com
-heroImg: banner-default.jpg  
 ---
 
 54 let, člen Pirátů, uvolněný místopředseda výboru pro územní rozvoj a životní prostředí na Praze 11, územní rozvoj, doprava

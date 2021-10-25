@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-12
 layout:       post
 title:        "Piráti na Praze 12 vytvořili Mapu developerských projektů" 
-image: posts/p12.jpg
+image:        p12.jpg
 author:       Jan Adamec
 ---
 

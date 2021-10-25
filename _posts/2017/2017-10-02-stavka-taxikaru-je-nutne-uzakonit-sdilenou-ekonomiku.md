@@ -4,7 +4,7 @@ category: CLANKY
 title: "Piráti ke stávce taxikářů: je nutné uzákonit sdílenou ekonomiku"
 date: 2017-10-02T11:22:00+02:00
 author: Adam Zábranský
-image: posts/taxis.jpg
+image: taxis.jpg
 tags: doprava
 ---
 

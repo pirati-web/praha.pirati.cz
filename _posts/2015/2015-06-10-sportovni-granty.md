@@ -3,7 +3,7 @@ title:	Hokej a veslování jsou nejštědřeji dotovanými sporty v Praze
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image: posts/sport.jpg
+image:	sport.jpg
 tags:	sport granty
 date:	2015-06-10
 ---

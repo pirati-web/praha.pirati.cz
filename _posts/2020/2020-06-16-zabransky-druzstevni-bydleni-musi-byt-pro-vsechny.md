@@ -2,7 +2,7 @@
 date:         2020-06-16
 tags:         bydlení
 title:        "Zábranský: Družstevní bydlení musí být dostupné a udržitelné pro občany i pro město"
-image: posts/adam-zabransky-5.jpg
+image: 	      adam-zabransky-5.jpg
 author:       Adam Zábranský
 ---
 

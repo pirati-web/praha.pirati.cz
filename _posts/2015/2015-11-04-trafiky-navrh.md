@@ -3,7 +3,7 @@ title:	Návrh Pirátů k omezení trafik v městských firmách
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image: posts/trafika2.png
+image:	trafika2.png
 tags:	trafiky
 date:	2015-11-04
 ---

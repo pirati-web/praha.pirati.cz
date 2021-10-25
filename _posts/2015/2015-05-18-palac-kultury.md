@@ -3,7 +3,7 @@ title:	Právník utajuje informace v Kongresovém centru, teď dostane další z
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image: posts/pakul.jpg
+image:	pakul.jpg
 tags:	městské-firmy kauzy
 date:	2015-05-18
 ---

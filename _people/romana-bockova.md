@@ -17,7 +17,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Romana Bocková** je specialistka na zpracování dokumentací v oblasti životního prostředí. V otevřeném výběrovém řízení byla vybrána na pozici člena dozorčí rady společnosti Úpravna vody Želivka.

@@ -22,7 +22,6 @@ profiles:
   flickr:		  
 ordpraha: 8
 ordvyb: 6
-heroImg: banner-default.jpg  
 ---
 
 **Michaela Krausová** je zastupitelka hl m. Prahy Pirátů. Vedla projekt Pirátské listy offline, stáže u senátora Libora Michálka a v klubu Pirátů na Zastupitelstvu hl. m. Prahy nebo komunální volební kampaň Otevřeme Radotín. Michaela se narodila v Benešově a odmala bydlí v Praze. Je členkou výboru pro správu majetku a maj. podílů ZHMP, výboru pro výchovu a vzdělávání ZHMP a kontrolního výboru ZHMP.

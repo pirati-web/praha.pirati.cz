@@ -3,7 +3,7 @@ date:         2020-08-14
 tags:         
  - pohřebnictví
 title:        "Město se postará o chátrající hroby svých slavných představitelů"
-image: 	      posts/hrob.jpg
+image: 	      hrob.jpg
 author:       MHMP
 ---
 

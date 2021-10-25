@@ -16,7 +16,6 @@ profiles:
   facebook:  
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Michal Kočí** je místopředseda Pirátů na Praze 10 a kandidát do zastupitelstva této městské části.

@@ -11,7 +11,6 @@ description: Předseda místního sdružení
 mail: 
   - michal.novak@pirati.cz
 profiles:
-heroImg: banner-default.jpg  
 ---
 
 Moje jméno je Michal Novák a jsem členem Pirátů od října 2017. Na Praze 8, konkrétně v Kobylisích, žiji od svého jednoho roku (v roce 2017 tedy již 44 let).

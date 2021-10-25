@@ -4,7 +4,7 @@ category: blog
 title: "Březen Evy Horákové: Návštěvy sociálních zařízení, výběr nového ředitele a nemálo dalšího"
 date: 2019-04-09
 author: "Eva Horáková"
-image: posts/evahorakova.jpg
+image: evahorakova.jpg
 tags: praha sociální-péče
 ---
 

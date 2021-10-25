@@ -2,7 +2,7 @@
 date:         2020-04-27
 tags:         bydlení
 title:        "Hlavní město zakládá novou příspěvkovou organizaci – Pražskou developerskou společnost"
-image: posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 

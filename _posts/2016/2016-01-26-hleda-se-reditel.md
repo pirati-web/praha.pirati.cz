@@ -3,7 +3,7 @@ title:	Staňte se ředitelem informatiky pražského Magistrátu.
 layout:	post
 category:	blog
 author:	Jan Loužek
-image: posts/reditel.jpg
+image:	reditel.jpg
 tags:	magistrát
 date:	2016-01-26
 ---

@@ -4,7 +4,7 @@ category:     blog
 tags:         Praha
 layout:       post
 title:        "Piráti vítají žalobu na pravé viníky Opencard" 
-image: posts/telefon-bem.jpg
+image:        telefon-bem.jpg
 author:       Mikuláš Ferjenčík
 ---
 

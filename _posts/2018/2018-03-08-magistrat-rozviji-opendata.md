@@ -4,7 +4,7 @@ category:     blog
 tags:         open-data
 layout:       post
 title:        "Pražský magistrát udělal další krok pro otevřená data" 
-image: posts/opendata2.jpg
+image:        opendata2.jpg
 author:       Jan Loužek, Adam Zábranský
 ---
 

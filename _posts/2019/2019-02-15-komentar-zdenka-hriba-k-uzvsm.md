@@ -2,7 +2,7 @@
 date:         2019-02-15
 tags:         praha
 title:        "Komentář primátora Hřiba k dopisu Úřadu pro zastupování státu ve věcech majetkových"
-image: posts/5hrib.jpg
+image: 	      posts/5hrib.jpg
 author:       Zdeněk Hřib
 ---
 

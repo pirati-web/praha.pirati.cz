@@ -17,7 +17,6 @@ profiles:
   facebook: 		  
   twitter: 		  
   flickr:     		  
-heroImg: banner-default.jpg  
 ---
 
 **Petr Říha** je členem dozorčí rady společnosti Operátor ICT a také zastupitel za Piráty na MČ Praha 21.

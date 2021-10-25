@@ -15,7 +15,6 @@ profiles:
   facebook: https://www.facebook.com/legalizace
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Robert Veverka** (* 18. listopadu 1976) je člen bezpečnostní komise Rady městské části Praha 2 a aktivní propagátor legalizace konopí. V otevřeném výběrovém řízení byl rovněž vybrán do dozorčí rady společnosti Trade Centre Praha.

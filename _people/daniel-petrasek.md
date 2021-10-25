@@ -17,7 +17,6 @@ profiles:
   facebook: 		  
   twitter: 		  
   flickr:     		  
-heroImg: banner-default.jpg  
 ---
 
 **Daniel Petrásek** je členem dozorčí rady společnosti Kolektory Praha, a.s.

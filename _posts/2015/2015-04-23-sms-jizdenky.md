@@ -3,7 +3,7 @@ title:	Praha na SMS jízdenkách tratí 40 milionů ročně
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image: posts/metro.jpg
+image:	metro.jpg
 tags:	kauzy sms-jízdenky
 date:	2015-04-23
 ---

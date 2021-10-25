@@ -19,7 +19,6 @@ profiles:
   twitter: 		  
   flickr:		  
 ordsenat: 1
-heroImg: banner-default.jpg  
 ---
 
 Lukáš Wagenknecht (* 1978, Pardubice) je český senátor za volební obvod Praha 8 za Piráty. Narodil se a vyrůstal v Pardubicích. Na Univerzitě Pardubice vystudoval obor Hospodářská politika a správa. Po studiích se začal věnovat profesi interního auditu. V této oblasti se s krátkými přestávkami pohybuje již přes patnáct let. Mimo to přes deset let podniká v oblasti maloobchodního prodeje.

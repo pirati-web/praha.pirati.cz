@@ -3,10 +3,8 @@ title:	Zastupitelský Piratecon
 layout:	post
 category:	blog
 author:	Jan Loužek
-image: posts/pirati-ujezd.jpg
-tags:	
- - akce
- - piráti
+image:	pirati-ujezd.jpg
+tags:	akce piráti
 date:	2014-12-02
 ---
 

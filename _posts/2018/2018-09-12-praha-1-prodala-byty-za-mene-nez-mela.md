@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-1 kauzy
 layout:       post
 title:        "Zastupitelstvo Prahy 1 schválilo prodej bytu za 19 milionů, úřad jej však prodal za 7. Piráti podali trestní oznámení"
-image: posts/megasale.jpg
+image:        megasale.jpg
 author:       David Bodeček
 ---
 

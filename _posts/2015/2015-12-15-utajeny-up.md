@@ -3,7 +3,7 @@ title:	Praha utajuje metropolitní plán i před zastupiteli, Piráti se odvolal
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image: posts/tajnyagent.jpg
+image:	tajnyagent.jpg
 tags:	územní-plán
 date:	2015-12-15
 ---

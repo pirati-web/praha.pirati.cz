@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy praha-1
 layout:       post
 title:        „Korektní“ politický boj podle pravidel starosty Prahy 1 Lomeckého
-image: posts/lomecky-fb.jpg
+image:        lomecky-fb.jpg
 author:       David Bodeček
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Piráti žalovali Pražskou plynárenskou, která nerespektuje nález Ústavního soudu a neposkytuje informace"
-image: posts/pre-bonus.jpg
+image:        pre-bonus.jpg
 author:       Adam Zábranský
 ---
 

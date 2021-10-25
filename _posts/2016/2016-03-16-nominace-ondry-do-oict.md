@@ -3,7 +3,7 @@ title:	Piráti chtějí dohlédnout na „vyvedenou“ informatiku, nominují On
 category:	blog
 date:	2016-03-16
 tags:	Praha informatika open-data
-image: posts/ondrej.jpg
+image:	ondrej.jpg
 layout:	post
 author:	Jan Loužek, Ondřej Profant, Jakub Michálek
 ---

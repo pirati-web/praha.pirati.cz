@@ -16,7 +16,6 @@ profiles:
   facebook:  
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Petr Daubner** kandiduje za Piráty na Praze 9. Vystudoval Přírodovědeckou a Filosofickou fakultu Univerzity Karlovy v Praze, učitelský obor zeměpis-dějepis. Pracuje jako učitel. Nejdříve učil na základní škole, od roku 2007 působí jako učitel dějepisu a zeměpisu na Gymnáziu Špitálská v Praze-Vysočanech. Je autorem internetové učebnice dějepisu pro střední školy. Procestoval zhruba osmdesát zemí. 

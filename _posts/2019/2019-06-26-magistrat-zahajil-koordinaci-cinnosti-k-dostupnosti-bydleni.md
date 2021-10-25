@@ -4,7 +4,7 @@ category: blog
 title: "Magistrát zahájil koordinaci aktivit městských částí ohledně dostupnosti bydlení"
 date: 2019-06-19
 author: "Rada hlavního města Prahy"
-image: posts/adam-zabransky-5.jpg
+image: adam-zabransky-5.jpg
 tags: bydlení
 ---
 

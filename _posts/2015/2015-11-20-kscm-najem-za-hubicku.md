@@ -3,7 +3,7 @@ title:	Komunisti blokují registr smluv. Víme proč
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image: posts/komuniste-najem.png
+image:	komuniste-najem.png
 tags:	majetek
 date:	2015-11-20
 ---

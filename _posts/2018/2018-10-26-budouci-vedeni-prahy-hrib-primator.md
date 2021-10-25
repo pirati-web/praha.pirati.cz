@@ -4,7 +4,7 @@ category:     blog
 tags:         koaliční-vyjednávání
 layout:       post
 title:        "Budoucí vedení Prahy: Zdeněk Hřib primátorem"
-image: posts/tk-hrib2.jpg
+image:        tk-hrib2.jpg
 author:       Zdeněk Hřib
 ---
 

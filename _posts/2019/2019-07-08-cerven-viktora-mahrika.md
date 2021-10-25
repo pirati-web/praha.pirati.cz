@@ -4,7 +4,7 @@ category: blog
 title: "Řešíme radnici Prahy, halu na Jižním městě a mnohé další – Viktor Mahrik shrnuje několik posledních měsíců své práce"
 date: 2019-07-08
 author: "Viktor Mahrik"
-image: posts/mahrik3.jpg
+image: mahrik3.jpg
 tags: majetek praha doprava
 ---
 

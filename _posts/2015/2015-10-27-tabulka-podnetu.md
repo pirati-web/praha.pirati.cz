@@ -3,7 +3,7 @@ title:	Kábrt nezákonně utajoval podněty na změnu územního plánu
 layout:	post
 category:	blog
 author:	Mikuláš  Ferjenčík
-image: posts/mvcr.jpg
+image:	mvcr.jpg
 tags:	územní-plán informace
 date:	2015-10-27
 ---

@@ -4,7 +4,7 @@ category:	blog
 tags:	Praha doprava
 layout:	post
 title:	"Chybějící údržba Libeňského mostu způsobila rozsáhlé škody." 
-image: posts/libensky-most.jpg
+image:	libensky-most.jpg
 author:	Ondřej Profant
 ---
 

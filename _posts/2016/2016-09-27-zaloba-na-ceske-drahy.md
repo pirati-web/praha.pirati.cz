@@ -4,7 +4,7 @@ category:	blog
 tags:	Radmila-Kleslová České-dráhy
 layout:	post
 title:	"Piráti zažalovali České dráhy. Chtějí informace o Kleslové." 
-image: posts/kleslova-vlak.png
+image:	kleslova-vlak.png
 author:	Adam Zábranský
 ---
 

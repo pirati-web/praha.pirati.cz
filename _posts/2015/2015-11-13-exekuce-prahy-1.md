@@ -3,7 +3,7 @@ title:	Na Prahu 1 míří exekuce kvůli utajování informací
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image: posts/cenovyraj.jpg
+image:	cenovyraj.jpg
 tags:	informace praha-1
 date:	2015-11-13
 ---

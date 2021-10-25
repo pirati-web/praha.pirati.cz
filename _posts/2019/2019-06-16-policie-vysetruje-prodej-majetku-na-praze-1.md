@@ -4,7 +4,7 @@ category: blog
 title: "Policie zahájila trestní stíhání na Praze 1 kvůli podezření při prodeji bytů. Upozornil na to Pirát Bodeček"
 date: 2019-06-17
 author: "MHMP"
-image: posts/praha1-2.jpg
+image: praha1-2.jpg
 tags: praha-1 kauzy
 ---
  

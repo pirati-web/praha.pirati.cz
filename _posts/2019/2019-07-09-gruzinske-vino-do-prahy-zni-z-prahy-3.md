@@ -4,7 +4,7 @@ category: blog
 title: "Rusové hrozí Gruzii zákazem importu vína. Místostarosta Prahy 3 nabídl, ať ho přivezou do Čech"
 date: 2019-07-09
 author: "Štěpán Štrébl"
-image: posts/strebl.jpg
+image: strebl.jpg
 tags: praha-3
 ---
 

@@ -4,7 +4,7 @@ category:	blog
 tags:	trafiky Praha městské-firmy
 layout:	post
 title:	Konec trafik v Praze v nedohlednu? Návrh nominačních pravidel od Pirátů pražská Rada ignoruje.
-image: posts/trafikyano.jpg
+image:	trafikyano.jpg
 author:	Adam Zábranský
 ---
 

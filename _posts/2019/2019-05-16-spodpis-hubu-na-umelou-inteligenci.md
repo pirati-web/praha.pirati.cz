@@ -4,7 +4,7 @@ category: blog
 title: "Praha se má do pěti let stát centrem umělé inteligence. Zaslouží se o to iniciativa prg.ai"
 date: 2019-05-16
 author: "Odbor komunikace MHMP"
-image: posts/prg.jpg
+image: prg.jpg
 tags: informatika praha technologie
 ---
 

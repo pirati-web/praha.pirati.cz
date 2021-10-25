@@ -15,7 +15,6 @@ profiles:
   facebook: 		  
   twitter: 		  
   flickr:     		  
-heroImg: banner-default.jpg  
 ---
 
 **Michal Bláha** je členem dozorčí rady společnosti Operátor ICT a.s.

@@ -4,7 +4,7 @@ category: blog
 title: "Zdeněk Hřib zaslal otevřený dopis předsedovi TOP 09 Jiřímu Pospíšilovi"
 date: 2019-04-14
 author: "Zdeněk Hřib"
-image: posts/8hrib.jpg
+image: 8hrib.jpg
 tags: praha koalice
 ---
 

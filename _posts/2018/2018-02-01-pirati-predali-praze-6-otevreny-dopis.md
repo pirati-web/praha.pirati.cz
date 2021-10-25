@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-6
 layout:       post
 title:        "Chceme transparentnost na radnici Prahy 6. Piráti předali otevřený dopis starostovi" 
-image: posts/praha-6-dopis.jpg
+image:        praha-6-dopis.jpg
 author:       Viktor Mahrik
 ---
 

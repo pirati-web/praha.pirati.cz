@@ -3,7 +3,7 @@ title:	Výbor pro kulturu přísně omezí pouliční umění, Piráti nesouhlas
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image: posts/busking.jpg
+image:	busking.jpg
 tags:	magistrát busking
 date:	2015-10-07
 ---

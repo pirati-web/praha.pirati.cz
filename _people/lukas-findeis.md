@@ -27,7 +27,6 @@ office:
     name: Městská část Praha 12
     #opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
 calendar: b2q3kpoefb62brt4md350okubk%40group.calendar.google.com
-heroImg: banner-default.jpg  
 ---
 
 Lukáš Findeis (* 1985, Praha) radní městské části Praha 12 pro sociální věci, zdravotnictví a sport, 4. místopředseda PMS Praha 12, běžecký trenér, ultramaratonec

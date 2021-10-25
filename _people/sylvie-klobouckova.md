@@ -17,7 +17,6 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-heroImg: banner-default.jpg  
 ---
 
 **Sylvie Kloboučková** je členkou dozorčí rady společnosti Zdroj pitné vody Káraný a.s. 

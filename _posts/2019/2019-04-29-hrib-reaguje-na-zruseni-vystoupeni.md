@@ -5,7 +5,7 @@ title: >-
   Primátor Zdeněk Hřib reaguje na zrušení vystoupení umělců spojených s Prahou ze strany Číny
 date: '2019-04-29 00:01am'
 author: Mediální odbor
-image: posts/hrib-kamera2.jpg
+image: hrib-kamera2.jpg
 tags: praha zahraničí
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy praha-1
 layout:       post
 title:        Znalec a vedoucí majetkového odboru Prahy 1 odmítli vypovídat v kauze pochybného prodeje bytů
-image: posts/praha1-2.jpg
+image:        praha1-2.jpg
 author:       David Bodeček
 ---
 

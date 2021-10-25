@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy korupce
 layout:       post
 title:        "Magistrát nenaplňuje protikorupční strategii, Piráti chtějí vysvětlení" 
-image: posts/zzz.jpg
+image:        zzz.jpg
 author:       Adam Zábranský
 ---
 

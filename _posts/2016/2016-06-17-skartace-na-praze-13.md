@@ -4,7 +4,7 @@ category:	blog
 tags:	praha-13
 layout:	post
 title:	"Praha 13 účelově změnila skartační plán, aby mohla smazat zvukový záznam ze zastupitelstva " 
-image: posts/p13-del.jpg
+image:	p13-del.jpg
 author:	Mikuláš Ferjenčík
 ---
 

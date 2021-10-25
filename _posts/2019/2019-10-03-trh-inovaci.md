@@ -2,7 +2,7 @@
 date:         2019-10-03
 tags:         ekonomika
 title:        "Praha uspěla v evropské konkurenci v rámci zlepšování podnikatelského prostředí"
-image: posts/vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       Vít Šimral, MHMP
 ---
 
