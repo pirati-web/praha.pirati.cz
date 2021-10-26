@@ -4,7 +4,7 @@ category:     blog
 tags:         praha volby
 layout:       post
 title:        "Piráti startují volební kampaň v Praze"
-image:        kandidati-praha.jpg
+image:        posts/kandidati-praha.jpg
 author:       Jakub Michálek
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Zastupitelstvo chce dostavět městský okruh, superholding neprojednalo"
-image:        zabransky.jpg
+image:        posts/zabransky.jpg
 author:       Jan Loužek, Adam Zábranský
 ---
 

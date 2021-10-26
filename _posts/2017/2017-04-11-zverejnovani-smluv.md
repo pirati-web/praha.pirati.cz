@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Piráti k vedení Prahy: Zveřejňujte smlouvy firem i když bude zákon o registru smluv vykleštěn" 
-image:        podpis.jpg
+image:        posts/podpis.jpg
 author:       Adam Zábranský
 ---
 

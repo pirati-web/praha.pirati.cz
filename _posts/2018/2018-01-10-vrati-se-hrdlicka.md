@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-10
 layout:       post
 title:        "Čeká Prahu návrat kmotra Tomáše Hrdličky?" 
-image:        praha10a.jpg
+image:        posts/praha10a.jpg
 author:       Olga Richterová
 ---
 

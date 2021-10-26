@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Adam Zábranský pokračuje v odhalování klientelistické sítě ČSSD"
-image:        klient.jpg
+image:        posts/klient.jpg
 author:       Jan Loužek, Adam Zábranský
 ---
 

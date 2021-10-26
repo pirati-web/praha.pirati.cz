@@ -4,7 +4,7 @@ category:     blog
 tags:         praha koalice bem
 layout:       post
 title:        "Praha nepodala žalobu na Béma, odnesou to jen úředníci" 
-image:        bem-sloup.jpg
+image:        posts/bem-sloup.jpg
 author:       Jakub Michálek
 ---
 

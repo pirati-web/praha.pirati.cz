@@ -4,7 +4,7 @@ category:     blog
 tags:         rozpočet
 layout:       post
 title:        "Koalice připravila extrémně projídací rozpočet"
-image:        feast.jpg
+image:        posts/feast.jpg
 author:       Adam Zábranský
 ---
 

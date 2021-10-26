@@ -4,7 +4,7 @@ category: CLANKY
 title: "Praha přichází o miliony. Všechny peníze shrábne provozovatel trhů"
 date: 2017-09-19T15:50:00+02:00
 author: Adam Zábranský
-image: trhy.jpg
+image: posts/trhy.jpg
 tags: Praha-1
 ---
 

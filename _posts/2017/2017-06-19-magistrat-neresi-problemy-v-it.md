@@ -4,7 +4,7 @@ category:     blog
 tags:         informatika
 layout:       post
 title:        "Magistrát neřeší problémy, namísto toho podporuje dinosaury"
-image:        it-magistrat.jpg
+image:        posts/it-magistrat.jpg
 author:       Ondřej Profant
 ---
 

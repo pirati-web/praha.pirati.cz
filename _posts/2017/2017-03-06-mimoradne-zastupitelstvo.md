@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Piráti se připojují k návrhu na svolání mimořádného zastupitelstva kvůli ovlivňování výběrových řízení v Praze mafiánskými strukturami." 
-image:        z-sal.jpg
+image:        posts/z-sal.jpg
 author:       Mikuláš Ferjenčík
 ---
 

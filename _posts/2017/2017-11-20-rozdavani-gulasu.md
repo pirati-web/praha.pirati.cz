@@ -4,7 +4,7 @@ category:     blog
 tags:         pomoc
 layout:       post
 title:        "Piráti v neděli rozdali 150 teplých gulášů potřebným"
-image:        hlavni-nadrazi.jpg
+image:        posts/hlavni-nadrazi.jpg
 author:       Roman Kučera
 ---
  

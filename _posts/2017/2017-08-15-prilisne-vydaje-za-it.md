@@ -4,7 +4,7 @@ category:     blog
 tags:         informatika rhmp
 layout:       post
 title:        "Piráti: Rada schvaluje nepřiměřené výdaje v IT oblasti bez projednání komisí"
-image:        krnacova-utraci.jpg
+image:        posts/krnacova-utraci.jpg
 author:       Ondřej Profant
 ---
 

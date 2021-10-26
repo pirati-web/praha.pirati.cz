@@ -4,7 +4,7 @@ category: CLANKY
 title: "Pokud v Blance 2 nebude MHD, nestojí za ty peníze"
 date: 2017-09-25
 author: Ondřej Profant
-image: blanka2.jpg
+image: posts/blanka2.jpg
 tags: doprava
 ---
 

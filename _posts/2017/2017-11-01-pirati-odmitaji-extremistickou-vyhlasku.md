@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-1
 layout:       post
 title:        "Odmítáme extrémistickou protialkoholní vyhlášku"
-image:        vystraha.jpg
+image:        posts/vystraha.jpg
 author:       Adam Zábranský
 ---
 

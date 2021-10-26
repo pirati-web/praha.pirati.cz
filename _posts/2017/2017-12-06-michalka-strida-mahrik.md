@@ -4,7 +4,7 @@ category:     blog
 tags:         magistrát
 layout:       post
 title:        "Michálka vystřídá v pražském zastupitelstvu Mahrik"
-image:        michalek-strecha.jpg
+image:        posts/michalek-strecha.jpg
 author:       Jaku michálek
 ---
 
