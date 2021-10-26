@@ -9,7 +9,7 @@ residences:
      Na Moráni 3,
      120 00 Praha 2
    spravce: pavel.zamazal
-   residenceImg: kontakt/novepice.jpg
+   residenceImg: https://a.pirati.cz/praha/img/kontakt/novepice.jpg
    mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
  - name: Magistrát
    url: "http://www.praha.eu/jnp/cz/o_meste/magistrat/index.html"
@@ -18,7 +18,7 @@ residences:
      110 00 Praha 1,
      telefon +420 608 213 119
    spravce: jan.louzek
-   residenceImg: kontakt/magistrat.jpg
+   residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
    mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
 contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
 # Nastavení zobrazení tabulky kontaktů.
