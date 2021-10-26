@@ -35,11 +35,10 @@ contactSummaryItems:
   - type: piratiRootWebsite
 
 calendar:
-  id: b5bl4lv8m2fill0tho6esj2avs@group.calendar.google.com
-  apiKey: AIzaSyDHKIVQI4mPRoXZQv5GGunWlHjuMWGVDfE
-  id: piratzetrinactky@gmail.com  
-  title: "Kalendář Pirátů Prahy"
-  page: "https://calendar.google.com/calendar/embed?src=piratizetrinactky%40gmail.com&ctz=Europe%2FPrague"
+  apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
+  id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
+  title: "Celopražský kalendář"
+  page: pripoj-se/kalendar
 
 facebook:
   loadSDK: true
