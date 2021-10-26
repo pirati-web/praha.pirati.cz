@@ -3,7 +3,7 @@ date:         2021-08-05
 tags:         
 - zahraničí
 title:        "V rámci festivalu Prague Pride se uskutečnilo česko-tchajwanské online fórum o rovnosti mezi ženami a muži"
-image: 	      novaradnice.jpg
+image: 	      posts/novaradnice.jpg
 author:       MHMP
 ---
 

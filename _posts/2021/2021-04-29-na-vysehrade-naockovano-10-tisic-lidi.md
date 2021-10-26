@@ -3,7 +3,7 @@ date:         2021-04-29
 tags:         
 - koronavirus
 title:        "V Metropolitním očkovacím centru na Vyšehradě bylo naočkováno již 10 tisíc lidí"
-image: 	      ocko1.jpg
+image: 	      posts/ocko1.jpg
 author:       MHMP
 ---
 

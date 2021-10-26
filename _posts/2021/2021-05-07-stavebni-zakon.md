@@ -4,7 +4,7 @@ tags:
 - stavební-zákon
 - legislativa
 title:        "Česká města chtějí změnit chystaný stavební zákon podle Čtyř městských artikul. Umožní lepší plánování"
-image: 	      0hrib.jpg
+image: 	      posts/0hrib.jpg
 author:       MHMP
 ---
 

@@ -3,7 +3,7 @@ date:         2020-10-26
 tags:         
  - koronavirus
 title:        "Hlavní město spustí novou kampaň proti koronaviru. Svou tvář jí propůjčili lidé v první linii"
-image: 	      chrante.jpg
+image: 	      posts/chrante.jpg
 author:       MHMP
 ---
 

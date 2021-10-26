@@ -2,7 +2,7 @@
 date:         2019-12-09
 tags:         zahraničí
 title:        "Praha přistoupí k tzv. Paktu svobodných měst"
-image: 	      magistrat2.jpg
+image: 	      posts/magistrat2.jpg
 author:       MHMP
 ---
 

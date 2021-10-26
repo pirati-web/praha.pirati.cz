@@ -3,7 +3,7 @@ date:         2020-08-26
 tags:         
  - sport
 title:        "Nový plán rozvoje sportu v Praze chce přiblížit město sportovním metropolím, své návrhy sdílí kluby, školy i obyvatelé"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 

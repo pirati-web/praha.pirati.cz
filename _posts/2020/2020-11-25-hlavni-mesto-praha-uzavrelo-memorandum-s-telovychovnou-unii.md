@@ -3,7 +3,7 @@ date:         2020-11-25
 tags:         
  - sport
 title:        "Hlavní město uzavřelo memorandum o spolupráci s Pražskou tělovýchovnou unií"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 

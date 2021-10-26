@@ -4,7 +4,7 @@ category:     blog
 tags:         dozorčí-rady
 layout:       post
 title:        "Piráti vypsali výběrová řízení na pozice v dozorčích radách městských firem hl. m. Prahy"
-image: 	      tsk-vystaviste.jpg
+image: 	      posts/tsk-vystaviste.jpg
 author:       Veronika Kubičková
 ---
 

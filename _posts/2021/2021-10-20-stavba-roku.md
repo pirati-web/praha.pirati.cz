@@ -3,7 +3,7 @@ date:         2021-10-20
 tags:         
 - praha
 title:        "V soutěži Stavba roku 2021 uspělo několik projektů na území hlavního města"
-image: 	      hrib-stavba.jpg
+image: 	      posts/hrib-stavba.jpg
 author:       MHMP
 ---
 

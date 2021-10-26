@@ -4,7 +4,7 @@ tags:
  - školství
  - doprava
 title:        "Praha testuje projekt „Školní ulice“. Pomůže bezpečnosti dětí při provozu v okolí základních škol"
-image: 	      skolni-ulice.jpg
+image: 	      posts/skolni-ulice.jpg
 author:       MHMP
 ---
 

@@ -3,7 +3,7 @@ date:         2021-06-29
 tags:         
 - informatika
 title:        "Vítězem pražského inovačního maratonu #NakopniPrahu se stal datový chameleon"
-image: 	      7hrib.jpg
+image: 	      posts/7hrib.jpg
 author:       MHMP
 ---
 

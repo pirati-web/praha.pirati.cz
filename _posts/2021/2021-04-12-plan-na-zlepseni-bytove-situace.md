@@ -3,7 +3,7 @@ date:         2021-04-12
 tags:         
 - bydlení
 title:        "Praha má plán, jak zlepšit bytovou situaci v metropoli. Cílem je stavět 9 000 bytů ročně a vlastnit 35 000 městských bytů do roku 2030"
-image: 	      domy-slunce.jpg
+image: 	      posts/domy-slunce.jpg
 author:       MHMP
 ---
 

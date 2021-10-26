@@ -2,7 +2,7 @@
 date:         2019-12-12
 tags:         bydlení
 title:        "Pražští zastupitelé schválili vstup do bytových družstev. Potřebné profese díky tomu získají dalších 70 bytů"
-image: 	      adam-zabransky-3.jpg
+image: 	      posts/adam-zabransky-3.jpg
 author:       Adam Zábranský
 ---
 

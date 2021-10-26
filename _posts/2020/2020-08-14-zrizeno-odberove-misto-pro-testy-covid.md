@@ -4,7 +4,7 @@ tags:
  - koronavirus
  - bezpečnost
 title:        "Praha zřídila odběrové místo na testování COVID-19"
-image: 	      vn2.jpg
+image: 	      posts/vn2.jpg
 author:       MHMP
 ---
 

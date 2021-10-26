@@ -3,7 +3,7 @@ date:         2020-08-18
 tags:         
  - zahraničí
 title:        "Praha vyvěsila vlajku na podporu svobodné občanské společnosti v Bělorusku"
-image: 	      by.jpg
+image: 	      posts/by.jpg
 author:       MHMP
 ---
 

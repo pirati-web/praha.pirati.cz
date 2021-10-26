@@ -2,7 +2,7 @@
 date:         2020-02-03
 tags:         zahraničí
 title:        "Praha uzavře s Vídní smlouvu o spolupráci"
-image: 	      7hrib.jpg
+image: 	      posts/7hrib.jpg
 author:       MHMP
 ---
 

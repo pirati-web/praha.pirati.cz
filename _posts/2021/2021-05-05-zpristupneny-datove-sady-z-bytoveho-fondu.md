@@ -4,7 +4,7 @@ tags:
 - informatika
 - bydlení
 title:        "Praha zpřístupnila nové datové sady z oblasti bytového fondu"
-image: 	      opendata3.jpg
+image: 	      posts/opendata3.jpg
 author:       MHMP
 ---
 

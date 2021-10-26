@@ -4,7 +4,7 @@ tags:
  - stanovisko
  - doprava
 title:        "Pražská MHD musí zůstat dostupná pro Pražany "
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

@@ -4,7 +4,7 @@ tags:
  - legislativa
  - životní-prostředí
 title:        "Pražští Piráti: Novela stavebního zákona degraduje ochranu životního prostředí"
-image: 	      staveniste.jpg
+image: 	      posts/staveniste.jpg
 author:       MHMP
 ---
 

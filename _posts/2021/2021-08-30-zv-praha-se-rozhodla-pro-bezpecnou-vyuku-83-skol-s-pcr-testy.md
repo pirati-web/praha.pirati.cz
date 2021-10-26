@@ -3,7 +3,7 @@ date:         2021-08-30
 tags:         
 - školství
 title:        "Praha chce ve školách zajistit stabilní a bezpečnou výuku po celý rok. Pro PCR testy se rozhodlo 83 škol"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

@@ -3,7 +3,7 @@ date:         2021-06-07
 tags:         
 - informatika
 title:        "Praha jako centrum umělé inteligence. Do rozvoje prg.ai pošle přes 9 milionů"
-image: 	      prg.jpg
+image: 	      posts/prg.jpg
 author:       MHMP
 ---
 

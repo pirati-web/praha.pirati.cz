@@ -4,7 +4,7 @@ tags:
  - informatika
  - školství
 title:        "Modemy, stravování, technická pomoc i poradenství. Praha pomáhá s distanční výukou"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

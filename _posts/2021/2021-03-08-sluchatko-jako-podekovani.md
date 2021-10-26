@@ -3,7 +3,7 @@ date:         2021-03-08
 tags:         
 - školství
 title:        "Pražské sluchátko jako poděkování učitelkám a učitelům za jejich snahu o kvalitní vzdělání i v době covidu"
-image: 	      sluchatko.jpg
+image: 	      posts/sluchatko.jpg
 author:       MHMP
 ---
 

@@ -3,7 +3,7 @@ date:         2021-05-18
 tags:         
 - bydlení
 title:        "Praha pronajme čtyři byty Dětskému domovu Dolní Počernice. Pomohou dospívajícím klientům osamostatnit se"
-image: 	      adam-zabransky-5.jpg
+image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP
 ---
 

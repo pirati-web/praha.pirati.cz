@@ -3,7 +3,7 @@ date:         2021-09-06
 tags:         
 - sport
 title:        "Praha zahájila projekt inovací ve vzdělávání, cílí na podporu učitelů a ředitelů pražských základních a středních škol"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 

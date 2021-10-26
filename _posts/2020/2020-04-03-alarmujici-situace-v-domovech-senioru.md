@@ -2,7 +2,7 @@
 date:         2020-04-03
 tags:         koronavirus zdravotnictví
 title:        "Praha žádá, aby v pražských nemocnicích, které zřizuje Ministerstvo zdravotnictví, byla vyčleněna lůžka pro seniory"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

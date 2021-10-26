@@ -4,7 +4,7 @@ tags:
 - územní-plánování
 - legislativa
 title:        "Nový stavební zákon nemůže přinést zrychlení povolování staveb. Česká města bijí na poplach a přichází s receptem na řešení"
-image: 	      0hrib.jpg
+image: 	      posts/0hrib.jpg
 author:       MHMP
 ---
 

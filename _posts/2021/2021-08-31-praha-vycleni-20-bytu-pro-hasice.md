@@ -3,7 +3,7 @@ date:         2021-08-31
 tags:         
 - bydlení
 title:        "Praha vyčlení dalších 20 bytů pro hasiče"
-image: 	      adam-zabransky-7.jpg
+image: 	      posts/adam-zabransky-7.jpg
 author:       MHMP
 ---
 

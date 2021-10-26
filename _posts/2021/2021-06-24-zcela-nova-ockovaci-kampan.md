@@ -3,7 +3,7 @@ date:         2021-06-24
 tags:         
 - koronavirus
 title:        "Virohrady, Marodní třída: Součástí nové informační kampaně k očkování jsou slovní hříčky"
-image: 	      banner.jpg
+image: 	      posts/banner.jpg
 author:       MHMP
 ---
 

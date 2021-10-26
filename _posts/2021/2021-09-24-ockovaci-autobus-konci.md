@@ -4,7 +4,7 @@ tags:
 - koronavirus
 - očkování
 title:        "V Očkovacím autobuse dostalo vakcínu už téměř 1 200 lidí. Jeho provoz o víkendu skončí"
-image: 	      ockobus.jpg
+image: 	      posts/ockobus.jpg
 author:       MHMP
 ---
 

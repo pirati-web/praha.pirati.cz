@@ -3,7 +3,7 @@ date:         2021-06-07
 tags:         
 - sport
 title:        "Do Prahy se přenese atmosféra Olympijských her"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

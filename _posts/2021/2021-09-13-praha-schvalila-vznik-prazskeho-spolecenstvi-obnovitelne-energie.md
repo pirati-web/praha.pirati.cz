@@ -3,7 +3,7 @@ date:         2021-09-13
 tags:         
 - životní-prostředí
 title:        "Praha schválila zřízení Pražského společenství obnovitelné energie"
-image: 	      tomas-murnak.jpg
+image: 	      posts/tomas-murnak.jpg
 author:       MHMP
 ---
 

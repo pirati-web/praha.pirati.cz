@@ -3,7 +3,7 @@ date:         2020-11-09
 tags:         
  - informatika
 title:        "Hlavní město získá nástroj pro analýzu výstavby na území městských částí"
-image: 	      golemio2.jpg
+image: 	      posts/golemio2.jpg
 author:       MHMP
 ---
 

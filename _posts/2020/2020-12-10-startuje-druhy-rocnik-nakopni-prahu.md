@@ -4,7 +4,7 @@ tags:
  - informatika
  - akce
 title:        "Praha startuje druhý ročník inovačního maratonu #NakopniPrahu"
-image: 	      nakopniprahu.jpg
+image: 	      posts/nakopniprahu.jpg
 author:       MHMP
 ---
  

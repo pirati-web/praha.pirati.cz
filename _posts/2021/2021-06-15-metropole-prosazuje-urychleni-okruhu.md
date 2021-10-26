@@ -3,7 +3,7 @@ date:         2021-06-15
 tags:         
 - doprava
 title:        "Praha prosazuje urychlení výstavby Pražského okruhu a tzv. aglomeračního okruhu"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

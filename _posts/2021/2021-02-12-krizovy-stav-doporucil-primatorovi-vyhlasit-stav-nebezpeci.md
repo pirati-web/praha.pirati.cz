@@ -3,7 +3,7 @@ date:         2021-02-12
 tags:         
 - koronavirus
 title:        "Krizový štáb hlavního města Prahy doporučil primátorovi vyhlásit stav nebezpečí"
-image: 	      9hrib.jpg
+image: 	      posts/9hrib.jpg
 author:       MHMP
 ---
 

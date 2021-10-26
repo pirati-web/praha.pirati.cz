@@ -3,7 +3,7 @@ date:         2020-09-29
 tags:         
  - informatika
 title:        "Hlavní město spouští Portál Pražana"
-image: 	      hrib-digitalizace.jpg
+image: 	      posts/hrib-digitalizace.jpg
 author:       MHMP
 ---
 

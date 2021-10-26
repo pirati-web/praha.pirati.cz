@@ -3,7 +3,7 @@ date:         2021-08-18
 tags:         
 - koronavirus
 title:        "Praha žádá ministerstvo školství o urychlené proplacení PCR testů z jara"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

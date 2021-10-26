@@ -4,7 +4,7 @@ tags:
 - koronavirus
 - očkování
 title:        "Očkovací autobus zamíří do konce srpna na Zličín, holešovické Výstaviště nebo na náplavky"
-image: 	      ockobus.jpg
+image: 	      posts/ockobus.jpg
 author:       MHMP
 ---
 

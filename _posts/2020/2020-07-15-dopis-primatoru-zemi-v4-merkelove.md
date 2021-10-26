@@ -2,7 +2,7 @@
 date:         2020-07-15
 tags:         zahraničí
 title:        "Primátoři metropolí V4 v dopisu Merkelové: Zásadní je udržitelnost měst a jejich přímé financování"
-image: 	      8hrib.jpg
+image: 	      posts/8hrib.jpg
 author:       MHMP
 ---
 

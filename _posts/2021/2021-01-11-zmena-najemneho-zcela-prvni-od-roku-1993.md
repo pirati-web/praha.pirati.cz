@@ -3,7 +3,7 @@ date:         2021-01-11
 tags:         
 - bydlení
 title:        "Zábranský: Schválili jsme úpravu nájemného pro nájemníky magistrátních bytů"
-image: 	      byty.jpg
+image: 	      posts/byty.jpg
 author:       Adam Zábranský
 ---
 

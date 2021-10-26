@@ -3,7 +3,7 @@ date:         2021-10-08
 tags:         
 - školství
 title:        "Hlavní město otevřelo ve Smíchovské SPŠ první coworkingové centrum pro technologické a podnikatelské startupy"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

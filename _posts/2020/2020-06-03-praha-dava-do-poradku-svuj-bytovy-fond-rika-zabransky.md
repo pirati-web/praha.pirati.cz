@@ -2,7 +2,7 @@
 date:         2020-06-03
 tags:         bydlení
 title:        "Praha dává do pořádku svůj bytový fond: Prioritou zůstávají pronájmy pro rodiny a rodiče samoživitele"
-image: 	      zabransky-stavi.jpg
+image: 	      posts/zabransky-stavi.jpg
 author:       Adam Zábranský
 ---
 

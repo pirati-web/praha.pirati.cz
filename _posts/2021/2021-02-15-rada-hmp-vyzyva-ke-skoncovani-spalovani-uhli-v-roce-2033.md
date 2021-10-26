@@ -3,7 +3,7 @@ date:         2021-02-15
 tags:         
 - životní prostředí
 title:        "Rada hlavního města Prahy vyzývá vládu, aby skoncovala se spalováním uhlí v roce 2033"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

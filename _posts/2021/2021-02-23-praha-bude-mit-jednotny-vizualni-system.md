@@ -3,7 +3,7 @@ date:         2021-02-23
 tags:         
 - praha
 title:        "Praha bude mít jednotný orientační systém"
-image: 	      vizualni.jpg
+image: 	      posts/vizualni.jpg
 author:       MHMP
 ---
 

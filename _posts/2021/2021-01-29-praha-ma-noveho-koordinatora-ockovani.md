@@ -3,7 +3,7 @@ date:         2021-01-29
 tags:         
 - koronavirus
 title:        "Praha má nového koordinátora očkování"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

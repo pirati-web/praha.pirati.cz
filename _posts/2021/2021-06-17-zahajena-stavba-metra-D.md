@@ -3,7 +3,7 @@ date:         2021-06-17
 tags:         
 - doprava
 title:        "Zastupitelstvo hl. m. Prahy schválilo zahájení stavby metra D"
-image: 	      zhmp-shora.jpg
+image: 	      posts/zhmp-shora.jpg
 author:       MHMP
 ---
 

@@ -3,7 +3,7 @@ date:         2021-09-06
 tags:         
 - sport
 title:        "Plavecké centrum na Šutce se rozšíří a ve Vršovicích vznikne nová multifunkční hala"
-image: 	      vitsimral6.jpg
+image: 	      posts/vitsimral6.jpg
 author:       MHMP
 ---
 

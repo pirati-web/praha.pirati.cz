@@ -3,7 +3,7 @@ date:         2020-12-17
 tags:         
  - praha
 title:        "Dnes probíhá potravinová sbírka pro Prahu. Přijímáme trvanlivé potraviny, hygienické potřeby pro ženy, drogistické zboží i dětské pleny"
-image: 	      hrib-vanoce.jpg
+image: 	      posts/hrib-vanoce.jpg
 author:       MHMP
 ---
  

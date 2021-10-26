@@ -3,7 +3,7 @@ date:         2020-11-30
 tags:         
  - školství
 title:        "Živé vysílání v režii středoškoláků na veletrhu Schola Pragensis on-line 2020 vidělo přes 17 tisíc lidí"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

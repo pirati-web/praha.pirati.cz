@@ -3,7 +3,7 @@ date:         2021-01-19
 tags:         
 - bydlení
 title:        "Magistrát otevřel svoje kontaktní místo pro bydlení. Pomůže občanům s řešením bytové nouze"
-image: 	      adam-zabransky-3.jpg
+image: 	      posts/adam-zabransky-3.jpg
 author:       MHMP
 ---
 

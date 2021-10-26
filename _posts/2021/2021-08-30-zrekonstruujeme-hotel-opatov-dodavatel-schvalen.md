@@ -4,7 +4,7 @@ tags:
 - bydlení
 - praha-11
 title:        "Rada schválila výběr dodavatele rekonstrukce bývalého Hotelu Opatov"
-image: 	      hotelopatov.jpg
+image: 	      posts/hotelopatov.jpg
 author:       MHMP
 ---
 

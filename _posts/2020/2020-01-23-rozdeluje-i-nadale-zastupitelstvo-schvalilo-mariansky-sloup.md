@@ -2,7 +2,7 @@
 date:         2020-01-23
 tags:         mariánský-sloup
 title:        "Mariánský sloup není symbolem smíření. Rozděloval a bude rozdělovat společnost i nadále"
-image: 	      hrib-kamera2.jpg
+image: 	      posts/hrib-kamera2.jpg
 author:       Zdeněk Hřib, Viktor Mahrik
 ---
 

@@ -3,7 +3,7 @@ date:         2021-05-31
 tags:         
 - doprava
 title:        "Rada schválila aktualizaci Strategie rozvoje tramvajových tratí do roku 2030"
-image: 	      tramvaje.jpg
+image: 	      posts/tramvaje.jpg
 author:       MHMP
 ---
 

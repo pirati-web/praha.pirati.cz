@@ -3,7 +3,7 @@ date:         2021-04-20
 tags:         
 - životní-prostředí
 title:        "Mahrik: Vyzýváme Prahu 1 aby javor nekácela"
-image: 	      mahrik3.jpg
+image: 	      posts/mahrik3.jpg
 author:       MHMP
 ---
 

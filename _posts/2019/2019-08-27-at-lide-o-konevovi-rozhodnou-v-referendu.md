@@ -2,7 +2,7 @@
 date:         2019-08-27
 tags:         praha praha-6
 title:        "Ať o soše Koněva rozhodnou sami Pražané v referendu, navrhují Piráti z Prahy 6"
-image: 	      posts/konev.jpg
+image: 	      posts/posts/konev.jpg
 author:       Jiří Hoskovec, Ondřej Chrást, Jan Lipavský
 ---
 

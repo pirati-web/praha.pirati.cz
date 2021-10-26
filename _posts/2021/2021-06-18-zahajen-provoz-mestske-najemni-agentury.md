@@ -3,7 +3,7 @@ date:         2021-06-18
 tags:         
 - bydleni
 title:        "Praha zahájila provoz Městské nájemní agentury"
-image: 	      domy-slunce.jpg
+image: 	      posts/domy-slunce.jpg
 author:       MHMP
 ---
 

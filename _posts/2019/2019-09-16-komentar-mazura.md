@@ -2,7 +2,7 @@
 date:         2019-09-16
 tags:         praha-5
 title:        "Mazur: Transparentnost je zásadní pirátskou hodnotou, pokud to koaliční partneři nepřijímají, koalice končí"
-image: 	      posts/mazur.jpg
+image: 	      posts/posts/mazur.jpg
 author:       Daniel Mazur
 ---
 

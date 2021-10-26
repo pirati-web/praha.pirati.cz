@@ -3,7 +3,7 @@ date:         2020-12-11
 tags:         
  - bydlení
 title:        "Dotazy žadatelů o pronájem městského bytu bude možné vyřizovat přes informační linku i během nouzového stavu každý pracovní den"
-image: 	      adam-zabransky-8.jpg
+image: 	      posts/adam-zabransky-8.jpg
 author:       MHMP
 ---
  

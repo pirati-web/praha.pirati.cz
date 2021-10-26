@@ -4,7 +4,7 @@ tags:
 - školství
 - koronaviru
 title:        "Praha žádá ministra Plagu o nasazení PCR testů, které by mělo doprovázet zrušení rotační výuky ve školách"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 
