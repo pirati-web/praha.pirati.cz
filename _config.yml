@@ -8,22 +8,25 @@ url: "https://praha.pirati.cz"
 
 mediaStorage: praha
 
-title: "Piráti Praha"
-description: "Česká pirátská strana - místní sdružení Praha"
-keywords: "piráti, praha, česká pirátská strana, svoboda, demokracie, piráti v Praze"
+title: Pirátská strana Praha
+email: to@pirati.cz
+description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://praha.pirati.cz" # the base hostname & protocol for your site
 
 organization:
-  name: "Piráti Praha"
-  email: prahapirati.cz
+  name: Pirátská strana Praha
+  shortName: Piráti Praha
+  email: praha@pirati.cz
+  phone: +420 703 681 682
   address: |
-      Na Moráni 3
-      120 00 Praha 2
+    Na Moráni 3,
+    120 00 Praha 2
   mapLink: https://mapy.cz/s/norubuzado
   redmineLink: https://redmine.pirati.cz/projects/praha
-  residenceImg:
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
-  donateLink: https://dary.pirati.cz/podpor-kraj/praha/
+  donateLink: https://dary.pirati.cz/podpor-kraj/praha/  
   onboardingLink: https://nalodeni.pirati.cz/
 
 contactSummaryItems:
@@ -42,7 +45,7 @@ calendar:
 
 facebook:
   loadSDK: true
-  profilePage: "https://www.facebook.com/PiratiPraha/"
+  profilePage: "https://www.facebook.com/CeskaPiratskaStranaPraha/"
   profilePageName: "Piráti Praha"
   appId: 1526197851008996
 
