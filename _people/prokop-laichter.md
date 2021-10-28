@@ -6,6 +6,7 @@ titles:
   after:
 category:
 img: 		people/prokop-laichter.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description:  "asistent"
 mail:
 - prokop.laichter@praha.eu

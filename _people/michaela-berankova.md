@@ -7,6 +7,7 @@ titles:
 category:                
 contactType: 
 img: people/michaela-berankova.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: asistentka Tomáše Murňáka    	# kratký popis, max 160 znaků
 mail:
 - michaela.berankova@pirati.cz

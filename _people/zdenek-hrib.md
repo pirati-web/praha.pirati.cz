@@ -8,6 +8,7 @@ category:
 - mhmp-radni
 - praha
 img: people/zdenek-hrib.jpg  # 165 x 220
+heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/13-hrib.jpg
 description: <br/> primátor hlavního města Prahy
 asistenti:

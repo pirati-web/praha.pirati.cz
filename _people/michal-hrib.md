@@ -8,6 +8,7 @@ category:
 - kodo
 - kontaktni_osoba
 img: people/michal-hrib.jpg
+heroImg: Prague_panorama.jpeg
 contactType: Kontakt pro dobrovolníky
 ordkodo: 6
 img: people/michal-hrib.jpg

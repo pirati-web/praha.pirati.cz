@@ -8,6 +8,7 @@ category:
 - kodo
 - kontaktni_osoba
 img: people/pavel-bursik.jpg
+heroImg: Prague_panorama.jpeg
 contactType: Kontakt pro dobrovolníky
 ordkodo: 7
 img: people/pavel-bursik.jpg

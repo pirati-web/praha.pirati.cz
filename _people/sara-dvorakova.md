@@ -6,6 +6,7 @@ titles:
   after:
 category:
 img: 		people/placeholder.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description:  "sekretářka Evy Horákové"
 mail:
 - sara.dvorakova@praha.eu

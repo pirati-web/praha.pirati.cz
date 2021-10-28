@@ -8,6 +8,7 @@ category:
 - praha
 ordkodo: 2
 img: people/michal-jokes.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description:  
 mail:
 - michal.jokes@pirati.cz

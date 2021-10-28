@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - senat
 img: people/ladislav-kos.jpg # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: Senátor za volební obvod Praha 11, spolunominovaný Pirátskou stranou             	# kratký popis, max 160 znaků
 mail:
 - ladislav.kos@gmail.com

@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc
 img: people/lukas-findeis.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: radní městské části Praha 12 pro sociální věci, zdravotnictví a sport, 4. místopředseda PMS Praha 12, běžecký trenér, ultramaratonec
 mail:
 - lukas.findeis@pirati.cz

@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/petr-bervid.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description:      	# kratký popis, max 160 znaků
 mail:
 - snop5@email.cz

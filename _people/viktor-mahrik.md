@@ -10,6 +10,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - carousel
 - vybor
 img: 		people/viktor-mahrik.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/04-mahrik.jpg
 description: 			zastupitel hl. m. Prahy, předseda zast. klubu Pirátů<br/> zastupitel s gescí majetek a městské společnosti       	        			# kratký popis, max 160 znaků
 descvyb: předseda výboru pro správu majetku a maj. podíly ZHMP, člen výboru pro dopravu

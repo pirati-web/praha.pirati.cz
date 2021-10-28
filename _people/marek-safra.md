@@ -8,6 +8,7 @@ category:
 - poradce_primatora
 contactType: 
 img: people/marek-safra.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: poradce primátora    	# kratký popis, max 160 znaků
 mail:
 - marek.safra@praha.eu

@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/sylvie-klobouckova.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: člen dozorčí rady společnosti Zdroj pitné vody Káraný a.s.  	# kratký popis, max 160 znaků
 mail:
 - sylvie.klobouckova@gmail.com

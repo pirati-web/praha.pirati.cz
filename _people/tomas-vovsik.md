@@ -8,6 +8,7 @@ category:
 - poradce_primatora
 contactType: 
 img: people/tomas-vovsik.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: poradce primátora    	# kratký popis, max 160 znaků
 mail:
 - tomas.vovsik@praha.eu

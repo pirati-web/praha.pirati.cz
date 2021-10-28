@@ -6,6 +6,7 @@ titles:
   after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/michal-stepan.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: bývalý člen dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.     	# kratký popis, max 160 znaků
 mail:
 - michal.stepan@maxstav.cz
