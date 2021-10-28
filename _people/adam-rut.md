@@ -6,6 +6,7 @@ titles:
   after:
 category:
 img: 		people/adam-rut.png    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description:  "asistent pro oblast transparentnosti"
 mail:
 - adam.rut@praha.eu

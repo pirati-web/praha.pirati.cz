@@ -9,6 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc
 img: people/dana-balcarova.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: garant programového bodu životní prostředí             	# kratký popis, max 160 znaků
 mail:
 - dana.balcarova@pirati.cz

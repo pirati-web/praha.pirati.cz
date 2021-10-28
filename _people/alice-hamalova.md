@@ -6,6 +6,7 @@ category:
  - praha
  - dr
 img: 		people/alice-hamalova.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: zastupitelka na Praze 8, členka dozorčí rady ve společnosti Želivská provozní, a.s.
 mail:
 - alice.hamalova@pirati.cz

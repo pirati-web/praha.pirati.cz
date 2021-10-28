@@ -8,6 +8,7 @@ ordclenove: 9
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/jan-bartko.jpg # zakomentuj radek dokud není fotka
+heroImg: Prague_panorama.jpeg
 mail:
   - jan.bartko@pirati.cz
 profiles:

@@ -4,6 +4,7 @@ name:     Jana Kabelová  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jana-kabelova.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description:      	# kratký popis, max 160 znaků
 mail:
 - jana.kabelova@pirati.cz

@@ -2,6 +2,7 @@
 uid: jan.licka
 name: Jan Lička	# běžně používáné jméno
 img: 		people/jan-licka.jpg 
+heroImg: Prague_panorama.jpeg
 description: člen dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
