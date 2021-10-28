@@ -16,6 +16,7 @@ category:                 	# kategorie: praha
 - carousel
 img: people/adam-zabransky.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
+
 description: radní pro bydlení a transparentnost            	# kratký popis, max 160 znaků
 profilebadge: people/badge/03-zabransky.jpg
 direct-contact: true
