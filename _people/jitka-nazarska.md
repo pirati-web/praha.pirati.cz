@@ -4,6 +4,7 @@ name:     Jitka Nazarská  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jitka-nazarska.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description:      	# kratký popis, max 160 znaků
 mail:
 - jitka.nazarska@pirati.cz

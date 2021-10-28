@@ -2,6 +2,7 @@
 uid: jaroslav.nemec
 name: Jaroslav Němec  	# běžně používáné jméno
 img: 		people/jaroslav-nemec.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description:            	        			# kratký popis, max 160 znaků
 mail:
 - jaroslav.nemec@pirati.cz

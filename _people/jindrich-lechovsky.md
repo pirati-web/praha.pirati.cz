@@ -7,6 +7,7 @@ titles:
 category:
  - dr
 img: 		people/jindrich-lechovsky.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: člen dozorčí rady společnosti Pražská plynárenská a.s.
 mail:
 - lechovsky@lbak.cz
