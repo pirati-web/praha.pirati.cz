@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc
 img: people/lukas-findeis.jpg   # 165 x 220
-description: radní městské části Praha 12 pro sociální věci, zdravotnictví a sport, 4. místopředseda PMS Praha 12, běžecký trenér, ultramaratonec
+description: bývalý radní městské části Praha 12 pro sociální věci, zdravotnictví a sport, 4. místopředseda PMS Praha 12, běžecký trenér, ultramaratonec
 mail:
 - lukas.findeis@pirati.cz
 mob:			  +420 735 076 699
@@ -29,4 +29,4 @@ office:
 calendar: b2q3kpoefb62brt4md350okubk%40group.calendar.google.com
 ---
 
-Lukáš Findeis (* 1985, Praha) radní městské části Praha 12 pro sociální věci, zdravotnictví a sport, 4. místopředseda PMS Praha 12, běžecký trenér, ultramaratonec
+Lukáš Findeis (* 1985, Praha) je bývalý pirátský městské části Praha 12 pro sociální věci, zdravotnictví a sport, 4. místopředseda PMS Praha 12, běžecký trenér, ultramaratonec
