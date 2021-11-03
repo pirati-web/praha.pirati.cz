@@ -15,8 +15,8 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 * **[Sociální politika](https://forum.pirati.cz/viewforum.php?f=1268")** – Vedoucí: Eva Horáková (eva.horakova@pirati.cz)
 * **[Sport](https://forum.pirati.cz/viewforum.php?f=1269")** – Vedoucí: Ladislav Kos (ladislav.kos@pirati.cz)
 * **[Školství](https://forum.pirati.cz/viewforum.php?f=1270")** – Vedoucí: Vít Šimral (vit.simral@pirati.cz)
-* **[Územní rozvoj a plánování](https://forum.pirati.cz/viewforum.php?f=1271")** – Vedoucí: Tomáš Murňák (tomas.murnak@prati.cz)
-* **[Transparentnost a legislativa](https://forum.pirati.cz/viewforum.php?f=1265)** – Vedoucí: Adam Rut (adam.rut@prati.cz)
+* **[Územní rozvoj a plánování](https://forum.pirati.cz/viewforum.php?f=1271")** – Vedoucí: Tomáš Murňák (tomas.murnak@pirati.cz)
+* **[Transparentnost a legislativa](https://forum.pirati.cz/viewforum.php?f=1265)** – Vedoucí: Adam Rut (adam.rut@pirati.cz)
 * **[Zdravotnictví](https://forum.pirati.cz/viewforum.php?f=1272")** – Vedoucí: Eva Horáková (eva.horakova@pirati.cz)
 * **[Životní prostředí a zemědělství](https://forum.pirati.cz/viewforum.php?f=1273")** – Vedoucí: Eva Tylová (eva.tylova@ecn.cz)
 
