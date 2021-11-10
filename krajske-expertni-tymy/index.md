@@ -13,7 +13,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 * **[IT a Smart City](https://forum.pirati.cz/viewforum.php?f=1264")** – Vedoucí: Jan Hora (jan.hora@pirati.cz)
 * **[Kultura](https://forum.pirati.cz/viewforum.php?f=1266")** – Vedoucí: Ondřej Chrást (ondrej.chrast@pirati.cz)
 * **[Sociální politika](https://forum.pirati.cz/viewforum.php?f=1268")** – Vedoucí: Eva Horáková (eva.horakova@pirati.cz)
-* **[Sport](https://forum.pirati.cz/viewforum.php?f=1269")** – Vedoucí: Ladislav Kos (ladislav.kos@pirati.cz)
+* **[Sport](https://forum.pirati.cz/viewforum.php?f=1269")** – Vedoucí: Vít Šimral (vit.simral@pirati.cz)
 * **[Školství](https://forum.pirati.cz/viewforum.php?f=1270")** – Vedoucí: Vít Šimral (vit.simral@pirati.cz)
 * **[Územní rozvoj a plánování](https://forum.pirati.cz/viewforum.php?f=1271")** – Vedoucí: Tomáš Murňák (tomas.murnak@pirati.cz)
 * **[Transparentnost a legislativa](https://forum.pirati.cz/viewforum.php?f=1265)** – Vedoucí: Adam Rut (adam.rut@pirati.cz)
