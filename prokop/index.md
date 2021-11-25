@@ -32,7 +32,7 @@ Místo drobné včasné opravy pak po roce zatékání do budovy navrhoval v lé
 
 ![Money Power!](/assets/img/prokop/gangsta.jpg "Money Power!")
 
-Ondřej Prokop je známý pro svou bezostyšnou kumulací pozic placených z veřejných peněz. Za neuvolněnou funkci (tedy jako vedlejšák) místostarosty MČ Praha 11 pobíral zhruba 60 tisíc korun měsíčně. K tomu musíme připočítat jeho odměnu coby předsedy představenstva Jihoměstské majetkové ve výši 14 tisíc korun měsíčně a pak také odměnu za výkon funkce člena dozorčí rady v městské firmě Pražská vodohospodářská společnost a.s. (nominován hnutím ANO) s odměnou ve výši 21 tisíc korun měsíčně, kde se účastnil za tři roky pouze dvou jednání dozorčí rady. A když si připočteme odměnu za výkon člena zastupitelstva hlavního města Prahy (kde často neúčastní jednání komisí kam se nechal zvolit), tak Ondřej Prokop si měsíčně v době, kdy byl místostarostou MČ Praha 11 přišel na krásných zhruba 115 tisíc korun měsíčně. 
+Ondřej Prokop je známý pro svou bezostyšnou kumulaci pozic placených z veřejných peněz. Za neuvolněnou funkci (tedy jako vedlejšák) místostarosty MČ Praha 11 pobíral zhruba 60 tisíc korun měsíčně. K tomu musíme připočítat jeho odměnu coby předsedy představenstva Jihoměstské majetkové ve výši 14 tisíc korun měsíčně a pak také odměnu za výkon funkce člena dozorčí rady v městské firmě Pražská vodohospodářská společnost a.s. (nominován hnutím ANO) s odměnou ve výši 21 tisíc korun měsíčně, kde se účastnil za tři roky pouze dvou jednání dozorčí rady. Z eráru tak za tři roky načerpal přes 750 tisíc Kč za dvě schůzky. A když si připočteme odměnu za výkon člena zastupitelstva hlavního města Prahy (kde často neúčastní jednání komisí kam se nechal zvolit), tak Ondřej Prokop si měsíčně v době, kdy byl místostarostou MČ Praha 11 přišel na krásných zhruba 115 tisíc korun měsíčně.
 
 V minulosti byl kromě výše uvedeného navíc třeba členem dozorčí rady firmy:
 * Zdroj pitné vody Káraný s odměnou 18 tisíc Kč měsíčně, 
@@ -40,6 +40,8 @@ V minulosti byl kromě výše uvedeného navíc třeba členem dozorčí rady fi
 * Operátor ICT, a.s. ve výši 10 tisíc Kč měsíčně
 
 Celkem je to ročně přes milion korun. Není ale první svého druhu. [Pamatujete? My pamatujeme!](https://prazsky.denik.cz/zpravy_region/zastupitelka-hasova-si-v-pre-vydelala-1-2-mil-kritizuji-pirati-20160721.html)
+
+Ondřeje Prokopa si možná pomatujete i z [legendární trafikantské tabulky](https://zpravy.aktualne.cz/domaci/prazsti-zastupitele-za-ano-si-rozdelovali-lukrativni-funkce/r~14f83a08cecb11e7be860cc47ab5f122/), která ukázala, že každý zastupitel za ANO na magistrátu musel dostat trafiky za minimálně 100 tisíc měsíčně aby hlasoval s tehdejší koalicí.
 
 Ondřej Prokop tvrdí, že ho politika neživí, a proto může mluvit pravdu, ale jistě víme, že z městských peněz Ondřeji Prokopovi putovaly miliony korun. Za co? Nevíme.
 
