@@ -11,7 +11,7 @@ Od roku 2014 je zastupitelem městské části Praha 11, od roku 2015 je pak i z
 
 Pro svou neschopnost byl Ondřej Prokop z rady městské části Prahy 11 v říjnu 2021 odvolán hlasy opozice i vládnoucí koalice. Mimo jiné také proto, že se nevěnoval práci na radnici kvůli velkému množství jiných svých funkcí a aktivit placených z veřejných peněz. Těch bylo a je tolik, že si to určitě zaslouží nějaký přehled na jednom místě.
  
-Jeho manželka a zároveň mluvčí Prahy 11 mu sice založila stránku na Wikipedii, ale ta byla následně zrušena z důvodu “nedoložení enycklopedické významnosti”. Protože si však myslíme, že aktivity Ondřeje Prokopa určitě by neměly zapadnout, shrnujeme je na této stránce.
+Jeho manželka a zároveň mluvčí Prahy 11 mu sice založila stránku na Wikipedii, ale ta byla následně zrušena z důvodu “nedoložení encyklopedické významnosti”. Protože si však myslíme, že aktivity Ondřeje Prokopa určitě by neměly zapadnout, shrnujeme je na této stránce.
 
 
 ### Škody způsobené prodlením Ondřeje Prokopa při řešení zatékání do budovy Sandry
