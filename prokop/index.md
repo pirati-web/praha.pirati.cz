@@ -13,8 +13,14 @@ Pro svou neschopnost byl Ondřej Prokop z rady městské části Prahy 11 v ří
  
 Jeho manželka a zároveň mluvčí Prahy 11 mu sice založila stránku na Wikipedii, ale ta byla následně zrušena z důvodu “nedoložení encyklopedické významnosti”. Protože si však myslíme, že aktivity Ondřeje Prokopa určitě by neměly zapadnout, shrnujeme je na této stránce.
 
+### Obsah
 
-### Škody způsobené prodlením Ondřeje Prokopa při řešení zatékání do budovy Sandry
+1. [Škody způsobené prodlením Ondřeje Prokopa při řešení zatékání do budovy Sandry](/prokop/#1)
+2. [Královské platy z eráru pro Ondřeje Prokopa](/prokop/#2)
+3. [Prokopova IT firma získala bez soutěže zakázku na dodávku ložního prádla pro domov seniorů](/prokop/#3)
+
+
+### <a name="1"></a> Škody způsobené prodlením Ondřeje Prokopa při řešení zatékání do budovy Sandry
 
 ![Pomůže kbelík?](/assets/img/prokop/sandra.jpg "Pomůže kbelík?")
 
@@ -22,7 +28,7 @@ Bývalý místostarosta MČ Praha 11 Ondřej Prokop si byl vědom minimálně od
 
 Místo drobné včasné opravy pak po roce zatékání do budovy navrhoval v létě 2021 obří zakázku na opravu střechy a pláště budovy. S radou MČ Praha 11 projektovou dokumentaci vůbec nekonzultoval. Musel přitom vědět, že MČ Praha 11 na tuto zakázku nemá v rozpočtu peníze a ani nemá zažádáno o dotace, ze kterých by bylo možné zmíněných chybějících cca 150 milionů Kč na zakázku zajistit.
 
-### Královské platy z eráru pro Ondřeje Prokopa
+### <a name="2"></a>Královské platy z eráru pro Ondřeje Prokopa
 
 ![Money Power!](/assets/img/prokop/gangsta.jpg "Money Power!")
 
@@ -37,7 +43,7 @@ Celkem je to ročně přes milion korun. Není ale první svého druhu. [Pamatuj
 
 Ondřej Prokop tvrdí, že ho politika neživí, a proto může mluvit pravdu, ale jistě víme, že z městských peněz Ondřeji Prokopovi putovaly miliony korun. Za co? Nevíme.
 
-### Prokopova IT firma získala bez soutěže zakázku na dodávku ložního prádla pro domov seniorů
+### <a name="3"></a>Prokopova IT firma získala bez soutěže zakázku na dodávku ložního prádla pro domov seniorů
 
 ![Dostal dům seniorů nabídku, kterou nemohl odmítnout?](/assets/img/prokop/don.jpg "Dostal dům seniorů nabídku, kterou nemohl odmítnout?")
 
