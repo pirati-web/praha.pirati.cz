@@ -43,8 +43,6 @@ Celkem je to ročně přes milion korun. Není ale první svého druhu. [Pamatuj
 
 Ondřeje Prokopa si možná pomatujete i z [legendární trafikantské tabulky](https://zpravy.aktualne.cz/domaci/prazsti-zastupitele-za-ano-si-rozdelovali-lukrativni-funkce/r~14f83a08cecb11e7be860cc47ab5f122/), která ukázala, že každý zastupitel za ANO na magistrátu musel dostat trafiky za minimálně 100 tisíc měsíčně aby hlasoval s tehdejší koalicí.
 
-Ondřej Prokop tvrdí, že ho politika neživí, a proto může mluvit pravdu, ale jistě víme, že z městských peněz Ondřeji Prokopovi putovaly miliony korun. Za co? Nevíme.
-
 ### <a name="3"></a>Prokopova IT firma získala bez soutěže zakázku na dodávku ložního prádla pro domov seniorů
 
 ![Dostal dům seniorů nabídku, kterou nemohl odmítnout?](/assets/img/prokop/don.jpg "Dostal dům seniorů nabídku, kterou nemohl odmítnout?")
