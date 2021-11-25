@@ -5,6 +5,15 @@ description: "Ondřej Prokop: Práce všeho druhu"
 keywords: Ondřej Prokop, ANO
 ---
 
+Ondřej Prokop je člověkem, který o sobě tvrdí, že ho politika neživí. Ale opak je pravdou.
+
+Od roku 2014 je zastupitelem městské části Praha 11, od roku 2015 je pak i zastupitelem hlavního města Prahy. Rok byl neuvolněným radním, od počátku roku 2019 pak byl neuvolněným místostarostou Prahy 11. 
+
+Pro svou neschopnost byl Ondřej Prokop z rady městské části Prahy 11 v říjnu 2021 odvolán hlasy opozice i vládnoucí koalice. Mimo jiné také proto, že se nevěnoval práci na radnici kvůli velkému množství jiných svých funkcí a aktivit placených z veřejných peněz. Těch bylo a je tolik, že si to určitě zaslouží nějaký přehled na jednom místě.
+ 
+Jeho manželka a zároveň mluvčí Prahy 11 mu sice založila stránku na Wikipedii, ale ta byla následně zrušena z důvodu “nedoložení enycklopedické významnosti”. Protože si však myslíme, že aktivity Ondřeje Prokopa určitě by neměly zapadnout, shrnujeme je na této stránce.
+
+
 ### Škody způsobené prodlením Ondřeje Prokopa při řešení zatékání do budovy Sandry
 
 ![Pomůže kbelík?](/assets/img/prokop/sandra.jpg "Pomůže kbelík?")
