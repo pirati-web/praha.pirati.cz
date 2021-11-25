@@ -7,7 +7,7 @@ keywords: Ondřej Prokop, ANO
 
 Ondřej Prokop je člověkem, který o sobě tvrdí, že ho politika neživí. Ale opak je pravdou.
 
-Od roku 2014 je zastupitelem městské části Praha 11, od roku 2015 je pak i zastupitelem hlavního města Prahy. Rok byl neuvolněným radním, od počátku roku 2019 pak byl neuvolněným místostarostou Prahy 11. 
+Od roku 2014 je zastupitelem městské části Praha 11, od roku 2015 je pak i zastupitelem hlavního města Prahy. Rok byl radním, od počátku roku 2019 pak byl místostarostou Prahy 11. 
 
 Pro svou neschopnost byl Ondřej Prokop z rady městské části Prahy 11 v říjnu 2021 odvolán hlasy opozice i vládnoucí koalice. Mimo jiné také proto, že se nevěnoval práci na radnici kvůli velkému množství jiných svých funkcí a aktivit placených z veřejných peněz. Těch bylo a je tolik, že si to určitě zaslouží nějaký přehled na jednom místě.
  
@@ -24,7 +24,7 @@ Jeho manželka a zároveň mluvčí Prahy 11 mu sice založila stránku na Wikip
 
 ![Pomůže kbelík?](/assets/img/prokop/sandra.jpg "Pomůže kbelík?")
 
-Bývalý místostarosta MČ Praha 11 Ondřej Prokop si byl vědom minimálně od léta 2020 o zatékání do budovy Sandra v průběhu její rekonstrukce a tuto situaci nijak neřešil. Vědomě tak ohrozil investici za zhruba 400 milionů korun.
+Bývalý místostarosta MČ Praha 11 Ondřej Prokop si byl vědom minimálně od léta 2020 o zatékání do budovy Sandra v průběhu její rekonstrukce, za kterou byl odpovědný, ale tuto situaci nijak neřešil. Vědomě tak ohrozil investici za zhruba 400 milionů korun.
 
 Místo drobné včasné opravy pak po roce zatékání do budovy navrhoval v létě 2021 obří zakázku na opravu střechy a pláště budovy. S radou MČ Praha 11 projektovou dokumentaci vůbec nekonzultoval. Musel přitom vědět, že MČ Praha 11 na tuto zakázku nemá v rozpočtu peníze a ani nemá zažádáno o dotace, ze kterých by bylo možné zmíněných chybějících cca 150 milionů Kč na zakázku zajistit.
 
