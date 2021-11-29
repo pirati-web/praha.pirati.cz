@@ -1,7 +1,7 @@
 ---
 date:         2021-11-29
 tags:        
-- informatika
+- hospodaření
 title:        "Rada projednala rozpočet. Hospodaření bude ve znamení velkých investic a nízkého zadlužení"
 image: 	      novaradnice.jpg
 author:       MHMP
