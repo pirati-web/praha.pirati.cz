@@ -11,7 +11,7 @@ img: people/martin-hunady.jpg
 contactType: Kontakt pro dobrovolníky
 description: Koordinátor dobrovolníků s gescemi – zapojování nováčků, práce s nováčky, produkce pražských akcí
 mail: martin.hunady@pirati.cz
-mob: 
+mob: 770 113 641
 profiles:
   github:       
   facebook: 
