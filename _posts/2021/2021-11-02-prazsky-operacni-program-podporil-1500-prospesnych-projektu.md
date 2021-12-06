@@ -1,0 +1,33 @@
+---
+date:         2021-11-02
+tags:         
+- operační-program 
+- evropské-dotace
+title:        "Pražský operační program podpořil téměř 1 500 prospěšných projektů "
+image: 	      dotace.jpg
+author:       MHMP
+---
+
+Operační programu Praha – pól růstu ČR (OP PPR) pomohl za sedm let svého fungování uskutečnit zhruba 1 500 projektů, které hlavní město a život v něm přibližují nejvyspělejším evropským metropolím. Ve svém finále se stal jedním z nejlépe hodnocených operačních programů v České republice a současně přispěl k tomu, že Praha bude moci evropské dotace na svůj rozvoj i v dalších letech čerpat v nejvyšší možné míře.  
+
+> „Evropské finance jsou pro Pražany opravdu důležité a jsem rád, že je umíme pro naše město vyjednat a efektivně využívat. Operační program Praha – pól růstu významným způsobem pomohl uskutečnit konkrétní projekty města v mnoha oblastech. I díky němu můžeme mimo jiné elektrifikovat linky veřejné dopravy, rozšiřovat silnice, rekonstruovat byty pro sociální bydlení, zvyšovat kapacitu školek nebo vytvářet komunitní centra. Přestože je tento operační program druhý nejmenší v zemi, je vidět, že čerpáme dobře, protože svými výsledky předčí i mnohé daleko větší programy,“ říká primátor hl. m. Prahy Zdeněk Hřib.  
+
+O výborné kondici OP PPR svědčí například fakt, že ke konci srpna Evropská unie uznala a proplatila už přes 72 procent celkové alokace programu, což je nejvíce ze všech českých operačních programů. Podobně úspěšný je pražský operační program i v plnění tzv. limitu N+3 (plnění i po následující tři roky), monitorovacího nástroje pro zajištění plynulého čerpání finančních prostředků ze strukturálních fondů. Tempo jeho plnění se každým rokem zrychlovalo a letos se ho řídicímu orgánu programu, tedy magistrátnímu odboru evropských fondů, podařilo splnit již v závěru května. Ke konci srpna byl limit splněn už na bezmála 136 procent, tedy nejen letos, ale ani v příštích letech nehrozí, že by bylo nutné finanční prostředky unii vrátit pro neplnění závazků. 
+
+OP PPR byl rovněž mezi prvními programy, které v souladu s unijními prioritami začaly používat inovativní finanční nástroje. Nejprve, předloni na jaře, byl ve spolupráci s Českomoravskou záruční a rozvojovou bankou (ČMZRB) spuštěn program INFIN 2018, který malým a středním podnikatelům nabídl bezúročný úvěr na inovativní projekty. Po vypuknutí pandemie se většina vyčleněných prostředků přesunula do dalšího finančního nástroje – programu COVID Praha, který, opět ve spolupráci s ČMZRB, pomohl zasaženým pražským podnikatelům překonat nejtěžší období. 
+
+Právě schopnost rychle reagovat na změnu situace, odvaha nabídnout v případě potřeby nové řešení a také vstřícný, osobní přístup ke každému zájemci o podporu projektu, je ostatně tím, čeho si žadatelé a příjemci na pražském operačním programu nejvíce cení a kvůli čemu se u nich těší nemalé oblibě.  
+
+Evropská unie vyčlenila pro OP PPR zhruba 5,2 miliardy korun, a to z Evropského sociálního fondu a z Evropského fondu pro regionální rozvoj. Praha jako tzv. více rozvinutý region musí splnit podmínku padesátiprocentního spolufinancování projektů, ať už ze svého rozpočtu, nebo z prostředků příjemce dotace. Podpora směřuje do čtyř oblastí: výzkumu, technologického rozvoje a inovací, udržitelné mobility a energetických úspor, sociálního začleňování a boje proti chudobě a do vzdělávání a zaměstnanosti. Vyhlášeno bylo 57 výzev, z nichž tři jsou ještě otevřeny. Předloženo bylo přes 2300 projektových žádostí, podporu jich získalo přes 1600. Se žadateli o podporu více než 1400 projektů již byly uzavřeny smlouvy o financování, a to ve výši přesahující deset miliard korun.  
+
+Mezi největší příjemce podpory z programu patří Dopravní podnik hlavního města Prahy, který díky ní například vyměnil v řadě stanic metra eskalátory, osvětlení či vzduchotechniku a vybudoval výtahy pro handicapované. „Městu výrazně pomůže také stavba velkokapacitního parkovacího domu na Černém Mostě, díky němuž nebudou řidiči přijíždějící do Prahy od východu muset zajíždět hlouběji do města, ale mohou hned na jeho okraji přesednout na veřejnou dopravu. Z evropských dotací budeme platit i výměnu třetiny z více než tisíce městských naftových autobusů za vozidla na elektrický pohon, která začne už na přelomu tohoto a příštího roku,“ popisuje primátor Zdeněk Hřib. 
+
+Získat prostředky na další posílení čisté elektromobility bylo také jedním z cílů, na který se vedení magistrátu soustředilo při vyjednávání o podobě národního plánu obnovy.
+
+Česko by na jeho realizaci mělo z mimořádného fondu Evropské unie zaměřeného na obnovu pocovidových ekonomik získat až 180 miliard korun. Vláda se zavázala 41 procent této částky investovat do klimaticky šetrných projektů, přičemž zástupcům hlavního města se podařilo vyjednat téměř tři miliardy korun na pořízení tramvají a trolejbusů a potřebné infrastruktury.  
+
+Prvních 23 ze zmíněných 180 miliard už Evropská komise Česku v závěru září zaslala. Mezi podmínkami pro uvolnění dalších peněz je to, že české úřady odstraní systémové nedostatky v postupu vůči střetu zájmů vrcholných politiků – podle závěrů auditu komise je ve střetu zájmů premiér Andrej Babiš. Pokud ČR problém do poloviny příštího roku neodstraní, hrozí, že Česká republika nejméně o část prostředků z fondu přijde. Praha přitom vyjednané prostředky naléhavě potřebuje – pandemie ji připravila o sedm miliard korun, o další dvě a půl miliardy ročně přijde kvůli daňovému balíčku. 
+
+Konec září přinesl rovněž vládní schválení Dohody o partnerství, základního dokumentu pro čerpání unijních fondů v začínajícím programovém období 2021–2027. Praha v tomto období vlastní operační program z rozhodnutí vlády mít nebude. Její zástupci se však velmi aktivně zapojují do všech jednání o chystaných operačních programech a dalších formách evropské podpory tak, aby obyvatelům Prahy i do budoucna zajistili k těmto prostředkům široký přístup. Podílí se i na činnosti tzv. paktu svobodných měst, který usiluje o přímé financování měst či regionů ze strany Evropské unie.
+
+> „Pro následující léta se nám podařilo vyjednat více než devět miliard korun na rekonstrukci náměstí a dalších veřejných prostranství či na rozvoj škol a digitalizaci. Částkou pět až osm miliard korun z evropských peněz bude financována výstavba nových tramvajových tratí a také třeba nový Dvorecký most. V rámci Národního plánu obnovy Praha obdrží téměř tři miliardy korun na nízkoemisní autobusy a dobíjecí stanice pro městskou dopravu. O další finance z Národního plánu obnovy bude dále usilovat více než sto pražských projektových záměrů v hodnotě několika desítek miliard korun. Praha bude moci využívat také dotace na energetické úspory a zlepšení životního prostředí z Modernizačního fondu,“ uzavírá Zdeněk Hřib.
