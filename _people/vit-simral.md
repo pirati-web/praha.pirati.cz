@@ -26,10 +26,10 @@ asistenti:
     position: komunikace s médii <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: kamila.bila@praha.eu
     tel: 774 236 034
-  - name: Helena Barkmanová
+  - name: Šárka Václavíková
     <!--uid: helena.barkmanova-->
     position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: helena.barkmanova@praha.eu
+    mail: sarka.vaclavikova@praha.eu
     <!--tel: 236 00 2944-->
 mail:
 - vit.simral@pirati.cz
