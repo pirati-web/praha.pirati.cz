@@ -6,6 +6,7 @@ titles:
   after:
 category: 
 - kodo
+- kontaktni_osoba
 ordkodo: 6
 img: people/martin-hunady.jpg
 contactType: Kontakt pro dobrovolníky
