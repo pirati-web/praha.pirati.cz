@@ -5,6 +5,8 @@ description: "Ondřej Prokop: Práce všeho druhu"
 keywords: Ondřej Prokop, ANO
 ---
 
+![Ondřej Prahu fakt Prokopne](/assets/img/prokop/billboard.jpg "Ondřej Prahu fakt Prokopne")
+
 Ondřej Prokop je člověkem, který o sobě tvrdí, že ho politika neživí. Ale opak je pravdou.
 
 Od roku 2014 je zastupitelem městské části Praha 11, od roku 2015 je pak i zastupitelem hlavního města Prahy. Rok byl radním, od počátku roku 2019 pak byl místostarostou Prahy 11. 
@@ -18,6 +20,7 @@ Jeho manželka a zároveň mluvčí Prahy 11 mu sice založila stránku na Wikip
 1. [Škody způsobené prodlením Ondřeje Prokopa při řešení zatékání do budovy Sandry](/prokop/#1)
 2. [Královské platy z eráru pro Ondřeje Prokopa](/prokop/#2)
 3. [Prokopova IT firma získala bez soutěže zakázku na dodávku ložního prádla pro domov seniorů](/prokop/#3)
+4. [Proč byl Prokop odvolán z vedení Prahy 11? Lži kolem arény ledových sportů](/prokop/#4)
 
 
 ### <a name="1"></a> Škody způsobené prodlením Ondřeje Prokopa při řešení zatékání do budovy Sandry
@@ -52,4 +55,12 @@ Ondřej Prokop kritizoval dřívější soutěžení zakázek malého rozsahu v 
 I v rámci předchozích pravidel se nicméně za vlády Pirátů u malých zakázek soutěžilo tak, že rozhodovala pouze cena a na každou zakázku došlo více nabídek. To je ostatně vidět i na webu [golemio.cz](golemio.cz), kde Magistrát hlavního města Prahy od roku 2020 transparentně zveřejňuje informace o zakázkách, a to včetně těch, které obvykle úřady nezveřejňují. Mezi tyto údaje patří třeba počet konkurenčních nabídek. Také díky tomu snížil magistrát za vlády Pirátů mezi lety 2018 a 2021 náklady na IT o 143 milionů korun ročně.
 
 Se magistrátními zakázkami “z ruky” bez soutěže pro IT firmy má naopak velkou zkušenost Ondřej Prokop, protože jeho IT firma Fresh Services s.r.o. [získala v roce 2017 zakázku](https://www.hlidacstatu.cz/Detail/1604110?qs=ico%3A28180208) na dodání ložního prádla pro magistrátní domov seniorů Zahradní město v hodnotě 70 tisíc korun. Bez jakékoliv soutěže. Proč oslovil domov seniorů za vlády ANO pro dodávku ložního prádla právě pouze IT firmu pana Prokopa zůstává nadále tajemstvím.
+
+### <a name="4"></a>Proč byl Prokop odvolán z vedení Prahy 11? Lži kolem arény ledových sportů.
+
+![Aréna ledových sportů](/assets/img/prokop/als.jpg "Aréna ledových sportů")
+
+Ondřej Prokop se vydává za jakéhosi disidenta projektu arény ledových sportů na Praze 11 a tvrdí že byl odvolán Piráty kvůli svému odporu k této stavbě. Realita je však úplně jiná. Ondřej Prokop byl v roce 2021 odvolán z pozice místostarosty městské části Praha 11 z důvodu naprostého nezvládnutí své gesce, nečinnosti a kumulace funkcí. Odvolán byl nejen hlasy svých koaličních partnerů z více stran ale i hlasy opozičního Hnutí pro Prahu 11. 
+
+S těmi byl přitom Ondřej Prokop v koalici v minulém období, kde byly učiněny zásadní nevratné kroky směřující k realizaci projektu arény ledových sportů v podobě podpisu smluvy o právu stavby tehdejším starostou Štylerem (HPP), se kterým ANO sedělo v koalici. Důkazem, že Prokop tento projekt dále podporoval, je hlasování na ZMČ Prahy 11 dne 23. 3. 2017, kdy Prokop podpořil prodloužení práva stavby, jak dokládá [jeho hlasování](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.716876048.1639550485&bod=1644858). A tento krok se opakoval znovu v následujícím roce 13. 9. 2018, kdy opět [hlasoval](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.716876048.1639550485&bod=2138769) pro další prodloužení práva stavby. Pokud měl pan Prokop pochybnosti o tomto projektu, mohl svým nesouhlasným hlasování zajistit ukončení projektu, protože již v té době bylo jasné, že projekt bez účasti města nemůže vzniknout. Těžko tedy mohl být důvod jeho odvolání v tom, že se jako jediný snažil projekt arény ledových sportů zastavit, když naopak i kvůli jeho aktivitě v minulém období neměla městská část jinou možnost než tento projekt se soukromým investorem začít realizovat.
 
