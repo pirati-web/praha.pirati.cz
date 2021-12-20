@@ -6,6 +6,7 @@ titles:
   after:
 category: 
 - kodo
+- kontaktni_osoba
 ordkodo: 5
 img: people/jiri-belsan.jpg
 contactType: Koordinátor dobrovolníků

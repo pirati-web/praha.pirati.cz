@@ -6,6 +6,7 @@ titles:
   after:
 category: 
 - kodo
+- kontaktni_osoba
 ordkodo: 7
 img: people/david-rauser.jpg
 contactType: Kontakt pro dobrovolníky
