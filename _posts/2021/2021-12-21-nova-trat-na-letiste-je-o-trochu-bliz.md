@@ -4,7 +4,7 @@ tags:
 - doprava
 title:        "Nová trať na letiště zase o krok blíž"
 image: 	      murnak-9.jpg
-author:       MHMP
+author:       Tomáš Murňák
 ---
  
 Pražské zastupitelstvo na svém prosincovém jednání schválilo změnu územního plánu pro železniční trať vedoucí z Prahy do Kladna přes Bubny, Dejvice a Letiště Václava Havla. 
