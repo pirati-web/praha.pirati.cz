@@ -31,14 +31,14 @@
 - locality: Praha 6
   link: https://praha6.pirati.cz
   coa: https://upload.wikimedia.org/wikipedia/commons/2/2a/Praha_6_znak.gif
-  fb: https://www.facebook.com/PiratiP6/
+  fb: https://www.facebook.com/piratipraha6/
   #mail:
   kontakt: ondrej.chrast
 - locality: Praha 7
   note: Stánky jsou společné s koaličními Zelenými.
   link: https://piratizeleni7.cz
   coa: https://upload.wikimedia.org/wikipedia/commons/0/01/Praha-07_CoA.svg
-  fb: https://www.facebook.com/PiratiP7/
+  fb: https://www.facebook.com/PiratiPraha7/
   mail: pavel.tauer@pirati.cz
   kontakt: pavel.tauer
 - locality: Praha 8
@@ -50,7 +50,7 @@
 - locality: Praha 9
   link: https://praha9.pirati.cz
   coa: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Praha-09_CoA.svg/513px-Praha-09_CoA.svg.png
-  #fb: https://praha9.pirati.cz/
+  fb: https://www.facebook.com/PiratiPraha9/
   mail: praha9@pirati.cz
   kontakt: kornelia.gottmanova
 - locality: Praha 10
@@ -98,7 +98,7 @@
 - locality: Praha 21 
   link: https://praha21.pirati.cz
   coa: https://upload.wikimedia.org/wikipedia/commons/b/b3/Znak_%C3%9Ajezd_nad_Lesy.svg
-  fb: https://https://www.facebook.com/piratipraha21
+  fb: https://www.facebook.com/piratipraha21
   #mail:
   kontakt: blanka.charvatova 
 - locality: Praha 22 

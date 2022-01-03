@@ -29,4 +29,4 @@ office:
 calendar: b2q3kpoefb62brt4md350okubk%40group.calendar.google.com
 ---
 
-Lukáš Findeis (* 1985, Praha) je bývalý pirátský městské části Praha 12 pro sociální věci, zdravotnictví a sport, 4. místopředseda PMS Praha 12, běžecký trenér, ultramaratonec
+Lukáš Findeis (* 1985, Praha) je bývalý pirátský radní městské části Praha 12 pro sociální věci, zdravotnictví a sport, 4. místopředseda PMS Praha 12, běžecký trenér, ultramaratonec
