@@ -5,6 +5,7 @@ fullname: Štěpán Štrébl			Štěpán Štrébl # jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: 		people/stepan-strebl.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: Místostarosta MČ Praha 3    			# kratký popis, max 160 znaků
 mail:
 - stepan.strebl@pirati.cz

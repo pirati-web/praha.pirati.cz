@@ -9,6 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - vybor
 img: people/michaela-krausova.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/01-krausova.jpg
 description:  zastupitelka hl. m. Prahy<br/> zastupitelka s gescemi zahr. vztahy, kvalita života    	# kratký popis, max 160 znaků
 descvyb: členka výboru pro správu majetku a maj. podílů, členka výboru pro výchovu a vzdělávání ZHMP, členka kontrolního výboru ZHMP

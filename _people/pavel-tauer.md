@@ -2,6 +2,7 @@
 uid: pavel.tauer
 name: Pavel Tauer 	# běžně používáné jméno
 img: 		people/pavel-tauer.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description:            	        			# kratký popis, max 160 znaků
 mail:
 - pavel.tauer@pirati.cz

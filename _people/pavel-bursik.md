@@ -6,8 +6,7 @@ titles:
   after:
 category: 
 img: people/pavel-bursik.jpg
-contactType: Kontakt pro dobrovolníky
-img: people/pavel-bursik.jpg
+heroImg: Prague_panorama.jpeg
 contactType: Koordinátor dobrovolníků Praha
 description: "bývalý koordinátor dobrovolníků starající se o nováčky a organizaci akcí."
 mail: pavel.bursik@pirati.cz

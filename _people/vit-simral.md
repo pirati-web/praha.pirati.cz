@@ -10,6 +10,7 @@ category:
 - ga
 - vybor
 img: people/vit-simral.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/12-simral.jpg
 description: radní pro oblast školství, sportu, vědy a podpory podnikání
 descvyb: člen výboru pro evropské záležitosti ZHMP

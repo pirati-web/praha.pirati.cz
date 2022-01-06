@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 #img: people/robert-rames.jpg  
+heroImg: Prague_panorama.jpeg
 description:             	# kratký popis, max 160 znaků
 mail:
 - robert.rames@pirati.cz

@@ -8,6 +8,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 img: 		people/ondrej-kallasch.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/02-kallasch.jpg
 description: 			zastupitel hl. m. Prahy, zastupitel městské části Praha 22<br/> zastupitel s gescí informatika        	        			# kratký popis, max 160 znaků
 mail:

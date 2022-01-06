@@ -7,6 +7,7 @@ titles:
 category: 
 - kontaktni_osoba
 img: people/michal-polak.jpg
+heroImg: Prague_panorama.jpeg
 contactType: Kontakt krajského sdružení Praha pro média
 img: people/michal-polak.jpg
 contactType: Kontakt pro média
