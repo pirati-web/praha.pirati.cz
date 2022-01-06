@@ -7,7 +7,6 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - senat
 img: people/vaclav-laska.jpg             # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: Senátor za Prahu 5, s podporou Pirátů            	# kratký popis, max 160 znaků
 mail:
 - vaclav.laska@vaclavlaska.cz

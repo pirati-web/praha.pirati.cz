@@ -4,7 +4,6 @@ name:     Renata Chmelová	  	# běžně používáné jméno
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - senat
 img: people/renata-chmelova.jpg          # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: Senátorka za obvod Praha 10, spolunominovaná Piráty            	# kratký popis, max 160 znaků
 mail:
 - renata.chmelova@vlasta10.cz

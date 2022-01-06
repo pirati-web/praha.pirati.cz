@@ -7,7 +7,6 @@ titles:
 category:  
 description: předseda
 img: people/martin-stanek.jpg 
-heroImg: Prague_panorama.jpeg
 mail:
  -  martin.stanek@pirati.cz
 ---

@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/petr-krat.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description:  Člen dozorčí rady společnosti Pražské vodovody a kanalizace, a.s. 	# kratký popis, max 160 znaků
 mail: 
 mob:

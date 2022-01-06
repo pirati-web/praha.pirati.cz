@@ -8,7 +8,6 @@ category:
 - kontaktni_osoba
 contactType: Kontakt ZK Pirátů MHMP pro média
 img: people/martina-vackova.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: kontaktní osoba pro média (ZHMP)   	# kratký popis, max 160 znaků
 mail:
 - martina.vackova@pirati.cz

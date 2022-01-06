@@ -10,7 +10,6 @@ category:
 ordpms: 1
 contactType: 
 img: people/martin-sterba.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: předseda místního sdružení Pirátů na Praze 8, poradce primátora    	# kratký popis, max 160 znaků
 mail:
 - martin.sterba@praha.eu

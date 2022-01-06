@@ -5,15 +5,11 @@ titles:
   before: 
   after:
 category: 
-- kodo
-- kontaktni_osoba
 img: people/pavel-bursik.jpg
-heroImg: Prague_panorama.jpeg
 contactType: Kontakt pro dobrovolníky
-ordkodo: 7
 img: people/pavel-bursik.jpg
 contactType: Koordinátor dobrovolníků Praha
-description: "Koordinátor dobrovolníků starající se o nováčky a organizaci akcí."
+description: "bývalý koordinátor dobrovolníků starající se o nováčky a organizaci akcí."
 mail: pavel.bursik@pirati.cz
 mob: +420 770 113 641
 profiles:
@@ -24,7 +20,7 @@ profiles:
 ordpak: 4
 ---
 
-**Pavel Buršík** je pražský koordinátor dobrovolníků starající se o nováčky a organizaci akcí
+**Pavel Buršík** je bývalý pražský koordinátor dobrovolníků starající se o nováčky a organizaci akcí
 
 
 

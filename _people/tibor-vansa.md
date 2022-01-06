@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha4
 img: 		people/tibor-vansa.jpg    # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: místostarosta MČ Praha 4 za Piráty            	# kratký popis, max 160 znaků
 mail:
 - tibor.vansa@pirati.cz

@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/radek-zykan.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: člen dozorčí rady společnosti Trade Centre Praha, a.s.  	# kratký popis, max 160 znaků
 mail:
 - radek.zykan@gmail.com

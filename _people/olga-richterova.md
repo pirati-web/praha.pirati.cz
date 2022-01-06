@@ -9,7 +9,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mc
 - pos
 img: people/olga-richterova.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: poslankyně            	# kratký popis, max 160 znaků
 mail:
 - olga.richterova@pirati.cz

@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/mikulas-ferjencik.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
 mail:
 - mikulas.ferjencik@pirati.cz
