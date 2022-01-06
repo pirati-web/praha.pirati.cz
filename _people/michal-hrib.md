@@ -5,15 +5,9 @@ titles:
   before: 
   after:
 category: 
-- kodo
-- kontaktni_osoba
 img: people/michal-hrib.jpg
 heroImg: Prague_panorama.jpeg
-contactType: Kontakt pro dobrovolníky
-ordkodo: 6
 img: people/michal-hrib.jpg
-contactType: Koordinátor dobrovolníků Praha
-description: Vedoucí koordinátorů starající se o administrativu a spolupráci s mediálním týmem.
 mail: michal.hrib@pirati.cz
 mob: +420 721 440 102
 profiles:
