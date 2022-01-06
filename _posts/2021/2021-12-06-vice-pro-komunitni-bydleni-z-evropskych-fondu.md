@@ -3,7 +3,7 @@ date:         2021-12-06
 tags:        
 - bydlení
 title:        "Téměř 63 milionů z eurofondů na rozvoj komunitních center, sociálního bydlení i podporu lidí bez domova"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
  

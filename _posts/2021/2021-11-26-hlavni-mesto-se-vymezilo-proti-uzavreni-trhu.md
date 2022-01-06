@@ -3,7 +3,7 @@ date:         2021-11-26
 tags:        
 - koronavirus
 title:        "Hlavní město se vymezilo proti opatření ministerstva k uzavření trhů den před prvním adventním víkendem"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

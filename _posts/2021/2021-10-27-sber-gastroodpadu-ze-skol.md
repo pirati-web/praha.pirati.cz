@@ -3,7 +3,7 @@ date:         2021-10-26
 tags:         
 - školství
 title:        "Praha rozvíjí sběr gastroodpadu ze škol. Zapojit se mohou i firmy"
-image: 	      skola.jpg
+image: 	      posts/skola.jpg
 author:       MHMP
 ---
 

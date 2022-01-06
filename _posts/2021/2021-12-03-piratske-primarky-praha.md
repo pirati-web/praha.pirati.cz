@@ -3,7 +3,7 @@ date:         2021-12-03
 tags:        
 - piráti
 title:        "V Praze odstartovaly pirátské primárky. Ve volbách má primátor Hřib tři vyzyvatele"
-image: 	      novaradnice.jpg
+image: 	      posts/novaradnice.jpg
 author:       Piráti Praha
 ---
  

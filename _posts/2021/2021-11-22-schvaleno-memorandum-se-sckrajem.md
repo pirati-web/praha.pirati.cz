@@ -3,7 +3,7 @@ date:         2021-11-22
 tags:         
 - praha
 title:        "Pražští radní odsouhlasili návrh memoranda o vzájemné spolupráci hlavního města se Středočeským krajem"
-image: 	      9hrib.jpg
+image: 	      posts/9hrib.jpg
 author:       MHMP
 ---
 

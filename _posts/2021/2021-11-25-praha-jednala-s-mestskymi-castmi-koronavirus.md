@@ -3,7 +3,7 @@ date:         2021-11-25
 tags:        
 - koronavirus
 title:        "Praha projednala s městskými částmi koronavirovou situaci včetně vánočních trhů a očkování zaměstnanců"
-image: 	      9hrib.jpg
+image: 	      posts/9hrib.jpg
 author:       MHMP
 ---
 

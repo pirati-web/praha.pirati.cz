@@ -3,7 +3,7 @@ date:         2021-11-01
 tags:         
 - energetika
 title:        "Primátor vyzval společnosti s majetkovým podílem Prahy k nastavení co nejlepších podmínek pro klienty zkrachovalého dodavatele energií"
-image: 	      8hrib.jpg
+image: 	      posts/8hrib.jpg
 author:       MHMP
 ---
 

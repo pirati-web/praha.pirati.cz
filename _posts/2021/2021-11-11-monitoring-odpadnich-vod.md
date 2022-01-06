@@ -4,7 +4,7 @@ tags:
 - školství
 - koronavirus
 title:        "Monitoring odpadních vod na vybraných školách pomáhá odhalit pozitivní případy a zároveň udržet prezenční výuku"
-image: 	      skola.jpg
+image: 	      posts/skola.jpg
 author:       MHMP
 ---
 

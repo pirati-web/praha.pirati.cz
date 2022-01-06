@@ -3,7 +3,7 @@ date:         2021-12-15
 tags:        
 - sport
 title:        "Pražané se budou opět více hýbat díky akci Týden sportu zdarma"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
  

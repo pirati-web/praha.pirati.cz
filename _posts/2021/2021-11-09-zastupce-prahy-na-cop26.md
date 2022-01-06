@@ -4,7 +4,7 @@ tags:
 - zahraničí
 - životní-prostředí
 title:        "Praha bude mít zástupce na klimatickém summitu COP26. Je to velká příležitost pro naše město, říká primátor Hřib"
-image: 	      0hrib.jpg
+image: 	      posts/0hrib.jpg
 author:       MHMP
 ---
 

@@ -3,7 +3,7 @@ date:         2021-10-26
 tags:         
 - informatika
 title:        "Pražský herní průmysl zamířil do Turecka"
-image: 	      vitsimral6.jpg
+image: 	      posts/vitsimral6.jpg
 author:       MHMP
 ---
 

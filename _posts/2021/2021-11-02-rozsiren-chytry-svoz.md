@@ -3,7 +3,7 @@ date:         2021-11-02
 tags:         
 - životní-prostředí
 title:        "Chytré řešení ve svozu odpadu se rozšíří na více než 6 000 pražských kontejnerů na tříděný odpad, město chce optimalizovat jejich svoz"
-image: 	      novaradnice.jpg
+image: 	      posts/novaradnice.jpg
 author:       MHMP
 ---
 

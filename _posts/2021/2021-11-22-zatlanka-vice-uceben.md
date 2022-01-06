@@ -3,7 +3,7 @@ date:         2021-11-22
 tags:         
 - školství
 title:        "Gymnázium Na Zatlance se dočká více učeben. Praha do vestavby investuje necelých 50 milionů korun"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

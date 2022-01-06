@@ -3,7 +3,7 @@ date:         2021-11-03
 tags:         
 - životní-prostředí
 title:        "Komentář primátora Zdeňka Hřiba k plánované účasti na klimatickém summitu COP 26 ve skotském Glasgow"
-image: 	      0hrib.jpg
+image: 	      posts/0hrib.jpg
 author:       Zdeněk Hřib
 ---
 

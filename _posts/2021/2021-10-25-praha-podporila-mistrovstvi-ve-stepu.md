@@ -3,7 +3,7 @@ date:         2021-10-25
 tags:         
 - sport
 title:        "Praha podpořila uskutečnění soutěže Mistrovství ČR ve stepu"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

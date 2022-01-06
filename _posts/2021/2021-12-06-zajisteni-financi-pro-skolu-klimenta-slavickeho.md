@@ -3,7 +3,7 @@ date:         2021-12-06
 tags:        
 - školství
 title:        "Praha poskytne další 3 miliony korun na dofinancování stavby nové budovy umělecké školy Klementa Slavického"
-image: 	      skola.jpg
+image: 	      posts/skola.jpg
 author:       MHMP
 ---
  

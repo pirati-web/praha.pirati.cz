@@ -3,7 +3,7 @@ date:         2021-11-15
 tags:         
 - životní-prostředí
 title:        "Praha bude mít jednotný systém pasportu zeleně"
-image: 	      murnak-podzim.jpg
+image: 	      posts/murnak-podzim.jpg
 author:       MHMP
 ---
 

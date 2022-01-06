@@ -3,7 +3,7 @@ date:         2021-12-21
 tags:        
 - doprava
 title:        "Nová trať na letiště zase o krok blíž"
-image: 	      murnak-9.jpg
+image: 	      posts/murnak-9.jpg
 author:       Tomáš Murňák
 ---
  

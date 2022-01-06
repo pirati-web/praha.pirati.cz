@@ -3,7 +3,7 @@ date:         2021-12-22
 tags:        
 - sociální-politika
 title:        "Metropole hledá ředitele Sociálního nadačního fondu hl. m. Prahy"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
  

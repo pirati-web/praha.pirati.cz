@@ -3,7 +3,7 @@ date:         2021-12-13
 tags:        
 - praha
 title:        "Druhý ročník primátorské potravinové sbírky se uskuteční ve čtvrtek 16. prosince na Mariánském náměstí"
-image: 	      7hrib.jpg
+image: 	      posts/7hrib.jpg
 author:       MHMP
 ---
  

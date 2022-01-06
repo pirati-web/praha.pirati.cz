@@ -3,7 +3,7 @@ date:         2021-11-29
 tags:        
 - školství
 title:        "Praha pokračuje s investicemi do školních budov. Mateřská škola Litvínovská získá na své rozšíření přes 18 milionů korun"
-image: 	      skola.jpg
+image: 	      posts/skola.jpg
 author:       MHMP
 ---
 

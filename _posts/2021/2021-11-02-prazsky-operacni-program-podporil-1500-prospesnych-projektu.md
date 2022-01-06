@@ -4,7 +4,7 @@ tags:
 - operační-program 
 - evropské-dotace
 title:        "Pražský operační program podpořil téměř 1 500 prospěšných projektů "
-image: 	      dotace.jpg
+image: 	      posts/dotace.jpg
 author:       MHMP
 ---
 

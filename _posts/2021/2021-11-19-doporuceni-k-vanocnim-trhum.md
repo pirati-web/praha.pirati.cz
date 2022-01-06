@@ -3,7 +3,7 @@ date:         2021-11-19
 tags:         
 - koronavirus
 title:        "Krizový štáb hl. m. Prahy projednal opatření k vánočním trhům. Seznámil se také s novou pražskou očkovací kampaní"
-image: 	      novaradnice.jpg
+image: 	      posts/novaradnice.jpg
 author:       MHMP
 ---
 

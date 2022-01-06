@@ -3,7 +3,7 @@ date:         2021-12-06
 tags:        
 - školství
 title:        "Město uvolní na nákupy vybavení do škol dalších 15 milionů korun"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
  

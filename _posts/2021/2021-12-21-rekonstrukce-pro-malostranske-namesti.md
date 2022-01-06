@@ -3,7 +3,7 @@ date:         2021-12-21
 tags:        
 - praha
 title:        "Malostranské náměstí se dočká rekonstrukce"
-image: 	      tomas-murnak.jpg
+image: 	      posts/tomas-murnak.jpg
 author:       Tomáš Murňák
 ---
  

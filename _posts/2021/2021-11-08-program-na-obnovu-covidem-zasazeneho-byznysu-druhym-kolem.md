@@ -3,7 +3,7 @@ date:         2021-11-08
 tags:         
 - ekonomika
 title:        "Program na podporu covidem zasaženého byznysu DoToho! pokračuje druhým kolem"
-image: 	      7hrib.jpg
+image: 	      posts/7hrib.jpg
 author:       MHMP
 ---
 
