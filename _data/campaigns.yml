@@ -2,18 +2,7 @@
 # election campaings are held at the same time (which saves $$$ for the country).
 
 - groupUid: volby-2018  # identifier of the group, to be used in program point
-  title: Program     # title of the campaign group
+  title: Volby 2018     # title of the campaign group
   campaigns:
-    - title: Magistrát 2018   # individual campaigns within the group
-      categoryUid: praha2018
-    - title: Celorepublikový 2018
-      categoryUid: komunal2018
-    - title: Magistrát 2014
-      categoryUid: praha2014
-- groupUid: volby-2018-en  # identifier of the group, to be used in program point
-  title: Campaign promises    # title of the campaign group
-  campaigns:
-    - title: Prague  2018   # individual campaigns within the group
-      categoryUid: praha2018-en
-    - title: Prague 2014 (in czech)
-      categoryUid: praha2014
+    - title: Komunální volby  # individual campaigns within the group
+      categoryUid: 2018-komunalni

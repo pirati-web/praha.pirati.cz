@@ -3,7 +3,7 @@ date:         2021-01-22
 tags:         
 - bydlení
 title:        "Hlavní město poskytne Praze 20 a Zbraslavi dotace na rekonstrukci bytového fondu"
-image: 	      adam-zabransky-6.jpg
+image: 	      posts/adam-zabransky-6.jpg
 author:       MHMP
 ---
 

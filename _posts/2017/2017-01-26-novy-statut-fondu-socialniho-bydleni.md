@@ -4,7 +4,7 @@ category:     blog
 tags:         praha kauzy
 layout:       post
 title:        "Nový statut fondu sociálního bydlení umožňuje utratit 3 miliardy korun bez kontroly zastupitelstva" 
-image:        sidliste.jpg
+image:        posts/sidliste.jpg
 author:       Mikuláš Ferjenčík
 ---
 

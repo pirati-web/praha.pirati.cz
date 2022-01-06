@@ -3,7 +3,7 @@ date:         2020-12-22
 tags:         
  - praha
 title:        "Primátorská sbírka potravin slaví úspěch: vybrala se více jak tuna potravin a téměř 45 tisíc korun"
-image: 	      sbirka.jpg
+image: 	      posts/sbirka.jpg
 author:       MHMP
 ---
  

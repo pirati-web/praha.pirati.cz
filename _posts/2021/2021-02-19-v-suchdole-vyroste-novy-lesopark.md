@@ -3,7 +3,7 @@ date:         2021-02-19
 tags:         
 - životní prostředí
 title:        "V Suchdole vyroste nový lesopark"
-image: 	      murnak-strom.jpg
+image: 	      posts/murnak-strom.jpg
 author:       MHMP
 ---
 

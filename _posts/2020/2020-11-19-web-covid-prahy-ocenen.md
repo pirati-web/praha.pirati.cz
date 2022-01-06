@@ -4,7 +4,7 @@ tags:
  - informatika
  - koronavirus
 title:        "Web s přehledem odběrových míst na COVID-19 získal ocenění"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

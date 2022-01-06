@@ -4,7 +4,7 @@ category:     blog
 tags:         praha registr-smluv korupce
 layout:       post
 title:        "Pražské městské firmy ignorují zákon o registru smluv, zastupitelům se to nelíbí" 
-image:        prisnetajne.jpg
+image:        posts/prisnetajne.jpg
 author:       Jakub Michálek
 ---
 

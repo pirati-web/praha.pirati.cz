@@ -4,7 +4,7 @@ category:     blog
 tags:         územní-plán
 layout:       post
 title:        "Praha by měla zveřejnit, kolik miliard přihraje developerům na změnách územního plánu"
-image:        namesti.jpg
+image:        posts/namesti.jpg
 author:       Jakub Michálek
 ---
 

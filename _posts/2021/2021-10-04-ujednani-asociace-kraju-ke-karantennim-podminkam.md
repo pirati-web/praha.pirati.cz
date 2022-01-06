@@ -3,7 +3,7 @@ date:         2021-10-04
 tags:         
 - školství
 title:        "Školská komise Asociace krajů vyzývá vládu k lepší koordinaci karanténních opatření ve školách"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

@@ -2,7 +2,7 @@
 date:         2019-12-12
 tags:         praha-1
 title:        "David Bodeček zůstává radním pro majetek na Praze 1"
-image: 	      praha1-bodecek.jpg
+image: 	      posts/praha1-bodecek.jpg
 author:       David Bodeček
 ---
 

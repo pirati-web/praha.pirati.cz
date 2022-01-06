@@ -3,7 +3,7 @@ date:         2021-02-22
 tags:         
 - transparentnost
 title:        "Nový systém sníží korupční rizika ve významných městských společnostech"
-image: 	      adam-zabransky-6.jpg
+image: 	      posts/adam-zabransky-6.jpg
 author:       MHMP
 ---
 

@@ -4,7 +4,7 @@ category: CLANKY
 title: "Praha si sama zadržela půl miliardy, přeběhlice Hášová možná přijde o milion."
 date: 2017-09-19T17:50:00+02:00
 author: Jakub Michálek
-image: pre-sidlo.jpg
+image: posts/pre-sidlo.jpg
 tags: městské-firmy
 ---
 

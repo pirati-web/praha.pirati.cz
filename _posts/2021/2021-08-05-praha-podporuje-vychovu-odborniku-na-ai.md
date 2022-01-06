@@ -3,7 +3,7 @@ date:         2021-08-05
 tags:         
 - informatika
 title:        "Praha podporuje výchovu budoucích odborníků na umělou inteligenci"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

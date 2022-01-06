@@ -4,7 +4,7 @@ category:     blog
 tags:         Karel-Březina zhmp kauzy
 layout:       post
 title:        "Piráti: Březino, odstup už konečně!" 
-image:        klepeta.jpg
+image:        posts/klepeta.jpg
 author:       Jakub Michálek
 ---
 

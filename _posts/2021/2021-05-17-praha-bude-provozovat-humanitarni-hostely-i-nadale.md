@@ -4,7 +4,7 @@ tags:
 - bydlení
 - koronavirus
 title:        "Praha má plán podpory a pomoci pro nejzranitelnější osoby bez domova, včetně prodloužení provozu čtyř humanitárních hotelů"
-image: 	      adam-zabransky-7.jpg
+image: 	      posts/adam-zabransky-7.jpg
 author:       MHMP
 ---
 

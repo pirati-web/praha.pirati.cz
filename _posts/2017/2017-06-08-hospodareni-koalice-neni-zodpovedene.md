@@ -4,7 +4,7 @@ category:     blog
 tags:         praha koalice
 layout:       post
 title:        "Pražská koalice neumí zodpovědně hospodařit" 
-image:        dolinek-spending.jpg
+image:        posts/dolinek-spending.jpg
 author:       Jakub Michálek
 ---
 

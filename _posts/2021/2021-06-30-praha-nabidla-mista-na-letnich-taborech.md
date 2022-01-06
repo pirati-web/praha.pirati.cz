@@ -3,7 +3,7 @@ date:         2021-06-30
 tags:         
 - školství
 title:        "Praha nabídla dětem z tornádem postižených obcí místa na letních táborech zdarma"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 

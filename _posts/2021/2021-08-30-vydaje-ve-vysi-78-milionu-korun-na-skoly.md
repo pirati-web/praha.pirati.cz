@@ -3,7 +3,7 @@ date:         2021-08-30
 tags:         
 - školství
 title:        "Na modernizaci čtyř středních škol rozdělí Praha přes 78 milionů korun"
-image: 	      skola.jpg
+image: 	      posts/skola.jpg
 author:       MHMP
 ---
 

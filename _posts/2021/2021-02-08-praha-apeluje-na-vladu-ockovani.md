@@ -4,7 +4,7 @@ tags:
 - školství
 - koronavirus
 title:        "Praha apeluje na vládu, aby učitelé byli přednostně očkováni, a žádá o stanovení data otevření škol"
-image: 	      8hrib.jpg
+image: 	      posts/8hrib.jpg
 author:       MHMP
 ---
 

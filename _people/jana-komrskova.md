@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - vybor
 img: 		people/jana-komrskova.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/jana-komrskova.jpg
 description: místostarostka městské části Praha 10 za Piráty    	# kratký popis, max 160 znaků
 descvyb: členka finančního výboru ZHMP a členka výboru pro zdrav. a sport

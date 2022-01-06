@@ -3,7 +3,7 @@ date:         2021-06-17
 tags:         
 - zahraničí
 title:        "Představitelé Prahy a Vídně podepsali dohodu o vzájemné spolupráci"
-image: 	      viden.jpg
+image: 	      posts/viden.jpg
 author:       MHMP
 ---
 

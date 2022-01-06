@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Praha kvůli zastaralým smlouvám na správu nemovitostí ročně přichází o dvacet milionů." 
-image:        panelaky.jpg
+image:        posts/panelaky.jpg
 author:       Adam Zábranský
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         praha volby
 layout:       post
 title:        "Hledáme volebního manažera kampaně v Praze"
-image:        volebnimanazer.jpg
+image:        posts/volebnimanazer.jpg
 author:       Jakub Michálek, Jan Loužek
 ---
 

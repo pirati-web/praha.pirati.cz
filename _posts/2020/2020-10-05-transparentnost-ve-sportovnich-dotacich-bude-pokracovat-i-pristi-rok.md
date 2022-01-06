@@ -3,7 +3,7 @@ date:         2020-10-05
 tags:         
  - sport
 title:        "Nastavená transparentnost ve sportovních dotacích bude pokračovat i v nadcházejícím roce"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 

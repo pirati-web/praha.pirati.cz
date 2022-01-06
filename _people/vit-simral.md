@@ -10,6 +10,7 @@ category:
 - ga
 - vybor
 img: people/vit-simral.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/12-simral.jpg
 description: radní pro oblast školství, sportu, vědy a podpory podnikání
 descvyb: člen výboru pro evropské záležitosti ZHMP
@@ -26,10 +27,10 @@ asistenti:
     position: komunikace s médii <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
     mail: kamila.bila@praha.eu
     tel: 774 236 034
-  - name: Šárka Václavíková
+  - name: Helena Barkmanová
     <!--uid: helena.barkmanova-->
     position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: sarka.vaclavikova@praha.eu
+    mail: helena.barkmanova@praha.eu
     <!--tel: 236 00 2944-->
 mail:
 - vit.simral@pirati.cz

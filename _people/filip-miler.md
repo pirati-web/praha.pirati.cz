@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc
 img: people/filip-miler.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: zastupitel městské části Praha 11 za Piráty             	# kratký popis, max 160 znaků
 mail:
 - filip.miler@pirati.cz

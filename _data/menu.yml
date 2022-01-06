@@ -1,88 +1,41 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
-    icon: "fa fa-newspaper-o"
-  - link: "Obchod"
-    url:  "https://piratskyobchod.cz"
-    icon: "fa fa-shopping-basket"
-  - link: "Nalodění"
-    url:  "https://nalodeni.pirati.cz"
-    icon: "fa fa-user-plus"
+    icon: "ico--newspaper"
+
 
 main:
   - link: /aktuality/
     name: Aktuality
-    match: aktuality
-  - link: /program/
-    name: Program
-    match: program
-    submenu:
-      - link: /program/
-        name: Plnění programu
-        match: praha2018/
-      - link: /assets/pdf/program-2018-forum.pdf
-        name: Praha 2018
-        match: praha2018/
-      - link: /program/komunal2018/
-        name: Komunální 2018
-        match: komunal2018/
-      - link: /program/praha2014/
-        name: Praha 2014
-        match: praha2014/
   - link: /lide/
-    name: lidé
-    match: lide
-  - link: /pripoj-se/ 
-    name: Připoj se
-    match: pripoj-se
-    submenu:
-      - link: /pripoj-se/rozhlednete-se-po-lodi.html
-        name: Rozhlédněte se po lodi
-        match: /pripoj-se/rozhlednete-se-po-lodi.html
-      - link: /pripoj-se/posadky.html
-        name: Posádky
-        match: /pripoj-se/posadky.html
-  - link: /mestske-casti/
-    name: Městské části
-    match: mestske-casti
-  - link: /krajske-expertni-tymy/
-    name: Experti
-    match: krajske-expertni-tymy
+    name: Lidé
+  - link: /program/
+    name: Program 
   - link: /kontakt/
     name: Kontakt
-    match: kontakt
-hideSearch: no
 
 bottom:
-  - class: small-12 medium-3
-    title: O nás
-    links:
-      - link: /mestske-casti/
-        name: Městské části
-      - link: /lide/
-        name: Tým
-      - link: /program/
-        name: Program
-  - class: small-12 medium-3
+  - class: small-12 medium-4
     title: Připoj se
     links:
       - link: /kontakt/
         name: Dej nám vědět
-      - link: /download/
-        name: Ke stažení
-  - class: small-12 medium-3
+      - link: "https://nalodeni.pirati.cz"
+        name:  Nalodění
+  - class: small-12 medium-4
     title: Makáme
     links:
+      - link: /lide/
+        name: Lidé
       - link: /aktuality/
         name: Aktuality
-      - link: /pripoj-se/kalendar/
-        name: Kalendář
-      - link: /piratske-listy/2020-zima/
-        name: Pirátské listy Praha
-  - class: small-12 medium-3
+  - class: small-12 medium-4
     title: Otevřenost
     links:
       - link: https://ucet.pirati.cz
@@ -91,3 +44,7 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+
+# Display transparency section in the footer?
+transparencySection: false

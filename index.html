@@ -1,18 +1,10 @@
 ---
 layout: default
-rbar: 
-    - calendar
-    #- video
-    - fb
-    - tw
-    - people
-img: header/pirator.png
-youtube:
-  id: 8Z679ocBIa0 
-  #playlist: PLKqQxo2sZ8NfKKow6zTMyVZF7jfzpIMw9 
-  title: "Video"
-  button:
-    url: https://www.youtube.com/channel/UC6zpUdw-MTT1WUBDo4K-nHA 
-    title: "Další videa"
 ---
-{% include homepage/news-with-rbar.html %}
+
+
+<div class="container container--default pt-4 lg:pb-24">
+  {% include homepage/news.html title="Co se děje v Praze" %}
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
+</div>

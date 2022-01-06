@@ -3,7 +3,7 @@ date:         2020-11-09
 tags:         
  - praha
 title:        "Kávu téměř nepiji, kávovar jsem neobjednával. Nákup prověřuji, říká Zdeněk Hřib"
-image: 	      7hrib.jpg
+image: 	      posts/7hrib.jpg
 author:       Zdeněk Hřib
 ---
 

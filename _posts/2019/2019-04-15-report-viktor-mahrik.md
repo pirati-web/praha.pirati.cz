@@ -2,7 +2,7 @@
 date:         2019-04-15
 tags:         praha
 title:        "Březen Viktora Mahrika: Dozorčí rady, taxislužba a koncepce městských firem"
-image: 	      posts/mahrik3.jpg
+image: 	      posts/posts/mahrik3.jpg
 author:       Viktor Mahrik
 ---
 

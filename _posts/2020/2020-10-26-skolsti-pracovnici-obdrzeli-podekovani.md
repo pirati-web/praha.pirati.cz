@@ -3,7 +3,7 @@ date:         2020-10-26
 tags:         
  - koronavirus
 title:        "Pracovníci škol a školských zařízení obdrželi od Prahy poděkování"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

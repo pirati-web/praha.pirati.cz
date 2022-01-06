@@ -2,7 +2,7 @@
 date:         2019-11-07
 tags:         životní-prostředí
 title:        "Vedení Prahy zve veřejnost na společné sázení stromů. Akce „Zastromuj Prahu“ se koná již tuto sobotu ve Stromovce "
-image: 	      sazeni-stromu.jpg
+image: 	      posts/sazeni-stromu.jpg
 author:       MHMP
 ---
 

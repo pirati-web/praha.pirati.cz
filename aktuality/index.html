@@ -1,22 +1,20 @@
 ---
 layout: default
-title: Aktuality
-description: Tiskové zprávy České pirátské strany v Praze
-keywords: aktuality praha, tiskové zprávy, press, blog
+title: Pirátské aktuality Prahy 15 a Petrovic
+description: Seznam novinek, článků a kauz Prahy 13 očima Pirátů Praha 13
+keywords: aktuality, novinky tiskové zprávy, blog
+pagination:
+  enabled: true
 ---
 
-
-<div class="row">
-  <div class="columns">
-    <div class="o-section">
-      <div class="o-section-inner">
-          <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Aktuality</h1>
-          </header>
-          {% assign posts = paginator.posts %}
-          {% include articles/list-responsive.html posts=posts %}
-          {% include articles/pagination.html paginator=paginator %}
-      </div>
-    </div>
-  </div>
+<div class="container container--default pt-8 lg:py-24">
+  <section>
+    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuality:</h1>
+    <main>
+      {% include articles/list-responsive.html posts=paginator.posts %}
+    </main>
+    {% if paginator.total_pages > 1 %}
+      {% include articles/pagination.html paginator=paginator %}
+    {% endif %}
+  </section>
 </div>

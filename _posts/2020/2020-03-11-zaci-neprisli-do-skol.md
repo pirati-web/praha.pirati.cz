@@ -2,7 +2,7 @@
 date:         2020-03-11
 tags:         školství koronavirus
 title:        "Do pražských škol dnes nepřišlo téměř 177 tisíc žáků. Rodiče, kteří musí s dětmi zůstat doma, dostanou potvrzení elektronicky"
-image: 	      poctyzaku.jpg
+image: 	      posts/poctyzaku.jpg
 author:       MHMP
 ---
 

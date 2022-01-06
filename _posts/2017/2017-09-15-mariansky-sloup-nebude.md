@@ -4,7 +4,7 @@ category: CLANKY
 title: "Zastupitelstvo schválilo návrh Pirátů a dalších zastupitelů: Mariánský sloup na Staroměstském náměstí nebude!"
 date: 2017-09-15
 author: Jan Loužek, Adam Zábranský, Ondřej Profant
-image: sloup2.jpg
+image: posts/sloup2.jpg
 tags: zhmp
 ---
 

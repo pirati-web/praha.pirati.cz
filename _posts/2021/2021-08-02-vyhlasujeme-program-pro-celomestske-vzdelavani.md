@@ -3,7 +3,7 @@ date:         2021-08-02
 tags:         
 - školství
 title:        "Praha vyhlašuje grantový program podporující celoměstské vzdělávání, mimo jiné pomůže učitelům s angličtinou a IT"
-image: 	      skola.jpg
+image: 	      posts/skola.jpg
 author:       MHMP
 ---
 

@@ -4,7 +4,7 @@ tags:
 - koronavirus
 - školství
 title:        "Většina pražských škol jednotné přijímačky měnit nebude"
-image: 	      skola.jpg
+image: 	      posts/skola.jpg
 author:       MHMP
 ---
 

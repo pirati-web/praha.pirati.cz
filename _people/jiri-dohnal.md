@@ -2,6 +2,7 @@
 uid: jiri.dohnal
 name: Jiří Dohnal	# běžně používáné jméno
 img: 		people/jiri-dohnal.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: starosta MČ Praha 11, člen dozorčí rady společností Výstaviště Praha, a.s.
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - dr

@@ -3,7 +3,7 @@ date:         2021-06-08
 tags:         
 - sport
 title:        "Hlavní město letos podpoří významné sportovní akce v Praze mimořádně dalšími třemi miliony korun"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 

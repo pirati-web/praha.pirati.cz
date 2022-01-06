@@ -5,6 +5,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - dr
 img: people/robert-veverka.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: Zastupitel městské části Praha 2, člen dozorčí rady společnosti Trade Centre Praha     	# kratký popis, max 160 znaků
 mail:
 - robert.veverka@pirati.cz

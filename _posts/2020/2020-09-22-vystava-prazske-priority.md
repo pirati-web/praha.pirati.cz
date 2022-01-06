@@ -3,7 +3,7 @@ date:         2020-09-22
 tags:         
  - Praha
 title:        "Výstava Pražské priority ukazuje 25 výrazných projektů, které zásadně změní tvář Prahy"
-image: 	      revolucni-promena.jpg
+image: 	      posts/revolucni-promena.jpg
 author:       MHMP
 ---
 

@@ -3,7 +3,7 @@ date:         2020-12-11
 tags:         
  - praha
 title:        "Hlavní město v předvánočním čase obdarovalo děti a seniory v nemocnicích. Celkem dostali více jak 27 tisíc dárků"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
  

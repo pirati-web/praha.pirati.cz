@@ -2,7 +2,7 @@
 date:         2019-11-17
 tags:         projev
 title:        "Projev Zdeňka Hřiba při příležitosti otevření výstavy Praha 1989"
-image: 	      sibik.jpg
+image: 	      posts/sibik.jpg
 author:       Zdeněk Hřib
 ---
 

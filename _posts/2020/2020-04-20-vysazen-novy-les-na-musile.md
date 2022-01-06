@@ -2,7 +2,7 @@
 date:         2020-04-20
 tags:         životní-prostředí
 title:        "I v nouzovém stavu hlavní město intenzivně sází nové stromy. Letos vznikl například nový les Na Musile"
-image: 	      namusile.jpg
+image: 	      posts/namusile.jpg
 author:       MHMP
 ---
 

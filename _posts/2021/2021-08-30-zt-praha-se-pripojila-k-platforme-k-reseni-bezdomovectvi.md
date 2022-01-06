@@ -3,7 +3,7 @@ date:         2021-08-30
 tags:         
 - bydlení
 title:        "Praha se přihlásila k mezinárodní platformě, která se zabývá ukončováním bezdomovectví"
-image: 	      adam-zabransky-5.jpg
+image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP
 ---
 

@@ -4,7 +4,7 @@ tags:
  - školství
  - koronavirus
 title:        "Praha chce výuku zachovat i při karanténních opatřeních. Školám v této situaci pomůže"
-image: 	      vitsimral.jpg
+image: 	      posts/vitsimral.jpg
 author:       MHMP
 ---
 

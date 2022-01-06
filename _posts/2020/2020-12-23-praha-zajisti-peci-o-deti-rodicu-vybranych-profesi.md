@@ -4,7 +4,7 @@ tags:
  - koronavirus
  - školství
 title:        "Zajištění péče o děti rodičů pracujících ve vybraných profesích v hlavním městě"
-image: 	      vitsimral4.jpg
+image: 	      posts/vitsimral4.jpg
 author:       MHMP
 ---
  

@@ -3,7 +3,7 @@ date:         2020-12-21
 tags:         
  - městské-firmy
 title:        "Mariánské náměstí se promění. Pražští radní schválili jeho novou podobu"
-image: 	      marianske.jpg
+image: 	      posts/marianske.jpg
 author:       MHMP
 ---
  

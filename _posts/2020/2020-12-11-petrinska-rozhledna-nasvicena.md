@@ -4,7 +4,7 @@ tags:
  - praha
  - životní-prostředí
 title:        "Modrozelený Petřín připomene pět let od podpisu klimatické Pařížské dohody"
-image: 	      petrin.jpg
+image: 	      posts/petrin.jpg
 author:       MHMP
 ---
  

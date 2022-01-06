@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc
 img: 		people/blanka-charvatova.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: Předsedkyně místního sdružení na Praze 21       			# kratký popis, max 160 znaků
 mail:
 - blanka.charvatova@pirati.cz

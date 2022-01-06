@@ -3,7 +3,7 @@ date:         2021-10-01
 tags:         
 - volby
 title:        "Voliči v karanténě nebo izolaci kvůli covidu-19 mohou v Praze hlasovat z auta na pěti stanovištích, případně přímo z domova"
-image: 	      praha-stanoviste.jpg
+image: 	      posts/praha-stanoviste.jpg
 author:       MHMP
 ---
 

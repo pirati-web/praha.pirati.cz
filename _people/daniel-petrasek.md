@@ -7,6 +7,7 @@ titles:
 category:
  - dr
 img: 		people/daniel-petrasek.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: Člen dozorčí rady společnosti Kolektory Praha, a.s.
 mail:
 - daniel.petrasek@centrum.cz

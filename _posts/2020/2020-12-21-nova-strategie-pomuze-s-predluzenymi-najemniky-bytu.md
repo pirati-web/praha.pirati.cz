@@ -3,7 +3,7 @@ date:         2020-12-21
 tags:         
  - bydlení
 title:        "Nová strategie pomůže s bojem se zadlužeností nájemníků městských bytů"
-image: 	      adam-zabransky-7.jpg
+image: 	      posts/adam-zabransky-7.jpg
 author:       MHMP
 ---
  

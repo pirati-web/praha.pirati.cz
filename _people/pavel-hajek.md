@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor
 img: people/pavel-hajek.jpg   # 165 x 220
+heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/09-hajek.jpg
 description: zastupitel městské části Praha 10 za Piráty    	# kratký popis, max 160 znaků
 descvyb: člen výboru pro výchovu a vzdělávání ZHMP

@@ -3,7 +3,7 @@ date:         2020-12-09
 tags:         
  - praha
 title:        "Pražský primátor podpořil iniciativu Bezpečná restaurace a vyzval hosty gastronomických zařízení v Praze k zodpovědnému chování"
-image: 	      9hrib.jpg
+image: 	      posts/9hrib.jpg
 author:       MHMP
 ---
 

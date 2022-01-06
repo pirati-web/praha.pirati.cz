@@ -2,7 +2,7 @@
 date:         2020-04-02
 tags:         koronavirus praha-8
 title:        "Primátor Hřib starostovi Prahy 8: Procenta pro radního za dezinfekci škol? Nepřijatelné!"
-image: 	      8hrib.jpg
+image: 	      posts/8hrib.jpg
 author:       Zdeněk Hřib
 ---
 

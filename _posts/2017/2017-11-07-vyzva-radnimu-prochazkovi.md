@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Pražská plynárenská obešla zákon o registru smluv, na poslední chvíli vydala dluhopisy"
-image:        plyn-registr.jpg
+image:        posts/plyn-registr.jpg
 author:       Adam Zábranský
 ---
 

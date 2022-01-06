@@ -4,7 +4,7 @@ category: CLANKY
 title: "Jak Praha plní svůj letošní rozpočet? Dál akumuluje nevyužité miliardy!"
 date: 2017-08-26T12:44:00+02:00
 author: Jakub Michálek
-image: pokladnice.jpg
+image: posts/pokladnice.jpg
 tags: ekonomika
 ---
 

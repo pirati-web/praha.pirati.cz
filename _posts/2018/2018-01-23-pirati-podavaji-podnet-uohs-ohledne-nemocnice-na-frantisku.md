@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-1 nemocnice-na-františku
 layout:       post
 title:        "Podali jsme podnět k ÚOHS ke zrušení koncesního řízení na Nemocnici na Františku" 
-image:        uohs.jpg
+image:        posts/uohs.jpg
 author:       Adam Zábranský
 ---
 

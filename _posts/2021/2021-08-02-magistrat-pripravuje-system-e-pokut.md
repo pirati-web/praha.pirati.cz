@@ -4,7 +4,7 @@ tags:
 - doprava
 - informatika
 title:        "Pražský magistrát připravuje nový systém „ePokut“. Na pomoc povolá metody umělé inteligence a teorie her"
-image: 	      novaradnice.jpg
+image: 	      posts/novaradnice.jpg
 author:       MHMP
 ---
 

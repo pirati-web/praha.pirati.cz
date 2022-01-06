@@ -2,7 +2,7 @@
 date:         2019-09-12
 tags:         praha životní-prostředí
 title:        "Výbor pro životní prostředí doporučuje městu, aby při údržbě zeleně nepoužívalo glyfosáty"
-image: 	      posts/tomas-murnak.jpg
+image: 	      posts/posts/tomas-murnak.jpg
 author:       MHMP
 ---
 

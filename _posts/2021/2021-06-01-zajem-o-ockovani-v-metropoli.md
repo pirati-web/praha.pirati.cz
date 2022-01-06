@@ -4,7 +4,7 @@ tags:
 - koronavirus
 - ekonomika
 title:        "Dvě třetiny Pražanů mají stále zájem nechat se očkovat. Meziročně v metropoli ukončilo činnost méně podniků"
-image: 	      domy-slunce.jpg
+image: 	      posts/domy-slunce.jpg
 author:       MHMP
 ---
 

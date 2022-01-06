@@ -4,7 +4,7 @@ tags:
  - praha
  - stavební-řízení
 title:        "Piráti požadují po ministryni Dostálové data o stavebním řízení, aby zrychlilo povolování staveb"
-image: 	      tomas-murnak.jpg
+image: 	      posts/tomas-murnak.jpg
 author:       Tomáš Murňák, Michaela Beránková
 ---
 

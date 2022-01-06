@@ -1,10 +1,4 @@
 {% if include.team.size > 0 %}
-<ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-  <li class="c-simple-accordion-item is-active" data-accordion-item="">
-    <a href="#{{ include.teamShortcut }}" class="c-simple-accordion-title"><h2 class="c-simple-accordion__headline">{{ include.teamName }}</h2></a>
-    <div id="{{ include.teamShortcut }}" class="c-simple-accordion-content" data-tab-content="">
-        {% include people/list-responsive.html team=team descriptionTag=include.descriptionTag %}
-    </div>
-  </li>
-</ul>
+<h2 class="head-heavy-base mb-4">{{ include.teamName }}</h2>
+{% include people/list-responsive.html team=include.team teamShortcut=include.teamShortcut %}
 {% endif %}

@@ -3,7 +3,7 @@ date:         2021-07-12
 tags:         
 - bydlení
 title:        "Praha navýšila počet služebních bytů pro městskou policii"
-image: 	      adam-zabransky-7.jpg
+image: 	      posts/adam-zabransky-7.jpg
 author:       MHMP
 ---
 

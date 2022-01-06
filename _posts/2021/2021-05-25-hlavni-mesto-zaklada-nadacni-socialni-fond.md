@@ -4,7 +4,7 @@ tags:
 - sociální-politika
 - bydlení
 title:        "Hlavní město zlepší cílenou pomoc Pražanům, zakládá vlastní sociální nadační fond"
-image: 	      magistrat2.jpg
+image: 	      posts/magistrat2.jpg
 author:       MHMP
 ---
 

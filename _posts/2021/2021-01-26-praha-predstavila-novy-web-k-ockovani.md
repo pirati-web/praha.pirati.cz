@@ -4,7 +4,7 @@ tags:
 - koronavirus
 - 
 title:        "Praha představila veřejnosti informační web k očkování"
-image: 	      ockovani-web.jpg
+image: 	      posts/ockovani-web.jpg
 author:       MHMP
 ---
 

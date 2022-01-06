@@ -2,7 +2,7 @@
 date:         2020-06-02
 tags:         magistrát
 title:        "Praha vyhlásila výběrové řízení na pozici ředitel/ředitelka Magistrátu hlavního města Prahy"
-image: 	      0hrib.jpg
+image: 	      posts/0hrib.jpg
 author:       MHMP
 ---
 

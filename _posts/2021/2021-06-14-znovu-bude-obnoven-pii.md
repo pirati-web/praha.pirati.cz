@@ -3,7 +3,7 @@ date:         2021-06-14
 tags:         
 - inovace
 title:        "Praha obnoví činnost Podnikatelského a inovačního centra. Jeho oficiálním provozovatelem se stane Pražský inovační institut"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

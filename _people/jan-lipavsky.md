@@ -5,6 +5,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - rp
 img: 		people/jan-lipavsky.jpg    # 165 x 220
+heroImg: Prague_panorama.jpeg
 description: poslanec    	        			# kratký popis, max 160 znaků
 mail:
 - jan.lipavsky@pirati.cz

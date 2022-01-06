@@ -3,7 +3,7 @@ date:         2020-12-08
 tags:         
  - praha
 title:        "Ve čtvrtek 17. prosince se uskuteční primátorská potravinová sbírka. Na závěr roku pomůže potřebným"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

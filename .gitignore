@@ -3,6 +3,7 @@ _site
 .jekyll-metadata
 .jekyll-cache
 
+Gemfile.lock
 desktop.ini
 
 node_modules
@@ -14,5 +15,3 @@ package-lock.json
 .bundle
 vendor
 .DS_Store
-
-*.swp

@@ -3,7 +3,7 @@ date:         2021-06-04
 tags:         
 - stavební-zákon
 title:        "Praha a ombudsman Křeček vyzývají ministerstvo ke změně přístupu stavebních úřadů k bytům využívaným ke sdílenému ubytování"
-image: 	      novaradnice.jpg
+image: 	      posts/novaradnice.jpg
 author:       MHMP
 ---
 

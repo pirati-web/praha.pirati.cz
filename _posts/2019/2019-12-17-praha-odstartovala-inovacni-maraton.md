@@ -2,7 +2,7 @@
 date:         2019-12-17
 tags:         informatika
 title:        "Zahájen Pražský inovační maraton"
-image: 	      8hrib.jpg
+image: 	      posts/8hrib.jpg
 author:       MHMP
 ---
 

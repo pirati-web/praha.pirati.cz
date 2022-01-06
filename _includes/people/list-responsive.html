@@ -3,22 +3,9 @@
    týmů v /clenove
    úspěchů v /otevrenost
 {% endcomment %}
-<div class="c-member-list__row row u-uniform-size-row">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 row-gap-8 col-gap-8">
   {% for item in include.team %}
-    {% assign loopindex = forloop.index | modulo: 2 %}
-    <div class="large-4 medium-6 small-collapse columns c-member-list__item {% if forloop.last %}end{% endif %}">
-        {% if include.descriptionTag %}
-            {% capture desc%}
-                {% for prop in item %}
-                   {% if prop == include.descriptionTag %}
-                      {{ item[prop] }}
-                   {% endif %}
-                {% endfor %}
-            {% endcapture %}
-            {% include people/profile-badge.html description=desc item=item imgSize='small' imgStyle='round' %}
-        {% else %}
-            {% include people/profile-badge.html item=item imgSize='small' imgStyle='round' %}
-        {% endif %}
-    </div>
+    {% assign teamDescription = item.teamDescription[include.teamShortcut] %}
+    {% include people/profile-badge.html item=item description=teamDescription headlineClass="head-heavy-xs" avatarClass="avatar--md" %}
   {% endfor %}
 </div>
