@@ -4,7 +4,7 @@ category:     blog
 tags:         informace městské-firmy doprava transparentnost 
 layout:       post
 title:        "Liberec předražil SMS jízdenky o polovinu. Soud rozhodl, že smlouvu tajit nesmí" 
-image:        posts/liberec-sms.jpg
+image:        liberec-sms.jpg
 author:       Jan Loužek, Jakub Michálek
 ---
 

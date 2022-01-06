@@ -4,7 +4,7 @@ category:     blog
 tags:         magistrát
 layout:       post
 title:        "Sliby chyby. Koalice neplní vlastní protikorupční strategii"
-image:        posts/ruka.jpg
+image:        ruka.jpg
 author:       Adam Zábranský
 ---
  

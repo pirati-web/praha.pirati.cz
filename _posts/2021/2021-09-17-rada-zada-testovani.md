@@ -3,7 +3,7 @@ date:         2021-09-17
 tags:         
 - koronavirus
 title:        "Pražská rada dopisem požádala předsedu vlády o umožnění opětovně zavést testování ve školách"
-image: 	      posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 

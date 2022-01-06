@@ -4,7 +4,7 @@ tags:
 - školství
 - inovace
 title:        "Praha připravila klíčový projekt k inovacím v pražském vzdělávání pro příští tři roky"
-image: 	      posts/vitsimral2.jpg
+image: 	      vitsimral2.jpg
 author:       MHMP
 ---
 

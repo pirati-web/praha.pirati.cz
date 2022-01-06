@@ -8,7 +8,6 @@ category:               	# kategorie: rp, praha, vary, hradec, jmk,
 - praha
 - vybor
 img: people/eva-tylova.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: Předsedkyně zastupitelského klubu Pirátů na Praze 12.<br/>       	# kratký popis, max 160 znaků
 descvyb: členka výboru pro životní prostředí, infrastrukturu a vybavenost ZHMP
 mail:

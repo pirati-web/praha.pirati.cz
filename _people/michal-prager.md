@@ -8,7 +8,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc
 img: 		people/michal-prager.jpg    # 165 x 220
-heroImg: Prague_panorama.jpeg
 description:            	        			# kratký popis, max 160 znaků
 mail:
 - michal.prager@pirati.cz

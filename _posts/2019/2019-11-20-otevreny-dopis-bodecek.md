@@ -2,7 +2,7 @@
 date:         2019-11-20
 tags:         praha-1
 title:        "Otevřený dopis Davida Bodečka starostovi Prahy 1 ve věci řešení nefunkčního a personálně podhodnoceného úřadu"
-image: 	      posts/david-bodecek.jpg
+image: 	      david-bodecek.jpg
 author:       David Bodeček
 ---
 

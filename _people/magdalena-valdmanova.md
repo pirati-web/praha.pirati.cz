@@ -6,7 +6,6 @@ titles:
   after:
 category:
 img: 		people/magdalena-valdmanova.jpg    # 165 x 220
-heroImg: Prague_panorama.jpeg
 description:  asistentka předsedy hospodářského výboru Viktora Mahrika
 mail:
 - magdalena.valdman@gmail.com

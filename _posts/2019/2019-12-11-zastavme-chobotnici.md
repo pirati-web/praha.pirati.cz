@@ -2,7 +2,7 @@
 date:         2019-12-11
 tags:         koalice
 title:        "Čínská chobotnice rozpíná svoje chapadla nejen nad Českem ale i nad Prahou "
-image: 	      posts/chobotnice.jpg
+image: 	      chobotnice.jpg
 author:       Zdeněk Hřib
 ---
 

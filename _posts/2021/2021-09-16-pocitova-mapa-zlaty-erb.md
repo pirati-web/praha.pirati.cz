@@ -3,7 +3,7 @@ date:         2021-09-16
 tags:         
 - školství
 title:        "Hlavní město získalo ocenění za projekt pocitové mapy v soutěži Zlatý erb 2021"
-image: 	      posts/simralerb.jpg
+image: 	      simralerb.jpg
 author:       MHMP
 ---
 

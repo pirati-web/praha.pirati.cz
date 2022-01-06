@@ -4,7 +4,7 @@ category: CLANKY
 title: "Praha tratí desítky milionů ročně na pronájmech restaurací. Piráti je chtějí přesoutěžit"
 date: 2017-09-26T15:57:00+02:00
 author: Adam Zábranský
-image: posts/restaurace2.jpg
+image: restaurace2.jpg
 tags: praha-1
 ---
 

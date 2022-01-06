@@ -8,7 +8,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - vybor
 img: people/ivo-slavka.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description:  člen výboru pro legislativu, veřejnou správu a transparentnost ZHMP    	# kratký popis, max 160 znaků
 descvyb: člen výboru pro legislativu, veřejnou správu a transparentost ZHMP
 mail:

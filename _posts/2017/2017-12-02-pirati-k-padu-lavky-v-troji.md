@@ -4,7 +4,7 @@ category:     blog
 tags:         doprava
 layout:       post
 title:        "Pád Trojské lávky: TSK dlouhodobě neřešila špatný stav mostů"
-image:        posts/lavka.jpg
+image:        lavka.jpg
 author:       Adam Zábranský
 ---
 

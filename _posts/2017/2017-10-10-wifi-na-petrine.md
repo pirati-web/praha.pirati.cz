@@ -4,7 +4,7 @@ category:     blog
 tags:         informatika smart-cities
 layout:       post
 title:        "Předražený internet na Petříne"
-image:        posts/petrin-wifi.jpg
+image:        petrin-wifi.jpg
 author:       Ondřej Profant
 ---
 

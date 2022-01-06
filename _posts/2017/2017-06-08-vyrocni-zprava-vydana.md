@@ -3,7 +3,7 @@ title:	Výroční zpráva zastupitelského klubu vydána
 layout:	post
 category:	blog
 author:	Jan Loužek
-image:	posts/zastupitele.jpg
+image:	zastupitele.jpg
 tags:	piráti
 date:	2015-06-08
 ---

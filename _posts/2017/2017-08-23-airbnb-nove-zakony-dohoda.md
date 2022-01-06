@@ -4,7 +4,7 @@ category:     blog
 tags:         bydlení
 layout:       post
 title:        "Stát by se měl dohodnout s Airbnb místo otravování pronajímatelů."
-image:        posts/airbnb.jpg
+image:        airbnb.jpg
 author:       Jakub Michálek
 ---
 

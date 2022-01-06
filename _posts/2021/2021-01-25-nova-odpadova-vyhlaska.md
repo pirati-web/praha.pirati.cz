@@ -3,7 +3,7 @@ date:         2021-01-25
 tags:         
 - životní-prostředí
 title:        "Praha schválila novou odpadovou vyhlášku"
-image: 	      posts/tomas-murnak.jpg
+image: 	      tomas-murnak.jpg
 author:       MHMP
 ---
 

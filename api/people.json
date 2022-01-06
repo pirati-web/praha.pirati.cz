@@ -5,7 +5,6 @@
     {
       "uid"      : "{{ person.uid }}",
       "name"     : "{{ person.name | escape }}",
-      "fullname" : "{{ person.fullname }}",
       "category" : "{{ person.categories | join: ' ' }}",
       "img"      : "{{ person.img | prepend: '/assets/img/' | relative_url }}",
       "mail"     : "{{ person.mail | join: ','}}",

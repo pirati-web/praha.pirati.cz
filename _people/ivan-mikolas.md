@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/ivan-mikolas.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: Zastupitel Pirátů v zastupitelstvu městské části Prahy 10            	# kratký popis, max 160 znaků
 mail:
 - ivan.mikolas@pirati.cz

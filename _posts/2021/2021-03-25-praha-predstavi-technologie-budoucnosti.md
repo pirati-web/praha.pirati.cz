@@ -3,7 +3,7 @@ date:         2021-03-25
 tags:         
 - školství
 title:        "Virtuální prohlídka představila inovativní technologie použité při výstavbě školy budoucnosti"
-image: 	      posts/vitsimral3.jpg
+image: 	      vitsimral3.jpg
 author:       MHMP
 ---
 

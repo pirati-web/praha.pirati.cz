@@ -3,7 +3,7 @@ date:         2020-07-20
 tags:         
  - doprava
 title:        "Piráti: Chceme zlevnit měsíční kupón v MHD, abychom chránili nejohroženější skupiny obyvatel"
-image: 	      posts/hrib-tramvaj.jpg
+image: 	      hrib-tramvaj.jpg
 author:       Zdeněk Hřib
 ---
 

@@ -4,7 +4,7 @@ tags:
 - územní-rozvoj
 - doprava
 title:        "Posun v přípravě Pražského okruhu. Praha vykupuje pozemky pro zelené pásy"
-image: 	      posts/murnak-podzim.jpg
+image: 	      murnak-podzim.jpg
 author:       MHMP
 ---
 

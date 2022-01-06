@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Koaliční válec, Pirátské návrhy v protikorupční strategii a senátor Kos zůstává ve finančním výboru." 
-image:        posts/jakub-ruce.jpg
+image:        jakub-ruce.jpg
 author:       Jan Loužek, Mikuláš Ferjenčík
 ---
 

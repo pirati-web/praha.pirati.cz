@@ -1,0 +1,28 @@
+{% comment %}
+This requires the page header to define
+work:
+  - name: Radní pro transparenci
+    url: http://www.praha.eu/jnp/cz/o_meste/magistrat/odbory/index.html?personId=11330
+  - name: "vyřizuje: školství"
+    url: https://redmine.pirati.cz/is...
+{% endcomment %}
+{% if page.work %}
+<div class="o-section-block">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#" class="c-widget-accordion-link c-widget-accordion-link--nofill">
+        <span class="c-widget-accordion__title">Práce</span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="">
+      <ul>
+        <div itemprop="description" class="c-content-block c-emphasized-text">
+      {% for workitem in page.work %}
+      <li> <a href="{{workitem.url}}"> {{ workitem.name }} </a> </li>
+      {% endfor %}
+      </ul>
+        </div>
+     </div>
+   </li>
+ </ul>
+</div>
+{% endif %}

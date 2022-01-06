@@ -4,7 +4,7 @@ tags:
 - školství
 - koronavirus
 title:        "Praha podpoří charitativní projekt a v září rozhýbe veřejnost na pomoc znevýhodněným dětem"
-image: 	      posts/vitsimral5.jpg
+image: 	      vitsimral5.jpg
 author:       MHMP
 ---
 

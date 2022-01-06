@@ -2,7 +2,7 @@
 date:         2020-06-16
 tags:         životní-prostředí
 title:        "Závěrečnou zprávu projektu „Chytrý svoz odpadu“ rada schválila, úspěšný projekt bude pokračovat"
-image: 	      posts/kontejner.jpg
+image: 	      kontejner.jpg
 author:       MHMP
 ---
 

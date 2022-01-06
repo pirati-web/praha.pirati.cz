@@ -2,7 +2,7 @@
 date:         2020-01-24
 tags:         bydlení
 title:        "Dotace od hlavního města ve výši sto milionů korun podpoří výstavu dostupného bydlení v městských částech"
-image: 	      posts/adam-zabransky-6.jpg
+image: 	      adam-zabransky-6.jpg
 author:       Adam Zábranský
 ---
 

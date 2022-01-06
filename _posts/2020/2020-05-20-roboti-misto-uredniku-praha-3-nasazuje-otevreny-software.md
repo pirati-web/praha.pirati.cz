@@ -2,7 +2,7 @@
 date:         2020-05-20
 tags:         informatika
 title:        "Piráti začali první úředníky nahrazovat robotem. Dotační software Prahy 3 nyní volně k dispozici všem"
-image: 	      posts/strebl.jpg
+image: 	      strebl.jpg
 author:       Štěpán Štrébl, Michal Gill
 ---
 

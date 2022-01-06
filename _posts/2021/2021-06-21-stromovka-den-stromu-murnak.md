@@ -3,7 +3,7 @@ date:         2021-06-21
 tags:         
 - životní-prostředí
 title:        "Piráti v pražské Stromovce pořádali happening na podporu městské zeleně s názvem Svátek stromů"
-image: 	      posts/strom7.jpg
+image: 	      strom7.jpg
 author:       MHMP
 ---
 

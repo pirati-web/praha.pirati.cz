@@ -3,7 +3,7 @@ date:         2020-10-12
 tags:         
  - školství
 title:        "Praha nesouhlasí s omezením působení asistenta pedagoga"
-image: 	      posts/vitsimral3.jpg
+image: 	      vitsimral3.jpg
 author:       MHMP
 ---
 

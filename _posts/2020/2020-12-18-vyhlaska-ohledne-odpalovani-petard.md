@@ -4,7 +4,7 @@ tags:
  - praha
  - bezpečnost
 title:        "Praha poskytne další dotace městským částem na rekonstrukce bytových jednotek a odkup ubytovny"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
  

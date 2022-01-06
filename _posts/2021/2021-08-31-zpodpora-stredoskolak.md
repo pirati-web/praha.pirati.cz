@@ -3,7 +3,7 @@ date:         2021-08-31
 tags:         
 - sport
 title:        "Praha finančně podpoří akci Středoškolák roku 2021"
-image: 	      posts/vitsimral5.jpg
+image: 	      vitsimral5.jpg
 author:       MHMP
 ---
 

@@ -9,7 +9,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - carousel
 img: people/ondrej-profant.jpg # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: garant informatiky             	# kratký popis, max 160 znaků
 mail:
 - ondrej.profant@pirati.cz

@@ -3,7 +3,7 @@ date:         2021-07-01
 tags:         
 - zdravotnictví
 title:        "Primátor Hřib žádá Babiše: Dodržte svůj slib!"
-image: 	      posts/7hrib.jpg
+image: 	      7hrib.jpg
 author:       Zdeněk Hřib
 ---
 

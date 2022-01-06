@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-1 nemocnice-na-františku
 layout:       post
 title:        "Vyzýváme Prahu 1, aby zrušila koncesi na Nemocnici na Františku." 
-image:        posts/frantisek2.jpg
+image:        frantisek2.jpg
 author:       Zdeněk Hřib
 ---
 

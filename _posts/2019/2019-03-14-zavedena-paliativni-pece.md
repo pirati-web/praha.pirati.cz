@@ -2,7 +2,7 @@
 date:         2019-03-14
 tags:         praha sociální-péče
 title:        "Praha jako první v republice zajistí paliativní péči mentálně postiženým. Další služby chce vrátit na své území"
-image: 	      posts/posts/magistrat2.jpg
+image: 	      posts/magistrat2.jpg
 author:       MHMP
 ---
 

@@ -3,7 +3,7 @@ date:         2021-06-07
 tags:         
 - inzerát
 title:        "Staňte se asistentem/asistentkou předsedkyně sociálního výboru Evy Horákové"
-image: 	      posts/inzerat.jpg
+image: 	      inzerat.jpg
 author:       Jan Loužek
 ---
 

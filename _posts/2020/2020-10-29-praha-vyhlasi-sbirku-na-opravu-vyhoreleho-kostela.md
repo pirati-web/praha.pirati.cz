@@ -3,7 +3,7 @@ date:         2020-10-29
 tags:         
  - praha
 title:        "Praha vyhlásí veřejnou sbírku na obnovu požárem zničeného kostela. Památku město opraví"
-image: 	      posts/kostel.jpg
+image: 	      kostel.jpg
 author:       MHMP
 ---
 

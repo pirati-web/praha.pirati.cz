@@ -4,7 +4,7 @@ category:     blog
 tags:         praha doprava
 layout:       post
 title:        "Pomůžeme ministru dopravy s legislativou ke sdílené ekonomice" 
-image:        posts/uber.jpg
+image:        uber.jpg
 author:       Dana Balcarová, Věra Marušiaková
 ---
  

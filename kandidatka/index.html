@@ -1,0 +1,24 @@
+---
+layout: communal-elections
+title: 
+campaignCategoryUid: praha2018
+candidateListUid: radnice # uid z `_candidates/radnice.md`
+---
+
+
+<section class="o-section o-section--spaceBot">
+  <div class="o-section-inner">
+    <div class="o-section-block">
+      <div class="c-BasicPage">
+        <div class="c-BasicPage-content">
+          <h2>Kandidátky do městských částí:</h2>
+	  {% for i in (1..14) %}
+	  <a href="/kandidatka/praha{{forloop.index}}.html">
+		  Praha {{forloop.index}}
+	  </a>
+	  {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

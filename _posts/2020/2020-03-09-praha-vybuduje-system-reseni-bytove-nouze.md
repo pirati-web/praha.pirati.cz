@@ -2,7 +2,7 @@
 date:         2020-03-09
 tags:         bydlení
 title:        "Praha vybuduje za evropské peníze integrovaný systém řešení bytové nouze"
-image: 	      posts/adam-zabransky-5.jpg
+image: 	      adam-zabransky-5.jpg
 author:       MHMP
 ---
 

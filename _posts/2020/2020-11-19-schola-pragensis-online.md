@@ -3,7 +3,7 @@ date:         2020-11-19
 tags:         
  - školství
 title:        "Veletrh pražských středních škol Schola Pragensis 2020 bude poprvé online a v režii středoškoláků"
-image: 	      posts/vitsimral5.jpg
+image: 	      vitsimral5.jpg
 author:       MHMP
 ---
 

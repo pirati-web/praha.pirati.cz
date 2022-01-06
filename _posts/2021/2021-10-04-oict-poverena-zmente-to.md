@@ -3,7 +3,7 @@ date:         2021-10-04
 tags:         
 - informatika
 title:        "Společnost OICT byla pověřena dalším rozvojem aplikace Změňte.to"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

@@ -2,7 +2,7 @@
 date:         2020-05-25
 tags:         finance
 title:        "Stát vzal Praze 3 miliardy korun bez jediného upozornění"
-image: 	      posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 

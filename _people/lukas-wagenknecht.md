@@ -8,7 +8,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - senat
 - dr
 img: people/lukas-wagenknecht.jpg # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: Senátor za Piráty za volební obvod Praha 8, člen dozorčí rady ve společnosti Pražská plynárenská, a.s.             	# kratký popis, max 160 znaků
 mail:
 - wagenknecht.luk@gmail.com

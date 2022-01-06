@@ -2,7 +2,7 @@
 date:         2020-03-13
 tags:         bezpečnost doprava koronavirus
 title:        "DPP rozšiřuje ozonizaci na vozy metra, vestibuly metra vybavuje dezinfekcí pro cestující"
-image: 	      posts/metro.jpg
+image: 	      metro.jpg
 author:       MHMP
 ---
 

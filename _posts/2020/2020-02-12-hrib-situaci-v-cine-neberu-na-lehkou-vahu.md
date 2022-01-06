@@ -2,7 +2,7 @@
 date:         2020-02-12
 tags:         zahraničí
 title:        "Zdeněk Hřib: Situaci v Číně neberu na lehkou váhu a považuji ji za kritickou"
-image: 	      posts/hrib-kamera2.jpg
+image: 	      hrib-kamera2.jpg
 author:       MHMP
 ---
 

@@ -4,7 +4,7 @@ tags:
  - školství 
  - koronavirus
 title:        "Prvňáci a druháci se vrátili do škol. Praha toto rozhodnutí podporuje"
-image: 	      posts/simral-tabule.jpg
+image: 	      simral-tabule.jpg
 author:       MHMP
 ---
 

@@ -3,7 +3,7 @@ date:         2021-07-01
 tags:         
 - školství
 title:        "Zájem o Portál Pražana roste. Lidé tam online vyřeší poplatek za odpad a do konce roku také za parkování či psy"
-image: 	      posts/pprazana.jpg
+image: 	      pprazana.jpg
 author:       MHMP
 ---
 

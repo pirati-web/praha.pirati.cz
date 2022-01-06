@@ -4,7 +4,7 @@ tags:
 - sociální-péče
 - praha-14
 title:        "Dotace na rekonstrukci domova pro seniory a výstavbu bytového domu"
-image: 	      posts/adam-zabransky-5.jpg
+image: 	      adam-zabransky-5.jpg
 author:       MHMP
 ---
 

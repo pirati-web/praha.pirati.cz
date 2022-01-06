@@ -2,7 +2,6 @@
 uid: josef.kocourek
 name: Josef Kocourek
 img: 		people/josef-kocourek.jpg
-heroImg: Prague_panorama.jpeg
 description: Praha 11, územní rozvoj, doprava
 category:
 - praha

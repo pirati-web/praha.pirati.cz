@@ -3,87 +3,84 @@ layout: default
 title: Kontaktní informace
 ---
 
-<div class="container container--default pt-8 lg:py-24">
-  <article class="space-y-8 lg:space-y-16">
-    <div class="lg:flex lg:mt-8 space-y-16 lg:space-y-0 lg:space-x-8 xl:space-x-16">
-      <section class="lg:w-3/5 xl:w-2/3">
-        <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Kontaktní informace</h1>
-
-        <div class="space-y-8">
-          {% if page.contactPersons %}
-            {% for contact in page.contactPersons %}
-              {% if contact.id %}
-                {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
-                {% assign description = contact.position %}
-              {% else %}
-                {% assign person = site.people | where_exp:"item","item.uid contains contact" | first %}
-                {% assign description = person.teamDescription['contact'] %}
-              {% endif %}
-              <div>
-                <h2 class="head-heavy-sm mb-2 lg:mb-4">{{ description }}</h2>
-                <div class="card elevation-3">
-                  <div class="card__body">
-                    {% include people/profile-badge.html item=person %}
+<div class="row o-section-block ">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <!-- Article -->
+          <article itemtype="http://schema.org/BlogPosting" itemscope="">
+            <!--<link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">-->
+            <header class="c-page-header">
+              <h1 itemprop="headline" class="c-page-title">Kontaktní informace </h1>
+            </header>
+            <div class="o-section-block o-section-block--fill">
+              <div class="u-cf">
+                <div class="medium-12 {% if page.contentSize == 'even' %}large-6{% else %}large-8{% endif %} columns o-section-mediumdown-divided-small">
+                  <div itemprop="description" class="c-content-block c-emphasized-text">
+                    {{ content }}
                   </div>
                 </div>
-              </div>
-            {% endfor %}
-          {% else %}
-            {% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordpak" %}
-            <div>
-              <h2 class="head-heavy-sm mb-2 lg:mb-4">Kontaktní {% if contactPersons.size > 1 %}osoby{% else %}osoba{% endif %}</h2>
-
-              {% for person in contactPersons %}
-              <div class="card elevation-3">
-                <div class="card__body">
-                  {% include people/profile-badge.html item=person %}
+                <div class="medium-12 {% if page.contentSize == 'even' %}large-6{% else %}large-4{% endif %} columns o-section-mediumdown-divided-small">
+                  <div class="o-section-header o-section-header--indented">
+                    <h2 class="t-h2-alt">Základní údaje</h2>
+                  </div>
+                  {% include contacts/summary-table.html %}
+		<hr>
+    		<p>Každý člen strany má email ve tvaru: <tt>jmeno.prijmeni@pirati.cz</tt></p>
+    		<br>
                 </div>
               </div>
-              {% endfor %}
             </div>
-          {% endif %}
-        </div>
-
-        <div class="content-block w-full lg:mt-8">
-          {{ content }}
-        </div>
-
-      </section>
-      <section class="lg:w-2/5 xl:w-1/3 lg:pt-0">
-        <div class="lg:card lg:elevation-10">
-          <div class="lg:card__body content-block">
-            <h2>Základní údaje</h2>
-            <div class="space-y-4">
-              {% include contacts/summary-table.html %}
-    		      <p>Každý člen strany má email ve tvaru: <tt>jmeno.prijmeni@pirati.cz</tt></p>
-            </div>
-            {% unless page.noresidence %}
-              <hr class="hr">
-              <h2>Sídlo a kontaktní centrum</h2>
-
-              {% if page.residences %}
-                {% for residence in page.residences %}
-                  {% include contacts/residence.html residence=residence %}
-                {% endfor %}
-              {% else %}
-                {% include contacts/residence.html %}
-              {% endif %}
-            {% endunless %}
-          </div>
-        </div>
-      </section>
-    </div>
-
-    {% if site.facebook.profilePage or site.forum.page %}
-    <div class="flex flex-col lg:flex-row lg:space-x-8">
-      {% if site.facebook.profilePage %}
-        {% include buttons/super.html href=site.facebook.profilePage cta="Sledujte nás na Facebooku" icon="ico--facebook" class="bg-brands-facebook text-white container-padding--zero lg:container-padding--auto lg:w-full" %}
-      {% endif %}
-      {% if site.forum.page %}
-        {% include buttons/super.html href=site.forum.page cta="Sledujte naše fórum" icon="ico--bubbles" class="bg-black text-white container-padding--zero lg:container-padding--auto lg:w-full" %}
-      {% endif %}
-    </div>
-    {% endif %}
-  </article>
+          </article>
+        </main>
+      </div>
+    </section>
+  </div>
 </div>
 
+<div class="row o-section-block">
+  <div class="medium-12 {% if page.contentSize == 'even' %}large-6{% else %}large-8{% endif %} columns">
+    <section class="o-section o-section--spaceBot">
+
+      {% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordpak" %}
+      {% for person in contactPersons %}
+      <div class="o-section-header o-section-header--indented">
+          {% if person.contactType %}
+	      <h2 class="t-h2-alt"> {{person.contactType}} </h2>
+          {% else %}
+              <h2 class="t-h2-alt">Kontaktní osoba</h2>
+          {% endif %}
+      </div>
+      <div class="o-section-inner">
+        <div class="o-section-block">
+            {% include people/profile-badge.html item=person imgSize='big' imgStyle='round' class='c-profile-badge--centered' %}
+        </div>
+      </div>
+      <br/>
+      {% endfor %}
+	    
+    </section>
+  </div>
+
+  {% unless page.noresidence %}
+  <div class="medium-12 {% if page.contentSize == 'even' %}large-6{% else %}large-4{% endif %} columns">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-header o-section-header--indented">
+          <h2 class="t-h2-alt">Sídlo a kontaktní centrum</h2>
+      </div>
+      <div class="o-section-inner">
+        <div class="o-section-block">
+	  {% if page.residences %}
+	  	{% for residence in page.residences %}
+          		{% include contacts/residence.html residence=residence%}
+	  	{% endfor %}
+	  {% else %}
+          	{% include contacts/residence.html %}
+	  {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endunless %}
+</div>

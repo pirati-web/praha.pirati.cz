@@ -3,7 +3,7 @@ date:         2021-04-13
 tags:         
 - sociální-politika
 title:        "Pražští radní schválili nové projekty na podporu komunitních a sociálních služeb"
-image: 	      posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 

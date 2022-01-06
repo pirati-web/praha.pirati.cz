@@ -2,7 +2,7 @@
 date:         2019-09-13
 tags:         praha životní-prostředí
 title:        "Zástupci města vypouštěli ježky zpět do volné přírody. "
-image: 	      posts/posts/jezci.jpg
+image: 	      posts/jezci.jpg
 author:       Jan Loužek, Tomáš Murňák
 ---
 

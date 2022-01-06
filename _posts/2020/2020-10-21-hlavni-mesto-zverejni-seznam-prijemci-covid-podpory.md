@@ -3,7 +3,7 @@ date:         2020-10-21
 tags:         
  - koronavirus
 title:        "Hlavní město zveřejňuje konečný seznam všech podniků podpořených progrаmem COVID Praha"
-image: 	      posts/9hrib.jpg
+image: 	      9hrib.jpg
 author:       MHMP
 ---
 

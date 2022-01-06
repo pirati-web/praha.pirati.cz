@@ -4,7 +4,7 @@ category:     blog
 tags:         praha trafiky
 layout:       post
 title:        "Pražští radní přiklepli 1,2 milionu bývalé zastupitelce TOP09. Piráti protestují" 
-image:        posts/monika-gold.jpg
+image:        monika-gold.jpg
 author:       Jakub Michálek
 ---
 

@@ -3,7 +3,7 @@ date:         2021-08-31
 tags:         
 - školství
 title:        "Radní hlavního města schválili projekt na inovace na pražských školách za 555 milionů korun"
-image: 	      posts/skola.jpg
+image: 	      skola.jpg
 author:       MHMP
 ---
 

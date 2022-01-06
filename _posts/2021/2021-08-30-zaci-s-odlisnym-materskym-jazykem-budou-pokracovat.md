@@ -3,7 +3,7 @@ date:         2021-08-30
 tags:         
 - školství
 title:        "Školy v Praze 6 a Praze 8 budou od září pokračovat v intenzivních kurzech pro žáky s odlišným mateřským jazykem. Praha je podpoří částkou přes 700 tisíc korun"
-image: 	      posts/vitsimral3.jpg
+image: 	      vitsimral3.jpg
 author:       MHMP
 ---
 

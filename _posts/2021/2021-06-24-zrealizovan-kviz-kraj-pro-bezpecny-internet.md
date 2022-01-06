@@ -3,7 +3,7 @@ date:         2021-06-24
 tags:         
 - školství
 title:        "Praha odměnila výherce kvízu Kraje pro bezpečný internet"
-image: 	      posts/vitsimral5.jpg
+image: 	      vitsimral5.jpg
 author:       MHMP
 ---
 

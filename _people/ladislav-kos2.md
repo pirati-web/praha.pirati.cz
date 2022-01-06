@@ -9,7 +9,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - vybor
 img: people/ladislav-kos2.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/11-kos.jpg
 description: předseda komise RHMP pro sport, zastupitel hl. m. Prahy a zastupitel městské části Praha 11<br/> zastupitel s gescemi doprava, sport     	# kratký popis, max 160 znaků
 descvyb: člen výboru pro dopravu ZHMP, člen výboru pro sport a volný čas ZHMP

@@ -3,7 +3,7 @@ date:         2021-01-11
 tags:         
 - bydlení
 title:        "Úprava nájemného v městských bytech se nedotkne ohrožených skupin nájemníků"
-image: 	      posts/adam-zabransky-5.jpg
+image: 	      adam-zabransky-5.jpg
 author:       MHMP
 ---
 

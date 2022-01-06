@@ -2,7 +2,7 @@
 date:         2020-05-14
 tags:         informatika
 title:        "Praha se opět stane centrem expertů na městská data – tentokrát on-line"
-image: 	      posts/7hrib.jpg
+image: 	      7hrib.jpg
 author:       MHMP
 ---
 

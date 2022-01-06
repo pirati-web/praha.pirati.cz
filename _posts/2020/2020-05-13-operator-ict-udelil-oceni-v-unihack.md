@@ -2,7 +2,7 @@
 date:         2020-05-13
 tags:         bydlení
 title:        "Operátor ICT předal speciální cenu jednomu z vítězných týmů prvního ročníku online hackathonu UniHack"
-image: 	      posts/unihack.jpg
+image: 	      unihack.jpg
 author:       MHMP
 ---
 

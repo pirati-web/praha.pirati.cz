@@ -4,7 +4,7 @@ tags:
 - zahraničí
 - koronavirus
 title:        "Primátoři metropolí V4 apelují: města a regiony se musí podílet na sestavování národních plánů obnovy"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

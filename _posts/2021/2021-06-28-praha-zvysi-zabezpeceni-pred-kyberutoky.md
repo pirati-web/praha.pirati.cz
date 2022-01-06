@@ -3,7 +3,7 @@ date:         2021-06-28
 tags:         
 - informatika
 title:        "Praha zvýší zabezpečení svých IT systémů před hrozícími kyberútoky"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

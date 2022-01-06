@@ -3,7 +3,7 @@ date:         2021-05-26
 tags:         
 - životní-prostředí
 title:        "Adoptujte si strom. Hlavní město zve Pražany ke společné péči o městské stromy"
-image: 	      posts/sazeni-stromu.jpg
+image: 	      sazeni-stromu.jpg
 author:       MHMP
 ---
 

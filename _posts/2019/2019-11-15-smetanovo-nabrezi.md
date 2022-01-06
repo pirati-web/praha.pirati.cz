@@ -2,7 +2,7 @@
 date:         2019-11-15
 tags:         doprava stanovisko
 title:        "Stanovisko zastupitelského klubu Pirátů k uzavírce Smetanova nábřeží/Malé Strany"
-image: 	      posts/smetanovo-nabrezi.jpg
+image: 	      smetanovo-nabrezi.jpg
 author:       Zastupitelský klub Pirátů
 ---
 

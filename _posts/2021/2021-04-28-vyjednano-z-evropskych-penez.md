@@ -3,7 +3,7 @@ date:         2021-04-28
 tags:         
 - EU
 title:        "Praze se podařilo vyjednat státní příspěvek na projekty z evropských peněz. Podpoří digitalizaci, veřejný prostor, sociální sektor nebo dopravu"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

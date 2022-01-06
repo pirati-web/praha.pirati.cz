@@ -2,7 +2,7 @@
 date:         2020-03-17
 tags:         bezpečnost doprava koronavirus
 title:        "V pražské MHD musí mít cestující ochranu nosu a úst, autobusy budou zastavovat ve všech zastávkách na znamení a provoz 38 linek DPP bude ukončen ve 22:30"
-image: 	      posts/bus.jpg
+image: 	      bus.jpg
 author:       MHMP
 ---
 

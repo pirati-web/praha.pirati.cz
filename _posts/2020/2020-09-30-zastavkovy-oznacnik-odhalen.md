@@ -3,7 +3,7 @@ date:         2020-09-30
 tags:         
  - doprava
 title:        "Praha testuje na Palackého náměstí nový zastávkový označník – ukáže aktuální časy příjezdů i mapy okolí"
-image: 	      posts/oznacnik.jpg
+image: 	      oznacnik.jpg
 author:       MHMP
 ---
 

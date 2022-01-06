@@ -3,7 +3,7 @@ date:         2021-02-22
 tags:         
 - transparentnost
 title:        "Veřejné zakázky budou transparentnější. Praha upravuje pravidla pro jejich zadávání"
-image: 	      posts/adam-zabransky-7.jpg
+image: 	      adam-zabransky-7.jpg
 author:       MHMP
 ---
 

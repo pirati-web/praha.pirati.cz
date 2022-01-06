@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy
 layout:       post
 title:        "Pražská koalice udělala z opozičního zastupitele šéfa městské akciovky, měl by rezignovat." 
-image:        posts/zastupitelstvo5.jpg
+image:        zastupitelstvo5.jpg
 author:       Adam Zábranský
 ---
 

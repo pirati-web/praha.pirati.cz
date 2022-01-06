@@ -4,7 +4,7 @@ category:     blog
 tags:         praha smart-cities informatika
 layout:       post
 title:        "Nechceme další Opencard: Smart cities v Praze podle Pirátů"
-image:        posts/4pirati2.jpg
+image:        4pirati2.jpg
 author:       Jakub Michálek
 ---
 

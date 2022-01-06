@@ -3,7 +3,7 @@ date:         2021-10-18
 tags:         
 - školství
 title:        "ZUŠ Open propojí mladé umělce z různých škol"
-image: 	      posts/vitsimral5.jpg
+image: 	      vitsimral5.jpg
 author:       MHMP
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         bydlení
 layout:       post
 title:        "Ceny bytů v Praze rostou. Piráti navrhují řešení."
-image:        posts/domy-slunce.jpg
+image:        domy-slunce.jpg
 author:       Jakub Michálek
 ---
 

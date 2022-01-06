@@ -2,7 +2,7 @@
 date:         2019-09-19
 tags:         praha
 title:        "Piráti drží kurz: odmítají kumulaci funkcí, na magistrátu dnes složila slib nová zastupitelka. Starostu Dohnala nahrazuje v zastupitelstvu Aneta Heidlová"
-image: 	      posts/posts/aneta-slib.jpg
+image: 	      posts/aneta-slib.jpg
 author:       MHMP
 ---
 

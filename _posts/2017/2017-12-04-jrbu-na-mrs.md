@@ -4,7 +4,7 @@ category:     blog
 tags:         informatika
 layout:       post
 title:        "Zakázka za 93 milionů na radiový systém: předražená a bez soutěže"
-image:        posts/overpriced.jpg
+image:        overpriced.jpg
 author:       Ondřej Profant
 ---
 

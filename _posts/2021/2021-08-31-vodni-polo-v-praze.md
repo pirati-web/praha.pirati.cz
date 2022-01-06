@@ -3,7 +3,7 @@ date:         2021-08-31
 tags:         
 - sport
 title:        "V Praze se poprvé v historii koná Mistrovství světa ve vodním pólu"
-image: 	      posts/vodnipolo.jpg
+image: 	      vodnipolo.jpg
 author:       MHMP
 ---
 

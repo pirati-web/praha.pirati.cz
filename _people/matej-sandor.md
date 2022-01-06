@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/matej-sandor.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: člen dozorčí rady společnosti Pražská energetika a.s., zastupitel na městské části Praha 4.  	# kratký popis, max 160 znaků
 mail: 
 - matej.sandor@pirati.cz

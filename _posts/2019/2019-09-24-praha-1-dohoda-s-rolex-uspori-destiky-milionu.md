@@ -2,7 +2,7 @@
 date:         2019-09-24
 tags:         praha-1
 title:        "Nová dohoda Prahy 1 s nájemcem butiku Rolex v Pařížské přinese do obecní kasy desítky milionů korun navíc"
-image: 	      posts/posts/parizska.jpg
+image: 	      posts/parizska.jpg
 author:       Praha 1
 ---
 

@@ -3,7 +3,7 @@ date:         2021-02-14
 tags:         
 - koronavirus
 title:        "Hřib: Řešení pandemie covid-19 už dávno není problémem pouze epidemiologickým. Jedná se i o zásadní krizi důvěry občanů"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       Zdeněk Hřib
 ---
 

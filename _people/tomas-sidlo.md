@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/tomas-sidlo.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: zastupitel na Praze 6, člen dozorčí rady společnosti Technologie hlavního města Prahy a.s.  	# kratký popis, max 160 znaků
 mail: 
 - sidlo@me.com

@@ -3,7 +3,7 @@ date:         2021-03-22
 tags:         
 - školství
 title:        "Na základních školách budou pokračovat kurzy češtiny pro děti s odlišným mateřským jazykem"
-image: 	      posts/wordcloud.jpg
+image: 	      wordcloud.jpg
 author:       MHMP
 ---
 

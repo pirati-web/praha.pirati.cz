@@ -8,7 +8,6 @@ category:
 - mhmp       	        			# kratký popis, max 160 znaků
 - vybor
 img: people/aneta-heidlova.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/10-heidlova.jpg
 description: zastupitelka hl. m. Prahy, zastupitelka městské části Praha 9<br/> zastupitelka s gescemi kultura a informatika     	# kratký popis, max 160 znaků
 descvyb: členka výboru pro kulturu, turismus a cestovní ruch ZHMP

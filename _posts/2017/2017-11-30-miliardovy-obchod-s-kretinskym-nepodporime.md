@@ -4,7 +4,7 @@ category:     blog
 tags:         městské-firmy
 layout:       post
 title:        "Miliardový obchod Prahy s Křetínským je pochybný, nemůžeme ho podpořit"
-image:        posts/ave2.jpg
+image:        ave2.jpg
 author:       Adam Zábranský
 ---
 

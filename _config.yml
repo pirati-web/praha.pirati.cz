@@ -1,41 +1,27 @@
-# Welcome to Jekyll!
-administrator:
-  email: jan.suchanek@gmail.com
-github:
-  url: https://github.com/pirati-web/praha.pirati.cz/
-  branch: master
-url: "https://praha.pirati.cz"
-
-mediaStorage: praha
-
 title: Pirátská strana Praha
 email: to@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://praha.pirati.cz" # the base hostname & protocol for your site
 
+# mediaStorage: praha
+
+administrator:
+  email: jitka.novotna@pirati.cz, jan.louzek@pirati.cz, jan.suchanek@gmail.com, marek.krejpsky@pirati.cz # maily kam jdou vystupy oddělené čárkou
+
+
 organization:
   name: Pirátská strana Praha
   shortName: Piráti Praha
-  email: praha@pirati.cz
+  email: kodo-praha@pirati.cz
   phone: +420 703 681 682
   address: |
     Na Moráni 3,
     120 00 Praha 2
-  mapLink: https://mapy.cz/s/norubuzado
-  redmineLink: https://redmine.pirati.cz/projects/praha
+  mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
+  redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
-  donateLink: https://dary.pirati.cz/podpor-kraj/praha/  
-  onboardingLink: https://nalodeni.pirati.cz/
-
-contactSummaryItems:
-  - type: organizationEmail
-  - type: organizationRedmineLink
-  - type: organizationTransparentAccount
-    includeMoreLink: true
-  - type: organizationDataBox
-  - type: piratiRootWebsite
 
 calendar:
   apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
@@ -46,63 +32,67 @@ calendar:
 facebook:
   loadSDK: true
   profilePage: "https://www.facebook.com/CeskaPiratskaStranaPraha/"
-  profilePageName: "Piráti Praha"
   appId: 1526197851008996
-
-matomo:
-  loadSDK: true
-  siteId: 68
-
-forum:
-  page: https://forum.pirati.cz/viewforum.php?f=791
-
-youtube:
-  channel: UC_zxYLGrkmrYazYt0MzyVlA
+markdown: kramdown
 
 twitter:
   loadSDK: true
   profile: piratipraha
 
 instagram:
-  #profilePage: 
+  profilePage: https://www.instagram.com/pirati.cz/
 
 flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
+  profilePage: https://www.flickr.com/photos/188991349@N06/
 
-styleguide_base_url: 'https://styleguide.pirati.cz/latest'
+forum:
+  page: https://forum.pirati.cz/viewforum.php?f=78&sid=44b065968620303e7f4058202f146b94  i
 
-############### SETTINSG #################
+github:
+  url: https://github.com/pirati-web/praha.pirati.cz/
+  branch: master
+
+
+youtube:
+  url: "https://www.youtube.com/channel/UC6zpUdw-MTT1WUBDo4K-nHA/videos" 
+
+
+##  TECHNICKÁ ČÁST  
+    
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-environment-variables
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+twitter_username: jekyllrb
+github_username:  jekyll
 
 theme: jekyll-theme-pirati
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-pirati
-
-pagination:
-  per_page: 9
-  permalink: '/:num/'
-  title: ':title - stránka :num'
-  trail: 7
-
 exclude:
-  - Dockerfile
+  - readme.md
   - Gemfile
   - Gemfile.lock
-  - README.md
-  - docker-compose.yml
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
   - vendor
 
-permalink: /aktuality/:title.html
+sass:
+    style: compressed
+
+permalink: /:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path:output_ext
+    permalink: /lide/:path/
   program:
     output: true
-    permalink: /volby/:path:output_ext
-
-  # Sole purpose is to create candidate lists in separate files.
+    permalink: /program/:path/
   candidatelists:
     output: false
 
@@ -113,36 +103,54 @@ defaults:   # defaults values for collection scope
     values:
       layout: "person"
       rbar:
-        - profile
+        - foto
+        - work
+        - personContact
         - people
   -
     scope:
       path: "_posts"
     values:
       layout: "post"
+      rbar:
+        - foto
+        - personContact
+        - people
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
       rbar:
-         - garant
+      #         - garant
          - program
+
+fb: https://www.facebook.com/CeskaPiratskaStranaPraha/
+tw: piratipraha
+
+emptyArray: []
 
 assets:
   source_maps: true
   compression: true
   gzip: false
   plugins:
+    css: { autoprefixer: {}}
     img:
       optim:
         jpegoptim:
           strip: all
           max_quality: 80
+  autoprefixer:
     browsers:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - assets/js
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.4.0/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
     - assets/img
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.4/assets/img
+    - assets/img/posts
+    - assets/snippet
+    - _sass

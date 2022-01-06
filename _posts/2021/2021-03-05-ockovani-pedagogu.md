@@ -4,7 +4,7 @@ tags:
 - koronavirus
 - školství
 title:        "Praha: dodružujme opatření k testování ve školách a k očkování pedagogických pracovníků s ohledem na limitované dodávky vakcín"
-image: 	      posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 

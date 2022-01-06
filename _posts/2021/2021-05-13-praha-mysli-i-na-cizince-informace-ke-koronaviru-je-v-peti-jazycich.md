@@ -3,7 +3,7 @@ date:         2021-05-13
 tags:         
 - koronavirus
 title:        "Praha jde příkladem v očkování, zaměřuje se ve větší míře i na cizince. Informace ke koronaviru nabízí nově v pěti jazycích"
-image: 	      posts/covidletak.jpg
+image: 	      covidletak.jpg
 author:       Zdeněk Hřib
 ---
 

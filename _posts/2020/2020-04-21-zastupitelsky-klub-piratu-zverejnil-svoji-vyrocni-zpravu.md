@@ -2,7 +2,7 @@
 date:         2020-04-21
 tags:         piráti
 title:        "Zastupitelský klub Pirátů v ZHMP zveřejnil svoji výroční zprávu"
-image: 	      posts/vz2019.jpg
+image: 	      vz2019.jpg
 author:       Jan Loužek
 ---
 

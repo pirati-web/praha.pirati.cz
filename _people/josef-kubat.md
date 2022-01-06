@@ -6,7 +6,6 @@ titles:
   after:
 category:
 img: 		people/josef-kubat.jpg    # 165 x 220
-heroImg: Prague_panorama.jpeg
 description:  "sekretář"
 mail:
 - josef.kubat@praha.eu

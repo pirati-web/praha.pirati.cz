@@ -2,7 +2,7 @@
 date:         2020-06-26
 tags:         praha
 title:        "Primátoři hlavních měst V4: „Obnova po pandemii musí být zelená. Žádáme EU o partnerství“"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

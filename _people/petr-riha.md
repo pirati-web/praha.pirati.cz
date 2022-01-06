@@ -7,7 +7,6 @@ titles:
 category:
  - dr
 img: 		people/petr-riha.jpg    # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: zastupitel na Praze 21, člen dozorčí rady ve společnosti Operátor ICT
 mail:
 - petr@riha.cz

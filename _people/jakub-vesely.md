@@ -7,7 +7,6 @@ titles:
 category:
  - dr
 img: 		people/jakub-vesely.jpg    # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: člen dozorčí rady společnosti Obecní dům a.s.
 mail:
 - jakub_v@seznam.cz

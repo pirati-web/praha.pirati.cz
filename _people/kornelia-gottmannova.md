@@ -8,7 +8,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - dr
 img: people/kornelia-gottmannova.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: členka dozorčí rady společnosti Pražské služby a.s., zastupitelka na Praze 9     	# kratký popis, max 160 znaků
 mail:
 - kornelia.gottmannova@pirati.cz

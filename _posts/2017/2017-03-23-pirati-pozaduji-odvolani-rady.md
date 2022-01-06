@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Piráti požadují odvolání Rady kvůli politickým trafikám." 
-image:        posts/michalek2.jpg
+image:        michalek2.jpg
 author:       Jakub Michálek
 ---
 

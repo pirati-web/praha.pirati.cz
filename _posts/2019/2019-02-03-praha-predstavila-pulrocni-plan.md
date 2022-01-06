@@ -2,7 +2,7 @@
 date:         2019-02-04
 tags:         praha
 title:        "Rada hl. m Prahy představila půlroční plán aktivit"
-image: 	      posts/posts/6hrib.jpg
+image: 	      posts/6hrib.jpg
 author:       Martina Vacková
 ---
 

@@ -3,7 +3,7 @@ date:         2020-10-28
 tags:         
  - projev
 title:        "Projev primátora MUDr. Zdeňka Hřiba k oslavám 28. října"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       Zdeněk Hřib
 ---
 

@@ -3,7 +3,7 @@ date:         2021-09-29
 tags:         
 - bydlení
 title:        "Novou Palmovku by měl vyřešit Magistrát, zastupitelé schválili převod pozemků"
-image: 	      posts/palmovka2.jpg
+image: 	      palmovka2.jpg
 author:       MHMP
 ---
 

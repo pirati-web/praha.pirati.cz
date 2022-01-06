@@ -6,8 +6,7 @@ titles:
   after:	
 category: 	
 ordkodo: 	
-#img: people/ladislav-dvorak.jpg
-heroImg: Prague_panorama.jpeg
+#img: people/ladislav-dvorak.jpg	
 contactType: Koordinátor dobrovolníků	
 description: Koordinátor dobrovolníků, správce Pirátského centra	
 mail: ladislav.dvorak@pirati.cz	

@@ -3,7 +3,7 @@ date:         2021-06-09
 tags:         
 - zahraničí
 title:        "Primátor Hřib přivítal Světlanu Cichanouskou v Praze"
-image: 	      posts/by2.jpg
+image: 	      by2.jpg
 author:       Zdeněk Hřib
 ---
 

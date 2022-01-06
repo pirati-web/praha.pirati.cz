@@ -2,7 +2,7 @@
 date:         2020-06-09
 tags:         legislativa
 title:        "Peníze podnikatelům v programu COVID Praha byly rozdělovány v souladu se zákonem o hl. m. Praze"
-image: 	      posts/magistrat2.jpg
+image: 	      magistrat2.jpg
 author:       MHMP
 ---
 

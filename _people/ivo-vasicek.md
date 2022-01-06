@@ -6,7 +6,6 @@ titles:
   after: 
 category:
 img: 		people/ivo-vasicek.jpg    # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: bývalý člen dozorčí rady společnosti Dopravní podnik hl. m. Prahy, a.s.
 mail:
 - ivo.vasicek@pirati.cz

@@ -4,7 +4,7 @@ category:     blog
 tags:         dozorčí-rady
 layout:       post
 title:        "Pražská rada schválila chabá pravidla pro obsazování dozorčích rad, stejně je porušuje"
-image:        posts/trafiky.jpg
+image:        trafiky.jpg
 author:       Adam Zábranský
 ---
 

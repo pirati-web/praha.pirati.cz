@@ -8,7 +8,6 @@ category:                  # kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - ga
 img: people/ivan-bartos.jpg # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: předseda Pirátů, poslanec
 mail:
 - ivan.bartos@pirati.cz

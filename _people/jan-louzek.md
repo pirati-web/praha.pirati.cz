@@ -5,7 +5,6 @@ fullname: Jan Loužek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jan-louzek.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: Wikipedista, fotograf a zveřejňovač klubu zastupitelů na Magistrátu. Jan Loužek dlouhodobě podporuje otevřený obsah; v neziskovém prostředí se zabývá otevřeným vzděláváním, problematikou autorského práva a komunitní spolupráce.
 mail:
 - jan.louzek@pirati.cz

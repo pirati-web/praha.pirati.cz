@@ -2,7 +2,7 @@
 date:         2020-04-15
 tags:         doprava
 title:        "Na Václavském náměstí začala dlouho očekávaná celková rekonstrukce. Dokončena bude v roce 2025"
-image: 	      posts/vn-01.jpg
+image: 	      vn-01.jpg
 author:       MHMP
 ---
 

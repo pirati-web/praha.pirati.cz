@@ -3,7 +3,7 @@ date:         2021-09-17
 tags:         
 - koronavirus
 title:        "Metropolitní očkovací centrum bude od příštího týdne pokračovat v novém režimu, jeho provoz převezme společnost Medicon"
-image: 	      posts/pakul.jpg
+image: 	      pakul.jpg
 author:       MHMP
 ---
 

@@ -6,7 +6,6 @@ titles:
   after:
 category: 
 img: people/marcela-sroubkova.jpg
-heroImg: Prague_panorama.jpeg
 description: bývalá koordinátorka dobrovolníků
 mail: marcela.sroubkova@pirati.cz
 mob: +420 606 168 306		  

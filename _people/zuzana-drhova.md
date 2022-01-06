@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/zuzana-drhova.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 description:      	# kratký popis, max 160 znaků
 mail:
 - zuzana.drhova@zeleni.cz

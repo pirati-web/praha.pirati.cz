@@ -3,7 +3,7 @@ date:         2020-11-26
 tags:         
  - praha
 title:        "Až se Pražané ráno probudí, bude už vánoční strom zářit. Noční rozsvícení bude na videu"
-image: 	      posts/2roky.jpg
+image: 	      2roky.jpg
 author:       MHMP
 ---
 

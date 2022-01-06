@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "V pražském zastupitelstvu dojde k obměně, nastoupí Piráti Viktor Mahrik a Ondřej Kallasch"
-image:        posts/mahrik-kallasch.jpg
+image:        mahrik-kallasch.jpg
 author:       Adam Zábranský
 ---
 

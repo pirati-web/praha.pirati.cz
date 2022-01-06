@@ -3,7 +3,7 @@ date:         2021-03-08
 tags:         
 - informatika
 title:        "Společnost OICT byla pověřena dalším rozvojem Portálu Pražana"
-image: 	      posts/pprazana.jpg
+image: 	      pprazana.jpg
 author:       MHMP
 ---
 

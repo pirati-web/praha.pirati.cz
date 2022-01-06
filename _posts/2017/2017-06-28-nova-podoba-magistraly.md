@@ -4,7 +4,7 @@ category:     blog
 tags:         praha doprava
 layout:       post
 title:        "Silnice místo dálnice. Piráti zklidnění magistrály vítají."
-image:        posts/magistrala.jpg
+image:        magistrala.jpg
 author:       Jakub Michálek
 ---
 

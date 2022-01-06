@@ -4,7 +4,7 @@ tags:
 - informatika
 - inovace
 title:        "Praha přivítá největší „zelenou“ inovační akci v Evropě"
-image: 	      posts/8hrib.jpg
+image: 	      8hrib.jpg
 author:       MHMP
 ---
 

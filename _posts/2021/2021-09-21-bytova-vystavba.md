@@ -3,7 +3,7 @@ date:         2021-09-20
 tags:         
 - bydlení
 title:        "Projekty městské bytové výstavby Pražské developerské společnosti postupují do další fáze investiční přípravy"
-image: 	      posts/adam-zabransky-7.jpg
+image: 	      adam-zabransky-7.jpg
 author:       MHMP
 ---
 

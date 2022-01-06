@@ -1,0 +1,29 @@
+{% if page.img %}
+
+{% if site.mediaStorage %}
+    {% capture img %}<img alt='{{ page.name }}' class="c-person-image" src="https://a.pirati.cz/resize/225x225/{{ site.mediaStorage }}/img/{{ page.img }}"> {% endcapture %}
+{%- else -%}
+    {% capture img %}{% asset '{{ page.img }}' alt='{{ page.name }}' magick:resize="350x" class='c-person-image' %}{% endcapture %}
+{%- endif -%}
+
+{% if page.profiles.flickr %}
+    <div class="c-widget-accordion-content__cta"> </div>
+    <div class="o-section-block">
+      <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+        <li class="c-widget-accordion-item is-active" data-accordion-item="">
+          <div class="c-widget-accordion-content" data-tab-content="">
+            {{ img }}
+            <div class="c-widget-accordion-content__cta">
+              {% assign peopleCol = site.collections | where: "label", "people" | first %}
+              <a class="expanded button large u-0margin" href="{{page.profiles.flickr}}"> Zobrazit více fotografií </a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+{% else %}
+    {{ img }}
+{% endif %}
+
+
+{% endif %}

@@ -4,7 +4,7 @@ tags:
 - informatika
 - koronavirus
 title:        "Datová platforma Golemio nabízí detailní informace o vývoji pandemie covid-19"
-image: 	      posts/golemio.jpg
+image: 	      golemio.jpg
 author:       MHMP
 ---
 

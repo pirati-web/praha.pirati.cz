@@ -3,7 +3,7 @@ date:         2021-06-14
 tags:         
 - školství
 title:        "Hlavní město a Praha 12 budou spolupracovat na projektu nájemního bydlení a kulturního centra"
-image: 	      posts/novaradnice.jpg
+image: 	      novaradnice.jpg
 author:       MHMP
 ---
 

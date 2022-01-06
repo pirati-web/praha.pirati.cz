@@ -3,7 +3,7 @@ date:         2020-09-17
 tags:         
  - zahraničí
 title:        "Služby krátkodobého ubytování: významná evropská města chtějí spolupracovat s EU"
-image: 	      posts/8hrib.jpg
+image: 	      8hrib.jpg
 author:       MHMP
 ---
 

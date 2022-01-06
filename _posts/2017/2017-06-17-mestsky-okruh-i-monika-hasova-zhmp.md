@@ -4,7 +4,7 @@ category:     blog
 tags:         praha blanka2 doprava smart-cities
 layout:       post
 title:        "Bude Blanka 2? Místo řešení jedou trafiky a nefér financování městských částí. Piráti nesouhlasí."
-image:        posts/blanka2b.jpg
+image:        blanka2b.jpg
 author:       Jakub Michálek, Jan Loužek
 ---
 

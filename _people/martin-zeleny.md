@@ -6,7 +6,6 @@ titles:
   after:
 category:  
 img: people/martin-zeleny.jpg 
-heroImg: Prague_panorama.jpeg
 description:             	# kratký popis, max 160 znaků
 mail:
 profiles:

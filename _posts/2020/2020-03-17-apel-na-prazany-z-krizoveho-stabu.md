@@ -2,7 +2,7 @@
 date:         2020-03-16
 tags:         bezpečnost zdravotnictví koronavirus
 title:        "Krizový štáb hl. m. Prahy apeluje na Pražany: Používejte ochranné prostředky v MHD i v obchodech"
-image: 	      posts/tk-koronavirus.jpg
+image: 	      tk-koronavirus.jpg
 author:       MHMP
 ---
 

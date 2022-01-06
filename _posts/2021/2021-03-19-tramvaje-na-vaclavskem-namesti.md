@@ -3,7 +3,7 @@ date:         2021-03-19
 tags:         
 - doprava
 title:        "Tramvaje vyjedou i k Hlavnímu nádraží"
-image: 	      posts/trat.jpg
+image: 	      trat.jpg
 author:       MHMP
 ---
 

@@ -2,7 +2,6 @@
 uid: lydie.bartosova
 name: Lydie Franka Bartošová  	# běžně používáné jméno
 img: 		people/lydie-bartosova.jpg    # 165 x 220
-heroImg: Prague_panorama.jpeg
 description:            	        			# kratký popis, max 160 znaků
 mail:
 - lydie.bartosova@pirati.cz

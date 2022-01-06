@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Hulinského člověk zvolen šéfem finančního výboru" 
-image:        posts/stepan.jpg
+image:        stepan.jpg
 author:       Adam Zábranský
 ---
 

@@ -3,7 +3,7 @@ date:         2021-06-14
 tags:         
 - informatika
 title:        "Hlavní město bude nadále efektivně řídit své projekty díky open source OpenProject"
-image: 	      posts/8hrib.jpg
+image: 	      8hrib.jpg
 author:       MHMP
 ---
 

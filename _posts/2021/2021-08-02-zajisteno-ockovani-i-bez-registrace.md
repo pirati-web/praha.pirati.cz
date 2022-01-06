@@ -4,7 +4,7 @@ tags:
 - koronavirus
 - očkování
 title:        "V Metropolitním očkovacím centru se nově aplikuje vakcína lidem i bez předchozí registrace"
-image: 	      posts/pakul.jpg
+image: 	      pakul.jpg
 author:       MHMP
 ---
 

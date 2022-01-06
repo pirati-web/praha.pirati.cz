@@ -3,7 +3,7 @@ date:         2021-10-05
 tags:         
 - sport
 title:        "Hlavní město podpoří návrat Pražanů do ulic metropole novou kampaní Moje město – Objevuj Prahu"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

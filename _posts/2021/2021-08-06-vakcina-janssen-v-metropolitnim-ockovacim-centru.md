@@ -4,7 +4,7 @@ tags:
 - koronavirus
 - očkování
 title:        "V Metropolitním očkovacím centru se budou moci neregistrovaní zájemci nechat očkovat i vakcínou Janssen"
-image: 	      posts/ockobus.jpg
+image: 	      ockobus.jpg
 author:       MHMP
 ---
 

@@ -4,7 +4,7 @@ tags:
 - koronavirus
 - školství
 title:        "Zajistit do škol PCR testy a více termínů přijímaček na vysoké školy. Zástupci školské komise jednali o možných změnách"
-image: 	      posts/skola.jpg
+image: 	      skola.jpg
 author:       MHMP
 ---
 

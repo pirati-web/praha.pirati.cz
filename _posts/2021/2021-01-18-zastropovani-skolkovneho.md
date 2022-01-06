@@ -3,7 +3,7 @@ date:         2021-01-18
 tags:         
 - školství
 title:        "Praha podporuje návrh na zrušení zastropování školkovného"
-image: 	      posts/vitsimral3.jpg
+image: 	      vitsimral3.jpg
 author:       MHMP
 ---
 

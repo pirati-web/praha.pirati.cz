@@ -3,7 +3,7 @@ date:         2020-10-16
 tags:         
  - bydlení
 title:        "Praha chce nakoupit objekty k bydlení, vyhlásí soutěž"
-image: 	      posts/adam-zabransky-5.jpg
+image: 	      adam-zabransky-5.jpg
 author:       MHMP
 ---
 

@@ -2,7 +2,7 @@
 date:         2019-11-29
 tags:         informatika
 title:        "Hlavní město Praha spouští portál Vánoce v Praze"
-image: 	      posts/vanoce.jpg
+image: 	      vanoce.jpg
 author:       MHMP
 ---
 

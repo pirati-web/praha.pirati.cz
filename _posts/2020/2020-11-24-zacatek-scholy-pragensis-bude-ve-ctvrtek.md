@@ -3,7 +3,7 @@ date:         2020-11-24
 tags:         
  - školství
 title:        "Jubilejní veletrh vzdělávání Schola Pragensis začíná ve čtvrtek. Startuje i nový web Praha Školská"
-image: 	      posts/vitsimral2.jpg
+image: 	      vitsimral2.jpg
 author:       MHMP
 ---
 

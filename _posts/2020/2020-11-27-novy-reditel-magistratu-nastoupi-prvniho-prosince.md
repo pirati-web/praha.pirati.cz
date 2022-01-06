@@ -3,7 +3,7 @@ date:         2020-11-27
 tags:         
  - magistrát
 title:        "Nový ředitel pražského magistrátu nastoupí do úřadu 1. prosince"
-image: 	      posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 

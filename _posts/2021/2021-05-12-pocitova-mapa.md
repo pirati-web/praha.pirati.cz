@@ -3,7 +3,7 @@ date:         2021-05-12
 tags:         
 - bydlení
 title:        "Pocitová mapa hl. m. Prahy ukáže, jak se lidé cítí v metropoli. Pomůže komunitnímu plánování i městským organizacím"
-image: 	      posts/pocitovamapa.jpg
+image: 	      pocitovamapa.jpg
 author:       MHMP
 ---
 

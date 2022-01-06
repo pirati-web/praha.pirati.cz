@@ -2,7 +2,7 @@
 date:         2020-01-28
 tags:         doprava informatika
 title:        "Platnost karet Lítačka bude automaticky prodloužena o tři roky"
-image: 	      posts/litacka.png
+image: 	      litacka.png
 author:       Zdeněk Hřib
 ---
 

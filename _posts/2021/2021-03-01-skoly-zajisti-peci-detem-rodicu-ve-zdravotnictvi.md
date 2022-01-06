@@ -3,7 +3,7 @@ date:         2021-03-01
 tags:         
 - školství
 title:        "Pražské školy zajistí péči o děti rodičů pracujících ve vybraných profesích v hlavním městě "
-image: 	      posts/vitsimral4.jpg
+image: 	      vitsimral4.jpg
 author:       MHMP
 ---
 

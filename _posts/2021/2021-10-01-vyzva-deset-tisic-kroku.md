@@ -3,7 +3,7 @@ date:         2021-10-01
 tags:         
 - sport
 title:        "Chůzí ke zdraví. Odstartovala výzva 10 000 kroků"
-image: 	      posts/podzim.jpg
+image: 	      podzim.jpg
 author:       MHMP
 ---
 

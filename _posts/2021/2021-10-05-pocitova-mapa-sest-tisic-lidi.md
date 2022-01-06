@@ -3,7 +3,7 @@ date:         2021-10-05
 tags:         
 - informatika
 title:        "Do hlasování k pocitové mapě hlavního města se zapojilo více jak 6 tisíc lidí"
-image: 	      posts/pocitova.jpg
+image: 	      pocitova.jpg
 author:       MHMP
 ---
 

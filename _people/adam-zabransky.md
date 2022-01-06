@@ -14,10 +14,7 @@ category:                 	# kategorie: praha
 - praha
 - mhmp-radni
 - carousel
-#img: people/adam-zabransky.jpg   # 165 x 220
-img: people/badge/03-zabransky.jpg
-heroImg: Prague_panorama.jpeg
-
+img: people/adam-zabransky.jpg   # 165 x 220
 description: radní pro bydlení a transparentnost            	# kratký popis, max 160 znaků
 profilebadge: people/badge/03-zabransky.jpg
 direct-contact: true

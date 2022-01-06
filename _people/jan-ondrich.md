@@ -7,7 +7,6 @@ titles:
 category:
  - dr
 img: 		people/jan-ondrich.jpg    # 165 x 220
-heroImg: Prague_panorama.jpeg
 description: člen dozorčí rady společnosti Pražská energetika holding, a.s.
 mail:
 - jan-ondrich@outlook.com

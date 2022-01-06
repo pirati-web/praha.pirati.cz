@@ -11,7 +11,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor
 ordpks: 3
 img: people/jan-hora.jpg   # 165 x 220
-heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/14-hora.jpg
 description: zastupitel hlavního města Prahy za Piráty, zastupitel s gescí bezpečnost
 descvyb: člen výboru pro bezpečnost ZHMP

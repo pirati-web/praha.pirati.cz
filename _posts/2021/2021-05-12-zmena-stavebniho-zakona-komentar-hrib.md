@@ -4,7 +4,7 @@ tags:
 - územní-plánování
 - legislativa
 title:        "Hřib: Za Svaz měst a obcí odmítám vládou a ministerstvem zpackaný stavební zákon"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       Zdeněk Hřib
 ---
 
