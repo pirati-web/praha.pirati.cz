@@ -11,7 +11,7 @@ ordkodo: 7
 img: people/david-rauser.jpg
 heroImg: Prague_panorama.jpeg
 contactType: Kontakt pro dobrovolníky
-description: Koordinátor dobrovolníků s gescemi – zapojování nováčků, e-learning, práce s dobrovolníky
+description: Koordinátor pro Prahu
 mail: david.rauser@pirati.cz
 mob: +420 770 114 940
 profiles:

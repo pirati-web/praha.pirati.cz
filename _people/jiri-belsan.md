@@ -11,7 +11,7 @@ ordkodo: 5
 img: people/jiri-belsan.jpg
 heroImg: Prague_panorama.jpeg
 contactType: Koordinátor dobrovolníků
-description: Koordinátor dobrovolníků zajišťující administraci členských přihlášek a technickou podporu akcí
+description: Koordinátor pro Prahu
 mail: jiri.belsan@pirati.cz
 mob: +420 778 702 243
 profiles:
