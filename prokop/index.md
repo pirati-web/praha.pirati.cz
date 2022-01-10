@@ -5,7 +5,7 @@ description: "Ondřej Prokop: Práce všeho druhu"
 keywords: Ondřej Prokop, ANO
 ---
 
-![Ondřej Prahu fakt Prokopne](/assets/img/prokop/billboard.jpg "Ondřej Prahu fakt Prokopne")
+![Ondřej Prahu fakt Prokopne](https://a.pirati.cz/praha/img/prokop/billboard.jpg "Ondřej Prahu fakt Prokopne")
 
 Ondřej Prokop je člověkem, který o sobě tvrdí, že ho politika neživí. Ale opak je pravdou.
 
