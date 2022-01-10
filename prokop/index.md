@@ -1,13 +1,10 @@
 ---
-layout: page
+layout: default
 title: "Ondřej Prokop: Práce všeho druhu"
 description: "Ondřej Prokop: Práce všeho druhu"
 keywords: Ondřej Prokop, ANO
 ---
 
----
-layout: default
----
 
 <div class="container container--default py-8 lg:py-24">
   <article>
