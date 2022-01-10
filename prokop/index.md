@@ -25,7 +25,7 @@ Jeho manželka a zároveň mluvčí Prahy 11 mu sice založila stránku na Wikip
 
 ### <a name="1"></a> Škody způsobené prodlením Ondřeje Prokopa při řešení zatékání do budovy Sandry
 
-![Pomůže kbelík?](/assets/img/prokop/sandra.jpg "Pomůže kbelík?")
+![Pomůže kbelík?](https://a.pirati.cz/praha/img/prokop/sandra.jpg "Pomůže kbelík?")
 
 Bývalý místostarosta MČ Praha 11 Ondřej Prokop si byl vědom minimálně od léta 2020 o zatékání do budovy Sandra v průběhu její rekonstrukce, za kterou byl odpovědný, ale tuto situaci nijak neřešil. Vědomě tak ohrozil investici za zhruba 400 milionů korun.
 
@@ -33,7 +33,7 @@ Místo drobné včasné opravy pak po roce zatékání do budovy navrhoval v lé
 
 ### <a name="2"></a>Královské platy z eráru pro Ondřeje Prokopa
 
-![Money Power!](/assets/img/prokop/gangsta.jpg "Money Power!")
+![Money Power!](https://a.pirati.cz/praha/img/prokop/gangsta.jpg "Money Power!")
 
 Ondřej Prokop je známý pro svou bezostyšnou kumulaci pozic placených z veřejných peněz. Za neuvolněnou funkci (tedy jako vedlejšák) místostarosty MČ Praha 11 pobíral zhruba 60 tisíc korun měsíčně. K tomu musíme připočítat jeho odměnu coby předsedy představenstva Jihoměstské majetkové ve výši 14 tisíc korun měsíčně a pak také odměnu za výkon funkce člena dozorčí rady v městské firmě Pražská vodohospodářská společnost a.s. (nominován hnutím ANO) s odměnou ve výši 21 tisíc korun měsíčně, kde se účastnil za tři roky pouze dvou jednání dozorčí rady. Z eráru tak za tři roky načerpal přes 750 tisíc Kč za dvě schůzky. A když si připočteme odměnu za výkon člena zastupitelstva hlavního města Prahy (kde často neúčastní jednání komisí kam se nechal zvolit), tak Ondřej Prokop si měsíčně v době, kdy byl místostarostou MČ Praha 11 přišel na krásných zhruba 115 tisíc korun měsíčně.
 
@@ -48,7 +48,7 @@ Ondřeje Prokopa si možná pomatujete i z [legendární trafikantské tabulky](
 
 ### <a name="3"></a>Prokopova IT firma získala bez soutěže zakázku na dodávku ložního prádla pro domov seniorů
 
-![Dostal dům seniorů nabídku, kterou nemohl odmítnout?](/assets/img/prokop/don.jpg "Dostal dům seniorů nabídku, kterou nemohl odmítnout?")
+![Dostal dům seniorů nabídku, kterou nemohl odmítnout?](https://a.pirati.cz/praha/img/prokop/don.jpg "Dostal dům seniorů nabídku, kterou nemohl odmítnout?")
 
 Ondřej Prokop kritizoval dřívější soutěžení zakázek malého rozsahu v IT na magistrátu. Pikantní na tom je, že se jedná soutěžení dle pravidel, která platila celou dobu vlády hnutí ANO v Praze. Tato pravidla vyžadovala u malých zakázek oslovení 3-5 firem a otevřeně se soutěžili jen zakázky nad 2 miliony korun. Piráti naopak prosadili v průběhu své vlády na jaře 2021 změnu těchto pravidel tak, aby už zakázky nad 500 tisíc korun byly soutěženy otevřeně.
 
@@ -58,7 +58,7 @@ Se magistrátními zakázkami “z ruky” bez soutěže pro IT firmy má naopak
 
 ### <a name="4"></a>Proč byl Prokop odvolán z vedení Prahy 11? Lži kolem arény ledových sportů.
 
-![Aréna ledových sportů](/assets/img/prokop/als.jpg "Aréna ledových sportů")
+![Aréna ledových sportů](https://a.pirati.cz/praha/img/prokop/als.jpg "Aréna ledových sportů")
 
 Ondřej Prokop se vydává za jakéhosi disidenta projektu arény ledových sportů na Praze 11 a tvrdí že byl odvolán Piráty kvůli svému odporu k této stavbě. Realita je však úplně jiná. Ondřej Prokop byl v roce 2021 odvolán z pozice místostarosty městské části Praha 11 z důvodu naprostého nezvládnutí své gesce, nečinnosti a kumulace funkcí. Odvolán byl nejen hlasy svých koaličních partnerů z více stran ale i hlasy opozičního Hnutí pro Prahu 11. 
 
