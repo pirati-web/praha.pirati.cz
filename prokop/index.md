@@ -5,6 +5,20 @@ description: "Ondřej Prokop: Práce všeho druhu"
 keywords: Ondřej Prokop, ANO
 ---
 
+---
+layout: default
+---
+
+<div class="container container--default py-8 lg:py-24">
+  <article>
+    <header>
+      <h1 itemprop="headline" class="head-alt-md md:head-alt-lg max-w-5xl mb-4">{{ page.title }}</h1>
+    </header>
+
+    <div class="lg:flex mt-8 lg:space-x-16">
+      <div class="lg:w-2/3">
+        <div itemprop="description" class="w-full content-block">
+
 ![Ondřej Prahu fakt Prokopne](https://a.pirati.cz/praha/img/prokop/billboard.jpg "Ondřej Prahu fakt Prokopne")
 
 Ondřej Prokop je člověkem, který o sobě tvrdí, že ho politika neživí. Ale opak je pravdou.
@@ -63,3 +77,19 @@ Se magistrátními zakázkami “z ruky” bez soutěže pro IT firmy má naopak
 Ondřej Prokop se vydává za jakéhosi disidenta projektu arény ledových sportů na Praze 11 a tvrdí že byl odvolán Piráty kvůli svému odporu k této stavbě. Realita je však úplně jiná. Ondřej Prokop byl v roce 2021 odvolán z pozice místostarosty městské části Praha 11 z důvodu naprostého nezvládnutí své gesce, nečinnosti a kumulace funkcí. Odvolán byl nejen hlasy svých koaličních partnerů z více stran ale i hlasy opozičního Hnutí pro Prahu 11. 
 
 S těmi byl přitom Ondřej Prokop v koalici v minulém období, kde byly učiněny zásadní nevratné kroky směřující k realizaci projektu arény ledových sportů v podobě podpisu smluvy o právu stavby tehdejším starostou Štylerem (HPP), se kterým ANO sedělo v koalici. Důkazem, že Prokop tento projekt dále podporoval, je hlasování na ZMČ Prahy 11 dne 23. 3. 2017, kdy Prokop podpořil prodloužení práva stavby, jak dokládá [jeho hlasování](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.716876048.1639550485&bod=1644858). A tento krok se opakoval znovu v následujícím roce 13. 9. 2018, kdy opět [hlasoval](https://www.praha11.cz/redakce/index.php?lanG=cs&clanek=6504&slozka=12&as4uOriginalDomain=www.praha11.cz&as4u_protocol=https&ConfirmCookie=confirm&_gid=GA1.2.716876048.1639550485&bod=2138769) pro další prodloužení práva stavby. Pokud měl pan Prokop pochybnosti o tomto projektu, mohl svým nesouhlasným hlasování zajistit ukončení projektu, protože již v té době bylo jasné, že projekt bez účasti města nemůže vzniknout. Těžko tedy mohl být důvod jeho odvolání v tom, že se jako jediný snažil projekt arény ledových sportů zastavit, když naopak i kvůli jeho aktivitě v minulém období neměla městská část jinou možnost než tento projekt se soukromým investorem začít realizovat.
+
+         
+         
+         
+         
+        </div>
+      </div>
+      <div class="pt-8 lg:w-1/3 md:pt-0">
+
+      </div>
+
+    </div>
+  </article>
+
+</div>
+
