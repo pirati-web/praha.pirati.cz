@@ -4,7 +4,7 @@ tags:
 - praha
 title:        "Pražské ANO povede kumulátor placených funkcí zapletený do podezřelé zakázky"
 image: 	      posts/billboard.jpg
-author:       MHMP
+author:       Piráti Praha
 ---
  
 Praha, 11. ledna 2022 –⁠ Předsednictvo pražských Pirátů se znepokojením sleduje výběr nového muže číslo jedna v pražské organizaci hnutí ANO, kterou povede předseda zastupitelského klubu ANO na magistrátu a zastupitel MČ Praha 11 Ondřej Prokop. Podle Pirátů je alarmující, jaký druh lidí slaví úspěchy ve strukturách hnutí Andreje Babiše. Problematickou minulost i současnost Ondřeje Prokopa naleznete na webu [Ondřej Prahu fakt prokopne](/prokop/).
