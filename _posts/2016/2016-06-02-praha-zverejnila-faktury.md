@@ -4,7 +4,7 @@ category:	blog
 tags:	informace magistrát
 layout:	post
 title:	"Pirátský úspěch, Praha zveřejnila seznamy faktur" 
-image:	vault.png
+image:	posts/vault.png
 author:	Mikuláš Ferjenčík, Pavel Hájek
 ---
 

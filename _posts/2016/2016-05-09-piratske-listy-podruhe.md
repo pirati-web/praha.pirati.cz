@@ -4,7 +4,7 @@ category:	blog
 tags:	piráti
 layout:	post
 title:	"Opět rozdáváme 80 000 Pirátských listů!" 
-image:	plisty.jpg
+image:	posts/plisty.jpg
 author:	Jan Loužek
 ---
 
