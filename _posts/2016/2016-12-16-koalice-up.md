@@ -4,7 +4,7 @@ category:     blog
 tags:         Praha
 layout:       post
 title:        "V Praze vzniká nová koalice pro změny územního plánu" 
-image:        koalicnici.jpg
+image:        posts/koalicnici.jpg
 author:       Jan Loužek, Mikuláš Ferjenčík
 ---
 

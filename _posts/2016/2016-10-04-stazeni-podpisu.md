@@ -4,7 +4,7 @@ category:        blog
 tags:        Praha
 layout:        post
 title:        "Ministerstvo odmítlo řešit mimořádné zastupitelstvo v Praze, anonymové z ODS prý podpisy stáhli" 
-image:        udzenija-podpis.jpg
+image:        posts/udzenija-podpis.jpg
 author:       Jakub Michálek
 ---
 

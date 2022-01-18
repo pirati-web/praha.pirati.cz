@@ -4,7 +4,7 @@ category:	blog
 tags:	Praha
 layout:	post
 title:	"Luxusní vstupenky na dotované sportovní akce dostávají zastupitelé bokem." 
-image:	pasovani.png
+image:	posts/pasovani.png
 author:	Adam Zábranský
 ---
 

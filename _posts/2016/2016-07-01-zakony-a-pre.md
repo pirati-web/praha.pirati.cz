@@ -4,7 +4,7 @@ category:	blog
 tags:	Praha registr-smluv
 layout:	post
 title:	"Pražská energetika se rozhodla vědomě porušovat zákon o registru smluv" 
-image:	precko.png
+image:	posts/precko.png
 author:	Mikuláš Ferjenčík
 ---
 

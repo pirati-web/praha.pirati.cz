@@ -4,7 +4,7 @@ category:	blog
 tags:	Praha kamery 
 layout:	post
 title:	"Firma si na městském kamerovém systému vydělala už miliardu a půl."
-image:	kamerovy-system.jpg
+image:	posts/kamerovy-system.jpg
 author:	Adam Zábranský
 ---
 
