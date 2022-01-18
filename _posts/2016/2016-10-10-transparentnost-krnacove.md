@@ -4,7 +4,7 @@ category:        blog
 tags:        Praha
 layout:        post
 title:        "Transparence podle Krnáčové: zakázky nebudou schvalovat politici, ale úředníci" 
-image:        urednik.jpg
+image:        posts/urednik.jpg
 author:       Adam Zábranský
 ---
 
