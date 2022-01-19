@@ -4,7 +4,7 @@ category:	blog
 tags:	inzerát
 layout:	post
 title:	"Staň se asistentem pirátského senátora Libora Michálka" 
-image:	libor-michalek.png
+image:	posts/libor-michalek.png
 author:	Jakub Michálek
 ---
 

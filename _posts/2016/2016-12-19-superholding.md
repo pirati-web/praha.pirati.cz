@@ -4,7 +4,7 @@ category:     blog
 tags:         Praha
 layout:       post
 title:        "Superholding: Požadujeme vlastnickou politiku města a transparentnost" 
-image:        superholding.jpg
+image:        posts/superholding.jpg
 author:       Jakub Michálek
 ---
 

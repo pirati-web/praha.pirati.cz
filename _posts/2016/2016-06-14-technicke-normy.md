@@ -4,7 +4,7 @@ category:	blog
 tags:	technické-normy
 layout:	post
 title:	"Stát kašle na pravomocný rozsudek, dostal od soudu již třetí pokutu" 
-image:	unmz.png
+image:	posts/unmz.png
 author:	Adam Zábranský
 ---
 

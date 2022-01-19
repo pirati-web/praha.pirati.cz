@@ -4,7 +4,7 @@ category:	blog
 tags:	zhmp
 layout:	post
 title:	"Krnáčová s Udženijí zablokovaly Zastupitelstvo nelegálně, potvrzuje dokument." 
-image:	uxh2.jpg
+image:	posts/uxh2.jpg
 author:	Mikuláš Ferjenčík
 ---
 

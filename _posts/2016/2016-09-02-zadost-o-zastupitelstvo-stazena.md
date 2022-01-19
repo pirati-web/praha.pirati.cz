@@ -4,7 +4,7 @@ category:	blog
 tags:	Praha
 layout:	post
 title:	"Piráti nesouhlasí podrazem ODS, která vycouvala z mimořádného Zastupitelstva." 
-image:	magistrat.jpg
+image:	posts/magistrat.jpg
 author:	Jakub Michálek
 ---
 

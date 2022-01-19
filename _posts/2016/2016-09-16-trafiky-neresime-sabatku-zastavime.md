@@ -4,7 +4,7 @@ category:	blog
 tags:	Praha
 layout:	post
 title:	"Koalice: Trafiky neřešíme, Béma nežalujeme, peníze neinvestujeme." 
-image:	komorany-mikulas.jpg
+image:	posts/komorany-mikulas.jpg
 author:	Jan Loužek, Mikuláš Ferjenčík
 ---
 
