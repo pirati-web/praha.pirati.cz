@@ -3,7 +3,7 @@ title:	Březina s Kleslovou rozdělí 360 milionů na sport
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	navrh.jpg
+image:	posts/navrh.jpg
 tags:	granty
 date:	2015-02-18
 ---

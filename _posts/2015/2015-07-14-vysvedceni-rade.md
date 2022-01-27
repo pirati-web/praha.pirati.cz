@@ -3,7 +3,7 @@ title:	Piráti dali vysvědčení radním
 layout:	post
 category:	blog
 author:	Jakub Michálek, Mikuláš Ferjenčík
-image:	adriana-krnacova.jpg
+image:	posts/adriana-krnacova.jpg
 tags:	Praha
 date:	2015-07-14
 ---

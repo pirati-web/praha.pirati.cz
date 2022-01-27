@@ -3,7 +3,7 @@ title:	Kdo krmí billboardáře?
 layout:	post
 author:	Jakub Michálek
 category:	blog
-image:	psp.jpg
+image:	posts/psp.jpg
 date:	2014-12-21
 ---
 

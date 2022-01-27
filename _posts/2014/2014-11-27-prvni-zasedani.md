@@ -3,7 +3,7 @@ title:	Kontrolní výbor nezvolen
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	projev-kontrolni-vybor.jpg
+image:	posts/projev-kontrolni-vybor.jpg
 tags:	zhmp výbory
 date:	2014-11-27
 ---

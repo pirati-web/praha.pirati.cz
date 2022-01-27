@@ -3,7 +3,7 @@ title:	Chceme dokopat ostatní zastupitele, aby zveřejňovali majetek na webu
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	zastupitele-strecha.jpg
+image:	posts/zastupitele-strecha.jpg
 tags:	majetková-přiznání informace
 date:	2015-07-01
 ---

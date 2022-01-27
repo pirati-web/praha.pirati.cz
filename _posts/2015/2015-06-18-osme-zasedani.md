@@ -3,7 +3,7 @@ title:	Regulujme herny, ale na základě relevantních faktů
 layout:	post
 category:	blog
 author:	Jakub Michálek, Adam Zábranský, Mikuláš Ferjenčík
-image:	zast-3.jpg
+image:	posts/zast-3.jpg
 tags:	zhmp
 date:	2015-06-18
 ---

@@ -3,7 +3,7 @@ title:	Piráti jako jediná strana zveřejnili komplet své příjmy
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	zastupko.jpg
+image:	posts/zastupko.jpg
 tags:	informace piráti
 date:	2015-04-05
 ---

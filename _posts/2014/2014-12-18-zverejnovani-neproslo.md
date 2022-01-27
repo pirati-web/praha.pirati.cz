@@ -3,7 +3,7 @@ title:	Zveřejňování? Prostě zdržujeme
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	adam-papir.jpg
+image:	posts/adam-papir.jpg
 tags:	informace zveřejňování-smluv
 date:	2014-12-18
 ---

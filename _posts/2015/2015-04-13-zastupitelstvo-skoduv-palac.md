@@ -3,7 +3,7 @@ title:	O Škodově paláci musí rozhodnout zastupitelstvo
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	sp-foto.jpg
+image:	posts/sp-foto.jpg
 tags:	kauzy skoduv-palac
 date:	2015-04-13
 ---

@@ -3,7 +3,7 @@ title:	Podruhé zasedalo zastupitelstvo
 layout:	post
 category:	blog
 author:	Jan Loužek
-image:	miki.jpg
+image:	posts/miki.jpg
 tags:	zhmp
 date:	2014-12-22
 ---

@@ -3,7 +3,7 @@ title:	Pat v bitvě o kontrolní výbor, koalice odmítla rotaci
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	miki-kv.jpg
+image:	posts/miki-kv.jpg
 tags:	výbory
 date:	2015-03-02
 ---

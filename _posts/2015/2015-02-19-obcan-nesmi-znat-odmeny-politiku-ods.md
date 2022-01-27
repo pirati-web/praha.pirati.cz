@@ -3,7 +3,7 @@ title:	Občan nesmí znát odměny politiků ODS
 layout:	post
 category:	blog
 author:	Jan Loužek
-image:	honza.jpg
+image:	posts/honza.jpg
 tags:	informace
 date:	2015-02-19
 ---

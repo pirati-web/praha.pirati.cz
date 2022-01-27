@@ -3,7 +3,7 @@ title:	Kontrolní výbor požaduje prověřit škodu způsobenou v kauze Škodů
 layout:	post
 category:	blog
 author:	Jan Loužek, Mikuláš Ferjenčík
-image:	palac-zapad.jpg
+image:	posts/palac-zapad.jpg
 tags:	kauzy skoduv-palac kontrolní-výbor
 date:	2015-05-13
 ---

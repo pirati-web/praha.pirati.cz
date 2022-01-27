@@ -3,7 +3,7 @@ title:	V dozorčích radách pražských firem jsou téměř výhradně politici
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	radmila.jpg
+image:	posts/radmila.jpg
 tags:	koalice městské-firmy
 date:	2015-09-17
 ---

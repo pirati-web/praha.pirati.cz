@@ -3,7 +3,7 @@ title:	Přehled Pirátů ve výborech
 layout:	post
 category:	blog
 author:	Jan Loužek
-image:	pirati-a-krnacova.jpg
+image:	posts/pirati-a-krnacova.jpg
 tags:	výbory
 date:	2014-11-27
 ---
