@@ -3,7 +3,7 @@ title:	Školy už neutají odměny manažerů
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	jakub-rozsudek.jpg
+image:	posts/jakub-rozsudek.jpg
 tags:	granty
 date:	2015-03-12
 ---

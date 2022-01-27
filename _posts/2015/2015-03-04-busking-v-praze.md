@@ -3,7 +3,7 @@ title:	Busking v Praze, nevylévejme s vaničkou i dítě
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	harmoniky.jpg
+image:	posts/harmoniky.jpg
 tags:	busking
 date:	2015-03-04
 ---

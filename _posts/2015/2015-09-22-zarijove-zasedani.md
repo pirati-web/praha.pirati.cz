@@ -3,7 +3,7 @@ title:	Koalice v Praze jede opět ve starých kolejích
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	proti-cenzure.jpg
+image:	posts/proti-cenzure.jpg
 tags:	zhmp koalice
 date:	2015-09-22
 ---

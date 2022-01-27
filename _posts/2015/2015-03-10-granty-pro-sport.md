@@ -3,7 +3,7 @@ title:	Karel Březina v grantové komisi
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	brezina.jpg
+image:	posts/brezina.jpg
 tags:	granty sport
 date:	2015-03-10
 ---

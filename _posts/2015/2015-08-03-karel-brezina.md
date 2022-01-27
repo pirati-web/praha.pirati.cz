@@ -3,7 +3,7 @@ title:	Březino, odstup!
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	brezina.jpg
+image:	posts/brezina.jpg
 tags:	kauzy Karel-Březina
 date:	2015-08-03
 ---

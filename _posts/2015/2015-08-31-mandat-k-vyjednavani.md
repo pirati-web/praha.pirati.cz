@@ -3,7 +3,7 @@ title:	Pirátští zastupitelé mají mandát jednat o koalici bez ODS, ČSSD a 
 layout:	post
 category:	blog
 author:	Jakub Michálek, Ivan Bartoš
-image:	zastupko.jpg
+image:	posts/zastupko.jpg
 tags:	koalice
 date:	2015-08-31
 ---

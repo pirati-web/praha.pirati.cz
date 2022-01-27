@@ -3,7 +3,7 @@ title:	Piráti chtěli zalepit díru v zákoně, pražskou Radu ale zachvátila 
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	escher.jpg
+image:	posts/escher.jpg
 tags:	kauzy
 date:	2015-05-18
 ---

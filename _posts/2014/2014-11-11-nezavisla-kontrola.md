@@ -3,7 +3,7 @@ title:	Kontrolní výbor Pirátům
 layout:	post
 author:	Mikuláš Ferjenčík
 category:	blog
-image:	magistrat.jpg
+image:	posts/magistrat.jpg
 date:	2014-11-11
 ---
 

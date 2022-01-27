@@ -3,7 +3,7 @@ title:	Praha dala za Opencard 1,7 mld. Podíl na tom má ODS, TOP09 i ČSSD
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	opencard.png
+image:	posts/opencard.png
 tags:	opencard
 date:	2015-04-27
 ---

@@ -3,7 +3,7 @@ title:	Koalice má bílá místa
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	jakub-hovori.jpg
+image:	posts/jakub-hovori.jpg
 tags:	projev koalice
 date:	2014-12-04
 ---

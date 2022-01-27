@@ -3,7 +3,7 @@ title:	"Výzva Straně zelených: pošlete Březinu do politického důchodu!"
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	duchod-brezina.jpg
+image:	posts/duchod-brezina.jpg
 tags:	kauzy Karel-Březina
 date:	2015-08-05
 ---

@@ -3,7 +3,7 @@ title:	Piráti doporučují otevřít pražské firmy lepší kontrole
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	prazskefirmy.png
+image:	posts/prazskefirmy.png
 tags:	městské-firmy transparentnost
 date:	2015-05-15
 ---

@@ -3,7 +3,7 @@ title:	Praha u dopravního odbavení přestává vynalézat kolo
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	kolo.jpg
+image:	posts/kolo.jpg
 tags:	opencard sms-jízdenky 
 date:	2015-04-27
 ---

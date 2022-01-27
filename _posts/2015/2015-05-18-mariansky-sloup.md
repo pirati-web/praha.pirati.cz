@@ -3,7 +3,7 @@ title:	Mariánský sloup nebude financován z pražského rozpočtu
 layout:	post
 category:	blog
 author:	Jakub Michálek, Mikuláš Ferjenčík
-image:	falus.jpg
+image:	posts/falus.jpg
 tags:	kauzy
 date:	2015-05-18
 ---
