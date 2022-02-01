@@ -36,3 +36,5 @@ Narodil se v Táboře, od roku 2010 žije v Praze. Studoval střední průmyslov
 Na Praze 3 považuje za nejdůležitější téma transparentní a otevřenou radnici, a kvalitu služeb. V roce 2019 se stal po rezignaci Tibora Vansy zastupitelem hl. m. Prahy jako 2. náhradník z kandidátní listiny Pirátů ve volbách do pražského zastupitelstva.
 
 Oblíbený citát: “Nebát se a nekrást” – T.G. Masaryk
+
+**Chcete-li si domluvit schůzku, kontaktujte mně na uvedeném čísle. Mé hodiny pro veřejnost jsou ve středu a ve čtvrtek mezi 14:00 až 16:00**
