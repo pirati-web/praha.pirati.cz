@@ -35,3 +35,5 @@ Autobusová zastávka Palackého náměstí, linky 176 a 148.
 Doprava nákladu autem a imobilních osob: Přijet lze do ulice Na Moráni před vchod do kanceláře, je však nezbytné náklad vynést po schodech. Pro dopravu imobilních osob máme k dispozici rampu do vchodu do Nového Pirátského centra
 
 Možnosti parkování: Kolem Pirátského centra je fialová zóna, kde je možné volné stání v provozní době po dobu maximálně 12 hodin po platbě v parkovacím automatu nebo přes virtuální parkovací hodiny (mobilní aplikace). Mimo základní provozní dobu není parkování ve fialové zóně regulováno.
+
+<iframe src="https://www.google.com/calendar/embed?showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=evhpcc3i4hgjut142ru0tn7gl0%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=Europe%2FPrague" style=" border:solid 1px #777 " width="750" height="600" frameborder="0" scrolling="no"></iframe>
