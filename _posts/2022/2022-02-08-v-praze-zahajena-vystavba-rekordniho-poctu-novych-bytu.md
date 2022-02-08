@@ -7,7 +7,7 @@ image: 	      posts/domy-slunce.jpg
 author:       MHMP
 ---
  
-Český statistický úřad dnes zveřejnil statistická data o bytové výstavbě za celý rok 2021. Výsledky jsou pro Prahu velmi pozitivní, jelikož celkový počet zahájených bytů v Praze byl 9 698, což je nejvíce od roku 2000. V nových bytových domech byla zahájena výstavba celkem 8 283 bytů, dosud bylo nejvyšší počet zahájených bytů v nových bytových domech zaznamenán v roce 2005, a to 6 843 bytů.
+Český statistický úřad dne 7. 2. 2022 zveřejnil statistická data o bytové výstavbě za celý rok 2021. Výsledky jsou pro Prahu velmi pozitivní, jelikož celkový počet zahájených bytů v Praze byl 9 698, což je nejvíce od roku 2000. V nových bytových domech byla zahájena výstavba celkem 8 283 bytů, dosud bylo nejvyšší počet zahájených bytů v nových bytových domech zaznamenán v roce 2005, a to 6 843 bytů.
 
 Tyto údaje jsou důsledkem různých pozitivních vlivů – konečně se daří zahajovat výstavbu na velkých pražských brownfieldech jako je nádraží Smíchov, Rohanský ostrov, nebo Nákladové nádraží Žižkov. Tedy velkých stavebních projektů, které poběží mnoho let. Praze se také podařilo obhájit své vlastní předpisy v novém stavebním zákoně a zároveň připravuje nový územní plán (tzv. Metropolitní plán). Město totiž potřebuje, aby pravidla výstavby byla jednoduchá, srozumitelná a připravená přímo pro specifika metropole. Prvnímu náměstku primátora, Petru Hlaváčkovi a jeho týmu se také podařilo výrazně zkrátit projednávání změn územního plánu „čekajících na radnici“ v průměru z 981 dní na 270 dní, což znatelně zrychlilo výstavbu nových bytů. 
 
