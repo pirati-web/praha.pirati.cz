@@ -9,6 +9,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - carousel
 - vybor
+- can
 img: 		people/viktor-mahrik.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/04-mahrik.jpg
@@ -35,6 +36,7 @@ profiles:
 ordpraha: 4
 ordvybor: 4
 ordcar: 3
+ordcan: 6
 carousel:
   img: viktor-mahrik.jpg
   text: |

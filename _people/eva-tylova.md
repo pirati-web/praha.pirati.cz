@@ -7,6 +7,7 @@ titles:
 category:               	# kategorie: rp, praha, vary, hradec, jmk,
 - praha
 - vybor
+- can
 img: people/eva-tylova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: Místostarostka městské části Praha 12.<br/>       	# kratký popis, max 160 znaků
@@ -15,6 +16,7 @@ mail:
 - eva.tylova@pirati.cz
 mob:			 
 ordvyb: 27
+ordcan: 7
 profiles:
   github:       
   facebook:     

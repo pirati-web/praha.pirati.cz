@@ -6,6 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
 - vybor
+- can
 img: people/jaromir-beranek.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/08-beranek.jpg
@@ -24,6 +25,7 @@ profiles:
 ordvyb: 1
 ordpraha: 6
 ordpks: 5
+ordcan: 12
 redmine: 223
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
 ---

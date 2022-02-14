@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - vybor
+- can
 img: 		people/jana-komrskova.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/jana-komrskova.jpg
@@ -16,6 +17,7 @@ mail:
 - jana.komrskova@pirati.cz
 mob: +420 605 205 770
 ordvyb: 22
+ordcan: 2
 ---
 
 **Jana Komrsková** byla do května 2021 zastupitelského klubu Pirátů v ZHMP, členkou finančního výboru ZHMP a výboru ZHMP pro zdravotnictví, sport a volný čas.

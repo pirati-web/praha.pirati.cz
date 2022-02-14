@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor
 - pks
+- can
 img: people/zuzana-freitas.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: členka předsednictva krajského sdružení Pirátů v Praze<br/> zastupitelka městské části Praha 10<br/>členka výboru pro bydlení ZHMP    	# kratký popis, max 160 znaků
@@ -16,6 +17,7 @@ mail:
 mob: "+420 776 278 860"
 ordvyb: 14
 ordpks: 4
+ordcan: 10
 profiles:
   github:       
   facebook:    

@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - vybor
 - pks
+- can
 img: people/daniel-mazur.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: předseda předsednictva krajského sdružení Pirátů v Praze<br/>, garant programového bodu Vzdělávání a věda<br/>, předseda místního sdružení Pirátů Prahy 5, zastupitel městské části Praha 5            	# kratký popis, max 160 znaků
@@ -23,6 +24,7 @@ profiles:
 ordpraha: 3	
 ordpks: 1
 ordvybor: 28
+ordcan: 5
 calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
 ---
 
