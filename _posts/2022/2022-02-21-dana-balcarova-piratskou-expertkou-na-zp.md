@@ -4,7 +4,7 @@ tags:
 - volby
 title:  "Pirátskou kandidátkou na senátorku se stala expertka na životní prostředí Dana Balcarová"
 image: 	      posts/dana.jpg
-author: Piráti Praha 1
+author: Piráti Praha
 ---
 
 Praha, 20. února 2022 – Pražští Piráti v sobotu zvolili Danu Balcarovou kandidátkou do pozimních senátních voleb za pražský obvod 25, který zahrnuje zejména Prahu 6 a přilehlé části. Balcarová je pirátská expertka na životní prostředí a ochranu klimatu, v minulém volebním období vykonávala funkci poslankyně a byla výraznou předsedkyní sněmovního Výboru pro životní prostředí. Působí ve vedení Pirátské strany, konkrétně je členkou Republikového výboru. Na tvorbě pirátských environmentálních programů se podílí již od roku 2014.
