@@ -17,6 +17,8 @@ main:
     name: Lidé
   - link: /program/
     name: Program 
+  - link: /krajske-expertni-teamy/
+    name: Experti 
   - link: /kontakt/
     name: Kontakt
 
