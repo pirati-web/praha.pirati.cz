@@ -1,3 +1,4 @@
+---
 title: Kandidáti do Zastupitelstva hl. m. Prahy
 uid: 2022-krajske
 # number: 13 # číslo kandidátky odkomentujte až bude známé
@@ -97,3 +98,11 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
  tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
+  - name: Mudr. Místní Dkotor
+    age: 49
+    profession: obvodní lékař
+    partyUid: bezpp
+    
+note:
+  Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+---
