@@ -66,31 +66,29 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: člen Pirátské strany
     partyUid: pirati
     description: radní městské části Praha 12
-tail: # zbytek kandidatky
-      # jedinná povinná položka je name zbytek můžete vynechat
-      # věk se uvádí k poslednímu dni voleb   
 # 10.
-  - name: Zuzana Freitas
+  - uid: zuzana.freitas
     age: 54
     profession: politička
     party: nezávislý kandidát
+    partyUid: pirati
     description: členka výboru pro bydlení ZHMP
 # 11.
-  - name: Gabriela Lněničková
+  - uid: gabriela.lnenickova
     age: 42
     profession: projektová manažerka
     party: členka Pirátské strany
     partyUid: pirati
     description: Členka rady neziskové organizace Platforma za kvalitní dopravní infrastrukturu
 # 12.
-  - name: Jaromír Beránek
+  - uid: jaromir.beranek
     age: 35
     profession: informatik
     party: člen Pirátské strany
     partyUid: pirati
     description: Předseda výboru pro Smart Cities v ZHMP
 # 13.
-  - name: David Bodeček
+  - uid: david.bodecek
     age: 42
     profession: politik
     party: člen Pirátské strany
