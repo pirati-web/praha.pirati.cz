@@ -72,16 +72,16 @@ tail: # zbytek kandidatky
 # 10.
   - name: Zuzana Freitas
     age: 54
-    profession: 
+    profession: politička
     party: nezávislý kandidát
-    description: 
+    description: členka výboru pro bydlení ZHMP
 # 11.
   - name: Gabriela Lněničková
     age: 42
     profession: projektová manažerka
     party: členka Pirátské strany
     partyUid: pirati
-    description: 
+    description: Členka rady neziskové organizace Platforma za kvalitní dopravní infrastrukturu
 # 12.
   - name: Jaromír Beránek
     age: 35
