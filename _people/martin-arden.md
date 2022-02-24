@@ -29,12 +29,9 @@ ordpak: 1
 calendar: pirat.arden@gmail.com
 ---
 
-Martin Arden (* 29. března 1967) je zastupitel hl. m. Prahy za Piráty. Je rovněž členem výboru pro sociální politiku ZHMP, kulturu a cestovní ruch ZHMP a výboru pro národnostní menšiny ZHMP. U Pirátů je od roku 2012. Je evangelický duchovní a učitel francouzštiny. Pracuje jako poradce pro neziskové organizace. V roce 2005 založil Českou kulturní tiskovou kancelář. Je aktivní uživatel a šiřitel operačního systému Linux.
+**Martin Arden** (* 29. března 1967) je Zastupitel Magistrátu hl. m. Prahy, kontakt pro veřejnost za pirátský klub na MHMP,  mediátor a kouč pro komunikaci, zakladatel Nadačního fondu humanitární pomoci, členem pirátské strany od roku 2012
 
-Narodil se v Táboře, od roku 2010 žije v Praze. Studoval střední průmyslovou školu na Třebešíně, Vysokou školu pro mezinárodní vztahy a zastupování v Lutychu v Belgii. Od roku 2010 studuje evangelickou teologii v Praze. Je pastoračním pracovníkem a působí také v Žižkostele na Praze 3. Od roku 2012 je členem Pirátské strany. Věnuje se mimo jiné lidem na okraji společnosti, v Praze vede a organizuje akce, kde se z pirátských poslaneckých náhrad poskytuje Pirátský guláš pro potřebné. Pořádá také veřejná setkání Pirátů a veřejnosti na téma exekuce a oddlužení.
+Martin Arden je člen výborů pro sociální politiku, pro bydlení a pro národnostní menšiny a kulturu Je dále členem komisí pro udělování čestných občanství, pro udělování grantů v oblasti národnostních menšin a integrace cizinců a bytové komise
 
-Na Praze 3 považuje za nejdůležitější téma transparentní a otevřenou radnici, a kvalitu služeb. V roce 2019 se stal po rezignaci Tibora Vansy zastupitelem hl. m. Prahy jako 2. náhradník z kandidátní listiny Pirátů ve volbách do pražského zastupitelstva.
+**Chcete-li si domluvit schůzku, kontaktujte mně na uvedeném etlefonním čísle. Mé hodiny pro veřejnost jsou ve středu a ve čtvrtek mezi 14:00 až 16:00**
 
-Oblíbený citát: “Nebát se a nekrást” – T.G. Masaryk
-
-**Chcete-li si domluvit schůzku, kontaktujte mně na uvedeném čísle. Mé hodiny pro veřejnost jsou ve středu a ve čtvrtek mezi 14:00 až 16:00**
