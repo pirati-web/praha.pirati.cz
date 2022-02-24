@@ -66,7 +66,9 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: člen Pirátské strany
     partyUid: pirati
     description: 
-
+tail: # zbytek kandidatky
+      # jedinná povinná položka je name zbytek můžete vynechat
+      # věk se uvádí k poslednímu dni voleb   
 # 10.
   - name: Petr Tomáš
     age: 50
@@ -94,15 +96,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: člen Pirátské strany
     partyUid: pirati
     description: zastupitel města Příbram
-    
- tail: # zbytek kandidatky
-      # jedinná povinná položka je name zbytek můžete vynechat
-      # věk se uvádí k poslednímu dni voleb
-  - name: Mudr. Místní Dkotor
-    age: 49
-    profession: obvodní lékař
-    partyUid: bezpp
-    
-note:
-  Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+note: 
+# poznámka pod kanidátku
+
 ---
