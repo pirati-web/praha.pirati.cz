@@ -14,31 +14,31 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 # 2.
   - uid: jana.komrskova
     age: 44
-    profession: botanička v Botanickém ústavu AV ČR v Průhonicích, VŠ pedagožka, oddílová vedoucí
+    profession: politička
     party: člen Pirátské strany
     partyUid: pirati
-    description: 
+    description: místostarostka městské části Praha 10
 # 3.
   - uid: adam.zabransky
     age: 28
-    profession: radní hlavního města Prahy pro oblast bydlení a transparentnost
+    profession: pražský radní
     party: členka Pirátské strany
     partyUid: pirati
-    description: 
+    description: radní hlavního města Prahy pro oblast bydlení a transparentnost
 # 4.
   - uid: magdalena.valdmanova
     age: 40
-    profession: metodik projektového řízení, hudebník a lektor sportovního tance
+    profession: zastupitelka městské části Praha 2 za Piráty
     party: člen Pirátské strany
     partyUid: pirati
-    description: radní města Benešova
+    description: asistentka výboru pro správu majetku ZHMP
 # 5.
   - uid: daniel.mazur
     age: 42
-    profession: ekonomka, zaměstnankyně ve státní správě
+    profession: informatik
     party: člen Pirátské strany
     partyUid: pirati
-    description: 
+    description: pirátský garant pro oblast vzdělávání
 # 6.
   - uid: viktor.mahrik
     age: 32
@@ -48,51 +48,51 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: předseda výboru pro správu majetku ZHMP
 # 7.
   - uid: eva.tylova
-    age: 40
-    profession: advokátka se specializací na veřejné zakázky, předsedkyně správní rady Nadačního fondu humanitární pomoci
+    age: 
+    profession: politička
     party: nezavislá kandidátka
-    description:
+    description: předsedkyně zastupitelského klubu Pirátů na Praze 12
 # 8.
   - uid: bara.soukupova
-    age: 42
-    profession: lektorka a muzejní pracovnice
+    age: 34
+    profession: geoinformatička
     party: členka Pirátské strany
     partyUid: pirati
-    description: 
+    description: asistentka výboru pro Smart Cities ZHMP
 # 9.
   - uid: jiri.bruzek
-    age: 22
-    profession: student zdravotnických studií na VŠ
+    age: 45
+    profession: informatik
     party: člen Pirátské strany
     partyUid: pirati
-    description: 
+    description: radní městské části Praha 12
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb   
 # 10.
   - name: Zuzana Freitas
-    age: 50
-    profession: zdravotnický specialista, školitel první pomoci a resuscitace
+    age: 54
+    profession: 
     party: nezávislý kandidát
     description: 
 # 11.
   - name: Gabriela Lněničková
-    age: 39
-    profession: vedoucí dispečer mezinárodní vlakové dopravy, promotér a organizátor kulturních akcí
-    party: člen Pirátské strany
+    age: 42
+    profession: projektová manažerka
+    party: členka Pirátské strany
     partyUid: pirati
     description: 
 # 12.
   - name: Jaromír Beránek
-    age: 39
-    profession: konzultant v automobilovém průmyslu, člen České společnosti ornitologické
+    age: 35
+    profession: informatik
     party: člen Pirátské strany
     partyUid: pirati
-    description: 
+    description: Předseda výboru pro Smart Cities v ZHMP
 # 13.
   - name: David Bodeček
-    age: 24
-    profession: VŠ student, provozovatel hudebního klubu
+    age: 42
+    profession: politik
     party: člen Pirátské strany
     partyUid: pirati
     description: zastupitel městské části Praha 1
