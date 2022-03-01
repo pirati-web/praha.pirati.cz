@@ -51,7 +51,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 
     profession: politička
     party: nezavislá kandidátka
-    description: předsedkyně zastupitelského klubu Pirátů na Praze 12
+    description: místostarostka městské části Praha 12
 # 8.
   - uid: bara.soukupova
     age: 34
