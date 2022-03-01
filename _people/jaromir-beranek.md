@@ -1,7 +1,10 @@
 ---
 uid: jaromir.beranek
 name:     Jaromír Beránek  	# běžně používáné jméno
-fullname: Jaromír Beránek  	# jméno s tituly etc.
+titles: 
+  before: Mgr. Ing. 
+  after: 
+fullname: Mgr. Ing. Jaromír Beránek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha

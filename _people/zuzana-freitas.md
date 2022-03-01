@@ -2,7 +2,7 @@
 uid: zuzana.freitas
 name:     Zuzana Freitas  	# běžně používáné jméno
 titles:
-  before: 
+  before: Mgr.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor

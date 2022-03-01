@@ -2,8 +2,8 @@
 uid: gabriela.lnenickova
 name:    Gabriela Lněničková
 titles:
-  before: 
-  after:
+  before: Mgr.
+  after: MBA
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - can
