@@ -3,7 +3,7 @@ date:   2022-03-02
 tags:  
 - ukrajina
 title:  "Krizový štáb hlavního města řešil migrační vlnu způsobenou válkou na Ukrajině"
-image: 	      posts/hrib-mkp.jpg
+image: 	      posts/mkp-ua.jpg
 author: MHMP
 ---
 
