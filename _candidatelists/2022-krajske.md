@@ -34,21 +34,21 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: asistentka výboru pro správu majetku ZHMP
 # 5.
   - uid: daniel.mazur
-    age: 42
+    age: 44
     profession: informatik
     party: člen Pirátské strany
     partyUid: pirati
     description: pirátský garant pro oblast vzdělávání
 # 6.
   - uid: viktor.mahrik
-    age: 32
-    profession: projektový manažer a vývojář
+    age: 40
+    profession: lektor a specialista internetových průzkumů
     party: člen Pirátské strany
     partyUid: pirati
     description: předseda výboru pro správu majetku ZHMP
 # 7.
   - uid: eva.tylova
-    age: 
+    age: 62
     profession: politička
     party: nezavislá kandidátka
     description: místostarostka městské části Praha 12
@@ -68,7 +68,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: radní městské části Praha 12
 # 10.
   - uid: zuzana.freitas
-    age: 54
+    age: 53
     profession: politička
     party: nezávislý kandidát
     partyUid: pirati

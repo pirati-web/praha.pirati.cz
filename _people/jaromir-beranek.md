@@ -1,6 +1,6 @@
 ---
 uid: jaromir.beranek
-ngr.ame:     Jaromír Beránek  	# běžně používáné jméno
+name:     Jaromír Beránek  	# běžně používáné jméno
 titles: 
   before: Mgr. Ing. 
   after: 
