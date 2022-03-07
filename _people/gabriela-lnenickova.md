@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - can
-img: people/gabriela-lnenickova.jpg   # 165 x 220
+img: people/2022/gabriela-lnenickova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description:   Kandidát č. 11. do Zastupitelstva hl. m. Prahy   	# kratký popis, max 160 znaků
 mail:
