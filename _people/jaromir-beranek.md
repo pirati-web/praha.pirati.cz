@@ -4,7 +4,6 @@ name:     Jaromír Beránek  	# běžně používáné jméno
 titles: 
   before: Mgr. Ing. 
   after: 
-fullname: Mgr. Ing. Jaromír Beránek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
