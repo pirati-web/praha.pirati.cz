@@ -94,6 +94,30 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: člen Pirátské strany
     partyUid: pirati
     description: zastupitel městské části Praha 1
+    
+tail: # zbytek kandidatky  # jedinná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
+  - name: Jan Hora
+    image: /people/jan-hora.jpg
+    age: 
+    profession: informatik
+    partyUid: piráti
+  - name: Eva Horáková
+    age: 
+    profession: zdravotní sestra, předsedkyně výboru pro soc. politiku  ZHMP
+    partyUid: piráti
+  - name: Mikuláš Ferjenčík
+    age: 
+    profession: lektor kroužků zábavné logiky, překladatel
+    partyUid: piráti
+  - name: Tomáš Murňák
+    age: 
+    profession: předseda výboru pro legislativu ZHMP
+    partyUid: piráti
+  - name: Zuzana Ujhelyiová
+    age: 
+    profession: zastupitelka městské části Praha 11
+    partyUid: piráti
+    
 note: 
 # poznámka pod kanidátku
 

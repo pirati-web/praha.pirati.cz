@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - can
-img: people/david-bodecek.jpg   # 165 x 220
+img: people/2022/david-bodecek.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: Kandidát č. 13. do voleb do Zastupitelstva hl. m. Prahy  	# kratký popis, max 160 znaků
 mail:
