@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - can
-img: people/jiri-bruzek.jpg   # 165 x 220
+img: people/2022/jiri-bruzek.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description:   Kandidát č. 9. do Zastupitelstva hl. m. Prahy   	# kratký popis, max 160 znaků
 mail:
