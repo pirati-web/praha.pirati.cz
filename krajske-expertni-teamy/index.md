@@ -5,10 +5,6 @@ description: Krajské expertní týmy
 keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 ---
 
-<div class="container container--default pt-8 lg:py-24">
-<section>
-<h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Krajské expertní týmy</h1>
-<p>V rámci pražského sdružení Pirátů působí následující krajské expertní týmy:</p>
 <main>
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
@@ -39,9 +35,6 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 </div>
 </main>
 
-  
-</section>
-</div>
 
 
 * **[IT a Smart City](https://forum.pirati.cz/viewforum.php?f=1264")** – Vedoucí: Jan Hora (jan.hora@pirati.cz)
