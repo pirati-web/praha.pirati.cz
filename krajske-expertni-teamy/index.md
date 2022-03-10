@@ -5,13 +5,6 @@ description: Krajské expertní týmy
 keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 ---
 
----
-layout: default
-title: Krajské expertní týmy
-description: Krajské expertní týmy
-keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské expertní týmy
----
-
 <div class="container container--default pt-8 lg:py-24">
 <section>
 <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Krajské expertní týmy</h1>
