@@ -6,7 +6,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 ---
 
 <main>
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
 
 <article class="card card--hoveractive">
 <a href="https://forum.pirati.cz/viewforum.php?f=1260"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/prumysl-obchod-a-cestovni-ruch.jpg" alt="Bezpečnost" /></a>
