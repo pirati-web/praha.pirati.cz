@@ -1,10 +1,14 @@
 ---
-layout: page
+layout: default
 title: Krajské expertní týmy
 description: Krajské expertní týmy
 keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 ---
 
+<div class="container container--default pt-8 lg:py-24">
+<section>
+<h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Krajské expertní týmy</h1>
+  
 <main>
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
 
@@ -111,3 +115,5 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 
 
 
+  </section>
+  </div>
