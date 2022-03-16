@@ -16,10 +16,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 <a href="https://forum.pirati.cz/viewforum.php?f=1260"><img class="w-full h-48 object-cover" src="https://www.pirati.cz/assets/img/teams/resorty/vnitro.jpg" alt="Bezpečnost" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1260" target="_blank">Bezpečnost</a></h1> 
-<p class="card-body-text">Patrik Šebesta 
-  [patrik.sebesta@email.cz](mailto:patrik.sebesta@email.cz)
-
-</p>
+<p class="card-body-text">Patrik Šebesta (<a href="mailto:patrik.sebesta@email.cz>patrik.sebesta@email.cz</a>)</p>
 </div>
 </article>
 
