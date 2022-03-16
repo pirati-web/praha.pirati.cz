@@ -7,7 +7,7 @@ image: 	      posts/vitsimral5.jpg
 author: MHMP
 ---
 
-Pražští radní dnes odsouhlasili záměr na výstavbu nového objektu tělocvičné haly Gymnázia Na Zatlance. Financování bude hrazeno z rozpočtu hl. m. Prahy v předpokládané výši necelých 86 milionů korun. Na základě této zakázky bude následně Zastupitelstvu hl. m. Prahy předložen návrh ke schválení nabytí vlastnického práva nemovitosti do majetku hlavního města. 
+Pražští radní v pondělí 14. března odsouhlasili záměr na výstavbu nového objektu tělocvičné haly Gymnázia Na Zatlance. Financování bude hrazeno z rozpočtu hl. m. Prahy v předpokládané výši necelých 86 milionů korun. Na základě této zakázky bude následně Zastupitelstvu hl. m. Prahy předložen návrh ke schválení nabytí vlastnického práva nemovitosti do majetku hlavního města. 
 
 > „Zatlanka je jedno z nejvyhledávanějších pražských gymnázií, přesto se do této doby potýká s problémy při výuce tělocviku kvůli nedostatečným prostorovým kapacitám. Plánovaná investice má tuto nepříjemnou situaci napravit, aby děti ze školy nemusely chodit cvičit jinam. V objektu vznikne i nová jídelna, což zase zvýší komfort učitelů a žáků při stravování,“ uvedl radní hl. m. Prahy pro oblast školství a sportu Vít Šimral.  
 
