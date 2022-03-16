@@ -32,7 +32,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 <a href="https://forum.pirati.cz/viewforum.php?f=1262"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/doprava.jpg" alt="Doprava a infrastruktura" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1262" target="_blank">Doprava a infrastruktura</a></h1> 
-<p class="card-body-text">Vedoucí: Blanka Charvátová (blanka.charvatova@pirati.cz)</p>
+<p class="card-body-text">Vedoucí: Gabriela Lněničková (gabriela.lnenickova@pirati.cz)</p>
 </div>
 </article>
 
@@ -40,7 +40,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 <a href="https://forum.pirati.cz/viewforum.php?f=1264"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/prumysl-obchod-a-cestovni-ruch.jpg" alt="IT a Smart City" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1264" target="_blank">IT a Smart City</a></h1> 
-<p class="card-body-text">Vedoucí: Jan Hora (jan.hora@pirati.cz)</p>
+<p class="card-body-text">Vedoucí: Zuzana Drázdová (zuzana.drazdova@pirati.cz)</p>
 </div>
 </article>  
 
