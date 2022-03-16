@@ -80,7 +80,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 
 
 <article class="card card--hoveractive">
-<a href="https://forum.pirati.cz/viewforum.php?f=1265"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/resize/400x225/stredocesky/img/program2020/prumysl-obchod-a-cestovni-ruch.jpg" alt="Transparentnost a legislativa" /></a>
+<a href="https://forum.pirati.cz/viewforum.php?f=1265"><img class="w-full h-48 object-cover" src="https://www.pirati.cz/assets/img/teams/resorty/spravedlnost.jpg" alt="Transparentnost a legislativa" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1265" target="_blank">Transparentnost a legislativa</a></h1> 
 <p class="card-body-text">Vedoucí: Adam Rut (adam.rut@pirati.cz)</p>
