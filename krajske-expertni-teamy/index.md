@@ -4,7 +4,7 @@ title: Krajské expertní týmy
 description: Krajské expertní týmy
 keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 ---
-[Contact Us](mailto:admin@cloudhadoop.com)
+
 <div class="container container--default pt-8 lg:py-24">
 <section>
 <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Krajské expertní týmy</h1>
@@ -17,7 +17,8 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1260" target="_blank">Bezpečnost</a></h1> 
 <p class="card-body-text">Patrik Šebesta 
-  <patrik.sebesta@email.cz>
+  [patrik.sebesta@email.cz](mailto:patrik.sebesta@email.cz)
+
 </p>
 </div>
 </article>
