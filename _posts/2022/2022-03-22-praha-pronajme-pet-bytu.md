@@ -7,7 +7,7 @@ image: 	      posts/adam-zabransky-7.jpg
 author: MHMP
 ---
 
-Rada hl. m. Prahy dnes schválila pronájem městských bytů pražským příspěvkovým organizacím Dětský domov Dolní Počernice a Dětský domov Klánovice. Počernickému dětskému domovu byly pronajaty dva byty, klánovickému tři. Mladým dospělým opouštějícím dětské domovy poslouží pronajaté byty jako první krok k plnému osamostatnění se.
+Rada hl. m. Prahy v pondělí 21. 3. schválila pronájem městských bytů pražským příspěvkovým organizacím Dětský domov Dolní Počernice a Dětský domov Klánovice. Počernickému dětskému domovu byly pronajaty dva byty, klánovickému tři. Mladým dospělým opouštějícím dětské domovy poslouží pronajaté byty jako první krok k plnému osamostatnění se.
 
 Jeden byt pro Dětský domov Klánovice bude využíván jako sdílené bydlení pro mladé dospělé, kteří v domově dříve pobývali, spolu s vysokoškoláky, a dva byty poslouží jako startovací.
 
