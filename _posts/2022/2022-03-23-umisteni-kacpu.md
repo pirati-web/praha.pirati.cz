@@ -1,7 +1,7 @@
 ---
 date:   2022-03-22
 tags:  
-- bydlení
+- ukrajina
 title:  "Krizový štáb hlavního města řešil umístění Krajského asistenčního centra pomoci Ukrajině. Přesune se do Vysočan"
 image: 	      posts/uaflag.jpg
 author: MHMP
