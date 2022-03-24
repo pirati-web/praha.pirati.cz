@@ -30,7 +30,7 @@ Zástupce veřejnosti má silnější postavení než jednotlivec. Díky zmocně
 
 V návrhu územního plánu je plocha SMJ-S(X5), která umožňuje výstavbu obchodního domu o celkové hrubé podlažní ploše 156 000 m2, což je plocha odpovídající sedminásobku OC Stromovka. Obchodní dům bude nad zemí rozdělený do 3 objemů, které budou propojené nad zemí můstky a pod zemí půjde o jeden celý propojený objekt. I když má mít obchodní dům mix funkcí, tedy mají zde být umístěné i byty, bude zde umístěno mezi 55 000 až  95 000 m2 obchodních ploch, což bude větší obchodní plocha než má např. OC Palladium nebo Arkády Pankrác. Obchodní centrum by ohrožovalo maloobchod a atraktivitu Pražské tržnice. Ochrana Pražské tržnice je důležitá i z pohledu ochrany městských investic, město totiž do areálu plánuje investovat 2-3 mld. Kč, tyto finance by pak mohly být ohrožené. Chceme obchody hlavně v parteru budov, které vytváří živou ulici. Velká obchodní centra jsou v konfliktu i s udržitelným rozvojem, který jako Piráti prosazujeme. A nakonec by obchodní centrum lákalo nakupující, aby přijeli autem, což by zhoršilo dopravní situaci na Praze 7.  
 
-<!--![Mapa](posts/holesovice.jpg "Mapa")-->
+<!--![Mapa](https://mrak.pirati.cz/f/3115174 "Mapa")-->
 
 **2. Budeme žádat o převedení plochy z funkce SMJ do funkce SV - smíšené všeobecné, což umožní výstavbu obchodních ploch o maximální ploše 20 000 m2**
 
