@@ -12,6 +12,9 @@ img: people/zdenek-hrib.jpg  # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/13-hrib.jpg
 description: <br/> primátor hlavního města Prahy
+profession: primátor hlavního města Prahy
+funkce: 
+  - primátor hlavního města Prahy 
 asistenti:
   - name: Jiří Hoskovec
     uid: jiri.hoskovec
@@ -55,13 +58,14 @@ profiles:
   facebook:  https://www.facebook.com/zdenek.hrib.primator/
   twitter: 	 https://twitter.com/ZdenekHrib
   instagram: https://www.instagram.com/zdenek.hrib
+  linkedin:  https://www.linkedin.com/in/zdenekhrib/ 
   flickr:    https://www.flickr.com/search/?text=zden%C4%9Bk%20H%C5%99ib   		  
 ordpraha: 1
 ordcan: 1
 ---
 **Zdeněk Hřib** (\* 1981) žije v Praze, kde vystudoval 3. lékařskou fakultu Univerzity Karlovy. V minulosti byl členem Správní rady Všeobecné zdravotní pojišťovny a ředitelem obecně prospěšné společnosti Institut pro aplikovaný výzkum, edukaci a řízení ve zdravotnictví. Publikoval řadu článků v odborném i laickém tisku (Zdravotnické noviny, Medical Tribune, EURO, IT Systems, CIO Business World, Sdělovací technika, International Journal for Quality in Health Care, …). Byl také členem několika pracovních skupin k tématům informatiky, kvality a efektivity služeb na úrovni ministerstva, Světové zdravotnické organizace a EU, dále se zabývá návrhy a realizací rozsáhlých informačních systémů. Je ženatý a má 3 děti.
 
-Od listopadu je primátorem hlavního města Prahy. 
+**Od listopadu je primátorem hlavního města Prahy.**
 
 ### Transparentnost 
 
