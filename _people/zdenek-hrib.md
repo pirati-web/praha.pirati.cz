@@ -27,7 +27,7 @@ asistenti:
     position: poradkyně primátora
     mail: martina.vackova@praha.eu
     tel: 
-- name: Martin Kameník
+  - name: Martin Kameník
     uid: martin.kamenik
     position: poradce primátora
     mail: martin.kamenik@praha.eu
