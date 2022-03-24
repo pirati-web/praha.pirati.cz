@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
 - vybor
-img: people/eva-horakova2.jpg   # 165 x 220
+img: people/eva-horakova3.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/06-horakova.jpg
 description: místopředsedkyně zastupitelského klubu Pirátů<br/> zastupitelka s gescemi sociální věci, zdravotnictví, pohřebnictví   	# kratký popis, max 160 znaků
