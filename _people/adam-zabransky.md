@@ -18,6 +18,10 @@ category:                 	# kategorie: praha
 img: people/adam-zabransky.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: radní pro bydlení a transparentnost            	# kratký popis, max 160 znaků
+profession: radní hlavního města Prahy
+partyUid: pirati
+funkce: 
+  - radní hl. města Prahy pro bydlení a transparentnost  
 profilebadge: people/badge/03-zabransky.jpg
 direct-contact: true
 asistenti:
@@ -44,10 +48,11 @@ mail:
 - adam.zabransky@pirati.cz
 mob:			  +420 721 006 868
 profiles:
-  github:                 https://github.com/adamzabransky
-  facebook: 		  https://www.facebook.com/piratzabransky/
-  twitter: 		  https://twitter.com/adamzabransky
-  flickr:     		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=adam%20z%C3%A1bransk%C3%BD
+  github:    https://github.com/adamzabransky
+  facebook:  https://www.facebook.com/piratzabransky/
+  twitter: 	 https://twitter.com/adamzabransky
+  instagram: https://instagram.com/zabranskyadam
+  flickr:    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=adam%20z%C3%A1bransk%C3%BD
 ordpraha: 2
 ordcar: 2
 ordcan: 3
@@ -64,5 +69,3 @@ Adam Zábranský (* 28. prosince 1993, Praha) je pirátský radní hl. m. Prahy 
 V pražském zastupitelstvu v letech 2014-2018 působil v různých časech ve výborech pro územní plánování, sport a volný čas, legislativu a protikorupční opatření či v kontrolním výboru. Vyhrál precedentní spor o přístup k informacím u Ústavního soudu proti Pražské plynárenské, rozkryl klientelistickou síť podnikatelů z ČSSD v městských firmách, upozorňoval na přemrštěné odměny trafikantů v městských společnostech a nevýhodné nájemní smlouvy města. V letech 2017–2019 byl předsedou zastupitelského klubu Pirátů. V roce 2018 byl 1. místopředsedou krajského sdružení Pirátů v Praze. V současnosti je i členem dozorčí rady společnosti Pražská plynárenská Holding, a.s., [aby šetřil veřejné prostředky](https://www.facebook.com/adam.zabransky/posts/10217653296035165) (za funkci nedostává žádnou odměnu).
 
 Ve svém volném čase hraje volejbal či badminton, posiluje, čte si populárně-naučnou literaturu, poslouchá podcasty a sebevzdělává se. Z etických důvodů se v osmnácti letech stal vegetariánem a v devatenácti veganem. Kromě toho je též ambasadorem projektu [Rostlinně](https://rostlinne.cz/), který se snaží o rozšiřování nabídky rostlinných jídel v obchodech a restauracích. V rámci výzvy [Giving What We Can](https://www.givingwhatwecan.org/pledge/) se zavázal k tomu, že minimálně 15 % svých čistých příjmů bude věnovat [efektivním](https://cs.wikipedia.org/wiki/Efektivn%C3%AD_altruismus) neziskovým organizacím. Od prosince 2018 tyto dary eviduje na [transparentním účtu](https://ib.fio.cz/ib/transparent?a=2001536252).
-
-
