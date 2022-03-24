@@ -13,8 +13,9 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 img: 		people/viktor-mahrik.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/04-mahrik.jpg
-description: 			zastupitel hl. m. Prahy, předseda zast. klubu Pirátů<br/> zastupitel s gescí majetek a městské společnosti       	        			# kratký popis, max 160 znaků
+description: zastupitel hl. m. Prahy, předseda zast. klubu Pirátů<br/> zastupitel s gescí majetek a městské společnosti     # kratký popis, max 160 znaků
 descvyb: předseda výboru pro správu majetku a maj. podíly ZHMP, člen výboru pro dopravu
+partyUid: pirati
 asistenti:
   - name: Josef Kubát
     uid: josef.kubat
@@ -31,7 +32,6 @@ mail:
 mob: 				+420 602 767 298
 profiles:
   facebook: https://www.facebook.com/viktor.mahrik
-  twitter: https://twitter.com/_ViM
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=viktor%20mahrik&view_all=1
 ordpraha: 4
 ordvybor: 4
