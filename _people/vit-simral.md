@@ -14,6 +14,10 @@ heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/12-simral.jpg
 description: radní pro oblast školství, sportu, vědy a podpory podnikání
 descvyb: člen výboru pro evropské záležitosti ZHMP
+partyUid: pirati
+funkce: 
+  - radní hl. města pro oblast školství, sportu, vědy a podpory podnikání
+  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33596">výboru pro evropské záležitosti ZHMP</a>
 asistenti:
   - name: Kristýna Nouzáková
     position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
@@ -37,9 +41,11 @@ mail:
 mob: +420 606 220 985
 profiles:
   github:     
-  facebook: 	https://www.facebook.com/vit.simral
-  twitter: 		https://twitter.com/SimralVit
+  facebook: 	https://www.facebook.com/piratsimral
+  twitter: 		https://twitter.com/piratsimral
+  instagram:  https://www.instagram.com/piratsimral
   flickr:
+  web:        http://www.jakdalseskolstvim.cz/
 ordpraha: 5	
 ordga: 7
 ordvyb: 31
@@ -56,9 +62,3 @@ Ve volebním období 2013-2017 byl odborným mluvčím Rekonstrukce státu pro n
 V letech 2013-2018 vedl jako hlavní řešitel tři projekty financované z českých a rakouských grantových agentur, na spoluřešitelské úrovni nebo jako kontraktor ve stejném období pracoval na různých výzkumných projektech univerzit v Brně a v Liberci, rakouské Transparency International nebo Evropské komise.
 
 Mezi jeho zájmy patří triatlon, divadlo, jazz a literatura. Je celoživotním skautem.
-
-### Odkazy 
-
-* [Blog Vítka Šimrala jakdalseskolstvim.cz](http://www.jakdalseskolstvim.cz/)
-* [instagramový profil Víta Šimrala](http://www.instagram.com/piratsimral)
-
