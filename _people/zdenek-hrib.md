@@ -13,6 +13,7 @@ heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/13-hrib.jpg
 description: <br/> primátor hlavního města Prahy
 profession: primátor hlavního města Prahy
+partyUid: pirati
 funkce: 
   - primátor hlavního města Prahy 
 asistenti:
@@ -26,6 +27,11 @@ asistenti:
     position: poradkyně primátora
     mail: martina.vackova@praha.eu
     tel: 
+- name: Martin Kameník
+    uid: martin.kamenik
+    position: poradce primátora
+    mail: martin.kamenik@praha.eu
+    tel: 
   - name: Veronika Kubičková
     uid: veronika.kubickova
     position: poradkyně primátora
@@ -35,11 +41,6 @@ asistenti:
     uid: marek.safra
     position: poradce primátora
     mail: marek.safra@praha.eu
-    tel: 
-  - name: Martin Kameník
-    uid: martin.kamenik
-    position: poradce primátora
-    mail: martin.kamenik@praha.eu
     tel: 
   - name: Klára Galová
     uid: klara.galova
