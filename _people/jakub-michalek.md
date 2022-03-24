@@ -1,6 +1,6 @@
 ---
-uid: jakub.michalek
-name:                           Jakub Michálek  	# běžně používáné jméno
+uid:  jakub.michalek
+name: Jakub Michálek  	# běžně používáné jméno
 titles:
   before: Mgr. et Mgr. 
   after:
@@ -10,7 +10,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - pos
 img: 		people/jakub-michalek.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: předseda poslaneckého klubu Pirátů             	        			# kratký popis, max 160 znaků
+description: předseda poslaneckého klubu Pirátů
 mail:
 - jakub.michalek@pirati.cz
 mob: 				+420 775 978 550
@@ -28,6 +28,12 @@ ordga: 8
 ordpos: 1
 ---
 
-Jakub Michálek (* 6. února 1989 Louny) je pirátský poslanec za Prahu a předseda poslaneckého klubu. Studoval na Gymnáziu Jana Keplera v Praze, na Oundle School ve Velké Británii a na Cranbrook-Kingswood v USA. Vystudoval Právnickou fakultu a teoretickou fyziku na Matematicko-fyzikální fakultě UK. Má zkušenosti z akademické samosprávy, kde byl členem akademického senátu. Působil jako advokátní koncipient, po zvolení do pražského zastupitelstva v roce 2013 se dal na politiku na plný úvazek a vedl klub Pirátů v Zastupitelstvu hlavního města Prahy. Podílel se například na řešení kauzy Opencard nebo Škodův palác. 
+Jsem předsedou poslaneckého klubu Pirátu ve sněmovně, předtím jsem vedl naše zastupitele na pražském magistrátu. Vždy jsem se zajímal o politiku a byl jsem znechucen tím, jak fungovaly konvenční politické strany a že zůstaly desítky let pozadu v minulosti, takže pak pro lidi nedělají, co by měly.
 
-V roce 2017 vedl kandidátku Pirátů v Praze, byl zvolen poslancem a předsedou poslaneckého klubu Pirátů. Aby nehromadil funkce, tak po zvolení poslancem na mandát zastupitele rezignoval. V roce 2021 svůj mandát poslance obhájil.
+Protože jsem vystudoval Matfyz, kde jsme řešili třeba černé díry či srážky částic, vadila mi na naší politice absence odborných analýz, bez kterých nelze správně komplexní společenské problémy řešit. To považuji za jednu z důležitých věcí, kterou jsme s Piráty přinesli do veřejného prostoru. Od našich lidí jako šéf klubu očekávám, že naše návrhy jsou podložené odbornými studiemi či analýzami a jsou konzultovány s odborníky.
+
+Za své největší úspěchy považuji přijetí několika protikorupčních norem. Je to právě korupce, která občanům nejvíce vadí. Zasloužil jsem se o rozšíření působnosti zákona o registru smluv také na polostátní ČEZ, pomohl jsem také prosadit zveřejňování koncových vlastníků u firem, které pobírají dotace či si půjčují od státu. Zlepšit přístup k informacím či zprůhlednit obsazování křesílek v dozorčích radách státních firem. Jsem hlavně hrdý, že se nám podařilo správně předpovědět, že dorazí druhá vlna koronaviru a představili jsme sruzumitelný plán Budoucnost řešíme teď, jak se na tuto druhou vlnu během letních měsíců připravit, což bohužel vláda zanedbala. Také jsem pomohl prosadit změny, které pomohly v Praze regulovat přebujelý byznys Airbnb či moderní regulaci taxislužby. Spousta dalších dobrých návrhů ovšem spadla pod stůl, protože jsme na ně neměli většinu.
+
+Mým cílem je, aby se fungování veřejné správy dostalo na západní úroveň, kdy se nekrade, na úřadech pracují kompetentní a motivovaní lidé, občan má servis a státní správa se jako celek posouvá kupředu.
+
+Pokud zrovna nepracuji, tak se věnuji četbě, relaxaci a v poslední době se také snažím trávit více času sportem, protože politika je jinak velmi sedavé zaměstnání. Blízko mám také k vědě, kde vedle práv mám také diplom z teoretické fyziky z Matfyzu.
