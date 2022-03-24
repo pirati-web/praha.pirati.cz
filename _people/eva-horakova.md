@@ -11,7 +11,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/eva-horakova3.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/06-horakova.jpg
-description: místopředsedkyně zastupitelského klubu Pirátů<br/> zastupitelka s gescemi sociální věci, zdravotnictví, pohřebnictví   	# kratký popis, max 160 znaků
+description: místopředsedkyně zastupitelského klubu Pirátů<br/> zastupitelka s gescemi sociální věci, zdravotnictví, pohřebnictví 
 descvyb: předsedkyně výboru pro sociální politiku ZHMP
 partyUid: pirati
 funkce: 
@@ -28,8 +28,9 @@ mail:
 mob: +420 727 870 828
 profiles:
   github:       
-  facebook:    
-  twitter: 		  
+  facebook:  https://www.facebook.com/eva.danis.horakova  
+  twitter: 	 https://twitter.com/scintie
+  instagram: https://instagram.com/eva_danis_horakova
   flickr:		  
 ordpraha: 5
 ordvyb: 7
@@ -37,9 +38,7 @@ redmine: 520
 calendar: ewa.horakowa@gmail.com
 ---
 
-**Mgr.Eva Horáková** (*1980) je předsedkyně výboru pro sociální politiku ZHMP, zastupitelka hlavního města Prahy a MČ Prahy 5, místopředsedkyně zastupitelského klubu Pirátů na MHMP.
-
-Pochází z východních Čech, od 18ti let žije v Praze. Vystudovala Střední zdravotnickou školu, obor všeobecná zdravotní sestra. Tuto práci vykonávala cca 12 let v různých pražských nemocnicích. Na 1. lékařské fakultě UK v Praze získala v roce 2003 titul bakalář ošetřovatelství a pokračovala v magisterském studiu oboru Učitelství zdravotnických předmětů pro střední školy. Během studia se zúčastnila programu Sokrates Erasmus v Německu na polytechnické škole v Neubrandenburgu. Jako studentka pracovala v nemocnici Milosrdných sester sv. Karla Boromejského na Praze 1 jako zdravotní sestra. Učila také 2 roky na Vyšší odborné zdravotnické škole v Kladně jako pedagog odborných předmětů.
+**Mgr. Eva Horáková** pochází z východních Čech, od 18 let žije v Praze. Vystudovala Střední zdravotnickou školu, obor všeobecná zdravotní sestra. Tuto práci vykonávala cca 12 let v různých pražských nemocnicích. Na 1. lékařské fakultě UK v Praze získala v roce 2003 titul bakalář ošetřovatelství a pokračovala v magisterském studiu oboru Učitelství zdravotnických předmětů pro střední školy. Během studia se zúčastnila programu Sokrates Erasmus v Německu na polytechnické škole v Neubrandenburgu. Jako studentka pracovala v nemocnici Milosrdných sester sv. Karla Boromejského na Praze 1 jako zdravotní sestra. Učila také 2 roky na Vyšší odborné zdravotnické škole v Kladně jako pedagog odborných předmětů.
 
 Pracovní nabídku do farmaceutické firmy dostala v roce 2005 a do roku 2018 byla součástí toho odvětví. Pracovala v oblasti diabetologie, psychiatrie, kardiologie a hypolipidemik. Vítězství Pirátů ve volbách do zastupitelstva hlavního města Prahy a zastupitelstva městské části Praha 5 jí umožnilo živit se tím, co jí baví. Tj, pomáhat lidem a rozhodovat o našem hlavním městě.
 
@@ -48,4 +47,4 @@ Angažuje se v aktivitách souvisejících s dosavadní praxí a vzděláním a 
 
 Od roku 2016 je Dobrým andělem a od roku 2019 podporuje organizaci Dobré víly. Její motto zní: „Pomáhat má smysl“, ji dává každodenní náplň věnovat se těžkým společenským problémům.
 
-A také věří, věří že pravda a láska zvítězí nad lží a nenávistí.
+A také věří, věří že **pravda a láska zvítězí nad lží a nenávistí**.
