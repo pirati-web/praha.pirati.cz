@@ -16,7 +16,7 @@ descvyb: předsedkyně výboru pro sociální politiku ZHMP
 partyUid: pirati
 funkce: 
 - místopředsedkyně zastupitelského klubu Pirátů
-- předsedkyně <a href:"https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">Výboru pro sociální politiku ZHMP</a>  
+- předsedkyně <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">Výboru pro sociální politiku ZHMP</a>  
 asistenti:
   - name: Sára Dvořáková
     uid: sara.dvorakova
