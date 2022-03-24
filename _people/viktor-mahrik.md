@@ -16,6 +16,10 @@ profilebadge: people/badge/04-mahrik.jpg
 description: zastupitel hl. m. Prahy, předseda zast. klubu Pirátů<br/> zastupitel s gescí majetek a městské společnosti     # kratký popis, max 160 znaků
 descvyb: předseda výboru pro správu majetku a maj. podíly ZHMP, člen výboru pro dopravu
 partyUid: pirati
+funkce: 
+- předseda zastupitelského klubu Pirátů
+- předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33584">Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP</a>
+- člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33570">výboru pro dopravu ZHMP</a>
 asistenti:
   - name: Josef Kubát
     uid: josef.kubat
