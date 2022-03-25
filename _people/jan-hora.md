@@ -18,6 +18,8 @@ partyUid: pirati
 teamDescription:
   pks: místopředseda KS Praha
   praha: zastupitel hl. města Prahy
+  mhmp: zastupitel hl. města Prahy
+  vybor: člen Výboru pro bezpečnost MHMP
 funkce:
   - místopředseda KS Praha
   - zastupitel hl. města Prahy
