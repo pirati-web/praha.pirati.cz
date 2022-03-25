@@ -17,10 +17,9 @@ teamDescription:
   vybor: členka Výboru pro bydlení ZHMP
   vlada: náměstkyně ministra práce a sociálních věcí ČR
 funkce:
-  - místopředseda KS Praha
+  - místopředsedkyně KS Praha
   - náměstkyně ministra práce a sociálních věcí ČR
   - zastupitelka MČ Praha 10
-  - zastupitel MČ Praha 4
   - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33574">Výboru pro bydlení ZHMP</a>
 mail:
 - zuzana.freitas@pirati.cz
