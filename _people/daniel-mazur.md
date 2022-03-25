@@ -11,11 +11,19 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - can
 img: people/daniel-mazur.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: předseda předsednictva krajského sdružení Pirátů v Praze<br/>, garant programového bodu Vzdělávání a věda<br/>, předseda místního sdružení Pirátů Prahy 5, zastupitel městské části Praha 5            	# kratký popis, max 160 znaků
-descvyb: člen výboru pro bezpečnost ZHMP
+description: předseda krajského sdružení
+partyUid: pirat
+teamDescription:
+  pks: předseda krajského sdružení
+  vybor: člen Výboru pro bezpečnost ZHMP
+funkce:
+  - předseda krajského sdružení Praha
+  - garant programového bodu Vzdělávání a věda
+  - zastupitel MČ Praha 5
+  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594">Výboru pro bezpečnost ZHMP</a>
 mail:
 - daniel.mazur@pirati.cz
-mob: "+420 602 439 639"
+mob: +420 602 439 639
 profiles:
   github:     https://github.com/daniel-mazur
   facebook: 	https://www.facebook.com/daniel.mazur.5268
