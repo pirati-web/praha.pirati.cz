@@ -13,8 +13,7 @@ heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
   pks: místopředsedkyně KS Praha
-  mhmp: zastupitel hl. města Prahy
-  vybor: člen Výboru pro bezpečnost MHMP
+  vybor: členka Výboru pro bydlení ZHMP
 funkce:
   - místopředseda KS Praha
   - náměstkyně ministra práce a sociálních věcí ČR
