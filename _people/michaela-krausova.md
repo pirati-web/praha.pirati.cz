@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
-- vybor
 img: people/michaela-krausova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/01-krausova.jpg
@@ -15,7 +14,6 @@ description: zastupitelka hl. města Prahy
 partyUid: pirati
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
-  vybor: členka Kontrolního výboru ZHMP, členka Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP, členka Výboru pro výchovu a vzdělávání ZHMP
 funkce: 
   - zastupitelka hl. města Prahy
   - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33586">Kontrolního výboru ZHMP</a>
