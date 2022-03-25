@@ -10,8 +10,12 @@ category:               	# kategorie: rp, praha, vary, hradec, jmk,
 - can
 img: people/eva-tylova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: Místostarostka městské části Praha 12.<br/>       	# kratký popis, max 160 znaků
-descvyb: členka výboru pro životní prostředí, infrastrukturu a vybavenost ZHMP
+partyUid: bezpp
+teamDescription:
+  vybor: členka Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP
+funkce: 
+  - místostarostka MČ Praha 12
+  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33590">Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP</a>
 mail:
 - eva.tylova@pirati.cz
 mob:			 
@@ -19,9 +23,9 @@ ordvyb: 27
 ordcan: 7
 profiles:
   github:       
-  facebook:     
+  facebook:  https://www.facebook.com/evatylovacz   
   twitter: 		  
-  flickr:		  
+  flickr:		 https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=tylov%C3%A1 
 ---
 
 **Eva Tylová** (* 12. prosince 1959) je místostarostka městské části Praha 12. Je rovněž členkou výboru pro životní prostředí, infrastrukturu a vybavenost při pražském zastupitelstvu.
