@@ -34,7 +34,7 @@ profiles:
   twitter: 	 https://twitter.com/scintie
   instagram: https://instagram.com/eva_danis_horakova
   flickr:		  
-ordpraha: 2
+ordmhmp: 2
 redmine: 520
 calendar: ewa.horakowa@gmail.com
 ---
