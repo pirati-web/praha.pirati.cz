@@ -5,20 +5,25 @@ titles:
   before:
   after:
 category:
-- can
+ - vybor
+ - can
 img: 		people/magdalena-valdmanova.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-description:  asistentka předsedy hospodářského výboru Viktora Mahrika
+partyUid: pirati
+teamDescription:
+  vybor: členka Výboru pro sociální politiku ZHMP
+funkce: 
+  - asistentka předsedy hospodářského výboru Viktora Mahrika
+  - předsedkyně MS Praha 2
+  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">členka Výboru pro sociální politiku ZHMP</a>
 mail:
 - magdalena.valdman@gmail.com
 mob:			  
 profiles:
   github:     
-  facebook: 	
-  twitter: 		
+  facebook: https://www.facebook.com/valdmanova.pirati	
+  twitter: 	https://mobile.twitter.com/magvaldmanova	
   flickr:
-ordpraha: 
-ordpks: 3
 ordcan: 4
 ---
 
