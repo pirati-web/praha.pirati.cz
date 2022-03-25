@@ -14,7 +14,7 @@ profilebadge: people/badge/06-horakova.jpg
 partyUid: pirati
 description: předsedkyně Výboru pro sociální politiku ZHMP
 teamDescription:
-  mhmp: místopředsedkyně zastupitelského klubu
+  mhmp: místopředsedkyně zastup. klubu
   vybor: předsedkyně Výboru pro sociální politiku ZHMP
 funkce: 
   - místopředsedkyně zastupitelského klubu Pirátů
