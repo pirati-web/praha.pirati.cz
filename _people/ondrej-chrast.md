@@ -4,23 +4,30 @@ name: Ondřej Chrást  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after: 
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category:
 - praha
-- dr
 - pks
 img: 		people/ondrej-chrast.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: člen předsednictva krajského sdružení Pirátů v Praze<br/> člen dozorčí rady společnosti Prague City Tourism, a.s., zastupitel na Praze 6           	        			# kratký popis, max 160 znaků
+    description: 1. místopředseda krajského sdružení
+partyUid: pirati
+teamDescription:
+  pks: 1. místopředseda krajského sdružení
+funkce:
+  - 1. místopředseda krajského sdružení Praha
+  - náměstek ministra kultury ČR
+  - zastupitel MČ Praha 6
 mail:
 - ondrej.chrast@pirati.cz
-mob: "+420 606 914 916"
-orddr: 24
+mob: +420 606 914 916
 ordpks: 2
 profiles:
   github:                 
-  facebook: 		  https://www.facebook.com/ondrej.chrast
-  twitter: 		  
-  flickr:     		  https://www.flickr.com/search/?text=ondrej%20chrast
+  facebook:  https://www.facebook.com/ondrejchrast.pirati/
+  twitter:   https://twitter.com/chrast_o
+  instagram: https://www.instagram.com/ondrejchrast.pirati/
+  flickr:    https://www.flickr.com/search/?text=ondrej%20chrast
+  web:       http://www.chrast.eu
 ---
 
 **Ondřej Chrást** (* 7. července 1980) je členem předsednictva pražských Pirátů. Pochází z Františkových Lázní. Dlouhodobě bydlí na Praze 6.
@@ -35,7 +42,7 @@ Má dlouhodobé zkušenosti s manažerskou prací v neziskovém sektoru v oblast
 
 V rámci hlavního města Prahy působí v komisi Rady hl. m. Prahy pro koordinaci neinvestičních aktivit ve veřejných prostranstvích na území Pražské památkové rezervace. Na částečný úvazek působí jako asistent pirátské poslankyně Lenky Kozlové, u níž se věnuje problematice vzdělávání a kultury.
 
-Je členem dozorčí rady Prague City Tourism, a. s. a správní rady Nadačního fondu Praha ve filmu Prague Film Fund, kde se snaží působit tak, aby Praha byla v zahraničí propagována co nejlépe – jako kulturní metropole, nikoli jako přeplněná metropole levného alkoholu.
+Třži roky jsem byl členem dozorčí rady Prague City Tourism, a. s. a jsem správní rady Nadačního fondu Praha ve filmu Prague Film Fund, kde se snaží působit tak, aby Praha byla v zahraničí propagována co nejlépe – jako kulturní metropole, nikoli jako přeplněná metropole levného alkoholu.
 
 Angažuje se v několika neziskových organizacích s kulturním zaměřením. Byl jedním z iniciátorů a spolukoordinátorů 700. výročí narození Karla IV. v roce 2016 a organizátorem mnoha kulturně/společenských akcí.
 
