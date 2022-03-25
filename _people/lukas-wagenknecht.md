@@ -37,11 +37,8 @@ asistenti:
     mail: vturko@atlas.cz
 ordsenat: 1
 ---
-<div class="mb-4">
-{% include buttons/icon.html href="https://lukaswagenknecht.cz/" cta="Přejít na lukaswagenknecht.cz" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
-</div>
 
-Lukáš Wagenknecht (* 1978, Pardubice) je český senátor za volební obvod Praha 8 za Piráty. Narodil se a vyrůstal v Pardubicích. Na Univerzitě Pardubice vystudoval obor Hospodářská politika a správa. Po studiích se začal věnovat profesi interního auditu. V této oblasti se s krátkými přestávkami pohybuje již přes patnáct let. Mimo to přes deset let podniká v oblasti maloobchodního prodeje.
+**Lukáš Wagenknecht (* 1978, Pardubice) je český senátor za volební obvod Praha 8 za Piráty.** Narodil se a vyrůstal v Pardubicích. Na Univerzitě Pardubice vystudoval obor Hospodářská politika a správa. Po studiích se začal věnovat profesi interního auditu. V této oblasti se s krátkými přestávkami pohybuje již přes patnáct let. Mimo to přes deset let podniká v oblasti maloobchodního prodeje.
 
 Za svůj život se podílel na stovkách auditů. Do povědomí veřejnosti se asi nejvíce zapsalo odhalení zmanipulovaných dotací v operačním programu Severozápad nebo audit výstavby metra A v Praze, který provázelo napojení firem na politiky s mnoha dalšími problémy.
 
