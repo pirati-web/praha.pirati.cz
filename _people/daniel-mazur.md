@@ -29,9 +29,7 @@ profiles:
   facebook: 	https://www.facebook.com/daniel.mazur.5268
   twitter: 		https://twitter.com/DanielMazurP5
   flickr:
-ordpraha: 3	
 ordpks: 1
-ordvybor: 28
 ordcan: 5
 calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
 ---
