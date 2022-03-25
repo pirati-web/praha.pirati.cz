@@ -32,7 +32,6 @@ profiles:
   instagram: https://www.instagram.com/piratjanhora/
   twitter:   https://twitter.com/jan_hora  
   flickr:		  
-ordvyb: 29
 ---
 
 **Jan Hora** je členem výboru pro bezpečnost ZHMP a zastupitel hl. m Prahy za Piráty. Je rovněž členem výboru pro bezpečnost ZHMP a zastupitelem na městské části Praha 4. Pochází z Prahy 4.
