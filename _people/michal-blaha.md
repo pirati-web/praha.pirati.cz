@@ -16,7 +16,7 @@ mail:
 profiles:
   twitter: https://twitter.com/michalblaha
 funkce:
-  - člen dozorční rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
+  - člen dozorční rady společnosti Operátor ICT, a.s.</a>
 orddr: 5
 ---
 
