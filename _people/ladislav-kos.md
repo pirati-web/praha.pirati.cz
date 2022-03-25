@@ -9,9 +9,9 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/ladislav-kos.jpg # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: podpora
-description: senátor za volební obvod 19 - Praha 11
+description: senátor za vol. obvod 19 - Praha 11
 teamDescription:
-  senat: senátor za volební obvod 19 - Praha 11
+  senat: senátor za vol. obvod 19 - Praha 11
 funkce:
   - senátor za vol. obvod 19 - Praha 11
 mail:
