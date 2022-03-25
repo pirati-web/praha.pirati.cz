@@ -44,7 +44,7 @@ ordpos: 2
 
 Dobrá péče na začátku života a důsledná prevence potíží hned, když se objeví byť i jen jejich náznak, je jeden z nejefektivnějších způsobů jak zajistit, že v naší společnosti nezůstanou lidé nenávratně na vedlejší koleji. Svou zkušenost opírám nejen o to, že jsem sama mámou dvou malých dětí a máme rodinnou zkušenost i s péčí doma o babičku s Alzheimerem, ale i na základě expertních analýz a nejlepší praxe ze zahraničí. Řada studií ukazuje, že nejlépe využitými veřejnými penězi jsou investice do předškolního vzdělávání. Společnosti se vrátí v podobě vyššího dosaženého vzdělání a obecně vyšší životní úspěšnosti u dětí i ze znevýhodněného prostředí, které systémem kvalitních školek či dětských skupin projdou. Právě proto jsem jako poslankyně za Piráty díky týmu s desítkami expertů pomáhala zajistit, aby vyšší měsíční limit rodičovského příspěvku (10 tisíc Kč) vytvořil základ pro stabilnější rozvoj dětí či aby státní podpora byla přehledně dohledatelná tak, aby každý věděl, [na co může mít v nějaké životní krizi nárok](http://socialnisystem.cz).
 
-Dělám to i proto, že vím, že demokracie není udržitelná, pokud se lidem nebude dobře žít. Máme na to být moderní prosperující společností, kde má každý šanci na důstojný život. V koalici se Starosty nyní přinášíme plán, jak se do této budoucnosti dostaneme.
+Dělám to i proto, že vím, že demokracie není udržitelná, pokud se lidem nebude dobře žít. Máme na to být moderní prosperující společností, kde má každý šanci na důstojný život.
 
 
 
