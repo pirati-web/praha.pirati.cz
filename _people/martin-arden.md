@@ -25,7 +25,7 @@ funkce:
 
 mail:
 - martin.arden@pirati.cz
-mob: +420728368831
+mob: +420 728 368 831
 profiles:
   github:       
   facebook: https://www.facebook.com/ArdenTheo
