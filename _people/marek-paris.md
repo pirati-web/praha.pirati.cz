@@ -8,8 +8,8 @@ category:
 - dr
 img: people/marek-paris.jpg
 heroImg: Prague_panorama.jpeg
-description: člen dozorčí rady TSK, a.s.
 partyUid: pirati
+description: člen dozorčí rady TSK, a.s.
 teamDescription:
   dr: Technická správa komunikací, a.s.
 funkce:
