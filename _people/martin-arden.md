@@ -8,7 +8,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 - kontaktni_osoba
-- vybor
 contactType: Kontakt ZK MHMP pro občany Prahy
 img: people/martin-arden.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
@@ -17,7 +16,6 @@ description: zastupitel hl. města Prahy
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy
-  vybor: člen Výboru pro bydlení ZHMP, člen Výboru pro kulturu, výstavnictví, cestovní ruch a zahraniční vztahy ZHMP, člen Výboru pro národnostní menšiny ZHMP, Výboru pro sociální politiku ZHMP
 funkce: 
   - zastupitel hl. města Prahy
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33574">Výboru pro bydlení ZHMP</a>
