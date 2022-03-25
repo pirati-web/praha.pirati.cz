@@ -9,11 +9,17 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/ondrej-mirovsky.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: místostarosta Prahy 7, člen dozorčí rady společnosti Technická správa komunikací, a.s..     	# kratký popis, max 160 znaků
+partyUid: podpora
+description: člen dozorčí rady TSK, a.s.
+teamDescription:
+  dr: Technická správa komunikací, a.s.
+funkce:
+  - člen dozorčí rady společnosti TSK, a.s.
+  - místostarosta MČ Praha 7
 mail:
 - ondrej.mirovsky@zeleni.cz
 mob: +420 731 427 980
-orddr: 10
+orddr: 20
 profiles:
   github:       
   facebook:    
