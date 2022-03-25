@@ -6,18 +6,17 @@ titles:
   after: BBA.
 category:
  - dr
-img: 		people/jakub-vesely.jpg    # 165 x 220
+img: people/jakub-vesely.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
+partyUid: pirati
 description: člen dozorčí rady společnosti Obecní dům a.s.
+teamDescription:
+  dr: Obecní dům, a.s.
+funkce: 
+ - člen dozorčí rady společnosti Obecní dům a.s.
 mail:
-- jakub_v@seznam.cz
-mob: 
-orddr: 227
-profiles:
-  github:                 
-  facebook: 		  
-  twitter: 		  
-  flickr:     		  
+ - jakub.vesely@pirati.cz
+orddr: 4   		  
 ---
 
 **Jakub Veselý** je členem dozorčí rady společnosti Obecní dům a.s.
