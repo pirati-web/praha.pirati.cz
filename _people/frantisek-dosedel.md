@@ -13,7 +13,7 @@ description: zastupitelka MČ Praha 3
 teamDescription:
   dr: Zdroj pitné vody Káraný, a.s.
 funkce:
-  - radní MČ Praha 3 pro sport, tělovýchovu a dotační politiku.
+  - radní MČ Praha 3 pro sport, tělovýchovu a dotační politiku
   - zastupitel MČ Praha 3
   - člen dozorčí rady Zdroj pitné vody Káraný, a.s.
   - místopředseda MS Praha 3
