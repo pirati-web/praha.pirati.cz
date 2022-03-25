@@ -13,6 +13,7 @@ img: people/jan-hora.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/14-hora.jpg
 partyUid: pirati
+description: místopředseda KS Praha
 teamDescription:
   pks: místopředseda KS Praha
   mhmp: zastupitel hl. města Prahy
