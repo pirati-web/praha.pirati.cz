@@ -27,7 +27,7 @@ asistenti:
   - name: Mikuláš Ferjenčík
     uid: mikulas.ferjencik
     position: asistent
-   - name: Tomáš Kopečný
+  - name: Tomáš Kopečný
     uid: tomas.kopecny
     position: asistent
 ordrp: 4
