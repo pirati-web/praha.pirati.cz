@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
-- vybor
 img: people/ladislav-kos2.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/11-kos.jpg
@@ -15,7 +14,6 @@ description: zastupitel hl. města Prahy
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy
-  vybor: člen výboru pro dopravu ZHMP
 funkce: 
   - zastupitel hl. města Prahy
   - zastupitel MČ Praha 11
