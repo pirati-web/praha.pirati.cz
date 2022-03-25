@@ -1,20 +1,27 @@
 ---
 uid: robert.veverka
-name:     Robert Veverka  	# běžně používáné jméno
+name: Robert Veverka  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - dr
 img: people/robert-veverka.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: Zastupitel městské části Praha 2, člen dozorčí rady společnosti Trade Centre Praha     	# kratký popis, max 160 znaků
+partyUid: pirati
+description: člen dozorčí rady společnosti Trade Centre Praha, a.s. 
+teamDescription:
+  dr: Trade Centre Praha, a.s.
+funkce: 
+ - člen dozorčí rady společnosti Trade Centre Praha, a.s.
+ - zastupitel MČ Praha 2
 mail:
 - robert.veverka@pirati.cz
-mob:
-orddr: 29
+mob: +420 773 691 561
+orddr: 23
 profiles:
   github:       
-  facebook: https://www.facebook.com/legalizace
-  twitter: 		  
+  facebook: https://www.facebook.com/veverkarobert
+  twitter: 	https://twitter.com/veverka_robert	
+  web:      http://www.robertveverka.cz/
   flickr:		  
 ---
 
