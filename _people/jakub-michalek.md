@@ -31,10 +31,7 @@ asistenti:
     uid: mikulas.ferjencik
     position: asistent
   - name: Tomáš Kopečný
-    uid: tomas.kopecny
     position: asistent
-ordrp: 4
-ordga: 8
 ordpos: 2
 ---
 
