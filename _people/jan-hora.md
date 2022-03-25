@@ -16,10 +16,10 @@ profilebadge: people/badge/14-hora.jpg
 description: místopředseda krajského sdružení
 partyUid: pirati
 teamDescription:
-  pks: místopředseda krajského sdružení
+  pks: místopředseda KS Praha
   praha: zastupitel hl. města Prahy
 funkce:
-  - místopředseda krajského sdružení Praha
+  - místopředseda KS Praha
   - zastupitel hl. města Prahy
   - zastupitel MČ Praha 4
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594">Výboru pro bezpečnost ZHMP</a>
