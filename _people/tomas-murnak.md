@@ -4,14 +4,12 @@ name:     Tomáš Murňák  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
-- vybor
 img: people/tomas-murnak.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/05-murnak.jpg
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy 
-  vybor: předseda Výboru pro legislativu ZHMP, místopředseda Výboru pro územní rozvoj ZHMP, místopředseda Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP
 funkce:
   - zastupitel hl. m. Prahy za Piráty
   - předseda místního sdružení Praha 13 
