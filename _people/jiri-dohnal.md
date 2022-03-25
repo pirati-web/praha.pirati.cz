@@ -3,21 +3,25 @@ uid: jiri.dohnal
 name: Jiří Dohnal	# běžně používáné jméno
 img: 		people/jiri-dohnal.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: starosta MČ Praha 11, člen dozorčí rady společností Výstaviště Praha, a.s.
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
+- vybor
+partyUid: pirati
+teamDescription:
+  vybor: člen Výboru pro sport a volný čas ZHMP
+  dr: Výstaviště Praha, a.s.
+funkce: 
+  - starosta MČ Praha 11
+  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=35744">Výboru pro sport a volný čas ZHMP</a>
+  - člen dozorčí rady společností Výstaviště Praha, a.s.
 mail:
 - jiri.dohnal@pirati.cz
-ordpraha: 13
 orddr: 25
 ---
 
-**Jiří Dohnal** (* Městec Králové) je starosta městské části Praha 11 a zastupitel hl. m. Prahy za Piráty. Je rovněž i členem dozorčí rady společnosti Výstaviště Praha, a.s.
-
-Narodil se v Městci Králové, později žil v Poděbradech a poté od roku 1980 v Praze na Jižním městě, kde bydlí dodnes. 
+**Jiří Dohnal** (* Městec Králové) je starosta městské části Praha 11 a zastupitel hl. m. Prahy za Piráty. Je rovněž i členem dozorčí rady společnosti Výstaviště Praha, a.s. Narodil se v Městci Králové, později žil v Poděbradech a poté od roku 1980 v Praze na Jižním městě, kde bydlí dodnes. 
 
 V roce 2018 byl zvolen do zastupitelstva hl. m. Prahy za Piráty z 12. místa kandidátní listiny. Uspěl i ve volbách do zastupitelstva městské části Praha 11. V únoru 2019 byl po čtyřech měsících koaličních jednání na městské části zvolen jejím starostou. V září 2019 v souladu se slibem nekumulovat funkce rezignoval na funkci zastupitele hl. m. Prahy.
-
 
 ## Profesní růst a moje praktické a životní zkušenosti
 
