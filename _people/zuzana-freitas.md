@@ -8,12 +8,14 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor
 - pks
 - can
+- vlada
 img: people/2022/zuzana-freitas.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
   pks: místopředsedkyně KS Praha
   vybor: členka Výboru pro bydlení ZHMP
+  vlada: náměstkyně ministra práce a sociálních věcí ČR
 funkce:
   - místopředseda KS Praha
   - náměstkyně ministra práce a sociálních věcí ČR
