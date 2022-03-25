@@ -12,9 +12,9 @@ heroImg: Prague_panorama.jpeg
 description: 1. místopředseda krajského sdružení
 partyUid: pirati
 teamDescription:
-  pks: 1. místopředseda krajského sdružení
+  pks: 1. místopředseda KS Praha
 funkce:
-  - 1. místopředseda krajského sdružení Praha
+  - 1. místopředseda KS Praha
   - náměstek ministra kultury ČR
   - zastupitel MČ Praha 6
 mail:
