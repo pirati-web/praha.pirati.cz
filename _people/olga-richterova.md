@@ -35,7 +35,7 @@ asistenti:
     position: asistentka
     mob: +420 778 111 457
 calendar: gn1i05sfapugq65d6l5jcav8b4@group.calendar.google.com
-ordpos: 2
+ordpos: 1
 ---
 
 **Svou cestu ve veřejném životě jsem započala jako aktivní občanka. Založila jsem sdružení jménem Zaostřeno na Desítku, které mělo za cíl sledovat veřejné dění na Praze 10.** Původním cílem bylo vytvořit dobré sousedství. Ale brzy se ukázalo, že cokoliv náročnějšího než zajistit komunitní kompostér představuje nepřekonatelný problém a bez aktivního zájmu a vytrvalosti se téměř nedá ničeho dosáhnout. Postupné odkrývání nehospodárné správy naší obce a zvláštností v územním rozvoji mě přivedlo až do zastupitelských lavic. **Ještě v komunálu jsem vstoupila k Pirátům. Skrze spolupráci napříč ČR se od té doby snažím hledat cesty, jak zajistit důstojný život v různých životních situacích.**
