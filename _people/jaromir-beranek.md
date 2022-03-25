@@ -27,9 +27,9 @@ mail:
 mob: +420 775 890 490
 profiles:
   github:     
-  facebook: 	https://www.facebook.com/jaromir.beranek
+  facebook: 	https://www.facebook.com/piratberanek/
   linkedin:   https://www.linkedin.com/in/jaromirberanek/
-  twitter: 		
+  twitter: 		https://twitter.com/JaromirBeranek
   flickr:
 ordpraha: 3
 ordcan: 12
