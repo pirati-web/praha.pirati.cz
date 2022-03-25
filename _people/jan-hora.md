@@ -13,7 +13,6 @@ ordpks: 3
 img: people/jan-hora.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/14-hora.jpg
-description: místopředseda krajského sdružení
 partyUid: pirati
 teamDescription:
   pks: místopředseda KS Praha
