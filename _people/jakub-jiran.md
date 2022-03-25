@@ -10,8 +10,8 @@ heroImg: Prague_panorama.jpeg
 profession: auditor, člen dozorčí rady DPP
 partyUid: bezpp
 description: člen dozorčí rady DPP, a.s.
-TeamDescription:
-  - dr: Dopravní podnik hl. města Prahy, a.s. 
+teamDescription:
+  dr: Dopravní podnik hl. města Prahy, a.s. 
 mail: jakub.jiran@pirati.cz
 profiles:
 funkce:
