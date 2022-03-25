@@ -11,12 +11,16 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: 		people/jana-komrskova.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/jana-komrskova.jpg
-description: místostarostka městské části Praha 10 za Piráty    	# kratký popis, max 160 znaků
-descvyb: členka finančního výboru ZHMP a členka výboru pro zdrav. a sport
+partyUid: pirati
+teamDescription:
+  vybor: členka finančního výboru ZHMP, členka Výboru pro zdravotnictví MHMP
+funkce: 
+  - 1. místostarostka MČ Praha 10
+  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33592">Finančního výboru ZHMP</a>
+  - místopředsedkyně <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=35742">Výboru pro zdravotnictví ZHMP</a>
 mail:
 - jana.komrskova@pirati.cz
 mob: +420 605 205 770
-ordvyb: 22
 ordcan: 2
 ---
 
