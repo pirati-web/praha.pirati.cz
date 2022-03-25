@@ -13,7 +13,7 @@ heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/jana-komrskova.jpg
 partyUid: pirati
 teamDescription:
-  vybor: členka finančního výboru ZHMP, členka Výboru pro zdravotnictví MHMP
+  vybor: členka finančního výboru a Výboru pro zdravotnictví ZHMP
 funkce: 
   - 1. místostarostka MČ Praha 10
   - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33592">Finančního výboru ZHMP</a>
