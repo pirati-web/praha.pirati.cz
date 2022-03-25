@@ -11,13 +11,13 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - can
 img: people/daniel-mazur.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: předseda krajského sdružení
+description: předseda KS Praha
 partyUid: pirati
 teamDescription:
-  pks: předseda krajského sdružení
+  pks: předseda KS Praha
   vybor: člen Výboru pro bezpečnost ZHMP
 funkce:
-  - předseda krajského sdružení Praha
+  - předseda KS Praha
   - garant programového bodu Vzdělávání a věda
   - zastupitel MČ Praha 5
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594">Výboru pro bezpečnost ZHMP</a>
