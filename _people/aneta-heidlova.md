@@ -10,8 +10,15 @@ category:
 img: people/aneta-heidlova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/10-heidlova.jpg
-description: zastupitelka hl. m. Prahy, zastupitelka městské části Praha 9<br/> zastupitelka s gescemi kultura a informatika     	# kratký popis, max 160 znaků
-descvyb: členka výboru pro kulturu, turismus a cestovní ruch ZHMP
+description: zastupitelka hl. města Prahy
+partyUid: pirati
+teamDescription:
+  mhmp: zastupitelka hl. města Prahy
+  vybor: členka Výboru pro kulturu, výstavnictví, cestovní ruch a zahraniční vztahy ZHMP
+funkce: 
+  - zastupitelka hl. města Prahy
+  - zastupitelka MČ Praha 9
+  - členka Výboru pro kulturu, výstavnictví, cestovní ruch a zahraniční vztahy ZHMP
 mail:
 - aneta.heidlova@pirati.cz
 mob: +420 723 857 246		 
@@ -20,8 +27,7 @@ profiles:
   facebook: https://www.facebook.com/Estrella888 
   twitter: 		  
   flickr:		  
-ordpraha: 13
-ordvyb: 17
+ordmhmp: 5
 calendar: hannette88%40gmail.com
 ---
 
