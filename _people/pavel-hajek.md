@@ -9,8 +9,12 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/pavel-hajek.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/09-hajek.jpg
-description: zastupitel městské části Praha 10 za Piráty    	# kratký popis, max 160 znaků
-descvyb: člen výboru pro výchovu a vzdělávání ZHMP
+partyUid: pirati
+teamDescription:
+  vybor: člen výboru pro výchovu a vzdělávání ZHMP
+funkce: 
+  - zastupitel MČ Praha 10
+  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33578">výboru pro výchovu a vzdělávání ZHMP</a>
 mail:
 - pavel.hajek@pirati.cz
 mob: +420 604 579 018
