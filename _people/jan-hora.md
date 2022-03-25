@@ -17,7 +17,7 @@ description: místopředseda krajského sdružení
 partyUid: pirati
 teamDescription:
   pks: místopředseda krajského sdružení
-  praha: zastupitel (gesce: bezpečnost)
+  praha: zastupitel hl. města Prahy
 funkce:
   - místopředseda krajského sdružení Praha
   - zastupitel hl. města Prahy
@@ -28,9 +28,9 @@ mail:
 mob: "+420 775 608 734"
 profiles:
   github:        
-  facebook:   https://www.facebook.com/piratjanhora
-  instagram:  https://www.instagram.com/piratjanhora/
-  twitter: 		https://twitter.com/jan_hora  
+  facebook:  https://www.facebook.com/piratjanhora
+  instagram: https://www.instagram.com/piratjanhora/
+  twitter:   https://twitter.com/jan_hora  
   flickr:		  
 ordvyb: 29
 ordpraha: 9
