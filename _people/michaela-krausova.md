@@ -11,18 +11,24 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/michaela-krausova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/01-krausova.jpg
-description:  zastupitelka hl. m. Prahy<br/> zastupitelka s gescemi zahr. vztahy, kvalita života    	# kratký popis, max 160 znaků
-descvyb: členka výboru pro správu majetku a maj. podílů, členka výboru pro výchovu a vzdělávání ZHMP, členka kontrolního výboru ZHMP
+description: zastupitelka hl. města Prahy
+partyUid: pirati
+teamDescription:
+  mhmp: zastupitelka hl. města Prahy
+  vybor: členka Kontrolního výboru ZHMP, členka Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP, členka Výboru pro výchovu a vzdělávání ZHMP
+funkce: 
+  - zastupitelka hl. města Prahy
+  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33586">Kontrolního výboru ZHMP</a>
+  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33584">Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP</a>
+  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33578">Výboru pro výchovu a vzdělávání ZHMP</a>
 mail:
 - misa.krausova@pirati.cz
-mob:			  +420 732 858 172
+mob: +420 732 858 172
 profiles:
-  github:  https://github.com/misicka     
+  github:   https://github.com/misicka     
   facebook: https://www.facebook.com/mejmeno   
   twitter: 	https://twitter.com/piratkamisa  
-  flickr:		  
-ordpraha: 8
-ordvyb: 6
+  flickr:		
 ---
 
 **Michaela Krausová** je zastupitelka hl m. Prahy Pirátů. Vedla projekt Pirátské listy offline, stáže u senátora Libora Michálka a v klubu Pirátů na Zastupitelstvu hl. m. Prahy nebo komunální volební kampaň Otevřeme Radotín. Michaela se narodila v Benešově a odmala bydlí v Praze. Je členkou výboru pro správu majetku a maj. podílů ZHMP, výboru pro výchovu a vzdělávání ZHMP a kontrolního výboru ZHMP.
