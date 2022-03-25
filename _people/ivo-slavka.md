@@ -3,8 +3,9 @@ uid: ivo.slavka
 name: Ivo Slávka
 titles:
   before: Mgr.
-category:
-  - vybor
+category: 
+- praha
+- vybor
 img: people/ivo-slavka.jpg
 heroImg: Prague_panorama.jpeg
 profession: právník
