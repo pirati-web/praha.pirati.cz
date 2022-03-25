@@ -1,22 +1,21 @@
 ---
 uid: jakub.jiran
-name:     Jakub Jiran  	# běžně používáné jméno
+name: Jakub Jiran
 titles:
-  before: Mgr. 
-  after: 
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- dr
-img: people/jakub-jiran.jpg   # 165 x 220
+  before: Mgr.
+category:
+  - regp
+img: people/jakub-jiran.jpg
 heroImg: Prague_panorama.jpeg
-description: člen dozorčí rady Dopravniho podniku hl. m. Prahy, a.s.    	# kratký popis, max 160 znaků
-mail:
-- jakub.jiran@pirati.cz
-mob:			 
+profession: auditor, člen dozorčí rady DPP
+partyUid: bezpp
+description: člen dozorčí rady DPP, a.s.
+TeamDescription:
+  - dr: Dopravní podnik hl. města Prahy, a.s. 
+mail: jakub.jiran@pirati.cz
 profiles:
-  github:       
-  facebook:
-  twitter: 		  
-  flickr:		  
+funkce:
+  - člen dozorční rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
 ---
 
 **Jakub Jiran** (* 3. 7. 1978) je členem dozorčí rady Dopravního podniku hl. m. Prahy, akciové společnosti, tedy společnosti, kterou prostřednictvím hlavního města Prahy
