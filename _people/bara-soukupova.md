@@ -9,7 +9,12 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - can
 img: people/bara-soukupova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: členka předsednictva krajského sdružení Pirátů v Praze    	# kratký popis, max 160 znaků
+partyUid: pirati
+teamDescription:
+  pks: místopředsedkyně KS Praha
+funkce:
+  - místopředsedkyně KS Praha
+  - místopředsedkyně MS Praha 11
 mail:
 - bara.soukupova@pirati.cz
 mob: "+420 737 803 982"
