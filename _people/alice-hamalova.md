@@ -6,6 +6,7 @@ category:
  - dr
 img: people/alice-hamalova.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
+partyUid: pirati
 description: zastupitelka MČ Praha 8
 teamDescription:
   dr: Želivská provozní, a.s
