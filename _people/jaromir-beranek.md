@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
-- vybor
 - can
 img: people/2022/jaromir-beranek.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
@@ -16,7 +15,6 @@ description: předseda výboru pro IT a Smart City ZHMP
 partyUid: pirati
 teamDescription:
   mhmp: místopředseda zastup. klubu
-  vybor: předseda výboru pro IT a Smart City ZHMP, místopředseda finančního výboru ZHMP, člen Výboru pro evropské záležitosti ZHMP
 funkce: 
   - místopředseda zastupitelského klubu Pirátů
   - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33580">výboru pro IT a Smart City ZHMP</a>
