@@ -8,10 +8,11 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor
 - starostove
 partyUid: pirati
+description: starosta MČ Praha 11
 teamDescription:
   vybor: člen Výboru pro sport a volný čas ZHMP
   dr: Výstaviště Praha, a.s.
-  star: starosta MČ Praha 11
+  starostove: starosta MČ Praha 11
 funkce: 
   - starosta MČ Praha 11
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=35744">Výboru pro sport a volný čas ZHMP</a>
@@ -22,7 +23,7 @@ orddr: 25
 orstar: 1
 ---
 
-**Jiří Dohnal** (* Městec Králové) je starosta městské části Praha 11 a zastupitel hl. m. Prahy za Piráty. Je rovněž i členem dozorčí rady společnosti Výstaviště Praha, a.s. Narodil se v Městci Králové, později žil v Poděbradech a poté od roku 1980 v Praze na Jižním městě, kde bydlí dodnes. 
+**Jiří Dohnal** je starosta městské části Praha 11 a zastupitel hl. m. Prahy za Piráty. Je rovněž i členem dozorčí rady společnosti Výstaviště Praha, a.s. Narodil se v Městci Králové, později žil v Poděbradech a poté od roku 1980 v Praze na Jižním městě, kde bydlí dodnes. 
 
 V roce 2018 byl zvolen do zastupitelstva hl. m. Prahy za Piráty z 12. místa kandidátní listiny. Uspěl i ve volbách do zastupitelstva městské části Praha 11. V únoru 2019 byl po čtyřech měsících koaličních jednání na městské části zvolen jejím starostou. V září 2019 v souladu se slibem nekumulovat funkce rezignoval na funkci zastupitele hl. m. Prahy.
 
