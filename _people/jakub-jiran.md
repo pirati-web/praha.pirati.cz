@@ -16,6 +16,8 @@ mail: jakub.jiran@pirati.cz
 profiles:
 funkce:
   - člen dozorční rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
+orddr: 1
+
 ---
 
 **Jakub Jiran** (* 3. 7. 1978) je členem dozorčí rady Dopravního podniku hl. m. Prahy, akciové společnosti, tedy společnosti, kterou prostřednictvím hlavního města Prahy spoluvlastní všichni občané hlavního města. 
