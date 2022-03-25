@@ -4,19 +4,17 @@ name: Petr Kratochvíl  	# běžně používáné jméno
 titles:
   before: Ing. 
   after: 
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- dr
+category:
+  - dr
 img: people/petr-krat.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description:  Člen dozorčí rady společnosti Pražské vodovody a kanalizace, a.s. 	# kratký popis, max 160 znaků
-mail: 
+partyUid: bezpp
+description: člen dozorčí rady společnosti Pražské vodovody a kanalizace, a.s.
+teamDescription:
+  dr: Pražské vodovody a kanalizace, a.s.
+mail: petr.kratochvil@pirati. z
 mob:
-orddr: 19
-profiles:
-  github:       
-  facebook:    
-  twitter: 		  
-  flickr:		  
+orddr: 18	  
 ---
 
 **Petr Kratochvíl** je členem dozorčí rady společnosti Pražské vodovody a kanalizace, a.s.
