@@ -12,7 +12,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/daniel-mazur.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: předseda krajského sdružení
-partyUid: pirat
+partyUid: pirati
 teamDescription:
   pks: předseda krajského sdružení
   vybor: člen Výboru pro bezpečnost ZHMP
