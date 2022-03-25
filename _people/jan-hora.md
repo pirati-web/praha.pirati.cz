@@ -8,7 +8,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
 - pks
-- vybor
 ordpks: 3
 img: people/jan-hora.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
@@ -17,7 +16,6 @@ partyUid: pirati
 teamDescription:
   pks: místopředseda KS Praha
   mhmp: zastupitel hl. města Prahy
-  vybor: člen Výboru pro bezpečnost MHMP
 funkce:
   - místopředseda KS Praha
   - zastupitel hl. města Prahy
