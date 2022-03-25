@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
-- vybor
 img: people/eva-horakova3.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/06-horakova.jpg
@@ -15,7 +14,6 @@ partyUid: pirati
 description: předsedkyně Výboru pro sociální politiku ZHMP
 teamDescription:
   mhmp: místopředsedkyně zastup. klubu
-  vybor: předsedkyně Výboru pro sociální politiku ZHMP
 funkce: 
   - místopředsedkyně zastupitelského klubu Pirátů
   - předsedkyně <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">Výboru pro sociální politiku ZHMP</a>  
