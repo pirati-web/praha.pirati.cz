@@ -12,6 +12,7 @@ img: 		people/jana-komrskova.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/jana-komrskova.jpg
 partyUid: pirati
+description: 1. místostarostka MČ Praha 10
 teamDescription:
   vybor: členka finančního výboru a Výboru pro zdravotnictví ZHMP
 funkce: 
