@@ -1,6 +1,6 @@
 ---
 uid: radek.zykan
-name:     Radek Zykan  	# běžně používáné jméno
+name:  Radek Zykan  	# běžně používáné jméno
 titles:
   before: Ing. arch.
   after: 
@@ -8,11 +8,16 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/radek-zykan.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: člen dozorčí rady společnosti Trade Centre Praha, a.s.  	# kratký popis, max 160 znaků
+partyUid: pirati
+description: člen dozorčí rady společnosti Trade Centre Praha, a.s. 
+teamDescription:
+  dr: Trade Centre Praha, a.s.
+funkce: 
+ - člen dozorčí rady společnosti Trade Centre Praha, a.s.
 mail:
 - radek.zykan@gmail.com
 mob:
-orddr: 26
+orddr: 24
 profiles:
   github:       
   facebook:    
