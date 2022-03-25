@@ -16,12 +16,12 @@ description: předseda výboru pro IT a Smart City ZHMP
 partyUid: pirati
 teamDescription:
   mhmp: místopředseda zastupitelského klubu
-  vybor: předseda výboru pro IT a Smart City ZHMP,</br>místopředseda finančního výboru ZHMP</br>člen Výboru pro evropské záležitosti ZHMP
+  vybor: předseda výboru pro IT a Smart City ZHMP,<br/>místopředseda finančního výboru ZHMP<br/>člen Výboru pro evropské záležitosti ZHMP
 funkce: 
   - místopředseda zastupitelského klubu Pirátů
-  - předseda výboru pro IT a Smart City ZHMP
-  - místopředseda finančního výboru ZHMP
-  - člen Výboru pro evropské záležitosti ZHMP
+  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33580">výboru pro IT a Smart City ZHMP</a>
+  - místopředseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33592">finančního výboru ZHMP</a>
+  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33596">Výboru pro evropské záležitosti ZHMP</a>
 mail:
 - jaromir.beranek@pirati.cz
 mob: +420 775 890 490
