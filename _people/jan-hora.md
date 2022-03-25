@@ -13,15 +13,24 @@ ordpks: 3
 img: people/jan-hora.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/14-hora.jpg
-description: zastupitel hlavního města Prahy za Piráty, zastupitel s gescí bezpečnost
-descvyb: člen výboru pro bezpečnost ZHMP
+description: místopředseda krajského sdružení
+partyUid: pirati
+teamDescription:
+  pks: místopředseda krajského sdružení
+  praha: zastupitel (gesce: bezpečnost)
+funkce:
+  - místopředseda krajského sdružení Praha
+  - zastupitel hl. města Prahy
+  - zastupitel MČ Praha 4
+  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594">Výboru pro bezpečnost ZHMP</a>
 mail:
 - honza.hora@pirati.cz
 mob: "+420 775 608 734"
 profiles:
-  github:       
-  facebook:  
-  twitter: 		  
+  github:        
+  facebook:   https://www.facebook.com/piratjanhora
+  instagram:  https://www.instagram.com/piratjanhora/
+  twitter: 		https://twitter.com/jan_hora  
   flickr:		  
 ordvyb: 29
 ordpraha: 9
