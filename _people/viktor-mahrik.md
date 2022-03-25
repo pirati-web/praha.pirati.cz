@@ -39,7 +39,7 @@ mob: 				+420 602 767 298
 profiles:
   facebook: https://www.facebook.com/viktor.mahrik
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=viktor%20mahrik&view_all=1
-ordpraha: 1
+ordmhmp: 1
 ordcan: 6
 carousel:
   img: viktor-mahrik.jpg
