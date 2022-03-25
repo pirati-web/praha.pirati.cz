@@ -11,8 +11,17 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/ladislav-kos2.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/11-kos.jpg
-description: předseda komise RHMP pro sport, zastupitel hl. m. Prahy a zastupitel městské části Praha 11<br/> zastupitel s gescemi doprava, sport     	# kratký popis, max 160 znaků
-descvyb: člen výboru pro dopravu ZHMP, člen výboru pro sport a volný čas ZHMP
+description: zastupitel hl. města Prahy
+partyUid: pirati
+teamDescription:
+  mhmp: zastupitelka hl. města Prahy
+  vybor: člen výboru pro dopravu ZHMP
+funkce: 
+  - zastupitel hl. města Prahy
+  - zastupitel MČ Praha 11
+  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33570">Výboru pro dopravu</a>
+  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=35744">Výboru pro sport a volný čas ZHMP</a>
+  - předseda komise RHMP pro sport
 mail:
 - ladislav.kos@pirati.cz
 mob: +420 732 168 903
@@ -21,7 +30,7 @@ profiles:
   facebook: https://www.facebook.com/pirat.kosak/
   twitter: 		  
   flickr:		  
-ordpraha: 12
+ordmhmp: 8
 ordvyb: 16
 ---
 
