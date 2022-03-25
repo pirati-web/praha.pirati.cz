@@ -7,12 +7,14 @@ titles:
 category:
  - praha
  - pks
+ - vlada
 img: people/ondrej-chrast.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: 1. místopředseda krajského sdružení
 partyUid: pirati
 teamDescription:
   pks: 1. místopředseda KS Praha
+  vlada: náměstek ministra kultury ČR
 funkce:
   - 1. místopředseda KS Praha
   - náměstek ministra kultury ČR
