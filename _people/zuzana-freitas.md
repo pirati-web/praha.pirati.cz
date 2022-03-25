@@ -10,8 +10,17 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - can
 img: people/2022/zuzana-freitas.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: členka předsednictva krajského sdružení Pirátů v Praze<br/> zastupitelka městské části Praha 10<br/>členka výboru pro bydlení ZHMP    	# kratký popis, max 160 znaků
-descvyb: členka výboru pro bydlení ZHMP
+partyUid: pirati
+teamDescription:
+  pks: místopředsedkyně KS Praha
+  mhmp: zastupitel hl. města Prahy
+  vybor: člen Výboru pro bezpečnost MHMP
+funkce:
+  - místopředseda KS Praha
+  - náměstkyně ministra práce a sociálních věcí ČR
+  - zastupitelka MČ Praha 10
+  - zastupitel MČ Praha 4
+  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33574">Výboru pro bydlení ZHMP</a>
 mail:
 - zuzana.freitas@pirati.cz
 mob: "+420 776 278 860"
