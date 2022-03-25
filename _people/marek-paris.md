@@ -11,7 +11,7 @@ heroImg: Prague_panorama.jpeg
 description: člen dozorčí rady TSK, a.s.
 partyUid: pirati
 teamDescription:
-  dr: Technická správa komunikací (TSK), a.s.
+  dr: Technická správa komunikací, a.s.
 funkce:
   - člen dozorčí rady společnosti TSK, a.s.
 mail:
