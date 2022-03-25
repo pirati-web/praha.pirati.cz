@@ -11,10 +11,10 @@ profilebadge: people/badge/05-murnak.jpg
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy 
-  vybor: 
+  vybor: předseda Výboru pro legislativu, veřejnou správu a transparentnost ZHMP, místopředseda Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP, místopředseda místopředseda Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP
 funkce:
   - zastupitel hl. m. Prahy za Piráty
-  - předseda místního sdružení Prahy 
+  - předseda místního sdružení Praha 13 
   - předseda <a href="">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
   - místopředseda <a href="">Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP</a>
   - místopředseda <a href="">místopředseda Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP</a>
