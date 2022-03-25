@@ -12,12 +12,19 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/2022/jaromir-beranek.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/08-beranek.jpg
-description: místopředseda zastupitelského klubu Pirátů, zastupitel s gescemi Smart City, Evropské fondy, finance a inovace
-descvyb: předseda výboru pro IT a Smart City ZHMP, člen finančního výboru ZHMP
+description: předseda výboru pro IT a Smart City ZHMP
+partyUid: pirati
+teamDescription:
+  mhmp: místopředseda zastupitelského klubu
+  vybor: předseda výboru pro IT a Smart City ZHMP,</br>místopředseda finančního výboru ZHMP</br>člen Výboru pro evropské záležitosti ZHMP
+funkce: 
+  - místopředseda zastupitelského klubu Pirátů
+  - předseda výboru pro IT a Smart City ZHMP
+  - místopředseda finančního výboru ZHMP
+  - člen Výboru pro evropské záležitosti ZHMP
 mail:
 - jaromir.beranek@pirati.cz
-mob:
-- +420 775 890 490
+mob: +420 775 890 490
 profiles:
   github:     
   facebook: 	https://www.facebook.com/jaromir.beranek
@@ -26,7 +33,6 @@ profiles:
   flickr:
 ordvyb: 1
 ordpraha: 6
-ordpks: 5
 ordcan: 12
 redmine: 223
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
