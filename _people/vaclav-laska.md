@@ -12,6 +12,9 @@ partyUid: podpora
 description: senátor za volební obvod 21 - Praha 5
 teamDescription:
   senat: senátor za vol. obvod 21 - Praha 5
+funkce:
+  - senátor za volební obvod 21 - Praha 5
+  - předseda senátorského klubu SEN 21 a Piráti
 mob: +420 776 709 157
 mail:
 - vaclav.laska@vaclavlaska.cz
