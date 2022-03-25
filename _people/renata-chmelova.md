@@ -6,7 +6,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/renata-chmelova.jpg          # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: podpora
-description: senátorka za volební obvod 22 - Praha 10
+description: senátorka za vol. obvod 22 - Praha 10
 teamDescription:
   senat: senátorka za vol. obvod 22 - Praha 10
 funkce:
