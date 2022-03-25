@@ -31,7 +31,7 @@ profiles:
   linkedin:   https://www.linkedin.com/in/jaromirberanek/
   twitter: 		https://twitter.com/JaromirBeranek
   flickr:
-ordpraha: 3
+ordmhmp: 3
 ordcan: 12
 redmine: 223
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
