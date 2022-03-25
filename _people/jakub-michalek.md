@@ -17,6 +17,9 @@ mob: +420 775 978 550
 partyUid: pirati
 funkce:
 - předseda poslaneckého klubu Pirátů
+- místopředseda <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1551">Ústavně-právního výboru PSP ČR</a>
+- člen <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1589">Finančního podvýbor</a>
+- člen <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1587">Podvýboru pro justici</a>
 profiles:
   github:    https://github.com/jmichalek
   facebook:  https://www.facebook.com/smidak
