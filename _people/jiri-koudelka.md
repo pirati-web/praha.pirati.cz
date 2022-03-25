@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - dr
-- vybor
 img: people/jiri-koudelka.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: Zastupitel na Praze 13, člen dozorčí rady společnosti Operátor ICT a.s.     	# kratký popis, max 160 znaků
