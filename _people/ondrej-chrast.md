@@ -5,11 +5,11 @@ titles:
   before: Mgr. 
   after: 
 category:
-- praha
-- pks
-img: 		people/ondrej-chrast.jpg    # 165 x 220
+ - praha
+ - pks
+img: people/ondrej-chrast.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-    description: 1. místopředseda krajského sdružení
+description: 1. místopředseda krajského sdružení
 partyUid: pirati
 teamDescription:
   pks: 1. místopředseda krajského sdružení
@@ -27,7 +27,7 @@ profiles:
   twitter:   https://twitter.com/chrast_o
   instagram: https://www.instagram.com/ondrejchrast.pirati/
   flickr:    https://www.flickr.com/search/?text=ondrej%20chrast
-  web:       http://www.chrast.eu
+  web:       https://www.chrast.eu  
 ---
 
 **Ondřej Chrást** (* 7. července 1980) je členem předsednictva pražských Pirátů. Pochází z Františkových Lázní. Dlouhodobě bydlí na Praze 6.
