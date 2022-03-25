@@ -10,15 +10,21 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 img: 		people/ondrej-kallasch.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/02-kallasch.jpg
-description: 			zastupitel hl. m. Prahy, zastupitel městské části Praha 22<br/> zastupitel s gescí informatika        	        			# kratký popis, max 160 znaků
+description: zastupitel hl. města Prahy
+partyUid: pirati
+teamDescription:
+  mhmp: zastupitel hl. města Prahy
+funkce: 
+  - zastupitel hl. města Prahy
+  - zastupitel MČ Praha 22
 mail:
 - ondrej.kallasch@pirati.cz
-mob: 				+420 720 474 822
+mob: +420 720 474 822
 profiles:
-  facebook: https://www.facebook.com/kallasch
-  twitter: https://twitter.com/OndrejKallasch
-  flickr: https://www.flickr.com/search/?text=ond%C5%99ej%20kallasch
-ordpraha: 10
+  facebook:  https://www.facebook.com/kallasch
+  twitter:   https://twitter.com/OndrejKallasch
+  flickr:    https://www.flickr.com/search/?text=ond%C5%99ej%20kallasch
+ordmhmp: 7
 carousel:
   img: ondrej-kallasch.jpg
   text: |
