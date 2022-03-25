@@ -1,26 +1,29 @@
 ---
 uid: alice.hamalova
 name: Alice Hamalová	# běžně používáné jméno
-fullname: Alice Hamalová
 category:
  - praha
  - dr
-img: 		people/alice-hamalova.jpg    # 165 x 220
+img: people/alice-hamalova.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: zastupitelka na Praze 8, členka dozorčí rady ve společnosti Želivská provozní, a.s.
+description: zastupitelka MČ Praha 8
+teamDescription:
+  dr: Želivská provozní, a.s
 mail:
-- alice.hamalova@pirati.cz
-mob: +420 777 699 091 
-ordkodo: 3
-orddr: 22
+  - alice.hamalova@pirati.cz
+mob: +420 777 699 091
 profiles:
-  github:                 
-  facebook: 		  https://www.facebook.com/alice.hamalova
-  twitter: 		  
-  flickr:     		  https://www.flickr.com/search/?text=alice%20hamalova
+  facebook: https://www.facebook.com/alice.hamalova
+  odmeny:   https://nalodeni.pirati.cz/odmeny/alice.hamalova
+  evidence: https://evidence.pirati.cz/
+funkce:
+  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelka MČ Praha 8</a>
+  - členka <a href="https://www.zelivska.cz/zepro-o-nas.html">dozorčí rady Želivské provozní a.s</a>
+  - vedoucí <a href="https://wiki.pirati.cz/ao/start">administrativního odboru Pirátů</a>
+orddr: 28
 ---
 
-**Alice Hamalová** (* 2. května 1990) je pirátskou místopředsedkynní krajského sdružení Praha, zastupitelkou za Piráty na MČ Praha 8 a členkou dozorčí rady ve společnosti Želivská provozní, a.s.
+**Alice Hamalová (1990) je zastupitelkou za Piráty v MČ Praha 8 a členkou dozorčí rady ve společnosti Želivská provozní, a.s..**
 
 Vystudovala osmileté Gymnázium Krnov, kde maturovala z chemie. Studovala na Fakultě technologie ochrany prostředí VŠCHT Praha. V průběhu studia se specializovala na životní prostředí, analytiku a úpravu vody. Studium však nedokončila. Později pracovala na klinických testech vakcíny proti rakovině - podílela se na zajištění chodu farmaceutických laboratoří a přípravě přípravku. Absolvovala pracovní pobyt v Pekingu, kde zaučovala čínské kolegy a zlepšovala chod laboratoří.
 
