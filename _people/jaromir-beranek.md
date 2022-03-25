@@ -15,7 +15,7 @@ profilebadge: people/badge/08-beranek.jpg
 description: předseda výboru pro IT a Smart City ZHMP
 partyUid: pirati
 teamDescription:
-  mhmp: místopředseda zastupitelského klubu
+  mhmp: místopředseda zastup. klubu
   vybor: předseda výboru pro IT a Smart City ZHMP, místopředseda finančního výboru ZHMP, člen Výboru pro evropské záležitosti ZHMP
 funkce: 
   - místopředseda zastupitelského klubu Pirátů
