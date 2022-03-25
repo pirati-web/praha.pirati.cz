@@ -8,8 +8,16 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/tomas-murnak.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/05-murnak.jpg
-description: zastupitel hl. m. Prahy za Piráty a předseda místního sdružení Prahy 13<br/> zastupitel s gescemi územní rozvoj, legislativa, živ. prostředí           	# kratký popis, max 160 znaků
-descvyb: předseda výboru pro legislativu ZHMP, místopředseda výboru pro územní rozvoj a územní plán ZHMP,<br/> člen výboru pro životní prostředí, infrastrukturu a vybavenost ZHMP
+partyUid: pirati
+teamDescription:
+  mhmp: zastupitel hl. města Prahy 
+  vybor: 
+funkce:
+  - zastupitel hl. m. Prahy za Piráty
+  - předseda místního sdružení Prahy 
+  - předseda <a href="">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
+  - místopředseda <a href="">Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP</a>
+  - místopředseda <a href="">místopředseda Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP</a>
 asistenti:
   - name: Michaela Beránková
     uid: michaela.berankova
@@ -18,21 +26,17 @@ asistenti:
     tel:
 mail:
 - tomas.murnak@pirati.cz
-mob:			  +420 604 330 995
+mob: +420 604 330 995
 profiles:
   github:                 
-  facebook: 		  https://www.facebook.com/tomas.murnak
-  twitter: 		  
-  flickr:     		  https://www.flickr.com/search/?text=Tom%C3%A1%C5%A1%20Mur%C5%88%C3%A1k
-ordpraha: 7
-ordvyb: 20
+  facebook: https://www.facebook.com/TMurnak
+  twitter: 	https://twitter.com/TomasMurnak	  
+  flickr:   https://www.flickr.com/search/?text=Tom%C3%A1%C5%A1%20Mur%C5%88%C3%A1k
 redmine: 55
 calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 ---
 
-<div style="color: #000000; text-transform: none; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #ffffff; font-variant-ligatures: normal; -webkit-text-stroke-text-decoration-style: initial;" class="level1">
-<p><a href="https://praha13.pirati.cz"><b>Zastupitel hlavního města Prahy a předseda místního sdružení Prahy 13</b></a></p>
-<p>Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes.</p>
+Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes.</p>
 <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v roce 2010.</p>
 <p>Zastupitelem jsem se stal v roce 2014, kdy Piráti pod mým vedením, v koalici se Stranou Zelených pod názvem <a href="http://zeleniapiratipro13.cz/">Zelení a piráti pro 13</a>, získali ve volbách 11,19 % hlasů, což nám přineslo 5 mandátů (2 Piráti a 3 Zelení) z celkových 35.</p>
 <p>I přesto, že jsme nakonec skončili v opozici a koalice nám nedovolila zasednout v žádném výboru ani komisi, podařilo se nám prosadit část pirátského programu jako je rozklikávací rozpočet, zveřejňování rozpočtu ve strojově čitelném formátu, pozastavit neefektivní projekt <a href="http://praha.idnes.cz/praha-13-chce-nakoupit-nove-kamery-za-sto-milionu-korun-pfy-/praha-zpravy.aspx?c=A150316_2147657_praha-zpravy_nuba">kamerového systému</a> a vrátit autorská práva k pořadům TV Praha 13 do vlastnictví Městské části.</p>
@@ -44,13 +48,3 @@ calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 <p>Ve spolupráci se spolky se věnujeme i otázce <a href="http://zeleniapiratipro13.cz/vyroste-na-posledni-zeleni-mezi-stanicemi-metra-luziny-a-luka-5-vezi/">necitlivé výstavby</a>, která zde zpravidla probíhá bez vyjádření veřejnosti.</p>
 <p>V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen jeho předsedou. V komunálních volbách v roce 2018 jsem byl zvolen zastupitelem hlavního města Prahy a stal jsem se místopředsedou výboru pro územní rozvoj. Z toho důvodu jsem rezignoval na pozici zastuptele městské části Praha 13.</p>
 <p>Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.</p>
-<p><b>Motto : Společně otevřeme radnici</b></p>
-</div>
-<p>E-mail</p>
-<div style="color: #000000; text-transform: none; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #ffffff; font-variant-ligatures: normal; -webkit-text-stroke-text-decoration-style: initial;" class="level4">
-<p><a style="background: url('data:image/gif;base64,R0lGODlhEAAQAPMAAE5OTu43IPBEL/JhT2Sh5aOjo4u877nV88fd9tjn+Pf6/u0XFwAAAAAAAAAAAAAAACH5BAEAAAsALAAAAAAQABAAAAREcMlJq70408K774BUKGRJJqgRLqNZJoOgigphEDiaCMHMuqcEAuEb4XAGIeJwKLpQw2XRQK1aqasCYMvtcjXgsHhciQAAOw==') no-repeat 0px 1px; margin: 0px; padding: 1px 0px 1px 16px; color: #009ddc; text-decoration: none;" class="mail" href="mailto:tomas.murnak@pirati.cz" title="tomas.murnak@pirati.cz">tomas.murnak@pirati.cz</a></p>
-</div>
-<p>Facebook</p>
-<div style="color: #000000; text-transform: none; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #ffffff; font-variant-ligatures: normal; -webkit-text-stroke-text-decoration-style: initial;" class="level4">
-<p><a style="background: url('data:image/gif;base64,R0lGODlhEAAQAPMAAE5OTjh0HT6BHlGZJGyrN16hLH62SIW6T53GbGux+YuLi4a++azR+tro+azMgv8RkiH5BAEAAA8ALAAAAAAQABAAAARV8MlJq71Yqg3y20XRMEBnKQVhEA1RDCalGMeBNMYba4x9NwfCQLBTjBCOhlK4KCoZCIZykUgUpTQDg7Gg7j4pgotrPQ3OZ2r5pBAIAoGSR1H6eu74CAA7') no-repeat 0px 1px; margin: 0px; padding: 1px 0px 1px 16px; color: purple; text-decoration: none;" class="urlextern" rel="nofollow" href="https://www.facebook.com/tomas.murnak" title="https://www.facebook.com/tomas.murnak">https://www.facebook.com/tomas.murnak</a></p>
-</div>
