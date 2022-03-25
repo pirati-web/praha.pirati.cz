@@ -23,6 +23,13 @@ profiles:
   twitter:   https://twitter.com/JakubMichalek19
   instagram: https://https://www.instagram.com/piratmichalek
   flickr:    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jakub%20mich%C3%A1lek&view_all=1
+asistenti:
+  - name: Mikuláš Ferjenčík
+    uid: mikulas.ferjencik
+    position: asistent
+   - name: Tomáš Kopečný
+    uid: tomas.kopecny
+    position: asistent
 ordrp: 4
 ordga: 8
 ordpos: 2
