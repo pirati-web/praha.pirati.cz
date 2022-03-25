@@ -36,7 +36,10 @@ Vystudoval Gymnázium U Libeňského zámku, obor informatika. Dva roky strávil
 
 Během praxe získal zkušenosti s vývojem širokého spektra aplikací – od software pro krizové řízení a státní správu, přes intrawebové CRM systémy až po mobilní aplikace. V současnosti pracuje jako OSVČ především na vývoji nativních mobilních aplikací pro platformu Android.
 
-U Pirátů se věnuje především analýze IT zakázek pražského magistrátu. V roce 2018 byl ve výběrovém řízení pražských Pirátů vybrán do dozorčí rady společnosti Operátor ICT, která se věnuje informatice pražského Magistrátu a hlavního města Prahy. Je úspěšný vývojář a analytik. Zároveň je členem výboru pražského zastupitelstva pro ICT a Smart City. Minulé volební období byl poradcem pirátských zastupitelů pro oblast informatiky na Magistrátu hl. m. Prahy a nyní získává zkušenosti s fungováním IT ve veřejné správě jako neuvolněný zastupitel na Praze 13. Ke své vizi působení v dozorčí radě uvádí: „Operátora ICT považuji za ideální nástroj, pomocí kterého je Praha schopná realizovat i větší IT projekty, ať už z pozice projektového řízení nebo vlastního vývoje. Při vhodném řízení a dozoru tak může městu ušetřit značné prostředky a poskytnout systémy jak pro Prahu, tak i jiná města v podobě open source aplikací.“
+U Pirátů se věnuje především analýze IT zakázek pražského magistrátu. V roce 2018 byl ve výběrovém řízení pražských Pirátů vybrán do dozorčí rady společnosti Operátor ICT, která se věnuje informatice pražského Magistrátu a hlavního města Prahy. Je úspěšný vývojář a analytik. Zároveň je členem výboru pražského zastupitelstva pro ICT a Smart City. Minulé volební období (2014–2018) byl poradcem pirátských zastupitelů pro oblast informatiky na Magistrátu hl. m. Prahy a nyní získává zkušenosti s fungováním IT ve veřejné správě jako neuvolněný zastupitel na Praze 13. 
+
+Ke své vizi působení v dozorčí radě uvádí: 
+>"Operátora ICT považuji za ideální nástroj, pomocí kterého je Praha schopná realizovat i větší IT projekty, ať už z pozice projektového řízení nebo vlastního vývoje. Při vhodném řízení a dozoru tak může městu ušetřit značné prostředky a poskytnout systémy jak pro Prahu, tak i jiná města v podobě open source aplikací."
 
 
 
