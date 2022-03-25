@@ -14,7 +14,7 @@ profilebadge: people/badge/11-kos.jpg
 description: zastupitel hl. města Prahy
 partyUid: pirati
 teamDescription:
-  mhmp: zastupitelka hl. města Prahy
+  mhmp: zastupitel hl. města Prahy
   vybor: člen výboru pro dopravu ZHMP
 funkce: 
   - zastupitel hl. města Prahy
