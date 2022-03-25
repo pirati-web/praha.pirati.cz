@@ -19,6 +19,7 @@ funkce:
   - člen dozorčí rady společností Výstaviště Praha, a.s.
 mail:
 - jiri.dohnal@pirati.cz
+mob: +420 778 421 040
 orddr: 25
 orstar: 1
 ---
