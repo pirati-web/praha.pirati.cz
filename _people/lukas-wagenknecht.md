@@ -12,7 +12,7 @@ profession: ekonom, interní auditor
 partyUid: pirati
 description: senátor za volební obvod 23 - Praha 8
 teamDescription:
-  dr: Pražské plynárenská, a.s.
+  dr: Pražská plynárenská, a.s.
   senat: senátor za volební obvod 23 - Praha 8
 mob: +420 608 303 542
 mail:
