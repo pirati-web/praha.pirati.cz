@@ -6,7 +6,6 @@ titles:
   after:
 category:   
 - mhmp       	        			# kratký popis, max 160 znaků
-- vybor
 img: people/aneta-heidlova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/10-heidlova.jpg
@@ -14,7 +13,6 @@ description: zastupitelka hl. města Prahy
 partyUid: pirati
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
-  vybor: členka Výboru pro kulturu, výstavnictví, cestovní ruch a zahraniční vztahy ZHMP
 funkce: 
   - zastupitelka hl. města Prahy
   - zastupitelka MČ Praha 9
