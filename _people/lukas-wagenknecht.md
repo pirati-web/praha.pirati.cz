@@ -13,7 +13,7 @@ partyUid: pirati
 description: senátor za volební obvod 23 - Praha 8
 teamDescription:
   dr: Pražská plynárenská, a.s.
-  senat: senátor za volební obvod 23 - Praha 8
+  senat: senátor za vol. obvod 23 - Praha 8
 mob: +420 608 303 542
 mail:
  - wagenknechtl@senat.cz
