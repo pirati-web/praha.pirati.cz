@@ -13,8 +13,10 @@ img: people/vit-simral.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/12-simral.jpg
 profession: radní hlavního města Prahy
-description: radní pro oblast školství, sportu, vědy a podpory podnikání
-descvyb: člen výboru pro evropské záležitosti ZHMP
+description: radní pro oblast školství, sportu, vědy a podpory podnikání 
+teamDescription:
+  mhmp-radni: radní pro oblast školství, sportu, vědy a podpory podnikání 
+  vybor: člen výboru pro evropské záležitosti ZHMP
 partyUid: pirati
 funkce: 
   - radní hl. města pro oblast školství, sportu, vědy a podpory podnikání
