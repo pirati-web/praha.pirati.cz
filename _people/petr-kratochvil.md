@@ -12,7 +12,9 @@ partyUid: bezpp
 description: člen dozorčí rady společnosti Pražské vodovody a kanalizace, a.s.
 teamDescription:
   dr: Pražské vodovody a kanalizace, a.s.
-mail: petr.kratochvil@pirati. z
+funkce:
+  - člen dozorčí rady společnosti Pražské vodovody a kanalizace, a.s.
+mail: petr.kratochvil@pirati.cz
 mob:
 orddr: 18	  
 ---
