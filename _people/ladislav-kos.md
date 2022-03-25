@@ -13,7 +13,7 @@ description: senátor za volební obvod 19 - Praha 11
 teamDescription:
   senat: senátor za volební obvod 19 - Praha 11
 funkce:
-  - senátor za vol obvod 19 - Praha 11
+  - senátor za vol. obvod 19 - Praha 11
 mail:
 - ladislav.kos@gmail.com
 mob: +420 603 780 761
