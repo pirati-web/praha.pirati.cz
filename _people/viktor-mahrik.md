@@ -8,7 +8,6 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 - carousel
-- vybor
 - can
 img: 		people/viktor-mahrik.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
@@ -17,7 +16,6 @@ description: předseda Výboru pro správu majetku, majetkové podíly a podporu
 partyUid: pirati
 teamDescription:
   mhmp: předseda zastupitelského klubu
-  vybor: předseda Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP,<br/>člen Výboru pro dopravu ZHMP
 funkce: 
   - předseda zastupitelského klubu Pirátů
   - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33584">Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP</a>
