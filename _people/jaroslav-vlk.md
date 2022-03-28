@@ -8,11 +8,15 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/jaroslav-vlk.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description:  člen dozorčí rady společnosti Pražská plynárenská distribuce a.s.  	# kratký popis, max 160 znaků
-mail:
-- jaroslav.vlk@seznam.cz
-mob:
-orddr: 6
+partyUid: bezpp
+description: člen dozorčí rady společnosti Pražská plynárenská distribuce a.s.
+teamDescription:
+  dr: Pražská plynárenská distribuce a.s.
+mail: jaroslav.vlk@seznam.cz
+profiles:
+funkce:
+  - člen dozorčí rady společnosti Pražská plynárenská distribuce a.s.
+orddr: 11
 profiles:
   github:       
   facebook:    
