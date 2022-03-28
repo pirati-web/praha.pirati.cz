@@ -12,7 +12,7 @@ contactType: Kontakt ZK MHMP pro občany Prahy
 img: people/martin-arden.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/07-arden.jpg
-description: kontakt ZK Pirátů pro veřejnost
+description: kontakt zastupitelského klubu Pirátů na MHMP pro veřejnost
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy
