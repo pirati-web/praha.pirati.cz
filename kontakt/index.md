@@ -8,7 +8,6 @@ residences:
    address: |
      Na Moráni 3,
      120 00 Praha 2
-   spravce: pavel.zamazal
    residenceImg: https://a.pirati.cz/praha/img/kontakt/novepice.jpg
    mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
  - name: Magistrát
@@ -17,6 +16,7 @@ residences:
      Kancelář 38, Mariánské náměstí 2, 
      110 00 Praha 1,
      telefon +420 608 213 119
+   spravce: jan.louzek  
    residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
    mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
 contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
@@ -57,7 +57,7 @@ contactSummaryItems:
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Přidejte se k [pražskému sdružení](/pripoj-se) nebo k jednotlivým [místním sdružením](/mestske-casti) v [městských částech](/mestske-casti).
+Přidejte se k [pražskému sdružení]https://nalodeni.pirati.cz/) nebo k jednotlivým [místním sdružením](/mestske-casti) v [městských částech](/mestske-casti).
 
 <br>
 
