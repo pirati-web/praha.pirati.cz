@@ -12,7 +12,7 @@ ordpak: 1
 img: people/jiri-belsan.jpg
 heroImg: Prague_panorama.jpeg
 contactType: Koordinátor dobrovolníků
-description: Koordinátor pro Prahu
+description: Vedoucí koordinátorů pro Prahu
 partyUid: pirati
 funkce: 
   - vedoucí koordinátorů dobrovolníků
