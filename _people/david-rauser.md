@@ -7,7 +7,8 @@ titles:
 category: 
 - kodo
 - kontaktni_osoba
-ordkodo: 7
+ordkodo: 2
+ordpak: 2	
 img: people/david-rauser.jpg
 heroImg: Prague_panorama.jpeg
 contactType: Kontakt pro dobrovolníky
@@ -19,7 +20,7 @@ profiles:
   facebook: 
   twitter: 		  
   flickr:
-ordpak: 		  
+	  
 ---
 
 **David Raušer** je koordinátor dobrovolníků s gescemi – zapojování nováčků, e-learning, práce s dobrovolníky
