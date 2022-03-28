@@ -3,6 +3,21 @@ title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani b
 author: Petra Slezáková
 image: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpeg
 tags: [Ukrajina]
+fancybox:
+  - name: Jak to vypadá na hranicích s Ukrajinou?
+    img:
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina01.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina02.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina03.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina04.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina05.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina06.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina07.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina08.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina09.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina11.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+      - { src: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina12.jpeg, title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
 ---
 
 **Michaela Beránková je pirátkou z Prahy 13, na magistrátu pracuje jako asistentka zastupitele Tomáše Murňáka. V březnu však na několik dní vyměnila své oblíbené šaty za reflexní vestu a vydala se pomáhat uprchlíkům k ukrajinské hranici. Ve Vyšném Nemeckém a později Michalovcích strávila dohromady týden. Co tam dělala a viděla?** 
@@ -33,3 +48,16 @@ Ty stany jsou bohužel semeništěm nemocí, pokud tam přišlo jedno dítě se 
 
 **Chystáš se na hranice znovu?**
 Chtěla jsem pomáhat uprchlíkům přímo na Ukrajině, ale už i na Lvov padají bomby. Vidím to tedy spíš na pomoc v humanitárních vlacích, pokud mi to čas umožní.
+
+{% for galery in page.fancybox %}
+<div class="mt-4">
+  <h3>{{ galery.name }}</h3>
+  <div class="grid grid-cols-4 gap-4">
+  {% for item in galery.img %}
+    <div class="">
+      <a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize='200x150^' magick:gravity='center' magick:crop='200x150+0+0' class="rounded" %}</a>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+{% endfor %}
