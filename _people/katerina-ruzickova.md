@@ -8,16 +8,15 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/katerina-ruzickova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: členka dozorčí rady společnosti Pražská vodohospodářská společnost a.s.  	# kratký popis, max 160 znaků
-mail: 
-- katerina.ruzickova@gmail.com
-mob:
-orddr: 16
+partyUid: bezpp
+description: členka dozorčí rady Pražské vodohospodářské společnosti, a.s.
+teamDescription:
+  dr: Pražská vodohospodářská společnost, a.s. 
+mail: katerina.ruzickova@gmail.com
 profiles:
-  github:       
-  facebook:    
-  twitter: 		  
-  flickr:		  
+funkce:
+  - členka dozorčí rady Pražské vodohospodářské společnosti a.s. 
+orddr: 16    
 ---
 
 **Kateřina Růžičková** je členkou dozorčí rady společnosti Pražská vodohospodářská společnost a.s.
