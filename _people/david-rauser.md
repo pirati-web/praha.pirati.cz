@@ -8,7 +8,7 @@ category:
 - kodo
 - kontaktni_osoba
 ordkodo: 2
-ordpak: 2	
+ordpak: 	
 img: people/david-rauser.jpg
 heroImg: Prague_panorama.jpeg
 contactType: Kontakt pro dobrovolníky
