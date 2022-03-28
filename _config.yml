@@ -61,7 +61,7 @@ youtube:
 
 twitter:
   loadSDK: true
-  profile: "https://twitter.com/piratipraha"
+  profile: piratipraha
 
 instagram:
   loadSDK: true
