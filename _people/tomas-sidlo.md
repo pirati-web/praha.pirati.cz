@@ -11,7 +11,7 @@ heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: zastupitel MČ Praha 6
 teamDescription:
-  dr: Technologie hlavního města Prahy, a.s.
+  dr: Technologie hl. města Prahy, a.s.
 funkce:
   - zastupitel MČ Praha 6
   - člen dozorčí rady společnosti Technologie hlavního města Prahy, a.s.
