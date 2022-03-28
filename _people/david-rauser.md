@@ -5,9 +5,6 @@ titles:
   before: 
   after:
 category: 
-- kodo
-- kontaktni_osoba
-ordkodo: 2
 ordpak: 	
 img: people/david-rauser.jpg
 heroImg: Prague_panorama.jpeg
