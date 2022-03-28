@@ -13,9 +13,11 @@ top:
 main:
   - link: /aktuality/
     name: Aktuality
-  - link: /lide/
-    name: Lidé
+  - name: Lidé
     submenu:
+      - link: /lide/
+        name: Piráti v Praze
+        match: /lide/
       - link: /krajske-expertni-teamy/
         name: Expertní týmy
         match: /krajske-expertni-teamy/
