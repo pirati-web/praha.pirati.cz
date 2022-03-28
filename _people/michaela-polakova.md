@@ -1,6 +1,6 @@
 ---
 uid: michaela.polakova
-name:     Michaela Poláková  	# běžně používáné jméno
+name: Michaela Ali-Poláková  	# běžně používáné jméno
 titles:
   before: Ing.
   after: 
@@ -8,19 +8,19 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/michaela-polakova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: členka dozorčí rady Pražské vodohospodářské společnosti a.s.    	# kratký popis, max 160 znaků
-mail:
-- polakovamichaela@hotmail.com
-mob:
-orddr: 18
+partyUid: bezpp
+description: členka dozorčí rady Pražské vodohospodářské společnosti, a.s.
+teamDescription:
+  dr: Pražská vodohospodářská společnost, a.s. 
+mail: olakovamichaela@hotmail.com
 profiles:
-  github:       
-  facebook:    
-  twitter: 		  
-  flickr:		  
+funkce:
+  - členka dozorčí rady Pražské vodohospodářské společnosti a.s. 
+  - zastupitelka MČ Praha 11
+orddr: 14  
 ---
 
-**Michaela Poláková** je členkou dozorčí rady společnosti Pražské vodohospodářské společnosti a.s. Zvítězila ve výběrovém řízení uskutečněném Piráty.
+**Michaela Ali-Poláková je členkou dozorčí rady společnosti Pražské vodohospodářské společnosti, a.s.** Je také zastupitelkou městské části Praha 11.
 
 Vystudovala ČVUT v Praze, a prakticky od dob studií byla zaměstnána v renomovaných stavebně-technických firmách převážně zahraničních investorů, kde se postupně vypracovala až do vrcholového managementu, konkrétně na pozici finanční ředitelky. Věří, že získané know-how a zkušenosti lze dobře využít pro zefektivnění řízení v komunální správě. Na Jižním Městě žije od roku 1984, s občasnými pracovními pobyty v zahraničí.
 
