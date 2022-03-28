@@ -17,14 +17,15 @@ residences:
      Kancelář 38, Mariánské náměstí 2, 
      110 00 Praha 1,
      telefon +420 608 213 119
-   spravce: jan.louzek
    residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
    mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
 contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
+
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
+
 contactSummaryItems:
   - type: organizationEmail
   - type: custom
@@ -73,7 +74,6 @@ Přidejte se k [pražskému sdružení](/pripoj-se) nebo k jednotlivým [místn�
 * **Výroční zpráva** <a href="https://github.com/pirati-web/praha.pirati.cz/blob/master/assets/pdf/vz-2019/vz-2019-web.pdf">za rok 2019</a> a <a href="https://a.pirati.cz/praha/pdf/VZ-2020-4.pdf">za rok 2020.</a>
 * **Volební program** <a href="https://github.com/pirati-web/praha.pirati.cz/blob/master/assets/pdf/program-2018-forum.pdf">do voleb v roce 2018</a>.
 * **<a href="https://pirati.cz/forum">Forum</a>** diskuse a zpětná vazba členů
-
 
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Telefonický kontakt pro občany ČR</h1>
