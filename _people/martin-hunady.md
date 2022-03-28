@@ -5,9 +5,6 @@ titles:
   before: 
   after:
 category: 
-- kodo
-- kontaktni_osoba
-ordkodo: 3
 ordpak:
 img: people/martin-hunady.jpg
 heroImg: Prague_panorama.jpeg
