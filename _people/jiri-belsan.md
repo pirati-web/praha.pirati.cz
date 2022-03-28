@@ -8,7 +8,7 @@ category:
   - kodo
   - kontaktni_osoba
 ordkodo: 1
-ordpak: 1
+ordpak: 
 img: people/jiri-belsan.jpg
 heroImg: Prague_panorama.jpeg
 contactType: Koordinátor dobrovolníků
