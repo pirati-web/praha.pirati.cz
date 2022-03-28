@@ -22,7 +22,7 @@ main:
         name: Piráti na Magistrátu hl. města Prahy
         match: /lide/magistrat         
       - link: /lide/dr
-        name: Piráti v dozorčích radách
+        name: Piráti v dozorčích radách městských firem
         match: /lide/dr        
       - link: /lide/krajske-expertni-tymy/
         name: Pražské expertní týmy
