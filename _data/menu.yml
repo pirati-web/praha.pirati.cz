@@ -13,7 +13,7 @@ top:
 main:
   - link: /aktuality/
     name: Aktuality
-  - name: Lidé
+  - name: Vaši lidé
     submenu:
       - link: /lide/
         name: Piráti v Praze
