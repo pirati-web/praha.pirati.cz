@@ -10,6 +10,7 @@ residences:
      120 00 Praha 2
    residenceImg: https://a.pirati.cz/praha/img/kontakt/novepice.jpg
    mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
+ - <br />
  - name: Magistrát
    url: "http://www.praha.eu/jnp/cz/o_meste/magistrat/index.html"
    residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
@@ -19,10 +20,7 @@ residences:
      110 00 Praha 1,
      telefon +420 608 213 119
    contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
-groups:
-  - name: Předsednictvo krajského sdružení Praha
-    category: pks
-    sort: ordpks
+   
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
