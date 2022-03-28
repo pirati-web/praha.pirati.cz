@@ -8,12 +8,12 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 - kontaktni_osoba
-contactType: Kontakt ZK MHMP pro občany Prahy
 img: people/martin-arden.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/07-arden.jpg
-description: kontakt zastupitelského klubu Pirátů na MHMP pro veřejnost
 partyUid: pirati
+contactType: Kontakt ZK MHMP pro občany Prahy
+description: Kontakt pro veřejnost
 teamDescription:
   mhmp: zastupitel hl. města Prahy
   kontaktni_osoba: kontakt pro veřejnost
