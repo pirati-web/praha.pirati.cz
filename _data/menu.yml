@@ -28,7 +28,7 @@ main:
         name: Pražské expertní týmy
         match: /lide/krajske-expertni-tymy/
   - link: /program/
-    name: Program 
+    name: Volební program 2018
   - link: /kontakt/
     name: Kontakt
 
