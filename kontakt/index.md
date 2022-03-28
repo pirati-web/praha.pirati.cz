@@ -18,7 +18,7 @@ residences:
      telefon +420 608 213 119
    residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
    mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
-contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
+   contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
    spravce: jan.louzek  
 
 # Nastavení zobrazení tabulky kontaktů.
