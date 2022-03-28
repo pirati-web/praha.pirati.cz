@@ -24,9 +24,9 @@ main:
       - link: /lide/dr
         name: Piráti v dozorčích radách
         match: /lide/dr        
-      - link: /krajske-expertni-teamy/
-        name: Expertní týmy
-        match: /krajske-expertni-teamy/
+      - link: /lide/krajske-expertni-tymy/
+        name: Pražské expertní týmy
+        match: /lide/krajske-expertni-tymy/
   - link: /program/
     name: Program 
   - link: /kontakt/
