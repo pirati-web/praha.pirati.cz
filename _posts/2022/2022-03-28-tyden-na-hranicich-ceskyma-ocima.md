@@ -2,7 +2,7 @@
 title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani bohatí, ani chudí
 author: Petra Slezáková
 image: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpeg
-tags: [Ukrajina]
+tags: [ukrajina]
 fancybox:
   - name: Jak to vypadá na hranicích s Ukrajinou?
     img:
