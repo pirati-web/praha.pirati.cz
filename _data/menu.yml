@@ -16,13 +16,11 @@ main:
   - link: /lide/
     name: Lidé
     submenu:
-      - link: /a/
-        name: AAA
-        match: aaa
+      - link: /krajske-expertni-teamy/
+        name: Expertní týmy
+        match: /krajske-expertni-teamy/
   - link: /program/
     name: Program 
-  - link: /krajske-expertni-teamy/
-    name: Expertní týmy
   - link: /kontakt/
     name: Kontakt
 
