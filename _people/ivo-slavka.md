@@ -11,7 +11,7 @@ heroImg: Prague_panorama.jpeg
 profession: právník
 partyUid: pirati
 teamDescription:
-  vybor: člen výboru pro legislativu, veřejnou správu a transparentnost ZHMP
+  vybor: člen výboru pro legislativu, veř. správu a transparentnost ZHMP
 mail:
   - ivo.slavka@pirati.cz
 funkce:
