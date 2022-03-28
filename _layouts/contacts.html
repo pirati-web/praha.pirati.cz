@@ -30,7 +30,6 @@ title: Kontaktní informace
             {% endfor %}
           {% else %}
             {% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordpak" %}
-            {% assign contactPersons = site.people | where_exp: "item","item.category contains 'pks'" | sort:"ordpks" %}
             <div>
               <h2 class="head-heavy-sm mb-2 lg:mb-4">Kontaktní {% if contactPersons.size > 1 %}osoby{% else %}osoba{% endif %}</h2>
 
