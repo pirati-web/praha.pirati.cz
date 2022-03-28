@@ -10,6 +10,10 @@ contactType: Kontakt ZK Pirátů MHMP pro média
 img: people/martina-vackova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: kontaktní osoba pro média (ZHMP)   	# kratký popis, max 160 znaků
+partyUid: bezpp
+funkce:
+ - kontaktní osoba pro média (ZHMP)
+ - tisková mluvčí primátora Zdeňka Hřiba
 mail:
 - martina.vackova@pirati.cz
 mob: +420 725 926 422
