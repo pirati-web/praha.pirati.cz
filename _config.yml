@@ -61,10 +61,11 @@ youtube:
 
 twitter:
   loadSDK: true
-  profile: piratipraha
+  profile: "https://twitter.com/piratipraha"
 
 instagram:
-  #profilePage: 
+  loadSDK: true
+  profilePage: "https://instagram.com/piratipraha"
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
