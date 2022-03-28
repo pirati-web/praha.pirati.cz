@@ -20,7 +20,19 @@ profiles:
   github:       
   facebook: 
   twitter: 		  
-  flickr:		  
+  flickr:
+asistenti:
+  - name: David Raušer
+    uid: david.rauser
+    position: koordinátor pro Prahu
+    mob: +420 770 114 940
+    mail: david.rauser@pirati.cz
+  - name: Martin Huňady
+    uid: martin.hunady
+    position: koordinátor pro Prahu
+    mob: +420 770 113 641
+    mail: martin.hunady@pirati.cz
+  
 ---
 
 **Jiří Belšán** je koordinátor dobrovolníků odpovědný za administraci členských přihlášek a technickou podporu akcí pořádaných v Pirátském centru.
