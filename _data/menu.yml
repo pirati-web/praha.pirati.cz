@@ -18,6 +18,9 @@ main:
       - link: /lide/
         name: Piráti v Praze
         match: /lide/
+      - link: /lide/magistrat
+        name: Magistrát
+        match: /lide/magistrat         
       - link: /lide/dr
         name: Dozorčí rady
         match: /lide/dr        
