@@ -19,8 +19,7 @@ profiles:
   github:       
   facebook: 
   twitter: 		  
-  flickr:
-	  
+  flickr:	  
 ---
 
 **David Raušer** je koordinátor dobrovolníků s gescemi – zapojování nováčků, e-learning, práce s dobrovolníky
