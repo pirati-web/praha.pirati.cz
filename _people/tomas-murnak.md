@@ -13,9 +13,9 @@ teamDescription:
 funkce:
   - zastupitel hl. m. Prahy za Piráty
   - předseda místního sdružení Praha 13 
-  - předseda <a href="">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
-  - místopředseda <a href="">Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP</a>
-  - místopředseda <a href="">místopředseda Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP</a>
+  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33600">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
+  - místopředseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33576">Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP</a>
+  - místopředseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33590">místopředseda Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP</a>
 asistenti:
   - name: Michaela Beránková
     uid: michaela.berankova
