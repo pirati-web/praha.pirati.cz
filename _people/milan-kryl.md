@@ -13,7 +13,6 @@ description: člen Výboru pro územní rozvoj, územní plán a památkovou pé
 teamDescription:
   vybor: člen Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP
 mail: milan.kryl@post.cz
-mob: +420 737 220 479
 profiles:
 funkce:
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33576">Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP</a>
