@@ -17,7 +17,7 @@ teamDescription:
   mhmp: místopředseda zastup. klubu
 funkce: 
   - místopředseda zastupitelského klubu Pirátů
-  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33580">výboru pro IT a Smart City ZHMP</a>
+  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33580">Výboru pro IT a Smart City ZHMP</a>
   - místopředseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33592">finančního výboru ZHMP</a>
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33596">Výboru pro evropské záležitosti ZHMP</a>
 mail:
