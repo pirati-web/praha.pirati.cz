@@ -11,7 +11,7 @@ profession: právník
 partyUid: bezpp
 description: člen Výboru pro legislativu, veřejnou správu a transparentnost ZHMP
 teamDescription:
-  vybor: člen Výboru pro legislativu, veřejnou správu a transparentnost ZHMP
+  vybor: člen Výboru pro legislativu, veř. správu a transparentnost ZHMP
 mail:
   - petr.prenosil@pirati.cz
 mob: +420 725 330 090
