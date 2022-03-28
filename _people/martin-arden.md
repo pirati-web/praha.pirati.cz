@@ -13,10 +13,10 @@ heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/07-arden.jpg
 partyUid: pirati
 contactType: Kontakt ZK MHMP pro občany Prahy
-description: Kontakt pro veřejnost
+description: Kontakt ZK MHMP pro občany Prahy
 teamDescription:
   mhmp: zastupitel hl. města Prahy
-  kontaktni_osoba: kontakt pro veřejnost
+  contact: kontakt pro pražskou veřejnost 
 funkce: 
   - zastupitel hl. města Prahy
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33574">Výboru pro bydlení ZHMP</a>
