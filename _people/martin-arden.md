@@ -12,7 +12,6 @@ img: people/martin-arden.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/07-arden.jpg
 partyUid: pirati
-contactType: Kontakt ZK MHMP pro občany Prahy
 description: Kontakt ZK MHMP pro občany Prahy
 teamDescription:
   mhmp: zastupitel hl. města Prahy
