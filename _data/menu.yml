@@ -15,9 +15,9 @@ main:
     name: Aktuality
   - name: Vaši lidé
     submenu:
-      - link: /lide/
+      - link: /lide/pirativpraze
         name: Piráti v Praze
-        match: /lide/
+        match: /lide/pirativpraze
       - link: /lide/magistrat
         name: Piráti na Magistrátu hl. města Prahy
         match: /lide/magistrat         
