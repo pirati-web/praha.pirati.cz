@@ -19,10 +19,10 @@ main:
         name: Piráti v Praze
         match: /lide/
       - link: /lide/magistrat
-        name: Magistrát
+        name: Piráti na Magistrátu hl. města Prahy
         match: /lide/magistrat         
       - link: /lide/dr
-        name: Dozorčí rady
+        name: Piráti v dozorčích radách
         match: /lide/dr        
       - link: /krajske-expertni-teamy/
         name: Expertní týmy
