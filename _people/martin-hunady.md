@@ -19,8 +19,7 @@ profiles:
   github:       
   facebook: 
   twitter: 		  
-  flickr:
-	  
+  flickr:  
 ---
 
 **Martin Huňady** je koordinátor dobrovolníků s gescemi – zapojování nováčků, práce s nováčky, produkce pražských akcí
