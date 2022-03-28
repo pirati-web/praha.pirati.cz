@@ -18,6 +18,9 @@ main:
       - link: /lide/
         name: Piráti v Praze
         match: /lide/
+      - link: /lide/dr
+        name: Dozorčí rady
+        match: /lide/dr        
       - link: /krajske-expertni-teamy/
         name: Expertní týmy
         match: /krajske-expertni-teamy/
