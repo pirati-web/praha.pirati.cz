@@ -2,22 +2,7 @@
 title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani bohatí, ani chudí
 author: Petra Slezáková
 image: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpg
-tags: [ukrajina]
-fancybox:
-  - name: Jak to vypadá na hranicích s Ukrajinou?
-    img:
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina01.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina02.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina03.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina04.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina05.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina06.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina07.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina08.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina09.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina11.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
-      - { src: 'https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina12.jpg', title: Týden na hranicích českýma očima - v krizi se rozostřují majetkové rozdíly, bomby nad hlavou nechtějí ani bohatí, ani chudí }
+tags: ukrajina
 ---
 
 **Michaela Beránková je pirátkou z Prahy 13, na magistrátu pracuje jako asistentka zastupitele Tomáše Murňáka. V březnu však na několik dní vyměnila své oblíbené šaty za reflexní vestu a vydala se pomáhat uprchlíkům k ukrajinské hranici. Ve Vyšném Nemeckém a později Michalovcích strávila dohromady týden. Co tam dělala a viděla?** 
