@@ -1,9 +1,8 @@
 ---
-date:   2022-03-25
-tags:  
-- zastupitelstvo
-title:  "Praha poskytne dotace organizacím zajišťujícím pomoc uprchlíkům z Ukrajiny"
-image: 	      posts/zastupitelstvo.jpg
+date: 2022-03-25
+tags: [zastupitelstvo, Ukrajina]
+title: "Praha poskytne dotace organizacím zajišťujícím pomoc uprchlíkům z Ukrajiny"
+image: posts/zastupitelstvo.jpg
 author: MHMP
 ---
 
