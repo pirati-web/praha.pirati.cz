@@ -27,14 +27,14 @@ bottom:
     title: Připoj se
     links:
       - link: /kontakt/
-        name: Dej nám vědět
+        name: Dejte nám vědět
       - link: "https://nalodeni.pirati.cz"
-        name:  Nalodění
+        name: Připojte se
   - class: small-12 medium-4
     title: Makáme
     links:
       - link: /lide/
-        name: Lidé
+        name: Piráti v Praze
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
