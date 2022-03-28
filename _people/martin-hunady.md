@@ -7,7 +7,8 @@ titles:
 category: 
 - kodo
 - kontaktni_osoba
-ordkodo: 6
+ordkodo: 3
+ordpak:
 img: people/martin-hunady.jpg
 heroImg: Prague_panorama.jpeg
 contactType: Kontakt pro dobrovolníky
@@ -19,7 +20,7 @@ profiles:
   facebook: 
   twitter: 		  
   flickr:
-ordpak: 		  
+	  
 ---
 
 **Martin Huňady** je koordinátor dobrovolníků s gescemi – zapojování nováčků, práce s nováčky, produkce pražských akcí
