@@ -11,8 +11,9 @@ profession: učitelka
 partyUid: pirati
 description: členka Výboru pro IT a Smart City ZHMP
 teamDescription:
-  vybor: Výboru pro IT a Smart City ZHMP
-mail: jakub.jiran@pirati.cz
+  vybor: členka Výboru pro IT a Smart City ZHMP
+mail: zuzana.boehmova@pirati.cz
+mob: +420 737 220 479
 profiles:
 funkce:
   - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33580">Výboru pro IT a Smart City ZHMP</a>
