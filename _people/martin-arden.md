@@ -16,6 +16,7 @@ description: zastupitel hl. města Prahy
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy
+  kontaktni_osoba: kontakt pro veřejnost
 funkce: 
   - zastupitel hl. města Prahy
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33574">Výboru pro bydlení ZHMP</a>
