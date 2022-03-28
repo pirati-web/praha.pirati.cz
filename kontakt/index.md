@@ -21,6 +21,25 @@ residences:
    contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
    spravce: jan.louzek  
 
+title: Pice - Pirátské centrum Praha
+shorthand: Picolo
+openingHoursSEO: Mo Pondělí 9-13 h., mimo tuto dobu po domluvě
+heroHeadline: PICe - Pirátské centrum Praha
+heroDescription: PICE - Pirátské centrum Praha
+heroImg: miscellaneous/picolo.jpg
+img: miscellaneous/picolo.jpg
+address: |
+  PICE - Pirátské centrum Praha
+  Na Moráni 3, 
+  120 00 Praha 2
+addressNote:
+contactPersons:
+  - id: jan.louzek
+    description: Sekretář ZK ZHMP
+residenceImg: https://a.pirati.cz/praha/img/miscellaneous/picolo.jpg
+mapIframeLink: https://goo.gl/maps/9GVr2SuNjzPMYPnK7
+
+
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
