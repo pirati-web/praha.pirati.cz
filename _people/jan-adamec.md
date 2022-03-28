@@ -19,7 +19,7 @@ profiles:
   facebook:  https://www.facebook.com/JanAdamecP12
   twitter:   https://twitter.com/JanAdamecP12
   instagram: https://www.instagram.com/jan_adamec_p12
-orstar: 2
+ordstar: 2
 ---
 
 **Jan Adamec (1977, Praha) vystudoval informatiku na Matematicko-fyzikální fakultě Univerzity Karlovy, se zaměřením na 2D/3D grafiku, a začal pracovat jako programátor. Od dětství žil v Praze 4, ale Modřany a Prahu 12 zná od mala. Od roku 2007 se do Modřan už trvale přestěhoval. Je ženatý, má dvě děti.**
