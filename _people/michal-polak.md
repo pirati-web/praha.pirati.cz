@@ -12,6 +12,9 @@ contactType: Kontakt krajského sdružení Praha pro média
 img: people/michal-polak.jpg
 contactType: Kontakt pro média
 description: kontaktní osoba pro média (KS Praha)
+partyUid: bezpp
+funkce:
+ - kontaktní osoba pro média (KS Praha)
 mail: michal.polak@pirati.cz
 mob: +420 608 517 127
 profiles:
