@@ -34,19 +34,6 @@ Stejné lidi, jako potkávám tady. Ano, byly tam ženy s nalakovanými nehty, n
 **Útěk před válkou je nepřenositelná zkušenost, kdo to nezažil, ani si to nepředstaví. V jakém psychickém stavu ti lidé byli?**
 To nelze na první pohled poznat, nebyli moc sdílní. Reagují různě. K dispozici byly oddíly psychologické pomoci. Byla tam paní se synem, měl deset možná dvanáct let. Šel si jen někam pro čaj, ale paní ho hledala, byla tak zmatená, že jsme s Červeným křížem zvažovali intervenci psychiatra. Těžko říct, zda měla podobné problémy už dřív, nebo je vyvolala až válka. Myslím, že to na ně dopadá až několik dní po příchodu do bezpečí. Byla tam už hodně stará paní z Oděsy, která odmítala spát v cizí posteli a čekala, že ráno odjede zpátky do svého města. U ní stál permanentně psycholog.
 
-{% for galery in page.fancybox %}
-<div class="mt-4">
-  <h3>{{ galery.name }}</h3>
-  <div class="grid grid-cols-4 gap-4">
-  {% for item in galery.img %}
-    <div class="">
-      <a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize='200x150^' magick:gravity='center' magick:crop='200x150+0+0' class="rounded" %}</a>
-    </div>
-  {% endfor %}
-  </div>
-</div>
-{% endfor %}
-
 **Utkvěl ti v paměti ještě někdo?**
 Pro přítele bylo emočně náročné nezapomenutelné setkání s malým dítětem, které spící nesl slovenský voják. A ono se vzbudilo a začalo šíleně plakat. Z maminky pak vypadlo, že jsou z Charkova, a to dítě se kvůli válce vojáků bojí. Vzpomínám dvě děti, které přešly samy přes hranice, odhaduji 10 a 14 let. Já je ubytovala v jednom z těch červených stanů, protože prý čekaly na maminku, která za nimi jede z Česka s nějakou tetou. Prvně jsme tomu nevěřili, že cestují bez doprovodu dospělého. Maminka po několika hodinách dorazila, z tety se vyklubala její česká zaměstnavatelka. Celé to setkání… s tetou jsme si padly se slzami v očích kolem krku. Nebo v Michalovcích jedna maminka s dcerou, měly obtloustlou kočku Žužu, kterou jsme tam museli nahánět.
 
@@ -61,3 +48,16 @@ Ty stany jsou bohužel semeništěm nemocí, pokud tam přišlo jedno dítě se 
 
 **Chystáš se na hranice znovu?**
 Chtěla jsem pomáhat uprchlíkům přímo na Ukrajině, ale už i na Lvov padají bomby. Vidím to tedy spíš na pomoc v humanitárních vlacích, pokud mi to čas umožní.
+
+{% for galery in page.fancybox %}
+<div class="mt-4">
+  <h3>{{ galery.name }}</h3>
+  <div class="grid grid-cols-4 gap-4">
+  {% for item in galery.img %}
+    <div class="">
+      <a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize='200x150^' magick:gravity='center' magick:crop='200x150+0+0' class="rounded" %}</a>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+{% endfor %}
