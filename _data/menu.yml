@@ -15,8 +15,10 @@ main:
     name: Aktuality
   - link: /lide/
     name: Lidé
-    - link: /a/
-      name: a
+    submenu:
+      - link: /a/
+        name: AAA
+        match: aaa
   - link: /program/
     name: Program 
   - link: /krajske-expertni-teamy/
