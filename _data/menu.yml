@@ -13,6 +13,8 @@ top:
 main:
   - link: /aktuality/
     name: Aktuality
+        - link: /krajske-expertni-teamy/
+          name: Expertní týmy
   - link: /lide/
     name: Lidé
   - link: /program/
