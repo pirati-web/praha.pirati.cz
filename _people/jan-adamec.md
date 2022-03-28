@@ -1,9 +1,9 @@
---
+---
 uid: jan.adamec
 name: Jan Adamec
 titles:
   before: Mgr.
-img: people/jan-adamec.jpg    # 165 x 220
+img: people/jan-adamec.jpg 
 heroImg: Prague_panorama.jpeg
 category:
   - starostove
@@ -15,10 +15,10 @@ funkce:
   - starosta MČ Praha 12
 mail:
 - jan.adamec@pirati.cz
-profiles
-   facebook:  https://www.facebook.com/JanAdamecP12
-   twitter:   https://twitter.com/JanAdamecP12
-   instagram: https://www.instagram.com/jan_adamec_p12/
+profiles:
+  facebook:  https://www.facebook.com/JanAdamecP12
+  twitter:   https://twitter.com/JanAdamecP12
+  instagram: https://www.instagram.com/jan_adamec_p12
 orstar: 2
 ---
 
