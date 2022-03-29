@@ -2,7 +2,7 @@
 title: Sociální nadační fond hl. m. Prahy zná jméno své první ředitelky
 author: MHMP
 image: posts/adam-chodba.jpg
-tags: Sociální nadační fond
+tags: [Sociální nadační fond]
 ---
 
 Rada hl. m. Prahy dnes odsouhlasila návrh na obsazení funkce výkonné ředitelky Sociálního nadačního fondu hlavního města Prahy. Ve výběrovém řízení uspěla Barbora Komberec Novosadová. Jejím hlavním úkolem bude zajišťovat chod nadačního fondu, ale například i získávat zdroje financování nebo vést komunikaci organizace.
