@@ -6,7 +6,6 @@ tags: ukrajina
 fancybox:
   - name: Jak to vypadá na hranicích?
     img:
-      - { src: "https://a.pirati.cz/praha/img/posts/galerie//03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina1.jpg", title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani bohatí, ani chudí }
       - { src: posts/2022/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina5.jpg, title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani bohatí, ani chudí }
 
 ---
