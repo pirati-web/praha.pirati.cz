@@ -3,11 +3,6 @@ title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani b
 author: Petra Slezáková
 image: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpg
 tags: ukrajina
-fancybox:
-  - name: Jak to vypadá na hranicích?
-    img:
-      - { src: posts/2022/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina5.jpg, title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani bohatí, ani chudí }
-
 ---
 
 **Michaela Beránková je pirátkou z Prahy 13, na magistrátu pracuje jako asistentka zastupitele Tomáše Murňáka. V březnu však na několik dní vyměnila své oblíbené šaty za reflexní vestu a vydala se pomáhat uprchlíkům k ukrajinské hranici. Ve Vyšném Nemeckém a později Michalovcích strávila dohromady týden. Co tam dělala a viděla?** 
