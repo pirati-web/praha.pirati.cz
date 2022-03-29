@@ -6,9 +6,9 @@ title: PICe - Pirátské centrum Praha
 shorthand: Picolo
 openingHoursSEO: Mo Pondělí 9-13 hodin, mimo tuto dobu po domluvě
 heroHeadline: PICE - Pirátské centrum Praha
-heroDescription: PICE - Pirátské centrum Praha
-heroImg: Prague_panorama.jpeg
-img: miscellaneous/picolo.jpg
+heroDescription: Přijďte za námi do pirátského centra v centru Prahy! 
+heroImg: Pice.jpg
+img: Pice.jpg
 address: |
   PICE - Pirátské centrum Praha
   Na Moráni 3
