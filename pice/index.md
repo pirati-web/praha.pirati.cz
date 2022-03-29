@@ -13,7 +13,7 @@ address: |
   PICE - Pirátské centrum Praha
   Na Moráni 3
   120 00 Praha 2
-addressNote:
+addressNote: Sídlíme v přízemí nápadné moderní budovy na rohu Palackého náměstí s velkým displejem. V oknech je grafika Pirátů – Pirátské centrum lze proto poměrně snadno nalézt.
 contactPersons:
   - id: jiri.belsan
     description: Vedoucí koordinátorů
@@ -25,8 +25,6 @@ mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2560.687347
 ---
 
 **V Praze je v od přelomu léta a podzimu 2018 otevřeno Pirátské centrum.** Slouží jako kontaktní centrum pro veřejnost a často se zde konají veřejné akce, workshopy, přednášky, školení, projekce, kurzy a podobně. Nacházejí se tady také některé poslanecké kanceláře (Olgy Richterové a Jakuba Michálka). 
-
-Sídlíme v přízemí nápadné moderní budovy na rohu Palackého náměstí s velkým displejem. V oknech je grafika Pirátů – Pirátské centrum lze proto poměrně snadno nalézt.
 
 # Cowork
 Pirátské centrum nabízí bezplatný prostor pro coworking, tedy sdílenou kancelář. K dispozici je několik pracovních míst a sdílená konferenční místnost s projektorem. Samozřejmostí je připojení k internetu a možnost tisku. Není problém domluvit i dlouhodobé využívání sdílené kanceláře, v takovém případě velmi oceníme účelový dar na provoz centra.
