@@ -3,21 +3,23 @@ layout: contacts
 description: Kontakty na pražské Piráty.
 keywords: kontakt, mluvčí, sídlo, adresa, telefon, mail, facebook, kde najdu, kde jsou, pirati praha, praha
 residences:
- - name: Pirátské centrum
+ - name: Pirátské centrum Praha
    url: /pice
    address: |
-     [Na Moráni 3](https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203),
+     Na Moráni 3
      120 00 Praha 2
    # residenceImg: https://a.pirati.cz/praha/img/kontakt/novepice.jpg
  - <br />
- - name: Magistrát
+ - name: Magistrát hl. města Prahy
    url: "http://www.praha.eu/jnp/cz/o_meste/magistrat/index.html"
-   residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
+   # residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
    mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
    address: |
-     Kancelář 38, Mariánské náměstí 2, 
-     110 00 Praha 1,
-     telefon +420 608 213 119
+     zastupitelský klub Pirátů
+     místnost č. 38, 1. patro
+     Mariánské náměstí 2 
+     110 00 Praha 1
+     tel: +420 608 213 119
    contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
    
 # Nastavení zobrazení tabulky kontaktů.
