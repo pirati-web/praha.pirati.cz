@@ -8,7 +8,7 @@ residences:
    address: |
      Na Moráni 3
      120 00 Praha 2
-        # residenceImg: https://a.pirati.cz/praha/img/kontakt/novepice.jpg
+# residenceImg: https://a.pirati.cz/praha/img/kontakt/novepice.jpg
  - <br />
  - name: Magistrát hl. města Prahy
    url: "http://www.praha.eu/jnp/cz/o_meste/magistrat/index.html"
@@ -68,13 +68,13 @@ Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se
 
 * Zastupitelský klub zveřejňuje [**lobbistické kontakty v Redmine**](https://redmine.pirati.cz/projects/praha/issues?utf8=%E2%9C%93&set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=13&f[]=&c[]=tracker&c[]=status&c[]=priority&c[]=subject&c[]=assigned_to&c[]=updated_on&group_by=) nebo v [**centrální evidenci lobbistickým kontaktů Pirátské strany**](http://evidence.pirati.cz). Tato evidence se řídí <a href="https://www.pirati.cz/rules/prl">Předpisem o lobbingu</a>. **Schůzky primátora hl. m. Prahy Hřiba můžete sledovat [v jeho veřejném kalendáři](https://posta.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/59c6d354ff484778a809142c3ec1bf1610958277075503968005/calendar.html)**.
 
-* **Námi vydávané Pirátské listy** jsou evidovány na webu [piratskelisty.cz](https://www.piratskelisty.cz/clanek-2015-vsechny-verze-kvetnovych-piratskych-listu-ve-formatu-pdf.
+* **Námi vydávané Pirátské listy** jsou evidovány na webu [piratskelisty.cz](https://www.piratskelisty.cz/clanek-2015-vsechny-verze-kvetnovych-piratskych-listu-ve-formatu-pdf).
 
-* Vydali jsme **výroční zprávu** zastupitelského klubu za [rok 2019](https://github.com/pirati-web/praha.pirati.cz/blob/master/assets/pdf/vz-2019/vz-2019-web.pdf) a za [rok 2020](https://a.pirati.cz/praha/pdf/VZ-2020-4.pdf)
+* Vydali jsme **výroční zprávu** zastupitelského klubu za [rok 2019](https://github.com/pirati-web/praha.pirati.cz/blob/master/assets/pdf/vz-2019/vz-2019-web.pdf) a za [rok 2020](https://a.pirati.cz/praha/pdf/VZ-2020-4.pdf).
 
 # Celostátní pirátská infolinka:  
 
-| telefonní číslo            | volací doba.      |
+| telefonní číslo            | volací doba      |
 |----------------------------|-------------------|
 | +420 703 681 682           | PO-PÁ, 9-19 hod.  |
 | +420 608 963 111           | PO-PÁ, 9-19 hod.  |
