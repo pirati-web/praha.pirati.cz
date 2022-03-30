@@ -13,6 +13,8 @@ Partner na začátku války přišel s tím, že by jel tranzitně na hranice pr
 **V čem spočívala Tvé práce?**<br />
 Přijeli jsme přesně na ranní meeting skautů, dostali jsme čepice s čelovkami, vysílačky a instrukce. Měli jsme na starost červené hasičské stany, kde odpočívali nebo přespávali uprchlíci čekající na další transit. Přes den bylo pět stupňů nad nulou, v Užhorodu čekali i osm hodin a byli zmrzlí. Organizace jako Člověk v tísni, Maltézští rytíři apod. zajišťovali občerstvení i distribuci hygienických potřeb a oblečení. My tam byli v době, kdy už to bylo nějakým způsobem organizované, kdy už si to sedalo. 
 
+![Týden na hranicích českýma očima](https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina03.jpg)
+
 **Existuje malá skupina lidí, která má k pomoci uprchlíkům různá ale. Někteří útěk před válkou zpochybňují argumenty o nalakovaných nehtech, iPhonech a statných mužích. Koho jsi na hranicích potkala ty?**<br />
 Stejné lidi, jako potkávám tady. Ano, byly tam ženy s nalakovanými nehty, nevyžadovaly ale žádný nadstandard. Ve stanech byly s Romy, kteří žili v ukrajinských osadách. Nikdo neřešil cenu telefonu. Lidé přicházeli bez rozdílu, ženy a děti. Pokud muži, většinou adepti na modrou knížku s vyšším věkem. A byli moc vděční. Poděkovala jsem, když mi pomohli zvednout, co mi spadlo a vždy se to otočilo: ne, to my děkujeme vám. Já měla na těch pár dnů s sebou 90l krosnu. Uprchlíci několik kufrů, někdy pár igelitek. Upřímně, já bych se snažila sbalit něco, co jde dobře zpeněžit. Hřivny jim u nás mohou být k ničemu. V útěku před válkou jsou si všichni rovni.
 
@@ -21,6 +23,8 @@ To nelze na první pohled poznat, nebyli moc sdílní. Reagují různě. K dispo
 
 **Utkvěl ti v paměti ještě někdo?**<br />
 Pro přítele bylo emočně náročné nezapomenutelné setkání s malým dítětem, které spící nesl slovenský voják. A ono se vzbudilo a začalo šíleně plakat. Z maminky pak vypadlo, že jsou z Charkova, a to dítě se kvůli válce vojáků bojí. Vzpomínám dvě děti, které přešly samy přes hranice, odhaduji 10 a 14 let. Já je ubytovala v jednom z těch červených stanů, protože prý čekaly na maminku, která za nimi jede z Česka s nějakou tetou. Prvně jsme tomu nevěřili, že cestují bez doprovodu dospělého. Maminka po několika hodinách dorazila, z tety se vyklubala její česká zaměstnavatelka. Celé to setkání… s tetou jsme si padly se slzami v očích kolem krku. Nebo v Michalovcích jedna maminka s dcerou, měly obtloustlou kočku Žužu, kterou jsme tam museli nahánět.
+
+![Týden na hranicích českýma očima](https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina09.jpg)
 
 **Přicházelo mnoho Ukrajinců se zvířaty? Jak ta zvládala stres z cesty?**<br />
 Hodně, měli třeba i morče. Určitě to nebyla překážka pro využití stanů. Kočka Žuža byla první hodinu hodně zmatená, ale nevšimli jsme si, že by se tam prali psi. Lidé spíš řešili, kde je mohou venčit a zda jsou k dispozici třeba psí granule nebo konzervy. Byl tam naštěstí veterinární stan, kde to bylo samozřejmě zajištěné. 
