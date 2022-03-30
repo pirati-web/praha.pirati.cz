@@ -23,9 +23,12 @@ main:
         match: /lide/magistrat         
       - link: /lide/dr
         name: Piráti v dozorčích radách městských firem
-        match: /lide/dr        
-      - link: /lide/krajske-expertni-tymy/
-        name: Pražské expertní týmy
+        match: /lide/dr
+      - link: /lide/mestske-casti
+        name: Piráti v městských částech
+        match: /lide/dr       
+      - link: /lide/mestske-casti
+        name: Pirátské pražské expertní týmy
         match: /lide/krajske-expertni-tymy/
   - link: /program/
     name: Volební program 2018
