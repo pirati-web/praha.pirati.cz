@@ -1,6 +1,6 @@
 ---
 layout: contacts
-description: Kontakty na pražské Piráty.
+description: Kontakty na pražské Piráty
 keywords: kontakt, mluvčí, sídlo, adresa, telefon, mail, facebook, kde najdu, kde jsou, pirati praha, praha
 residences:
  - name: Pirátské centrum Praha
@@ -20,39 +20,18 @@ residences:
      Mariánské náměstí 2 
      110 00 Praha 1
      tel: +420 608 213 119
-   addressNote: Pirátské centrum je v budově na rohu Palackého náměstí s velkým displejem, v oknech je grafika Pirátů. Na Magistrátu sídlíme v přízemí. 
+addressNote: Pirátské centrum je v budově na rohu Palackého náměstí s velkým displejem, v oknech je grafika Pirátů. Na Magistrátu sídlíme v přízemí. 
    
 contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
-   
-# Nastavení zobrazení tabulky kontaktů.
-# Lze využít:
-# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
-# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 
 contactSummaryItems:
   - type: organizationEmail
-  - type: custom
-    iconClass: fa fa-facebook
-    label: Facebook
-    body: <a href="https://www.facebook.com/CeskaPiratskaStranaPraha/">CeskaPiratskaStranaPraha</a>
-  - type: custom
-    iconClass: fa fa-twitter
-    label: Twitter
-    body: <a href="https://twitter.com/piratipraha">@piratipraha</a>
   - type: organizationRedmineLink
   - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-user
-    label: Předseda krajského sdružení
-    body: <a href="/lide/danie-mazur">Daniel Mazur</a>
-  - type: custom
-    iconClass: fa fa-user
-    label: Předseda zastupitelského klubu
-    body: <a href="/lide/viktor-mahrik">Viktor Mahrik</a>
 # kontaktní osoby se nastavují v hlavičká _people
 ---
 
