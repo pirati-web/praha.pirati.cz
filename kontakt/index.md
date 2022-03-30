@@ -8,19 +8,24 @@ residences:
    address: |
      Na Moráni 3
      120 00 Praha 2
-   # residenceImg: https://a.pirati.cz/praha/img/kontakt/novepice.jpg
+        # residenceImg: https://a.pirati.cz/praha/img/kontakt/novepice.jpg
  - <br />
  - name: Magistrát hl. města Prahy
    url: "http://www.praha.eu/jnp/cz/o_meste/magistrat/index.html"
-   # residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
-   mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
+        # residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
+        # mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
    address: |
      zastupitelský klub Pirátů
-     místnost č. 38, 1. patro
+     místnost č. 38, přízemí
      Mariánské náměstí 2 
      110 00 Praha 1
      tel: +420 608 213 119
-   contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
+addressNote: Pirátské centrum je v budově na rohu Palackého náměstí s velkým displejem. V oknech je grafika Pirátů – Pirátské centrum lze proto poměrně snadno nalézt. Na Magistrátu sídlíme v přízemí. 
+ contactPersons:  
+   - id: jan.louzek
+   - description: sekretář zastupitelského klubu
+   
+contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
    
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
@@ -55,7 +60,7 @@ contactSummaryItems:
 ---
 
 # Přidejte se mezi nás!
-Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se můžete k pražskému sdružení nebo k [jednotlivým místním sdružením, které jsou v městských částech](/lide/mestske-casti)) po celé Praze.
+Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se můžete k pražskému sdružení nebo k [jednotlivým místním sdružením, které jsou v městských částech](/lide/mestske-casti) po celé Praze.
 
 # Jsme transparentní!
 * **Odměny za veřejné funkce** [zveřejňujeme v evidenci](https://nalodeni.pirati.cz/odmeny). Odměny z volebního období 2014–2018 [jsou zveřejněny na GitHubu](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny).
@@ -64,7 +69,7 @@ Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se
 
 * Všechny pohyby na [**transparentním účtu**](https://ucet.pirati.cz) jsou zcela veřejné a můžete je porovnat s našim <a href="https://piroplaceni.pirati.cz">otevřeným účetnictvím</a>.
 
-* Zastupitelský klub zveřejňuje [lobbistické kontakty v Redmine](https://redmine.pirati.cz/projects/praha/issues?utf8=%E2%9C%93&set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=13&f[]=&c[]=tracker&c[]=status&c[]=priority&c[]=subject&c[]=assigned_to&c[]=updated_on&group_by=) nebo v /centrální evidenci lobbistickým kontaktů Pirátské strany(http://evidence.pirati.cz). Tato evidence se řídí <a href="https://www.pirati.cz/rules/prl">Předpisem o lobbingu</a>. Schůzky primátora hl. m. Prahy Hřiba můžete sledovat v jeho veřejném <a href="https://posta.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/59c6d354ff484778a809142c3ec1bf1610958277075503968005/calendar.html"> kalendáři</a>.
+* Zastupitelský klub zveřejňuje [**lobbistické kontakty v Redmine**](https://redmine.pirati.cz/projects/praha/issues?utf8=%E2%9C%93&set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=13&f[]=&c[]=tracker&c[]=status&c[]=priority&c[]=subject&c[]=assigned_to&c[]=updated_on&group_by=) nebo v [**centrální evidenci lobbistickým kontaktů Pirátské strany**](http://evidence.pirati.cz). Tato evidence se řídí <a href="https://www.pirati.cz/rules/prl">Předpisem o lobbingu</a>. **Schůzky primátora hl. m. Prahy Hřiba můžete sledovat [v jeho veřejném kalendáři](https://posta.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/59c6d354ff484778a809142c3ec1bf1610958277075503968005/calendar.html)**.
 
 * **Námi vydávané Pirátské listy** jsou evidovány na webu [piratskelisty.cz](https://www.piratskelisty.cz/clanek-2015-vsechny-verze-kvetnovych-piratskych-listu-ve-formatu-pdf.
 
