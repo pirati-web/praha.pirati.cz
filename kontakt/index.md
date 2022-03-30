@@ -21,7 +21,7 @@ residences:
      110 00 Praha 1
      tel: +420 608 213 119
 addressNote: Pirátské centrum je v budově na rohu Palackého náměstí s velkým displejem. V oknech je grafika Pirátů – Pirátské centrum lze proto poměrně snadno nalézt. Na Magistrátu sídlíme v přízemí. 
- contactPersons:  
+contactPersons:  
    - id: jan.louzek
    - description: sekretář zastupitelského klubu
    
