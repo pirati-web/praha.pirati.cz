@@ -12,18 +12,15 @@ residences:
  - <br />
  - name: Magistrát hl. města Prahy
    url: "http://www.praha.eu/jnp/cz/o_meste/magistrat/index.html"
-        # residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
-        # mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
+# residenceImg: https://a.pirati.cz/praha/img/kontakt/magistrat.jpg
+# mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
    address: |
      zastupitelský klub Pirátů
      místnost č. 38, přízemí
      Mariánské náměstí 2 
      110 00 Praha 1
      tel: +420 608 213 119
-addressNote: Pirátské centrum je v budově na rohu Palackého náměstí s velkým displejem. V oknech je grafika Pirátů – Pirátské centrum lze proto poměrně snadno nalézt. Na Magistrátu sídlíme v přízemí. 
-contactPersons:  
-   - id: jan.louzek
-   - description: sekretář zastupitelského klubu
+   addressNote: Pirátské centrum je v budově na rohu Palackého náměstí s velkým displejem, v oknech je grafika Pirátů. Na Magistrátu sídlíme v přízemí. 
    
 contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
    
