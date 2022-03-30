@@ -29,6 +29,8 @@ main:
         match: /lide/krajske-expertni-tymy/
   - link: /program/
     name: Volební program 2018
+  - link: /pice/
+    name: Pirátské centrum
   - link: /kontakt/
     name: Kontakt
 
