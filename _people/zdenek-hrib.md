@@ -20,37 +20,37 @@ funkce:
   - primátor hlavního města Prahy 
 asistenti:
   - name: Jiří Hoskovec
-    uid: jiri.hoskovec
+    id: jiri.hoskovec
     position: vedoucí oddělení poradců
     mail: jiri.hoskovec@praha.eu
     tel: 
   - name: Martina Vacková
-    uid: martina.vackova
+    id: martina.vackova
     position: poradkyně primátora
     mail: martina.vackova@praha.eu
     tel: 
   - name: Martin Kameník
-    uid: martin.kamenik
+    id: martin.kamenik
     position: poradce primátora
     mail: martin.kamenik@praha.eu
     tel: 
   - name: Veronika Kubičková
-    uid: veronika.kubickova
+    id: veronika.kubickova
     position: poradkyně primátora
     mail: veronika.kubickova@praha.eu
     tel: 
   - name: Marek Šafra
-    uid: marek.safra
+    id: marek.safra
     position: poradce primátora
     mail: marek.safra@praha.eu
     tel: 
   - name: Klára Galová
-    uid: klara.galova
+    id: klara.galova
     position: poradkyně primátora
     mail: klara.galova@praha.eu
     tel: 
   - name: Michal Geisler
-    uid: michal.geisler
+    id: michal.geisler
     position: poradce primátora
     mail: michal.geisler@praha.eu
     tel: 
