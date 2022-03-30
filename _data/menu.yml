@@ -26,8 +26,8 @@ main:
         match: /lide/dr
       - link: /lide/mestske-casti
         name: Piráti v městských částech
-        match: /lide/dr       
-      - link: /lide/mestske-casti
+        match: /lide/mestske-casti       
+      - link: /lide/krajske-expertni-tymy/
         name: Pirátské pražské expertní týmy
         match: /lide/krajske-expertni-tymy/
   - link: /program/
