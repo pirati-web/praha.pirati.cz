@@ -62,7 +62,8 @@ profiles:
   twitter: 	 https://twitter.com/ZdenekHrib
   instagram: https://www.instagram.com/zdenek.hrib
   linkedin:  https://www.linkedin.com/in/zdenekhrib/ 
-  flickr:    https://www.flickr.com/search/?text=zden%C4%9Bk%20H%C5%99ib   		  
+  flickr:    https://www.flickr.com/search/?text=zden%C4%9Bk%20H%C5%99ib
+  wikipedia: https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib
 ordpraha: 1
 ordcan: 1
 ---
