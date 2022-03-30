@@ -30,16 +30,12 @@ mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2560.687347
 Pirátské centrum nabízí bezplatný prostor pro coworking, tedy sdílenou kancelář. K dispozici je několik pracovních míst a sdílená konferenční místnost s projektorem. Samozřejmostí je připojení k internetu a možnost tisku. Není problém domluvit i dlouhodobé využívání sdílené kanceláře, v takovém případě velmi oceníme účelový dar na provoz centra.
 
 # Doprava
-- **metro**
-    - stanice Karlovo náměstí (výstup směrem Palackého náměstí). 
-- **tramvaj**
-    - zastávka Palackého náměstí, linky 3, 4, 10, 16, 22 
-    - zastávka Palackého náměstí, linky 6, 17, 18 a 24 – musíte přejít z Rašínova nábřeží na náměstí, odkud nás dobře uvidíte!
-- **autobus**
-    - zastávka Palackého náměstí, linky 176 a 148.
+- **metro** (stanice Karlovo náměstí, výstup směrem k Palackého náměstí) - linka B
+- **tramvaj** (zastávka Palackého náměstí) - linky číslo 3, 4, 6, 10, 16, 17, 18, 22 a 24 
+- **autobus** (zastávka Palackého náměstí) - linky 176 a 148.
 
 **Doprava nákladu autem a imobilních osob**<br />
-Přijet lze do ulice Na Moráni před vchod do kanceláře, je však nezbytné náklad vynést po schodech. Pro dopravu imobilních osob máme k dispozici rampu do vchodu do Nového Pirátského centra
+Přijet lze do ulice Na Moráni před vchod do kanceláře, je však nezbytné náklad vynést po schodech. Pro dopravu imobilních osob máme k dispozici rampu.
 
 **Možnosti parkování**<br />
-Kolem Pirátského centra je fialová zóna, kde je možné volné stání v provozní době po dobu maximálně 12 hodin po platbě v parkovacím automatu nebo přes virtuální parkovací hodiny (mobilní aplikace). Mimo základní provozní dobu není parkování ve fialové zóně regulováno.
+Kolem Pirátského centra je fialová zóna, kde je možné volné stání v provozní době po dobu maximálně 12 hodin po platbě v parkovacím automatu nebo přes virtuální parkovací hodiny v mobilní aplikaci (např. MPLA). Mimo základní provozní dobu není parkování ve fialové zóně regulováno.
