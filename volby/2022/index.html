@@ -1,12 +1,21 @@
 ---
 layout: communal-elections
-title: Vaši kandidáti do Zastupitelstva hl. města Prahy
+title: Volby do Zastupitelstva hl. města Prahy 2022
+heroBgImg: pice.jpg
 campaignGroupUid: volby-2022
 campaignCategoryUid: 2022-krajske
 candidateListUid: 2022-krajske
-heroBgImg: pice.jpg
-hideCandidateSocialProfiles: false
 customizeHeader: true
 ---
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
+
+{% capture mainContent %}
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Volby do zastupitelstva hl. města Prahy 2022/h1>
+{% endcapture %}
+
+{% capture subContent %}
+  <h2 class="head-xs md:head-base mt-2 text-center">Šance <strong>změnit budoucnost</strong></h2>
+{% endcapture %}
+
+{% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
