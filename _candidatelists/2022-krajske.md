@@ -353,14 +353,10 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     profession: TBD
     partyUid: piráti    
 # 65.
-  - name: TBD
+  - uid: jaroslav.verner
     age: 0
     profession: TBD
     partyUid: piráti        
-    
-    
-
-
 
 note: 
 # poznámka pod kandidátku
