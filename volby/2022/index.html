@@ -8,14 +8,15 @@ candidateListUid: 2022-krajske
 customizeHeader: true
 ---
 
-{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
-
 {% capture mainContent %}
-  <h1 class="head-alt-lg md:head-alt-xl text-center">Vaši kandidáti do zastupitelstva hl. města Prahy</h1>
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Komunální volby 2022</h1>
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center">Seznamte se</strong></h2>
+  <h2 class="head-xs md:head-base mt-2 text-center">Seznamte se s našimi kandidáty!</strong></h2>
 {% endcapture %}
 
+{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
+
 {% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
+
