@@ -1,5 +1,5 @@
 ---
-uid: frantisek.dosedek
+uid: frantisek.dosedel
 name: František Doseděl  	# běžně používáné jméno
 titles:
   before: 
