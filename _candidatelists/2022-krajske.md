@@ -50,7 +50,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: eva.tylova
     age: 62
     profession: politička
-    party: bezpartijní
+    party: bezpp
     description: místostarostka městské části Praha 12
 # 8.
   - uid: bara.soukupova
@@ -188,7 +188,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     profession: TBD
     partyUid: piráti    
 # 32.
-  - name: jaroslav.nemec
+  - name: Jaroslav Němec
     age: 0
     profession: TBD
     partyUid: piráti
