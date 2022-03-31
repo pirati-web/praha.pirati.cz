@@ -1,5 +1,4 @@
 ---
-title: Kandidáti do Zastupitelstva hl. m. Prahy
 uid: 2022-krajske
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
@@ -50,7 +49,8 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: eva.tylova
     age: 62
     profession: politička
-    party: bezpp
+    party: bez politické příslušnosti
+    partUid: bezpp
     description: místostarostka městské části Praha 12
 # 8.
   - uid: bara.soukupova
