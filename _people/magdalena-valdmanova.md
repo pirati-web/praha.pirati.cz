@@ -17,7 +17,7 @@ funkce:
   - předsedkyně MS Praha 2
   - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">členka Výboru pro sociální politiku ZHMP</a>
 mail:
-- magdalena.valdman@gmail.com
+- magdalena.valdman@pirati.cz
 mob:			  
 profiles:
   github:     
