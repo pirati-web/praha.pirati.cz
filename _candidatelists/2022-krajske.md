@@ -98,9 +98,9 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 14.
   - uid: jan.hora
-    image: /people/jan-hora.jpg
     age: 0
     profession: informatik
+    party: člen Pirátské strany
     partyUid: piráti
 # 15.
   - uid: eva.horakova
@@ -150,62 +150,62 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 24.
   - name: Michal Macek
     age: 0
-    profession:
+    profession: TBD
     partyUid: piráti
 # 25.
   - uid: robert.veverka
     age: 0
-    profession:
+    profession: TBD
     partyUid: piráti
 # 26.
   - name: Michal Gill
     age: 0
-    profession:
+    profession: TBD
     partyUid: piráti
 # 27.
   - uid: frantisek.dosedel
     age: 0
-    profession:
+    profession: TBD
     partyUid: piráti
 # 28.
   - name: Jan Bartko
     age: 0
-    profession:
+    profession: TBD
     partyUid: piráti
 # 29.
   - uid: martin.sterba
     age: 35
-    profession:
+    profession: TBD
     partyUid: piráti
 # 30.
   - name: Michal Kočí
     age: 0
-    profession:?????
+    profession: TBD
     partyUid: piráti
 # 31.
   - name: Walter Sodomka
     age: 0
-    profession:
+    profession: TBD
     partyUid: piráti    
 # 32.
-  - uid: jaroslav.nemec
+  - name: jaroslav.nemec
     age: 0
-    profession:
+    profession: TBD
     partyUid: piráti
 # 33.
   - name: Tadeáš Štěpka
     age: 0
-    profession:
+    profession: TBD
     partyUid: piráti
 # 34.
   - name: Albert Štěrba
     age: 0
-    profession:
+    profession: TBD
     partyUid: piráti
 # 35.
   - name: Jakub Rychlý
     age: 0
-    profession: 
+    profession: TBD
     partyUid: piráti       
 # 36.
   - name: TBD
@@ -327,7 +327,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     age: O
     profession: TBD
     partyUid: piráti       
- # 60.
+# 60.
   - name: TBD
     age: O
     profession: TBD
@@ -359,6 +359,9 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     partyUid: piráti        
     
     
+
+
+
 note: 
 # poznámka pod kandidátku
 
