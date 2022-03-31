@@ -101,8 +101,8 @@ tail: # zbytek kandidatky  # jedinná povinná položka je name zbytek můžete 
     age: 
     profession: informatik
     partyUid: piráti
-  - name: Eva Horáková
-    age: 
+  - uid: eva.horakova
+    age: 155
     profession: zdravotní sestra, předsedkyně výboru pro soc. politiku  ZHMP
     partyUid: piráti
   - name: Mikuláš Ferjenčík
