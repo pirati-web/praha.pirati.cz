@@ -1,6 +1,7 @@
 ---
 layout: communal-elections
 title: Vaši kandidáti<br />do Zastupitelstva hl. města Prahy
-candidateListUid: 2022-krajske
 hideCandidateSocialProfiles: false
 ---
+
+{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
