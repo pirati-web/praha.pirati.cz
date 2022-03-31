@@ -19,8 +19,7 @@ TeamDescription:
 funkce: 
   - primátor hlavního města Prahy 
 asistenti:
-  - name: Jiří Hoskovec
-    uid: jiri.hoskovec
+  - uid: jiri.hoskovec
     position: vedoucí oddělení poradců
     mail: jiri.hoskovec@praha.eu
     tel: 
