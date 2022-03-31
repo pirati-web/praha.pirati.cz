@@ -21,6 +21,11 @@ funkce:
   - místopředsedkyně <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=35742">Výboru pro zdravotnictví ZHMP</a>
 mail:
 - jana.komrskova@pirati.cz
+profiles:
+  facebook:  https://www.facebook.com/komrskova.jana
+  instagram: https://www.instagram.com/komrskovajana
+  twitter:   https://twitter.com/JKomrskova
+  linkedin:  https://www.linkedin.com/in/jana-komrskov%C3%A1-ab621157/
 mob: +420 605 205 770
 ordcan: 2
 ---
