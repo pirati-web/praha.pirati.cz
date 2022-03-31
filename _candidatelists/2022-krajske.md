@@ -99,263 +99,263 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 14.
   - uid: jan.hora
     image: /people/jan-hora.jpg
-    age: 
+    age: 0
     profession: informatik
     partyUid: piráti
 # 15.
   - uid: eva.horakova
-    age: 155
+    age: 0
     profession: zdravotní sestra, předsedkyně výboru pro soc. politiku  ZHMP
     partyUid: piráti
 # 16.
-  - uid.mikulas.ferjencik
-    age: 
+  - uid: mikulas.ferjencik
+    age: 0
     profession: lektor kroužků zábavné logiky, překladatel
     partyUid: piráti
 # 17.
   - uid: tomas.murnak
-    age: 
+    age: 0
     profession: předseda výboru pro legislativu ZHMP
     partyUid: piráti
 # 18.
   - name: Zuzana Ujhelyiová
-    age: 
+    age: 0
     profession: zastupitelka městské části Praha 11
     partyUid: piráti
 # 19.
   - uid: ondrej.vojta
-    age: 
-    profession: ?????
+    age: 0
+    profession: TBD
     partyUid: piráti    
 # 20.
-  - uid: jana.kabelova
-    age: 
-    profession: ?????
+  - name: Jana Kabelová
+    age: 0
+    profession: TBD
     partyUid: piráti
 # 21.
   - uid: zuzana.bohmova
-    age: 
-    profession: ?????
+    age: 0
+    profession: ZBD
     partyUid: piráti
 # 22.
-  - uid: stepan.rattay
-    age: 
-    profession: ?????
+  - name: Štěpán Rattay
+    age: 0
+    profession: TBD
     partyUid: piráti
 # 23.
   - uid: kornelia.gottmannova
-    age: 
-    profession: ?????
+    age: 0
+    profession: TBD
     partyUid: piráti
 # 24.
   - name: Michal Macek
-    age: 
-    profession: ?????
+    age: 0
+    profession:
     partyUid: piráti
 # 25.
   - uid: robert.veverka
-    age: 
-    profession: ?????
+    age: 0
+    profession:
     partyUid: piráti
 # 26.
   - name: Michal Gill
-    age: 
-    profession: ?????
+    age: 0
+    profession:
     partyUid: piráti
 # 27.
   - uid: frantisek.dosedel
-    age: 
-    profession: ?????
+    age: 0
+    profession:
     partyUid: piráti
 # 28.
   - name: Jan Bartko
-    age: 
-    profession: ?????
+    age: 0
+    profession:
     partyUid: piráti
 # 29.
   - uid: martin.sterba
-    age: 
-    profession: ?????
+    age: 35
+    profession:
     partyUid: piráti
 # 30.
   - name: Michal Kočí
-    age: 
+    age: 0
     profession:?????
     partyUid: piráti
 # 31.
   - name: Walter Sodomka
-    age: 
-    profession: ?????
+    age: 0
+    profession:
     partyUid: piráti    
 # 32.
   - uid: jaroslav.nemec
-    age: 
-    profession: ?????
+    age: 0
+    profession:
     partyUid: piráti
 # 33.
   - name: Tadeáš Štěpka
-    age: 
-    profession: ?????
+    age: 0
+    profession:
     partyUid: piráti
 # 34.
   - name: Albert Štěrba
-    age: 
-    profession: ?????
+    age: 0
+    profession:
     partyUid: piráti
 # 35.
   - name: Jakub Rychlý
-    age: 
-    profession: ?????
+    age: 0
+    profession: 
     partyUid: piráti       
 # 36.
-  - name: ?????
-    age: ?????
-    profession: ???
+  - name: TBD
+    age: 0
+    profession: TBD
     partyUid: piráti       
 # 37.
-  - name: ?????
-    age: ?????
-    profession: ???
+  - name: TBD
+    age: 0
+    profession: TBD
     partyUid: piráti      
 # 38.
-  - name: ?????
-    age: ?????
-    profession: ???
+  - name: TBD
+    age: 0
+    profession: TBD
     partyUid: piráti    
 # 39.
-  - name: ?????
-    age: ?????
-    profession: ???
+  - name: TBD
+    age: 0
+    profession: TBD
     partyUid: piráti       
 # 40.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti       
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti         
 # 41.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti      
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti        
 # 42.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti    
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti       
 # 43.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti     
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti       
 # 44.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti       
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti         
 # 45.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti      
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti       
 # 46.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti    
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti       
 # 47.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti  
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti    
 # 48.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti       
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti         
 # 49.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti      
-# 50.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti    
-# 51.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti      
-# 52.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti    
-# 53.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti      
-# 54.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti    
-# 55.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti     
-# 56.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti    
-# 57.
-  - name: ?????
-    age: ?????
-    profession: ???
+  - name: TBD
+    age: O
+    profession: TBD
     partyUid: piráti       
+# 50.
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti     
+# 51.
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti        
+# 52.
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti      
+# 53.
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti        
+# 54.
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti      
+# 55.
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti       
+# 56.
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti     
+# 57.
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti        
 # 58.
-  - name: ?????
-    age: ?????
-    profession: ???
+  - name: TBD
+    age: O
+    profession: TBD
     partyUid: piráti    
 # 59.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti      
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti       
  # 60.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti    
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti     
 # 61.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti      
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti        
 # 62.
-  - name: ?????
-    age: ?????
-    profession: ???
-    partyUid: piráti    
+  - name: TBD
+    age: O
+    profession: TBD
+    partyUid: piráti      
 # 63.
-  - name: ?????
-    age: ?????
-    profession: ???
+  - name: TBD
+    age: O
+    profession: TBD
     partyUid: piráti      
 # 64.
-  - name: ?????
-    age: ?????
-    profession: ???
+  - name: TBD
+    age: 0
+    profession: TBD
     partyUid: piráti    
 # 65.
-  - name: ?????
-    age: ?????
-    profession: ???
+  - name: TBD
+    age: 0
+    profession: TBD
     partyUid: piráti        
     
     
