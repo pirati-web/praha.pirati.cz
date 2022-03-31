@@ -1,6 +1,6 @@
 ---
 layout: communal-elections
-title: Vaši kandidáti<br />do Zastupitelstva hl. města Prahy
+title: Vaši kandidáti do Zastupitelstva hl. města Prahy
 campaignGroupUid: volby-2022
 campaignCategoryUid: 2022-krajske
 candidateListUid: 2022-krajske
@@ -12,11 +12,3 @@ customizeHeader: true
 <h2 class="head-alt-base md:head-alt-md mt-2">Seznamte se!</h2>
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
-
-{% capture mainContent %}
-  <h1 class="head-alt-lg md:head-alt-xl text-center">Titulek</h1>
-{% endcapture %}
-
-{% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center">Šance <strong>změnit budoucnost</strong></h2>
-{% endcapture %}
