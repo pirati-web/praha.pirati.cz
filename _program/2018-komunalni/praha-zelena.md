@@ -1,5 +1,5 @@
 ---
-title: Praha Zelená
+title: Praha zelená
 campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
 uid: praha-zelena
