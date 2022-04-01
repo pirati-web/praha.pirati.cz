@@ -85,7 +85,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     
 tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 14.
-  - uid: ladislav.kos
+  - uid: ladislav.kos2
     age: 32
     profession: konzultant online marketingu
     partyUid: pirati
