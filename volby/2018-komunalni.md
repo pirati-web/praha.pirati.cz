@@ -13,9 +13,7 @@ customizeHeader: true
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center">Na prahu změny!</strong></h2>
+  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Na prahu změny</strong></h2>
 {% endcapture %}
 
-{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
-
-{% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
+{% include elections-header.html mainContent=mainContent subContent=subContent %}
