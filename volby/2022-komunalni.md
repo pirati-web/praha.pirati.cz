@@ -12,7 +12,7 @@ customizeHeader: true
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Odvaha dělat, co je správné!</strong></h2>
+  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Tady bude naše heslo do voleb</strong></h2>
 {% endcapture %}
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
