@@ -233,7 +233,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
   - uid: ondrej.vojta
     age: 18
     profession: student a dobrovolný hasič
-    partyUid: piráti       
+    partyUid: pirati       
 # 44.
   - name: Jan Fišer
     age: 27
