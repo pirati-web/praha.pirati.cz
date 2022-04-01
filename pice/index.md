@@ -13,7 +13,7 @@ address: |
   PICE - Pirátské centrum Praha
   Na Moráni 3
   120 00 Praha 2
-addressNote: Sídlíme v přízemí nápadné moderní budovy na rohu Palackého náměstí s velkým displejem. V oknech je grafika Pirátů – Pirátské centrum lze proto poměrně snadno nalézt. <br /><br /><h1>Otevřeno máme:</h1>pondělí – čtvrtek 9–18 hod.</b>
+addressNote: Sídlíme v přízemí nápadné moderní budovy na rohu Palackého náměstí s velkým displejem. V oknech je grafika Pirátů – Pirátské centrum lze proto poměrně snadno nalézt.
 contactPersons:
   - id: jiri.belsan
     description: Vedoucí koordinátorů
@@ -38,3 +38,6 @@ Budova je přizpůsobena i pro pohyb imobilních osob, máme k dispozici rampu.
 
 **Možnosti parkování**<br />
 Kolem Pirátského centra je fialová zóna, kde je možné volné stání v provozní době po dobu maximálně 12 hodin po platbě v parkovacím automatu nebo přes virtuální parkovací hodiny v mobilní aplikaci (např. MPLA). Mimo základní provozní dobu není parkování ve fialové zóně regulováno.
+
+# Otevírací doba
+V návaznosti na služby koordinátorů máme otevřeno **od pondělí do čtvrtka od 9 do 18 hodin.** Když budete potřebovat zůstat déle, domluvte se na přímo s jedním z koordinátorů.
