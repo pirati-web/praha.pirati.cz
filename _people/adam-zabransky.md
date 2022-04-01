@@ -4,21 +4,16 @@ uid: adam.zabransky
 titles:
   before: Mgr.
   after:
-work:
-   - name: "Radní pro bydlení a transparentnost"
-     url: http://www.praha.eu/jnp/cz/o_meste/magistrat/odbory/index.html?personId=11330
-   - name: "vyřizuje: bydlení, transparentnost" 
-     url: https://redmine.pirati.cz/projects/programove-priority-v-zhmp-2018-2022/issues?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=15&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=16&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=author&c%5B%5D=updated_on&group_by=&t%5B%5D=
-name:     Adam Zábranský  	# běžně používáné jméno
-category:                 	# kategorie: praha
-- praha
-- mhmp-radni
-- carousel
-- can
+name: Adam Zábranský  
+category: 
+   - praha
+   - mhmp-radni
+   - carousel
+   - can
 img: people/adam-zabransky.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: radní pro bydlení a transparentnost            	# kratký popis, max 160 znaků
-profession: radní hlavního města Prahy
+description: radní pro bydlení a transparentnost
+profession: radní hl. města Prahy pro bydlení a transparentnost 
 partyUid: pirati
 funkce: 
   - radní hl. města Prahy pro bydlení a transparentnost  
@@ -46,20 +41,16 @@ asistenti:
     mail: jan.snopek@praha.eu
 mail:
 - adam.zabransky@pirati.cz
-mob:			  +420 721 006 868
+mob: +420 721 006 868
 profiles:
   github:    https://github.com/adamzabransky
   facebook:  https://www.facebook.com/piratzabransky/
   twitter: 	 https://twitter.com/adamzabransky
   instagram: https://instagram.com/zabranskyadam
   flickr:    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=adam%20z%C3%A1bransk%C3%BD
+  wikipedia: https://cs.wikipedia.org/wiki/Adam_Z%C3%A1bransk%C3%BD
 ordpraha: 2
-ordcar: 2
 ordcan: 3
-carousel:
-  img: adam-zabransky.jpg
-  text: |
-    <p><strong>Radní</strong> pro oblast bydlení a transparentnosti. </p>
 redmine: 16
 calendar: 1codkq4c1g98n0o1f5tv3f3rf0@group.calendar.google.com
 ---
