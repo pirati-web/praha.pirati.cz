@@ -32,7 +32,7 @@ main:
         match: /lide/krajske-expertni-tymy/
   - name: Volby 
     submenu:
-      - link: /_program/2018-komunalni/plneni-2018.html
+      - link: /volby/plneni-programu/2018-komunalni.html
         name: Plnění programu 2018–2022
       - link: /volby/2018-komunalni.html
         name: Komunální volby 2018
