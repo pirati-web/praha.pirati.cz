@@ -30,8 +30,14 @@ main:
       - link: /lide/krajske-expertni-tymy/
         name: Pirátské pražské expertní týmy
         match: /lide/krajske-expertni-tymy/
-  - link: /program/
-    name: Volební program 2018
+  - name: Volby 
+    submenu:
+      - link: Plnění programu 2018–2022
+        name: /_program/plneni-2018
+      - link: /volby/2018-komunalni
+        name: Komunální volby 2018
+      - link: /volby/2014-komunalni
+        name: Komunální volby 2014   
   - link: /pice/
     name: Pirátské centrum
   - link: /kontakt/
