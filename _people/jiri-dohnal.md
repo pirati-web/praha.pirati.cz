@@ -3,7 +3,7 @@ uid: jiri.dohnal
 name: Jiří Dohnal	# běžně používáné jméno
 img: 		people/jiri-dohnal.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
+category: 
 - dr
 - vybor
 - starostove
@@ -20,6 +20,11 @@ funkce:
 mail:
 - jiri.dohnal@pirati.cz
 mob: +420 778 421 040
+profiles:
+  facebook:  https://facebook.com/jiridohnal.praha11
+  instagram: https://instagram.com/jiridohnal.praha11
+  wikipedia: https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Dohnal_(politik)
+  
 orddr: 25
 ordstar: 1
 ---
