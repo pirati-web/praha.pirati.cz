@@ -32,11 +32,11 @@ main:
         match: /lide/krajske-expertni-tymy/
   - name: Volby 
     submenu:
-      - link: Plnění programu 2018–2022
-        name: /_program/plneni-2018
-      - link: /volby/2018-komunalni
+      - link: /_program/2018-komunalni/plneni-2018/
+        name: Plnění programu 2018–2022
+      - link: /volby/2018-komunalni/
         name: Komunální volby 2018
-      - link: /volby/2014-komunalni
+      - link: /volby/2014-komunalni.html
         name: Komunální volby 2014   
   - link: /pice/
     name: Pirátské centrum
