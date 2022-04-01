@@ -3,7 +3,9 @@ title: Komunální volby 2014 – Program pro Prahu
 layout: "program-post"
 ---
 
-<h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Komunální volby 2014<br />Program pro Prahu</h1>
+{% capture mainContent %}
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Komunální volby 2014<br />Program pro Prahu</h1>
+{% endcapture %}
 
 ### Programové priority pro volby do zastupitelstva hl. m. Prahy konané 10.–11. října 2014.
 
