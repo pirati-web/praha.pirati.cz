@@ -12,13 +12,13 @@ img: people/olga-richterova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: místopředsedkyně Poslanecké sněmovny PČR            	# kratký popis, max 160 znaků
 funkce:
-- místopředsedkyně Poslanecké sněmovny PČR
-- místopředsedkyně <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1547">Organizačního výboru PSP ČR</a>
-- členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1630">Podvýboru pro sociálně zdravotní pomezí PSP ČR</a>
-- členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1641">Podvýboru pro média a svobodu slova</a>
-- členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1600">Podvýboru pro ochranu spotřebitele</a>
+  - místopředsedkyně Poslanecké sněmovny PČR
+   - místopředsedkyně <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1547">Organizačního výboru PSP ČR</a>
+   - členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1630">Podvýboru pro sociálně zdravotní pomezí PSP ČR</a>
+   - členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1641">Podvýboru pro média a svobodu slova</a>
+   - členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1600">Podvýboru pro ochranu spotřebitele</a>
 mail:
-- olga.richterova@pirati.cz
+   - olga.richterova@pirati.cz
 mob: +420 774 153 361
 partyUid: pirati
 profiles:
@@ -26,6 +26,7 @@ profiles:
   facebook:  https://www.facebook.com/olga.piratka.richterova
   twitter: 	 https://twitter.com/olgarichterova
   instagram: https://www.instagram.com/olga_piratka_richterova
+  wikipedia: https://cs.wikipedia.org/wiki/Olga_Richterov%C3%A1
   flickr:    https://www.flickr.com/search/?text=Olga%20Richterov%C3%A1
 asistenti:
   - name: Nela Melicharová
