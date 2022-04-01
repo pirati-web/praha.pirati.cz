@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
   - kontaktni_osoba
 img: people/jan-louzek.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: sekretář zastupitelského klubu na MHMP #Wikipedista, fotograf a zveřejňovač klubu zastupitelů na HHMP. Jan Loužek dlouhodobě podporuje otevřený obsah; v neziskovém prostředí se zabývá otevřeným vzděláváním, problematikou autorského práva a komunitní spolupráce.
+description: asistent zastupitelského klubu na MHMP #Wikipedista, fotograf a zveřejňovač klubu zastupitelů na HHMP. Jan Loužek dlouhodobě podporuje otevřený obsah; v neziskovém prostředí se zabývá otevřeným vzděláváním, problematikou autorského práva a komunitní spolupráce.
 partyUid: bezpp
 mail:
   - jan.louzek@pirati.cz
