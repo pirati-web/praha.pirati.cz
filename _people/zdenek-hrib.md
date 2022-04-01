@@ -61,7 +61,8 @@ profiles:
   facebook:  https://www.facebook.com/zdenek.hrib.primator/
   twitter: 	 https://twitter.com/ZdenekHrib
   instagram: https://www.instagram.com/zdenek.hrib
-  linkedin:  https://www.linkedin.com/in/zdenekhrib/ 
+  linkedin:  https://www.linkedin.com/in/zdenekhrib/
+  youtube:   https://www.youtube.com/channel/UCZVRrw9rZYFSgsPVwgga0JQ
   flickr:    https://www.flickr.com/search/?text=zden%C4%9Bk%20H%C5%99ib
   wikipedia: https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib
 ordpraha: 1
