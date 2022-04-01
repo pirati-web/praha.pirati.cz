@@ -3,10 +3,7 @@ title: Komunální volby 2014 – Program pro Prahu
 layout: "program-post"
 ---
 
-{% capture mainContent %}
-  <h1 class="head-alt-lg md:head-alt-xl text-center">Komunální volby 2014<br />Program pro Prahu</h1>
-{% endcapture %}
-
+## Program pro Prahu
 ### Programové priority pro volby do zastupitelstva hl. m. Prahy konané 10.–11. října 2014.
 
 **Praha ročně nakládá s částkou kolem 40 mld. Kč. To přirozeně přitahuje nejrůznější politické „podnikatele“. V posledních letech např. Praha utratila několik miliard korun za počítačové systémy, které nejsou potřeba nebo nefungují. Další desítky miliard korun město utratilo za megalomanské stavby. Piráti kandidují jako protipól ke klientelismu, drancování veřejných rozpočtů a zadlužování občanů. Na rozdíl od ostatních politických stran volební kampaň neplatíme na dluh. Zvolte nás a vytvoříme klub zastupitelů nezávislý na městské pokladně, trafikách v dozorčích radách a úplatcích. Pirátští zastupitelé vás budou informovat a hájit.**
