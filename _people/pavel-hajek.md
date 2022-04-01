@@ -6,9 +6,8 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor
-img: people/pavel-hajek.jpg   # 165 x 220
+img: people/pavel-hajek.jpg
 heroImg: Prague_panorama.jpeg
-profilebadge: people/badge/09-hajek.jpg
 partyUid: pirati
 teamDescription:
   vybor: člen výboru pro výchovu a vzdělávání ZHMP
