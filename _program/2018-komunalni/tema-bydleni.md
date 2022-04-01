@@ -1,5 +1,5 @@
 ---
-title: Téma bydlení
+title: Praha – místo pro bydlení
 campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
 uid: tema-bydelni
