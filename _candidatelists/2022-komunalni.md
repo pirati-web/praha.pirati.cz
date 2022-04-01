@@ -1,15 +1,14 @@
 ---
 title: Kandidáti do Zastupitelstva. hl. města Prahy
-uid: 2022-krajske
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+uid: 2022-komunalni
+# number: 13
 leader:
   uid: zdenek.hrib
   age: 40
   profession: primátor hlavního města Prahy
   city: Praha 11
   partyUid: pirati
-
-head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
+head:
 # 2.
   - uid: jana.komrskova
     age: 44
