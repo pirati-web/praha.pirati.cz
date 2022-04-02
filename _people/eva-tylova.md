@@ -11,6 +11,7 @@ category:               	# kategorie: rp, praha, vary, hradec, jmk,
 img: people/eva-tylova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: bezpp
+profession: místostarostka Prahy 12, ekoložka
 teamDescription:
   vybor: členka Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP
 funkce: 
