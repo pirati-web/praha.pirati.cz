@@ -25,11 +25,11 @@ mail:
 mob: +420 606 914 916
 ordpks: 2
 ordvlada: 2
-profiles:
-  github:                 
+profiles:         
   facebook:  https://www.facebook.com/ondrejchrast.pirati/
   twitter:   https://twitter.com/chrast_o
   instagram: https://www.instagram.com/ondrejchrast.pirati/
+  linkedin:  https://cz.linkedin.com/in/ond%C5%99ej-chr%C3%A1st-60189439
   flickr:    https://www.flickr.com/search/?text=ondrej%20chrast
   web:       https://www.chrast.eu  
 ---
