@@ -21,9 +21,14 @@ funkce:
 asistenti:
   - name: Jiří Hoskovec
     uid: jiri.hoskovec
-    position: vedoucí oddělení poradců
+    position: ředitel odboru Kancelář primátora (PRM)
     mail: jiri.hoskovec@praha.eu
     tel: 
+  - name: Michal Geisler
+    uid: michal.geisler
+    position: pověřený vedoucí oddělení poradců
+    mail: michal.geisler@praha.eu
+    tel:     
   - name: Martina Vacková
     uid: martina.vackova
     position: poradkyně primátora
@@ -34,11 +39,6 @@ asistenti:
     position: poradce primátora
     mail: martin.kamenik@praha.eu
     tel: 
-  - name: Veronika Kubičková
-    uid: veronika.kubickova
-    position: poradkyně primátora
-    mail: veronika.kubickova@praha.eu
-    tel: 
   - name: Marek Šafra
     uid: marek.safra
     position: poradce primátora
@@ -48,12 +48,17 @@ asistenti:
     uid: klara.galova
     position: poradkyně primátora
     mail: klara.galova@praha.eu
+    tel:     
+  - name: Veronika Kubičková
+    uid: veronika.kubickova
+    position: poradkyně primátora
+    mail: veronika.kubickova@praha.eu
     tel: 
-  - name: Michal Geisler
-    uid: michal.geisler
-    position: poradce primátora
-    mail: michal.geisler@praha.eu
-    tel: 
+  - name: Tomáš Vovsík
+    uid: tomas.vovsik
+    position: poradkce primátora
+    mail: tomas.vovsik@praha.eu
+    tel:    
 mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028
@@ -65,6 +70,7 @@ profiles:
   youtube:   https://www.youtube.com/channel/UCZVRrw9rZYFSgsPVwgga0JQ
   flickr:    https://www.flickr.com/search/?text=zden%C4%9Bk%20H%C5%99ib
   wikipedia: https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib
+  blog:      https://blog.aktualne.cz/blogy/zdenek-hrib.php
 ordpraha: 1
 ordcan: 1
 ---
