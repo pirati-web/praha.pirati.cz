@@ -30,7 +30,7 @@ head:
 # 5.
   - uid: daniel.mazur
     age: 44
-    profession: informatik
+    profession: projektový manažer v oblasti vědy, výzkumu, vzdělávání a inovací
     city: Praha 5
     partyUid: pirati
 # 6.
@@ -42,13 +42,13 @@ head:
 # 7.
   - uid: eva.tylova
     age: 62
-    profession: místostarostka městské části Praha 12
+    profession: místostarostka MČ Praha 12, ekoložka
     city: Praha 12
     partyUid: bezpp
 # 8.
   - uid: bara.soukupova
     age: 34
-    profession: geoinformatička, asistentka výboru pro Smart Cities ZHMP
+    profession: specialistka na eGovernment, asistentka výboru pro Smart Cities ZHMP
     city: Praha 11
     partyUid: pirati
 # 9.
@@ -66,7 +66,7 @@ head:
 # 11.
   - uid: gabriela.lnenickova
     age: 42
-    profession: radní MČ Praha–Suchdol, členka rady NNO Platforma za kvalitní dopravní infrastrukturu
+    profession: radní MČ Praha–Suchdol, projektová manažerka, ekonomka
     city: Praha–Suchdol
     partyUid: pirati
 # 12.
@@ -92,7 +92,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 15.
   - uid: eva.horakova
     age: 0
-    profession: zdravotní sestra, předsedkyně výboru pro soc. politiku  ZHMP
+    profession: předsedkyně Výboru pro sociální politiku hlavního města Prahy, medicínská konzultantka
     partyUid: pirati
 # 16.
   - uid: mikulas.ferjencik
@@ -122,12 +122,12 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 21.
   - uid: zuzana.bohmova
     age: 0
-    profession: ZBD
+    profession: učitelka na střední škole
     partyUid: pirati
 # 22.
   - name: Štěpán Rattay
     age: 0
-    profession: TBD
+    profession: ekonom, předseda kontrolního výboru MČ Praha 5, expert na hospodárnost veřejných financí
     partyUid: pirati
 # 23.
   - uid: kornelia.gottmannova
