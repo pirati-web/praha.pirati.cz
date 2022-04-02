@@ -11,6 +11,7 @@ category:
 img: people/ondrej-chrast.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: 1. místopředseda krajského sdružení
+profession: projektový manažer v kultuře a vzdělávání
 partyUid: pirati
 teamDescription:
   pks: 1. místopředseda KS Praha
