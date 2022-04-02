@@ -46,7 +46,7 @@ profiles:
   twitter: 		https://twitter.com/piratsimral
   instagram:  https://www.instagram.com/piratsimral
   flickr:     https://www.flickr.com/search/?text=V%C3%ADt%20%C5%A0imral
-  web:        http://www.jakdalseskolstvim.cz/
+  blog:        http://www.jakdalseskolstvim.cz/
   wikipedia:  https://cs.wikipedia.org/wiki/V%C3%ADt_%C5%A0imral
 ordpraha: 5
 ordvyb: 31
