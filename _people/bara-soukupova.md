@@ -9,6 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - can
 img: people/bara-soukupova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
+profession: specialistka na eGovernment, asistentka výboru pro Smart Cities ZHMP
 partyUid: pirati
 teamDescription:
   pks: místopředsedkyně KS Praha
@@ -22,8 +23,9 @@ ordpks: 5
 ordcan: 8
 profiles:
   github:       
-  facebook:    
-  twitter: 		  
+  facebook:  https://www.facebook.com/barasoukup  
+  twitter: 	 https://twitter.com/bara_soukup  
+  instagram: https://www.instagram.com/barasoukup/
   flickr:		  
 ---
 
