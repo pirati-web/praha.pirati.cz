@@ -11,7 +11,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - can
 img: people/daniel-mazur.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-proffesion: projektový manažer v oblasti vědy, výzkumu, vzdělávání a inovací
+profession: projektový manažer v oblasti vědy, výzkumu, vzdělávání a inovací
 description: předseda KS Praha
 partyUid: pirati
 teamDescription:
