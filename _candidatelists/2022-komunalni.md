@@ -220,7 +220,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     profession: TBD
     partyUid: pirati         
 # 41.
-  - uid: ondrej.chrast
+  - name: TBD
     age: O
     profession: TBD
     partyUid: pirati        
