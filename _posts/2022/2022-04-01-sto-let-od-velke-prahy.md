@@ -5,7 +5,7 @@ image: posts/8hrib.jpg
 tags: praha
 ---
 
-.Magistrát hl. m. Prahy připravil ve spolupráci s Archivem hl. m. Prahy výstavu Velká Praha - 100 let od sloučení Prahy s předměstími, která při příležitosti letošního výročí přiblíží veřejnosti okolnosti zásadního rozšíření hlavního města. Výstava bude volně k vidění od 1. do 30. dubna 2022 na Mariánském náměstí před budovou Nové radnice.
+Magistrát hl. m. Prahy připravil ve spolupráci s Archivem hl. m. Prahy výstavu Velká Praha - 100 let od sloučení Prahy s předměstími, která při příležitosti letošního výročí přiblíží veřejnosti okolnosti zásadního rozšíření hlavního města. Výstava bude volně k vidění od 1. do 30. dubna 2022 na Mariánském náměstí před budovou Nové radnice.
 
 > „Sto let velké Prahy je velká událost a přeji našemu krásnému městu k tomuto výročí jen to nejlepší,” říká primátor hl. m. Prahy Zdeněk Hřib. 
 
