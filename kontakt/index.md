@@ -19,7 +19,6 @@ residences:
      místnost č. 38, přízemí
      Mariánské náměstí 2 
      110 00 Praha 1
-     tel: +420 608 213 119
 addressNote: Pirátské centrum je v budově na rohu Palackého náměstí s velkým displejem, v oknech je grafika Pirátů. Na Magistrátu sídlíme v přízemí. 
    
 contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
