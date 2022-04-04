@@ -8,9 +8,9 @@ category:
   - vlada
 img: people/ondrej-profant.jpg
 heroImg: Prague_panorama.jpeg
-description: náměstek ministra pro místní rozvoje ČR
+description: náměstek ministra pro místní rozvoj ČR
 TeamDescription:
-  - vlada: náměstek ministra pro místní rozvoje ČR
+  - vlada: náměstek ministra pro místní rozvoj ČR
 mail:
   - ondrej.profant@pirati.cz
 mob: +420 607 580 015
