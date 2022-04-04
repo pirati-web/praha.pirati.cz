@@ -56,7 +56,7 @@ asistenti:
     tel: 
   - name: Tomáš Vovsík
     uid: tomas.vovsik
-    position: poradkce primátora
+    position: poradce primátora
     mail: tomas.vovsik@praha.eu
     tel:    
 mail:
