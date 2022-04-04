@@ -12,7 +12,7 @@ head:
 # 2.
   - uid: jana.komrskova
     age: 44
-    profession: místostarostka městské části Praha 10
+    profession: 1. místostarostka MČ Praha 10
     city: Praha 10
     partyUid: pirati
 # 3.
@@ -48,13 +48,13 @@ head:
 # 8.
   - uid: bara.soukupova
     age: 34
-    profession: specialistka na eGovernment, asistentka výboru pro Smart Cities ZHMP
+    profession: specialistka na eGovernment, asistentka předsedy Výboru pro IT a Smart City ZHMP 
     city: Praha 11
     partyUid: pirati
 # 9.
   - uid: jiri.bruzek
     age: 45
-    profession: informatik, radní městské části Praha 12
+    profession: radní MČ Praha 12, informatik
     city: Praha 12
     partyUid: pirati
 # 10.
@@ -72,7 +72,7 @@ head:
 # 12.
   - uid: jaromir.beranek
     age: 35
-    profession: předseda výboru pro Smart Cities v ZHMP
+    profession: předseda Výboru pro IT a Smart City ZHMP 
     city: Praha 6
     partyUid: pirati
 # 13.
@@ -107,7 +107,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 18.
   - name: Zuzana Ujhelyiová
     age: 0
-    profession: zastupitelka městské části Praha 11
+    profession: zastupitelka MČ Praha 11
     partyUid: pirati
 # 19.
   - uid: ondrej.vojta
