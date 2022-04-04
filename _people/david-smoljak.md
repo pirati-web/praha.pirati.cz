@@ -9,15 +9,15 @@ category:
 img: people/david-smoljak.jpg # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: podpora
-description: enátor za vol. obvod 24 - Praha 9
+description: senátor za vol. obvod 24 - Praha 9
 teamDescription:
-  senat: enátor za vol. obvod 24 - Praha 9
+  senat: senátor za vol. obvod 24 - Praha 9
 funkce:
   - senátor za vol. obvod 24 - Praha 9
   - radní MČ Praha–Vinoř
 mail:
   - smoljakd@senat.cz
-mob: 
+mob: +420 734 692 336
 profiles:             
   facebook:  http://www.facebook.com/smoljakdavid 
   twitter:   https://twitter.com/davidsmoljak
