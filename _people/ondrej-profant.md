@@ -14,6 +14,8 @@ TeamDescription:
 mail:
   - ondrej.profant@pirati.cz
 mob: +420 607 580 015
+funkce:
+  - náměstek ministra pro místní rozvoj ČR
 profiles:
   facebook:  https://www.facebook.com/ondrej.pirat.profant
   twitter: 	 https://twitter.com/ondrej_profant
