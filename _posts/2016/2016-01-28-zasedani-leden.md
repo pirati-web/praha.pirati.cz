@@ -2,9 +2,9 @@
 title:	Omezení buskingu a podržení podvodníka
 layout:	post
 category:	blog
-author:	Jakub Michálek
-image:	mikulas-k-busking.jpg
-tags:	zhmp busking Karel-Březina libeňský-most trafiky informatika
+authorId: jakub.michalek
+image:	posts/mikulas-k-busking.jpg
+tags:	[Busking, Karel Březina, Libeňský most, Trafiky, IT]
 date:	2016-01-28
 ---
 

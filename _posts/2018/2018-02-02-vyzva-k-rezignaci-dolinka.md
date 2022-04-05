@@ -1,10 +1,10 @@
 ---
 date:         2018-02-02
 category:     blog
-tags:         doprava libeňský-most
+tags:         [Doprava, Libeňský most, Petr Dolínek]
 layout:       post
 title:        "Vyzýváme náměstka Dolínka k rezignaci kvůli současnému stavu pražských mostů" 
-image:        ruiny-mostu.jpg
+image:        posts/ruiny-mostu.jpg
 author:       Viktor Mahrik
 ---
 
