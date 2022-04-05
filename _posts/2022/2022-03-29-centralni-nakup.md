@@ -2,7 +2,7 @@
 title: Praha spustí centrální nákup pro všechny své organizace. Město ročně ušetří desítky milionů korun
 author: MHMP
 image: posts/adam-zabransky-6.jpg
-tags: transparentnost
+tags: [Centrální nákup, Transparentnost]
 ---
 
 Zastupitelstvo hlavního města Prahy schválilo záměr na zajištění centrálního nákupu. Ten bude zřízen pro úřad i městské organizace ihned poté, co bude vysoutěžen dodavatel elektronického systému. Město tak reaguje na dlouhodobý problém nedostatečné centralizace nákupu zboží potřebného pro chod úřadu a jeho organizací. Centrální nákupy realizované prostřednictvím nejmodernějších elektronických nástrojů se budou týkat zejména zboží od kancelářských potřeb, nábytku, zdravotních pomůcek, potravin, hardware až po pohonné hmoty. Řada nákupů shodného zboží se totiž uskutečňuje opakovaně a v jednotlivých institucích individuálně. Zbytečně tak dosud tyto nákupy zvyšovaly administrativní náklady města.
