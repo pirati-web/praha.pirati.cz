@@ -1,10 +1,9 @@
 ---
 date:         2021-09-29
-tags:         
-- bydlení
+tags:         [Nová Palmovka, Praha 8]
 title:        "Novou Palmovku by měl vyřešit Magistrát, zastupitelé schválili převod pozemků"
 image: 	      posts/palmovka2.jpg
-author:       MHMP
+authorId:     martin.sterba
 ---
 
 Zastupitelstvo městské části Praha 8 schválilo převod pozemků pod budovou nedostavěné radnice Nová Palmovka Magistrátu hlavního města Prahy. Hlasovali pro to zastupitelé napříč politickým spektrem.
