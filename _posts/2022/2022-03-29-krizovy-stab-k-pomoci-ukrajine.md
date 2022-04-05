@@ -2,7 +2,7 @@
 title: Krizový štáb hlavního města řešil uprchlickou krizi a provoz centra pomoci Ukrajině
 author: MHMP
 image: posts/novaradnice.jpg
-tags: [Krizový štáb, Ukrajina]
+tags: [Krizový štáb, Válka na Ukrajině]
 ---
 
 Hlavní město pravidelně sleduje a vyhodnocuje situaci spojenou s uprchlickou krizí. Z toho důvodu na dnešní dopoledne svolal primátor hl. m. Prahy Zdeněk Hřib jednání Krizového štábu hl. m. Prahy. Mezi hlavní projednávané body patřily informace k aktuální situaci v Krajském asistenčním centru pomoci Ukrajině (KACPU), k procesu přesunu centra do Vysočan a také informace k aktuální situaci v oblasti ubytování uprchlíků.
