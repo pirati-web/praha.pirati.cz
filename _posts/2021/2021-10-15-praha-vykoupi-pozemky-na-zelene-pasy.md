@@ -1,8 +1,6 @@
 ---
 date:         2021-10-14
-tags:         
-- územní-rozvoj
-- doprava
+tags:         [Doprava, Pražský okruh (dálnice D0), Územní rozvoj]
 title:        "Posun v přípravě Pražského okruhu. Praha vykupuje pozemky pro zelené pásy"
 image: 	      posts/murnak-podzim.jpg
 author:       MHMP
