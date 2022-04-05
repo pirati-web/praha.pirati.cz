@@ -5,7 +5,7 @@ title: "Zastupitelstvo schválilo návrh Pirátů a dalších zastupitelů: Mari
 date: 2017-09-15
 author: Jan Loužek, Adam Zábranský, Ondřej Profant
 image: posts/sloup2.jpg
-tags: zhmp
+tags: [Mariánský sloup]
 ---
 
 1,5 miliardy korun pro klientelistickou skupinu okolo ČSSD, další zakázky pro kamerový systém, lidé v městských firmách napojení na proslulé „karlovarské losovačky“. A v neposlední řadě i hojně debatovaný návrat Mariánského sloupu na Staroměstské náměstí. O tom se diskutovalo na zářijovém zasedání pražského zastupitelstva. 

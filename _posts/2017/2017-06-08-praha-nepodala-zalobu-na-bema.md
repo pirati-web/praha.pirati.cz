@@ -1,7 +1,7 @@
 ---
 date:         2017-06-09
 category:     blog
-tags:         praha koalice bem
+tags:         [Pavel Bém]
 layout:       post
 title:        "Praha nepodala žalobu na Béma, odnesou to jen úředníci" 
 image:        posts/bem-sloup.jpg

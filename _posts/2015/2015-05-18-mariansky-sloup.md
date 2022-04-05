@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek, Mikuláš Ferjenčík
 image:	posts/falus.jpg
-tags:	kauzy
+tags:	[Mariánský sloup]
 date:	2015-05-18
 ---
 
