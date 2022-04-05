@@ -1,7 +1,6 @@
 ---
 date:   2022-02-22
-tags:  
-- zahraničí
+tags:  [Válka na Ukrajině]
 title:  "Hlavní město v rámci solidarity s Ukrajinou rozsvítí petřínskou věž do modré a žluté barvy"
 image: 	      posts/uaflag.jpg
 author: MHMP

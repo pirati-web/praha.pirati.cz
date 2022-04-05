@@ -1,7 +1,6 @@
 ---
 date:   2022-03-16
-tags:  
-- zahraničí
+tags:  [Válka na Ukrajině]
 title:  "Už 5 000 dobrovolníků se rozhodlo pomáhat ukrajinským uprchlíkům, další však budou potřeba"
 image: 	      posts/8hrib.jpg
 author: MHMP

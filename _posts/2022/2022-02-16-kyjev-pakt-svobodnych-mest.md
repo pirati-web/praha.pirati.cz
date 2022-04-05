@@ -1,7 +1,6 @@
 ---
 date:   2022-02-16
-tags:  
-- zahraničí
+tags:  [Pakt svobodných měst, Válka na Ukrajině, Zahraničí]
 title:  "Kyjev se připojí k Paktu svobodných měst. Místní obyvatelé jsou ostražití, ale život ve městě plyne dál"
 image: 	      posts/kyjev.jpg
 author: MHMP

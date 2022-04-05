@@ -1,7 +1,6 @@
 ---
 date:   2022-03-18
-tags:  
-- zahraničí
+tags:  [Válka na Ukrajině]
 title:  "Hlavní město vyvěsilo vlajku Kyjeva na budovu Nové radnice"
 image: 	      posts/kyjev2.jpg
 author: MHMP
