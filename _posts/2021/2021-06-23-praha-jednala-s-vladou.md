@@ -1,7 +1,6 @@
 ---
 date:         2021-06-23
-tags:         
-- doprava
+tags:         [Doprava, Městský okruh, Nemocnice Na Bulovce]
 title:        "Zástupci hlavního města diskutovali s vládou ČR o financování Městského okruhu i majetkových poměrech Nemocnice Na Bulovce"
 image: 	      posts/novaradnice.jpg
 author:       MHMP
