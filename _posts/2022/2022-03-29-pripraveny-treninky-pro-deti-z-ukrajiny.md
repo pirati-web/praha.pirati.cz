@@ -2,7 +2,7 @@
 title: Pražské sportovní kluby připravily tréninky pro děti z Ukrajiny
 author: MHMP
 image: posts/vitsimral6.jpg
-tags: [Sport, Školství, Válka na Ukrajině]
+tags: [sport, školství, Válka na Ukrajině]
 ---
 
 Válečná agrese Ruska na Ukrajině zasahuje i do světa sportu, a proto se mnoho pražských sportovních organizací rozhodlo poskytnout pomoc dětem, které jsou nuceny utíkat před válkou do Česka. Kluby se společně s hlavním městem rozhodly spustit projekt sportovních tréninků pro Ukrajince. Přehled všech nabídek je umístěn na portálu [www.prahasportovni.eu](https://www.prahasportovni.eu).
