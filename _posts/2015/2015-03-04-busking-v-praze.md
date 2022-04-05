@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/harmoniky.jpg
-tags:	busking
+tags:	[Busking]
 date:	2015-03-04
 ---
 

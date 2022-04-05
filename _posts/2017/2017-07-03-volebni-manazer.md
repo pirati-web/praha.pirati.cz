@@ -1,7 +1,7 @@
 ---
 date:         2017-06-28
 category:     blog
-tags:         praha volby
+tags:         [Volby 2017]
 layout:       post
 title:        "Hledáme volebního manažera kampaně v Praze"
 image:        posts/volebnimanazer.jpg

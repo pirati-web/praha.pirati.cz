@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 authorId: jakub.michalek
 image:	posts/mikulas-k-busking.jpg
-tags:	[busking, Karel Březina, Libeňský most, Trafiky, IT, Zastupitelstvo]
+tags:	[Busking, Karel Březina, Libeňský most, Trafiky, IT, Zastupitelstvo]
 date:	2016-01-28
 ---
 

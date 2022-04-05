@@ -1,10 +1,10 @@
 ---
 date:         2018-06-06
 category:     blog
-tags:         rozhvory
+tags:         [Volby 2018]
 layout:       post
 title:        "Trafiky vyhovují všem stranám u moci, říká Pirát Zábranský" 
-image:        adamzabransky.jpg
+image:        posts/adamzabransky.jpg
 author:       Adam Zábranský, Neovlivní
 ---
 
