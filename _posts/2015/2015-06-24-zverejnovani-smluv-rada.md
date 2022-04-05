@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/zver-smluv.jpg
-tags:	Praha zveřejňování-smluv
+tags:	praha transparentnost
 date:	2015-06-24
 ---
 
