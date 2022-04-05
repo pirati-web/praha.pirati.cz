@@ -1,7 +1,7 @@
 ---
 date:         2020-09-23
 tags:         
- - Praha
+ - praha
 title:        "Web Pragozor představuje Prahu v číslech. Nabízí ověřená data o zdraví, koronaviru, bydlení či dopravě"
 image: 	      posts/pragozor.jpg
 author:       MHMP
