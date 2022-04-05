@@ -1,7 +1,6 @@
 ---
 date:   2022-03-16
-tags:  
-- metro-d
+tags:  [Metro D]
 title:  "Praha odsouhlasila směnu pozemků, která umožní výstavbu tramvajové trati i nové stanice metra D v Libuši"
 image: 	      posts/novaradnice.jpg
 author: MHMP
