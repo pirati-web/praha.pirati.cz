@@ -1,7 +1,6 @@
 ---
 date:   2022-02-21
-tags:  
-- volby
+tags:  [Volby 2022]
 title:  "Pirátskou kandidátkou na senátorku se stala expertka na životní prostředí Dana Balcarová"
 image: 	      posts/dana.jpg
 author: Piráti Praha

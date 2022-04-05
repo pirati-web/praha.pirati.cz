@@ -1,7 +1,6 @@
 ---
 date:   2022-02-14
-tags:  
-- volby
+tags:  [Volby 2022]
 title:  "Piráti zvolili čelo kandidátky do pražského zastupitelstva. Hřiba doplní zkušení kolegové z magistrátu a výrazné osobnosti z městských částí"
 image: 	      posts/13kandidatu.jpg
 author: MHMP
