@@ -1,7 +1,6 @@
 ---
 date:   2022-03-02
-tags:  
-- ukrajina
+tags:  [Válka na Ukrajině]
 title:  "Hlavní město koordinuje pomoc Ukrajině s městskými částmi"
 image: 	      posts/magistrat3.jpg
 author: MHMP

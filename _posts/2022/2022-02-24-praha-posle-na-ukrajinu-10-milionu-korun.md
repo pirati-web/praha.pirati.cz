@@ -1,7 +1,6 @@
 ---
 date:   2022-02-24
-tags:  
-- ukrajina
+tags:  [Válka na Ukrajině]
 title:  "Praha pošle 10 milionů korun na humanitární pomoc Ukrajině a bude jednat o ubytování pro ukrajinské rodiny"
 image: 	      posts/novaradnice.jpg
 author: MHMP

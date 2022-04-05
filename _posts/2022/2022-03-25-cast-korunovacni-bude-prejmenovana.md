@@ -1,7 +1,6 @@
 ---
 date:   2022-03-25
-tags:  
-- ukrajina
+tags:  [Praha 6, Válka na Ukrajině, Zastupitelstvo]
 title:  "Praha přejmenuje část ulice Korunovační a navazující most na počest Ukrajiny"
 image: 	      posts/7hrib.jpg
 author: MHMP

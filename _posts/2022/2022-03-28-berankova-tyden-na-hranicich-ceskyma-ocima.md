@@ -2,7 +2,7 @@
 title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani bohatí, ani chudí
 author: Petra Slezáková
 image: posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpg
-tags: ukrajina
+tags: [Válka na Ukrajině]
 ---
 
 **Michaela Beránková je Pirátkou z Prahy 13, na magistrátu pracuje jako asistentka zastupitele Tomáše Murňáka. V březnu však na několik dní vyměnila své oblíbené šaty za reflexní vestu a vydala se pomáhat uprchlíkům k ukrajinské hranici. Ve Vyšném Nemeckém a později Michalovcích strávila dohromady týden. Co tam dělala a viděla?** 
@@ -37,16 +37,3 @@ Ty stany jsou bohužel semeništěm nemocí, pokud tam přišlo jedno dítě se 
 
 **Chystáš se na hranice znovu?**<br />
 Chtěla jsem pomáhat uprchlíkům přímo na Ukrajině, ale už i na Lvov padají bomby. Vidím to tedy spíš na pomoc v humanitárních vlacích, pokud mi to čas umožní.
-
-{% for galery in page.fancybox %}
-<div class="mt-4">
-  <h3>{{ galery.name }}</h3>
-  <div class="grid grid-cols-4 gap-4">
-  {% for item in galery.img %}
-    <div class="">
-      <a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize='200x150^' magick:gravity='center' magick:crop='200x150+0+0' class="rounded" %}</a>
-    </div>
-  {% endfor %}
-  </div>
-</div>
-{% endfor %}

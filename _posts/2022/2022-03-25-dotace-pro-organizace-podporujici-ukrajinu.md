@@ -1,6 +1,6 @@
 ---
 date: 2022-03-25
-tags: [zhmp, ukrajina]
+tags: [Válka na Ukrajině, Zastupitelstvo]
 title: "Praha poskytne dotace organizacím zajišťujícím pomoc uprchlíkům z Ukrajiny"
 image: posts/zastupitelstvo.jpg
 author: MHMP

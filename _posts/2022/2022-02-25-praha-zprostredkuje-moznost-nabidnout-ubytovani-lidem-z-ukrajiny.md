@@ -1,7 +1,6 @@
 ---
 date:   2022-02-25
-tags:  
-- ukrajina
+tags:  [Válka na Ukrajině]
 title:  "Praha zprostředkuje možnost nabídnout ubytování lidem utíkajícím z Ukrajiny formou on-line dotazníku. Vyzvány byly k podpoře i městské části "
 image: 	      posts/uaflag.jpg
 author: MHMP

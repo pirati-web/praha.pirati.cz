@@ -1,6 +1,6 @@
 ---
 date:         2022-02-11
-tags:        [Válka na Ukrajině]
+tags:         [Válka na Ukrajině]
 title:        "Primátor hl. m. Prahy Zdeněk Hřib v pondělí odcestuje do Kyjeva vyjádřit podporu Ukrajině"
 image: 	      posts/0hrib.jpg
 author:       MHMP

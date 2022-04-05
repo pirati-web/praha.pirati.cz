@@ -1,7 +1,6 @@
 ---
 date:   2022-03-04
-tags:  
-- ukrajina
+tags:  [Válka na Ukrajině]
 title:  "Městské části budou moci na ubytování ukrajinských uprchlíků využít byty opravené z dotací od Prahy"
 image: 	      posts/adam-zabransky-8.jpg
 author: MHMP
