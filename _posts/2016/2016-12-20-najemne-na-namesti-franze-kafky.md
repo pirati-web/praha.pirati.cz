@@ -1,7 +1,7 @@
 ---
 date:         2016-12-20
 category:     blog
-tags:         Praha
+tags:         praha kauzy
 layout:       post
 title:        "Dvě restaurace na jednom náměstíčku mají nájem od Prahy. Výše nájemného se liší o řád" 
 image:        posts/restaurace.jpg
