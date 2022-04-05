@@ -1,7 +1,6 @@
 ---
 date:         2021-04-23
-tags:         
-- primátor
+tags:         [Zdeněk Hřib]
 title:        "Primátor Hřib vyvrací nepravdivé informace o nákupu rodinného domu"
 image: 	      posts/hrib3.jpg
 author:       Zdeněk Hřib
