@@ -4,7 +4,7 @@ category:	blog
 tags:	[trafiky, Zastupitelstvo]
 layout:	post
 title:	Trafikantka zůstane v dozorčí radě, v pražských školách se začně zavádět otevřený software
-image:	monika-karel.jpg
+image:	posts/monika-karel.jpg
 author:	Jakub Michálek, Adam Zábranský
 ---
 

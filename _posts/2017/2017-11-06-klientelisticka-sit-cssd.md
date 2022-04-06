@@ -1,7 +1,7 @@
 ---
 date:         2017-11-06
 category:     blog
-tags:         praha
+tags:         [Transparentnost]
 layout:       post
 title:        "Adam Zábranský pokračuje v odhalování klientelistické sítě ČSSD"
 image:        posts/klient.jpg

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/kv.jpg
-tags:	kontrolní-výbor transparentnost
+tags:	[Kontrolní výbor, Transparentnost]
 date:	2015-05-27
 ---
 

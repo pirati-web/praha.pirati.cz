@@ -1,7 +1,7 @@
 ---
 date:         2017-11-20
 category:     blog
-tags:         pomoc
+tags:         [Piráti]
 layout:       post
 title:        "Piráti v neděli rozdali 150 teplých gulášů potřebným"
 image:        posts/hlavni-nadrazi.jpg

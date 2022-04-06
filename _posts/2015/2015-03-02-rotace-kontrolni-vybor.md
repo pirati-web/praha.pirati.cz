@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/miki-kv.jpg
-tags:	výbory
+tags:	[Kontrolní výbor, Zastupitelstvo]
 date:	2015-03-02
 ---
 

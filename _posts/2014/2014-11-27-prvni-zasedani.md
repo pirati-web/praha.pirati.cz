@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/projev-kontrolni-vybor.jpg
-tags:	[Volby 2014, Zastupitelstvo]
+tags:	[Kontrolní výbor, Volby 2014, Zastupitelstvo]
 date:	2014-11-27
 ---
 

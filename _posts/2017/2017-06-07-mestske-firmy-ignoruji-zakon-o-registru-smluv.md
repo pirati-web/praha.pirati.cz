@@ -1,7 +1,7 @@
 ---
 date:         2017-06-07
 category:     blog
-tags:         praha registr-smluv korupce
+tags:         [Transparentnost]
 layout:       post
 title:        "Pražské městské firmy ignorují zákon o registru smluv, zastupitelům se to nelíbí" 
 image:        posts/prisnetajne.jpg

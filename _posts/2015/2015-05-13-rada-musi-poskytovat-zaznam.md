@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/zaznam.jpg
-tags:	transparentnost zhmp informace
+tags:	[Transparentnost]
 date:	2015-05-13
 ---
 

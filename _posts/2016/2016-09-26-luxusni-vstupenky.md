@@ -1,7 +1,7 @@
 ---
 date:	2016-09-26
 category:	blog
-tags:	Praha
+tags:	[Karel Březina]
 layout:	post
 title:	"Luxusní vstupenky na dotované sportovní akce dostávají zastupitelé bokem." 
 image:	posts/pasovani.png

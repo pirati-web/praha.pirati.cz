@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/zastupitele-strecha.jpg
-tags:	majetková-přiznání informace
+tags:	[Piráti, Transparentnost]
 date:	2015-07-01
 ---
 
