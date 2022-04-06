@@ -1,7 +1,6 @@
 ---
 date:         2022-01-26
-tags:        
-- informatika
+tags:        [Portál Pražana]
 title:        "Portál Pražana se rozšiřuje o agendu poplatků za psy, pilotní provoz funguje v Praze 3"
 image: 	      posts/popp.jpg
 author:       MHMP

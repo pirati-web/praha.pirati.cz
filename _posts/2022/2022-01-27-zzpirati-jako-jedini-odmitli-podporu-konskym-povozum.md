@@ -1,7 +1,6 @@
 ---
 date:         2022-01-27
-tags:        
-- praha
+tags:         [Ochrana zvířat]
 title:        "Piráti jako jediní odmítli obnovit podporu Prahy koňským povozům"
 image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP

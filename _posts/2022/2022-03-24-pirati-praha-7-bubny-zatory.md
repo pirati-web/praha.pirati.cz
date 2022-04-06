@@ -1,7 +1,6 @@
 ---
 date:   2022-03-24
-tags:  
-- praha-7
+tags:  [Bubny-Zátory, Praha 7]
 title:  "Piráti ze sedmičky chtějí zmocněnce pro Bubny-Zátory, shání 200 podpisů místních"
 image: 	      posts/hol.jpg
 author: MHMP

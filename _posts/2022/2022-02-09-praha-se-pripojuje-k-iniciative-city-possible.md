@@ -1,7 +1,6 @@
 ---
 date:         2022-02-09
-tags:        
-- informatika
+tags:         [IT]
 title:        "Praha se jako první město v Česku připojuje k mezinárodní platformě City Possible"
 image: 	      posts/7hrib.jpg
 author:       MHMP

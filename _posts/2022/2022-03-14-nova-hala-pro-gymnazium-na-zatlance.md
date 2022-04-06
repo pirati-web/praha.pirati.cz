@@ -1,7 +1,6 @@
 ---
 date:   2022-03-14
-tags:  
-- školství
+tags:   [Praha 6, školství]
 title:  "Studenti z Gymnázia Na Zatlance budou brzy sportovat v nové hale. Město do její stavby investuje necelých 86 milionů korun"
 image: 	      posts/vitsimral5.jpg
 author: MHMP

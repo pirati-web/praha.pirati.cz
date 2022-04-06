@@ -1,7 +1,6 @@
 ---
 date:         2022-02-07
-tags:        
-- smart-cities
+tags:        [školství]
 title:        "Praha penězi z EU podpoří dětské skupiny. I díky nim se mohou rodiče malých dětí vracet dříve do zaměstnání"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

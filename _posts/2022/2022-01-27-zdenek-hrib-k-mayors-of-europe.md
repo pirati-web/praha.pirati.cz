@@ -1,7 +1,6 @@
 ---
 date:         2022-01-27
-tags:        
-- praha
+tags:        [Zdeněk Hřib]
 title:        "Primátor Hřib: Stojí za námi reálné úspěchy. Hrdý jsem především na umístění v žebříčku Politico"
 image: 	      posts/7hrib.jpg
 author:       Zdeněk Hřib

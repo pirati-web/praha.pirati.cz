@@ -1,7 +1,6 @@
 ---
 date:   2022-03-25
-tags:  
-- bydlení
+tags:  [bydlení]
 title:  "Praha poskytne Fondu podpory bydlení dalších 700 000 Kč"
 image: 	      posts/adam-zabransky-7.jpg
 author: MHMP

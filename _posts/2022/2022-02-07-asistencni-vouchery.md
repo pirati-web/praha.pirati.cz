@@ -1,7 +1,6 @@
 ---
 date:         2022-02-07
-tags:        
-- smart-cities
+tags:        [Smart Cities]
 title:        "O Asistenční vouchery se ucházejí první projekty. Nabízejí Praze chytrá řešení pro dopravu, ekologii či zdraví"
 image: 	      posts/magistrat2.jpg
 author:       MHMP
