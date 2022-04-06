@@ -1,7 +1,7 @@
 ---
 date:         2017-03-09
 category:     blog
-tags:         ekonomika
+tags:         [Sdílená ekonomika]
 layout:       post
 title:        "Piráti apelují na vládu, chtějí jasná pravidla pro sdílenou ekonomiku." 
 image:        posts/prapor.jpg

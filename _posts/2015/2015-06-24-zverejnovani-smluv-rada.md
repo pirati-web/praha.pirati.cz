@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/zver-smluv.jpg
-tags:	praha transparentnost
+tags:	[Transparentnost]
 date:	2015-06-24
 ---
 

@@ -1,7 +1,6 @@
 ---
 date:         2021-09-29
-tags:         
-- bydlení
+tags:         [Airbnb]
 title:        "Hlavní město spouští bezplatnou právní pomoc obyvatelům a společenstvím vlastníků v domech s byty využívanými ke krátkodobému ubytování"
 image: 	      posts/domy-slunce.jpg
 author:       MHMP

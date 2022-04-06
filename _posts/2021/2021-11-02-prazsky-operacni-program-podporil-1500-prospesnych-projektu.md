@@ -1,7 +1,6 @@
 ---
 date:         2021-11-02
-tags:         
-- dotace
+tags:         [EU]
 title:        "Pražský operační program podpořil téměř 1 500 prospěšných projektů "
 image: 	      posts/dotace.jpg
 author:       MHMP

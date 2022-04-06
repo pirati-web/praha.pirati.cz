@@ -1,7 +1,7 @@
 ---
 date:         2017-04-03
 category:     blog
-tags:         praha doprava
+tags:         [Sdílená ekonomika]
 layout:       post
 title:        "Pomůžeme ministru dopravy s legislativou ke sdílené ekonomice" 
 image:        posts/uber.jpg

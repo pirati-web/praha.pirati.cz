@@ -1,7 +1,7 @@
 ---
 date:         2017-10-12
 category:     blog
-tags:         legislativa
+tags:         [Legislativa, Směnárny]
 layout:       post
 title:        "Pražští zastupitelé začali projednávat novelu, aby směnárny neokrádaly turisty"
 image:        posts/smenarna.jpg

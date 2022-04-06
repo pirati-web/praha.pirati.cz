@@ -1,8 +1,8 @@
 ---
 date:         2019-01-12
-tags:         EU
-title:        Čtyři mušketýři. Pražští Piráti představili své nominanty do eurovoleb.
-image: 	      posts/posts/kandidatiEUvolby.jpg
+tags:         [Volby 2019]
+title:        Čtyři mušketýři. Pražští Piráti představili své nominanty do eurovoleb
+image: 	      posts/kandidatiEUvolby.jpg
 author:       Martina Vacková
 ---
 

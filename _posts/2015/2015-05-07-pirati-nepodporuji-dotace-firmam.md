@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/tycinky.jpg
-tags:	dotace EU Praha
+tags:	[EU]
 date:	2015-05-07
 ---
 

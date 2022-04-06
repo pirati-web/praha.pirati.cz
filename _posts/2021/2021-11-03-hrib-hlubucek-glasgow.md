@@ -1,7 +1,6 @@
 ---
 date:         2021-11-03
-tags:         
-- životní-prostředí
+tags:         [Pražský klimatický závazek, COP 26]
 title:        "Komentář primátora Zdeňka Hřiba k plánované účasti na klimatickém summitu COP 26 ve skotském Glasgow"
 image: 	      posts/0hrib.jpg
 author:       Zdeněk Hřib
