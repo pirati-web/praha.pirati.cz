@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/sp-foto.jpg
-tags:	kauzy skoduv-palac
+tags:	[Škodův palác, Zastupitelstvo]
 date:	2015-04-13
 ---
 

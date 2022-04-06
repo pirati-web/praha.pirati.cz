@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/zastupitelstvo.jpg
-tags:	zhmp
+tags:	[Zastupitelstvo]
 date:	2015-04-14
 ---
 

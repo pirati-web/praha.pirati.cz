@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/jakub-rozsudek.jpg
-tags:	granty
+tags:	[Transparentnost]
 date:	2015-03-12
 ---
 

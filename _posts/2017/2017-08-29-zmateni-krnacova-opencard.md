@@ -5,7 +5,7 @@ title: "Za zametení kauzy Opencard zodpovídá Krnáčová, měla by uhradit č
 date: 2017-08-26T12:44:00+02:00
 author: Jakub Michálek
 image: posts/kuchynka-2.jpg
-tags: [opencard]
+tags: [Opencard]
 ---
 
 V září 2015 jsem primátorce Krnáčové předložil **[40stránkovou analýzu s doporučeními](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/147-opencard-I/1-zadost/attachments/oc-aktualni.pdf)**, co udělat v návaznosti v kauze Opencard. Jedno z nich bylo urychleně zvážit žalobu na bývalého primátora Pavla Béma (ODS) a jeho náměstka Petra Hulinského (ČSSD), protože městu hrozí promlčení nároku na náhradu škody. Doporučili jsme Krnáčové, aby vybrala nezkompromitovaného advokáta s výsledky v boji proti korupci.

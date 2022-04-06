@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/pirs.jpg
-tags:	opozice Praha zhmp
+tags:	[Piráti, Zastupitelstvo]
 date:	2015-05-07
 ---
 

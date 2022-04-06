@@ -1,10 +1,10 @@
 ---
 date:         2018-04-23
 category:     blog
-tags:         kauzy korupce
+tags:         [Protikorupční strategie]
 layout:       post
 title:        "Magistrát nenaplňuje protikorupční strategii, Piráti chtějí vysvětlení" 
-image:        zzz.jpg
+image:        posts/zzz.jpg
 author:       Adam Zábranský
 ---
 

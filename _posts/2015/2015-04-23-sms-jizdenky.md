@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/metro.jpg
-tags:	kauzy sms-jízdenky
+tags:	[SMS jízdenky]
 date:	2015-04-23
 ---
 
