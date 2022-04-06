@@ -1,8 +1,6 @@
 ---
 date:         2021-02-18
-tags:         
-- zahraničí
-- koronavirus
+tags:         [Pakt svobodných měst, Pandemie Covid-19]
 title:        "Primátoři metropolí V4 apelují: města a regiony se musí podílet na sestavování národních plánů obnovy"
 image: 	      posts/0hrib.jpg
 author:       MHMP

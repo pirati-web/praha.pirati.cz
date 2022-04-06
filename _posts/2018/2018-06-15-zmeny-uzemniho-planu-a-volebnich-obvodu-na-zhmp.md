@@ -1,10 +1,10 @@
 ---
 date:         2018-06-15
 category:     blog
-tags:         zhmp
+tags:         Zastupitelstvo
 layout:       post
 title:        "Divoké změny územního plánu a záchrana jednoho volebního obvodu" 
-image:        zastupitelstvo37.jpg
+image:        posts/zastupitelstvo37.jpg
 author:       Viktor Mahrik, Jan Loužek, Adam Zábranský
 ---
 

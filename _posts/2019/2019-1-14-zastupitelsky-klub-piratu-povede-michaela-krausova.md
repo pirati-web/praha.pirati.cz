@@ -1,8 +1,8 @@
 ---
 date:         2019-01-14
-tags:         zahraničí
+tags:         [Piráti]
 title:        "Novou předsedkyní zastupitelského klubu Pirátů se stala Michaela Krausová"
-image: 	      posts/posts/tk-krausova.jpg
+image: 	      posts/tk-krausova.jpg
 author:       ČTK (upraveno)
 ---
 

@@ -1,7 +1,7 @@
 ---
 date:         2017-01-27
 category:     blog
-tags:         praha doprava
+tags:         [Lítačka]
 layout:       post
 title:        "Jízdné v kuponu, na kartě nebo v mobilu. Piráti představují vizi odbavování v pražské dopravě." 
 image:        posts/automaty.jpg

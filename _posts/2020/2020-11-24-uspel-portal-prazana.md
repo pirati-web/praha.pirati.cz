@@ -1,7 +1,6 @@
 ---
 date:         2020-11-24
-tags:         
- - informatika
+tags:         [IT, Portál Pražana]
 title:        "Portál Pražana uspěl v soutěži Egovernment The Best 2020"
 image: 	      posts/0hrib.jpg
 author:       MHMP

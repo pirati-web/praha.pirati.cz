@@ -1,7 +1,7 @@
 ---
 date:	2016-09-21
 category:	blog
-tags:	zhmp
+tags:	Zastupitelstvo
 layout:	post
 title:	"Krnáčová s Udženijí zablokovaly Zastupitelstvo nelegálně, potvrzuje dokument." 
 image:	posts/uxh2.jpg

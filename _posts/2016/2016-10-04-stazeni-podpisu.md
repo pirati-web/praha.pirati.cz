@@ -1,7 +1,7 @@
 ---
 date:        2016-10-10
 category:        blog
-tags:        Praha
+tags:        Zastupitelstvo
 layout:        post
 title:        "Ministerstvo odmítlo řešit mimořádné zastupitelstvo v Praze, anonymové z ODS prý podpisy stáhli" 
 image:        posts/udzenija-podpis.jpg

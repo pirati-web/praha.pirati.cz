@@ -1,7 +1,6 @@
 ---
 date:         2020-12-07
-tags:         
- - zahraničí
+tags:         [Zdeněk Hřib]
 title:        "Zdeněk Hřib: Zařazení do žebříčku 28 nejvlivnějších Evropanů serveru Politico beru s velkou poctou"
 image: 	      posts/7hrib.jpg
 author:       Zdeněk Hřib

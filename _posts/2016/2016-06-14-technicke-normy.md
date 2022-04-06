@@ -1,7 +1,7 @@
 ---
 date:	2016-06-14
 category:	blog
-tags:	technické-normy
+tags:	[Transparentnost]
 layout:	post
 title:	"Stát kašle na pravomocný rozsudek, dostal od soudu již třetí pokutu" 
 image:	posts/unmz.png

@@ -1,6 +1,6 @@
 ---
 date:         2020-04-16
-tags:         ekonomika koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Praha připravila pomoc pro podnikatele postižené protikoronavirovými opatřeními"
 image: 	      posts/vitsimral2.jpg
 author:       MHMP

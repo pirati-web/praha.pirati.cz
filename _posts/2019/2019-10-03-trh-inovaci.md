@@ -1,6 +1,6 @@
 ---
 date:         2019-10-03
-tags:         ekonomika
+tags:         [Pražský inovační institut]
 title:        "Praha uspěla v evropské konkurenci v rámci zlepšování podnikatelského prostředí"
 image: 	      posts/posts/vitsimral2.jpg
 author:       Vít Šimral, MHMP
