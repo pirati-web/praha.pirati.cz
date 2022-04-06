@@ -1,7 +1,7 @@
 ---
 date:         2018-09-05
 category:     blog
-tags:         [Kultura]
+tags:         [kultura]
 layout:       post
 title:        "Místo Stalina pomník Krnáčové? Primátorka na poslední chvíli schválila projekt galerie na Letné."
 image:        posts/krnacova-metronom.jpg
