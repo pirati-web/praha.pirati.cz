@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek, Mikuláš Ferjenčík
 image:	posts/adriana-krnacova.jpg
-tags:	[Piráti]
+tags:	[Piráti, hnutí ANO]
 date:	2015-07-14
 ---
 

@@ -1,6 +1,6 @@
 ---
 date:         2021-12-21
-tags:         [Doprava, Železnice na Letiště Václava Havla]
+tags:         [Doprava, Letiště Václava Havla]
 title:        "Nová trať na letiště zase o krok blíž"
 image: 	      posts/murnak-9.jpg
 author:       Tomáš Murňák

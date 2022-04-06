@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Alexandra Herzog
 image:	posts/staromak.jpg
-tags:	Praha
+tags:	Turismus
 date:	2015-07-12
 ---
 

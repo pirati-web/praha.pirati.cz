@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Petr Běhounek
 image:	posts/dvere.jpg
-tags:	stáže
+tags:	[Piráti]
 date:	2015-06-02
 ---
 
