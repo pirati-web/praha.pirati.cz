@@ -1,6 +1,6 @@
 ---
 date:         2020-07-01
-tags:         informatika
+tags:         [Transparentnost, CityVizor]
 title:        "Pražské městské části se zapojují do aplikace CityVizor. Zpřístupňují tak své hospodaření veřejnosti"
 image: 	      posts/8hrib.jpg
 author:       MHMP

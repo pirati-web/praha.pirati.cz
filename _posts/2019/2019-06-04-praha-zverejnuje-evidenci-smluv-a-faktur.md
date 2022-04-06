@@ -5,7 +5,7 @@ title: "Piráti plní další ze slibů daných voličům: Praha zveřejňuje ev
 date: 2019-06-04
 author: "MHMP"
 image: opendata3.jpg
-tags: transparentnost magistrát
+tags: [Operátor ICT, Transparentnost]
 ---
 
 4. června 2019 – Praha. Magistrát hl. m. ve spolupráci s městskou společností Operátor ICT zpřístupnil na portálu otevřených dat rozpočet na úrovni smluv a faktur. Piráti tak pokračují v plnění předvolebního programu, kde se zavázali k transparentnosti.

@@ -5,7 +5,7 @@ tags:         [České dráhy, Radmila Kleslová]
 layout:       post
 title:        České dráhy nechtěly Pirátovi poskytnout informace o Kleslové, soud mu dal za pravdu
 image:        posts/kleslova-vlak.png
-author:       adam.zabransky
+authorId:       adam.zabransky
 ---
 
 Praha, 31. července 2018 – Piráti vyhráli další spor o informace. Soud dal za pravdu předsedovi pražských zastupitelů za Piráty Adamovi Zábranskému, který se bránil proti obstrukcím Českých drah. Ty mu totiž opakovaně odmítly poskytnout detailnější informace o smluvním vztahu s Radmilou Kleslovou.

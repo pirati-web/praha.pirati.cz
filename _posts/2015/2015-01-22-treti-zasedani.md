@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/ondra-i-miki.jpg
-tags:	zhmp
+tags:	[Zastupitelstvo]
 date:	2015-01-22
 ---
 

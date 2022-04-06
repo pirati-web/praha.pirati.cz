@@ -1,7 +1,7 @@
 ---
 date:         2017-06-08
 category:     blog
-tags:         praha koalice
+tags:	     [Rozpočet, Městský okruh, Zastupitelstvo]
 layout:       post
 title:        "Pražská koalice neumí zodpovědně hospodařit" 
 image:        posts/dolinek-spending.jpg

@@ -1,7 +1,7 @@
 ---
 date:	2016-03-21
 category:	blog
-tags:	[Praha 9]
+tags:	[Praha 9, Rozpočet]
 layout:	post
 title:	Koalice na Praze 9 neudržitelně utrácí
 image:	posts/roz9.jpg

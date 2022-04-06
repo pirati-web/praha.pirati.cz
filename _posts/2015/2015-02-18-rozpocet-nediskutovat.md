@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Viktor Mahrik
 image:	posts/rozpocet.jpg
-tags:	rozpočet
+tags:	[Rozpočet, Zastupitelstvo]
 date:	2015-02-18
 ---
 

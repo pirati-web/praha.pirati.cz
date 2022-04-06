@@ -5,7 +5,7 @@ title: "Jak Praha plní svůj letošní rozpočet? Dál akumuluje nevyužité mi
 date: 2017-08-26T12:44:00+02:00
 author: Jakub Michálek
 image: posts/pokladnice.jpg
-tags: ekonomika
+tags:	[Rozpočet]
 ---
 
 Dne 5. září vyšla [tisková zpráva Rady hlavního města Prahy](http://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/plneni_rozpoctu_hlavniho_mesta_prahy_za_3.html), že hospodaření metropole opět skončilo neplánovaným přebytkem 7,2 miliardy korun. Pokračuje ohrožující trend, kdy Praha není schopna naplánovat a realizovat zásadní investice do opravy majetku města, výstavby veřejné infrastruktury, digitalizace a úspor. 

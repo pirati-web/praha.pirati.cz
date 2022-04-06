@@ -1,7 +1,6 @@
 ---
 date:         2020-11-27
-tags:         
- - praha
+tags:	[Rozpočet, Zastupitelstvo]
 title:        "Praha představila rozpočet na rok 2021. Plánuje zachovat investice, omezí běžné výdaje"
 image: 	      posts/2021.jpg
 author:       MHMP

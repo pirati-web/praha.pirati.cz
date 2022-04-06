@@ -1,7 +1,7 @@
 ---
 date:         2017-11-30
 category:     blog
-tags:         rozpočet
+tags:	[Rozpočet, Zastupitelstvo]
 layout:       post
 title:        "Koalice připravila extrémně projídací rozpočet"
 image:        posts/feast.jpg
