@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/karel-mysli.jpg
-tags:	[Karel-Březina]
+tags:	[Karel Březina]
 date:	2016-01-27
 ---
 
