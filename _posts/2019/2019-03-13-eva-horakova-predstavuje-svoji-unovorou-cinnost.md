@@ -1,8 +1,8 @@
 ---
 date:         2019-03-13
-tags:         praha sociální-péče
+tags:         [Sociální politika]
 title:        "Únor Evy Horákové: Nový ředitel ústavu ve Svojšicích, situace v centru pro ohrožené ženy a Housing First"
-image: 	      posts/posts/evahorakova.jpg
+image: 	      posts/evahorakova.jpg
 author:       Eva Horáková
 ---
 

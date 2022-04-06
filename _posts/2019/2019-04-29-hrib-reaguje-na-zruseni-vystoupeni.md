@@ -1,12 +1,11 @@
 ---
 layout: post
 category: blog
-title: >-  
-  Primátor Zdeněk Hřib reaguje na zrušení vystoupení umělců spojených s Prahou ze strany Číny
+title: Primátor Zdeněk Hřib reaguje na zrušení vystoupení umělců spojených s Prahou ze strany Číny
 date: '2019-04-29 00:01am'
 author: Mediální odbor
-image: hrib-kamera2.jpg
-tags: praha zahraničí
+image: posts/hrib-kamera2.jpg
+tags: Kultura
 ---
 
 Praha, 28. dubna 2019 – Zdeněk Hřib a předseda Správní rady PKF-Prague Philharmonia Martin Klimpl okomentovali zrušení vystoupení umělců spojených s Prahou ze strany Čínské lidové republiky. Radní hl. m. Prahy využijí kontaktů města získaných při zahraničních cestách k tomu, aby byly sníženy negativní dopady. Martin Klimpl považuje podmiňování šíření kulturních zážitků zaujetím politických postojů za nepřípustné.

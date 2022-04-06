@@ -1,7 +1,7 @@
 ---
 date:         2018-01-30
 category:     blog
-tags:         doprava
+tags:         [Parkování, Václavské náměstí]
 layout:       post
 title:        "Nesouhlasíme s navyšováním parkovacích kapacit na Václavském náměstí" 
 image:        rampa.jpg

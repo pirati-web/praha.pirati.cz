@@ -1,7 +1,6 @@
 ---
 date:         2021-06-23
-tags:         
-- doprava
+tags:         [Parkování]
 title:        "Mahrik: Chceme, aby parkování ve městě bylo pro Pražany znovu dostupné"
 image: 	      posts/mahrik4.jpg
 author:       Viktor Mahrik

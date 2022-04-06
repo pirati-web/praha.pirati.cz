@@ -1,7 +1,6 @@
 ---
 date:         2021-10-22
-tags:         
-- sociální-péče
+tags:         [Sociální politika]
 title:        "Praha staví další lůžka v domovech pro seniory, nový systém rozvoje služeb se osvědčuje"
 image: 	      posts/adam-zabransky-6.jpg
 author:       MHMP

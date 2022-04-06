@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/magistrat.jpg
-tags:	informatika rhmp majetek
+tags:	[IT]
 date:	2015-04-28
 ---
 

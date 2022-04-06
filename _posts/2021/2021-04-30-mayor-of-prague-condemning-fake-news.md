@@ -1,7 +1,6 @@
 ---
 date:         2021-04-30
-tags:         
-- english
+tags:         [Zdeněk Hřib]
 title:        "Terrorist Attack in the Czech Republic: Mayor of Prague Zdeněk Hřib Condemns Czech President's Speech"
 image: 	      posts/8hrib.jpg
 author:       MHMP

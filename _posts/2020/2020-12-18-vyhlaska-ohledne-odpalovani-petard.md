@@ -1,8 +1,6 @@
 ---
 date:         2020-12-18
-tags:         
- - praha
- - bezpečnost
+tags:         [bezpečnost]
 title:        "Praha poskytne další dotace městským částem na rekonstrukce bytových jednotek a odkup ubytovny"
 image: 	      posts/0hrib.jpg
 author:       MHMP

@@ -1,7 +1,6 @@
 ---
 date:         2020-12-11
-tags:         
- - praha
+tags:         [Středočeský kraj]
 title:        "Radní z Prahy a Středočeského kraje si nastavili spolupráci, největší bude v dopravě, digitalizaci a ve školství"
 image: 	      posts/0hrib.jpg
 author:       MHMP
