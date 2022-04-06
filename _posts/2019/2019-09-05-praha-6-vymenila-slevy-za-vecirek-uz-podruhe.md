@@ -1,8 +1,8 @@
 ---
 date:         2019-09-05
-tags:         praha praha-6
+tags:         [Praha 6]
 title:        "Praha 6 vyměnila desetimilionové slevy pro developera za večírek. Už podruhé"
-image: 	      posts/posts/kolar-party.jpg
+image: 	      posts/kolar-party.jpg
 author:       Jiří Hoskovec, Ondřej Chrást, Eva Tichá
 ---
 
