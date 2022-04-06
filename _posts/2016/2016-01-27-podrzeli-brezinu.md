@@ -3,8 +3,8 @@ title:	ANO na kontrolním výboru podrželo Březinu
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	hasek-brezina.jpg
-tags:	magistrát Karel-Březina
+image:	posts/hasek-brezina.jpg
+tags:	[Karel Březina]
 date:	2016-01-27
 ---
 

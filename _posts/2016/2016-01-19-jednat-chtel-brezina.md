@@ -3,8 +3,8 @@ title:	Piráti – Podvodník Karel Březina pro nás není partner k jednání
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	brezina3.jpg
-tags:	Karel-Březina koalice
+image:	posts/brezina3.jpg
+tags:	[Piráti, Karel Březina]
 date:	2016-01-19
 ---
 

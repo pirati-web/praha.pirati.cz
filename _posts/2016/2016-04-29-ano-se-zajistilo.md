@@ -1,7 +1,7 @@
 ---
 date:	2016-04-29
 category:	blog
-tags:	Praha zhmp Karel-Březina
+tags:	[Karel Březina]
 layout:	post
 title:	"Březina bude předsedou výboru pro majetek, ANO se zajistilo." 
 image:	brezina-ludvik.jpg

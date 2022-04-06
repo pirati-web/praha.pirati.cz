@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/brezina2.jpg
-tags:	korupce Karel-Březina kauzy
+tags:	[Karel Březina]
 date:	2015-09-02
 ---
 

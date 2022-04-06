@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/brezina.jpg
-tags:	kauzy Karel-Březina
+tags:	[Karel Březina]
 date:	2015-08-03
 ---
 

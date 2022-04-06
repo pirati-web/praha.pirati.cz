@@ -3,8 +3,8 @@ title:	Březina zákon porušil několikrát, odsouzen byl pouze jednou
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	karel-brezina.jpg
-tags:	Karel-Březina kauzy
+image:	posts/karel-brezina.jpg
+tags:	[Karel Březina]
 date:	2015-10-03
 ---
 

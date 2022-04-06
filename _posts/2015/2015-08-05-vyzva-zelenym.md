@@ -4,13 +4,11 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/duchod-brezina.jpg
-tags:	kauzy Karel-Březina
+tags:	[Karel Březina]
 date:	2015-08-05
 ---
 
-Milí zelení, 
-
-jsou věci, ve kterých se shodneme, věci, ve kterých se neshodneme, občas spolupracujeme, občas se špičkujeme. Ted je ale čas na to, aby všechny slušné strany, které nechtějí mít s korupcí nic do činění, táhly za jeden provaz. 
+Milí zelení, jsou věci, ve kterých se shodneme, věci, ve kterých se neshodneme, občas spolupracujeme, občas se špičkujeme. Ted je ale čas na to, aby všechny slušné strany, které nechtějí mít s korupcí nic do činění, táhly za jeden provaz. 
 
 Bývalý náměstek primátora a současný předseda zastupitelského klubu ČSSD Karel Březina měl údajně nabízet úplatek soudci Havlínovi, stíhanému za korupci. Ten naopak uvažoval o tom, jak si na oplátku objedná změny pražského územního plánu pro pražského podnikatelského bosse. Před třemi dny tuto informaci z policejního odposlechu zveřejnil týdeník Respekt. Soudce Havlín Březinu v jeho trestním stíhání 4krát zprostil (to bylo moc i na odvolací soud, který ho následně uznal vinným) - těžko lze věřit tomu, že to soudce Havlín udělal nezištně. Přitom už v roce 2014 byl Březina shledán vinným z podvodu v pražském dopravním podniku. Viz následující články: 
 
