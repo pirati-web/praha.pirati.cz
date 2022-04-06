@@ -1,8 +1,6 @@
 ---
 date:         2021-02-08
-tags:         
-- školství
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Praha apeluje na vládu, aby učitelé byli přednostně očkováni, a žádá o stanovení data otevření škol"
 image: 	      posts/8hrib.jpg
 author:       MHMP

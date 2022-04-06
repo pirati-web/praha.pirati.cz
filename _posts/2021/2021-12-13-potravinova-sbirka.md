@@ -1,7 +1,6 @@
 ---
 date:         2021-12-13
-tags:        
-- praha
+tags:        [Piráti, Primátorská potravinová sbírka]
 title:        "Druhý ročník primátorské potravinové sbírky se uskuteční ve čtvrtek 16. prosince na Mariánském náměstí"
 image: 	      posts/7hrib.jpg
 author:       MHMP

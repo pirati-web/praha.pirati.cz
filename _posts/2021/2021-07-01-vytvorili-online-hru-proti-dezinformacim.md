@@ -1,7 +1,6 @@
 ---
 date:         2021-07-01
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Cambridgeská univerzita vytvořila online edukační hru proti dezinformacím o covidu-19 GoViral! Nyní je dostupná i v češtině"
 image: 	      posts/goviral.jpg
 author:       MHMP

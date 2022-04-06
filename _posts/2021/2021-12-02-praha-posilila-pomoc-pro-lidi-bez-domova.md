@@ -1,7 +1,6 @@
 ---
 date:         2021-12-02
-tags:        
-- sociální-péče
+tags:        [Sociální péče]
 title:        "Praha posílila pomoc pro lidi bez domova během zimních měsíců"
 image: 	      posts/bezdomova.jpg
 author:       Piráti

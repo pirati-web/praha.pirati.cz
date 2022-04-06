@@ -1,8 +1,6 @@
 ---
 date:         2021-09-24
-tags:         
-- koronavirus
-- očkování
+tags:         [Pandemie Covid-19]
 title:        "V Očkovacím autobuse dostalo vakcínu už téměř 1 200 lidí. Jeho provoz o víkendu skončí"
 image: 	      posts/ockobus.jpg
 author:       MHMP

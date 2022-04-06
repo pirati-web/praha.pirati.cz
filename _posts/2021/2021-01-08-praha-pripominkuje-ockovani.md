@@ -1,7 +1,6 @@
 ---
 date:         2021-01-08
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Hlavní město připomínkuje vládní plán očkování"
 image: 	      posts/magistrat3.jpg
 author:       MHMP

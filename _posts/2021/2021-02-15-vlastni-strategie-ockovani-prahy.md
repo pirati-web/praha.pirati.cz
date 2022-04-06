@@ -1,7 +1,6 @@
 ---
 date:         2021-02-15
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Praha má vlastní strategii očkování, pomůže lépe zvládat zmatky a časté změny vládní kampaně"
 image: 	      posts/9hrib.jpg
 author:       MHMP

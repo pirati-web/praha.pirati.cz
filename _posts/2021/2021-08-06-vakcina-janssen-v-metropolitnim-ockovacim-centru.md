@@ -1,8 +1,6 @@
 ---
 date:         2021-08-06
-tags:         
-- koronavirus
-- očkování
+tags:         [Pandemie Covid-19]
 title:        "V Metropolitním očkovacím centru se budou moci neregistrovaní zájemci nechat očkovat i vakcínou Janssen"
 image: 	      posts/ockobus.jpg
 author:       MHMP

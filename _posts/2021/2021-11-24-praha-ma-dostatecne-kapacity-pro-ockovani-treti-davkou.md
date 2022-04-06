@@ -1,7 +1,6 @@
 ---
 date:         2021-11-24
-tags:        
-- koronavirus
+tags:        [Pandemie Covid-19]
 title:        "Praha má dostatečné kapacity pro očkování i třetí dávkou a vyzývá občany ke vzájemné ohleduplnosti"
 image: 	      posts/pakul.jpg
 author:       MHMP

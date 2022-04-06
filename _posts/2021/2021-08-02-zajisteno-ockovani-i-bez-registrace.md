@@ -1,8 +1,6 @@
 ---
 date:         2021-08-02
-tags:         
-- koronavirus
-- očkování
+tags:         [Pandemie Covid-19]
 title:        "V Metropolitním očkovacím centru se nově aplikuje vakcína lidem i bez předchozí registrace"
 image: 	      posts/pakul.jpg
 author:       MHMP

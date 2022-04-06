@@ -1,7 +1,6 @@
 ---
 date:         2021-10-27
-tags:         
-- zdravotnictví
+tags:         [Pandemie Covid-19]
 title:        "Očkovací místo v Městské poliklinice Praha nabízí zájemcům jednodávkové vakcíny"
 image: 	      posts/9hrib.jpg
 author:       MHMP

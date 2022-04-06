@@ -1,7 +1,6 @@
 ---
 date:         2021-03-02
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Apel vedení Prahy: Nacházíme se v bodu zlomu. Situace je vážná, Praha ale nabízí pomocnou ruku"
 image: 	      posts/hrib-respirator2.jpg
 author:       MHMP

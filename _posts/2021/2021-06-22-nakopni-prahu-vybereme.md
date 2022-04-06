@@ -1,7 +1,6 @@
 ---
 date:         2021-06-22
-tags:         
-- inovace
+tags:         [Nakopni Prahu]
 title:        "Praha vybere vítěze inovačního maratonu #NakopniPrahu 2"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

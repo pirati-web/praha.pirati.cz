@@ -1,7 +1,6 @@
 ---
 date:         2021-09-02
-tags:         
-- očkování
+tags:         [Pandemie Covid-19]
 title:        "V Metropolitním očkovacím centru již bylo plně naočkováno 100 tisíc klientů"
 image: 	      posts/ockovani.jpg
 author:       MHMP
