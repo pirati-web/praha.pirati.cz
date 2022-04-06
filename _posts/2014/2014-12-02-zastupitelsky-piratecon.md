@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	posts/pirati-ujezd.jpg
-tags:	akce piráti
+tags:	[Piráti]
 date:	2014-12-02
 ---
 

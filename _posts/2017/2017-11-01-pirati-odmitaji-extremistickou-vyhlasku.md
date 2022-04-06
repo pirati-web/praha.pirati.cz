@@ -1,7 +1,7 @@
 ---
 date:         2017-11-01
 category:     blog
-tags:         praha-1
+tags:         [Praha 1]
 layout:       post
 title:        "Odmítáme extrémistickou protialkoholní vyhlášku"
 image:        posts/vystraha.jpg

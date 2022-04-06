@@ -3,8 +3,8 @@ title:	Řídit Prahu 9 jako banku...
 layout:	post
 category:	blog
 author:	Dana Balcarová
-image:	praha9.png
-tags:	praha-9
+image:	posts/raha9.png
+tags:	[Praha 9]
 date:	2016-02-07
 ---
 

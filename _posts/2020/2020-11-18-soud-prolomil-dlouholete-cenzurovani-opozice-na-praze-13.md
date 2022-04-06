@@ -1,7 +1,6 @@
 ---
 date:         2020-11-18
-tags:         
- - praha-13 
+tags:         [Praha 13]
 title:        "Soud svým rozhodnutím prolomil dlouholeté cenzurování opozice na Praze 13"
 image: 	      posts/praha13b.jpg
 author:       Václav Hrdlička

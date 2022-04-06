@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/herny.jpg
-tags:	herny
+tags:	[Regulace hazardu]
 date:	2014-10-08
 ---
 

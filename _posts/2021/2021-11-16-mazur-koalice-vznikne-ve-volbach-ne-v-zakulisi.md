@@ -1,7 +1,6 @@
 ---
 date:         2021-11-16
-tags:         
-- praha
+tags:         [Volby 2022]
 title:        "Pirát Mazur: O budoucí koalici v Praze rozhodnou až voliči, ne političtí matadoři a šíbři"
 image: 	      posts/mazur.jpg
 author:       MHMP

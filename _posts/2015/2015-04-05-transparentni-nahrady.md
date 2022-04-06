@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/zastupko.jpg
-tags:	informace piráti
+tags:	[Piráti, Transparentnost]
 date:	2015-04-05
 ---
 

@@ -1,7 +1,7 @@
 ---
 date:         2019-10-04
-tags:         praha-13 transparentnost
-title:        "Rada Prahy 13 uzavíra výbory veřejnosti"
+tags:         [Praha 13, Transparentnost]
+title:        "Rada Prahy 13 uzavírá výbory veřejnosti"
 image: 	      posts/posts/praha13b.jpg
 author:       Václav Hrdlička, Zuzana Drhová
 ---

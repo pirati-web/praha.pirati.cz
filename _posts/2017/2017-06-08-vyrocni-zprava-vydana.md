@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	posts/zastupitele.jpg
-tags:	piráti
+tags:	[Piráti]
 date:	2015-06-08
 ---
 

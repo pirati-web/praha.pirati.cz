@@ -4,7 +4,7 @@ layout:	post
 author:	Jakub Michálek
 category:	blog
 image:	posts/zastupitelstvo.jpg
-tags:	zhmp
+tags:	[Volby 2014]
 date:	2014-10-13
 ---
 

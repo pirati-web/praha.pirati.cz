@@ -4,7 +4,7 @@ layout:	post
 author:	Mikuláš Ferjenčík
 category: blog
 image:	posts/krajske-forum.jpg
-tags: zhmp
+tags:   [Volby 2014]
 date:	2014-11-05
 ---
 

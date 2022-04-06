@@ -4,7 +4,7 @@ layout:	post
 author:	Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík, Adam Zábranský
 category:	blog
 image:	posts/rada.jpg
-tags:	rhmp
+tags:	[Volby 2014]
 date:	2014-10-12
 ---
 

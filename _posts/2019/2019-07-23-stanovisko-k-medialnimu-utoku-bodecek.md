@@ -1,9 +1,9 @@
 ---
 date:         2019-07-23
-tags:         praha-1 kauzy stanovisko
+tags:         [Praha 1]
 title:        "Oficiální stanovisko Pirátů Prahy 1 k mediálním útokům na pirátského radního pro majetek Davida Bodečka: "
 image: 	      posts/posts/bodecek-blesk.jpg
-author:       Mediální odbor
+author:       Piráti Praha 1
 ---
 
 V Radě Prahy 1 máme pouze 2 hlasy z 8. Náš radní David Bodeček je neprávem zatahován do kauzy o jeho údajném střetu zájmů. Jedná se však o rozhodnutí celé Rady města Prahy 1 a souzní se stávajícím nastavením celé koalice.

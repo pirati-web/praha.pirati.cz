@@ -1,8 +1,8 @@
 ---
 date:         2019-08-02
-tags:         praha-2
+tags:         [Praha 2]
 title:        "Na náměstí Míru proběhne uctění památky obětí romského holocaustu"
-image: 	      posts/posts/namestimiru.jpg
+image: 	      posts/namestimiru.jpg
 author:       Lydie Franka Bartošová
 ---
 

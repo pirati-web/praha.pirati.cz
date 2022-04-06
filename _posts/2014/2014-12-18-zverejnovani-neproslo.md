@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/adam-papir.jpg
-tags:	informace zveřejňování-smluv
+tags:	[Transparentnost]
 date:	2014-12-18
 ---
 

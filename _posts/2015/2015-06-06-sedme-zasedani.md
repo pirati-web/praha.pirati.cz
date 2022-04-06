@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/magistrat.jpg
-tags:	zhmp
+tags:	[Zastupitelstvo]
 date:	2015-06-06
 ---
 

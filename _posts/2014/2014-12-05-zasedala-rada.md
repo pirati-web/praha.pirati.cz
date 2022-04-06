@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant
 image:	posts/magistrat.jpg
-tags:	projev
+tags:	[IT]
 date:	2014-12-05
 ---
 

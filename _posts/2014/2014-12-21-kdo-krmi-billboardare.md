@@ -4,6 +4,7 @@ layout:	post
 author:	Jakub Michálek
 category:	blog
 image:	posts/psp.jpg
+tags:   [stavební-předpisy]
 date:	2014-12-21
 ---
 

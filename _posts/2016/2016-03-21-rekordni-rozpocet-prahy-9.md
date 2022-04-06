@@ -1,10 +1,10 @@
 ---
 date:	2016-03-21
 category:	blog
-tags:	praha-9
+tags:	[Praha 9]
 layout:	post
 title:	Koalice na Praze 9 neudržitelně utrácí
-image:	roz9.jpg
+image:	posts/roz9.jpg
 author:	Dana Balcarová
 ---
 

@@ -1,7 +1,7 @@
 ---
 date:         2017-05-24
 category:     blog
-tags:         praha-9
+tags:         [Praha 9]
 layout:       post
 title:        "Dana Balcarová varuje: Náměstí OSN čeká další zástavba" 
 image:        posts/praha-9-namesti-osn.jpg

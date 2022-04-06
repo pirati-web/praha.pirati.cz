@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/pirati-vs-kalousek.jpg
-tags:	informace
+tags:	[Transparentnost]
 date:	2014-11-19
 ---
 

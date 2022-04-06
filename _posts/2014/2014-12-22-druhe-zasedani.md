@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	posts/miki.jpg
-tags:	zhmp
+tags:	[Zastupitelstvo]
 date:	2014-12-22
 ---
 

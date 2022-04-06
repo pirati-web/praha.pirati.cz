@@ -4,6 +4,7 @@ layout:	post
 author:	Jakub Michálek
 category:	blog
 image:	posts/louzek-amelia.jpg
+tags:   [Piráti]
 date:	2014-11-06
 ---
 

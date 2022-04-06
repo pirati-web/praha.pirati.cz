@@ -4,6 +4,7 @@ layout:	post
 author:	Mikuláš Ferjenčík
 category:	blog
 image:	posts/magistrat.jpg
+tags:   [Volby 2014]
 date:	2014-11-11
 ---
 

@@ -1,10 +1,10 @@
 ---
 date:         2018-01-26
 category:     blog
-tags:         piráti
+tags:         [Nemocnice Na Františku, Piráti]
 layout:       post
 title:        "Praha schválila záměr na převzetí Nemocnice na Františku. Výměna stráží u Pirátů dokončena" 
-image:        zastupitelstvo-mikolas.jpg
+image:        posts/zastupitelstvo-mikolas.jpg
 author:       Jan Loužek, Adam Zábranský
 ---
 

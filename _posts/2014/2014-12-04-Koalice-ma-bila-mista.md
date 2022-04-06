@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/jakub-hovori.jpg
-tags:	projev koalice
+tags:	[Volby 2014]
 date:	2014-12-04
 ---
 

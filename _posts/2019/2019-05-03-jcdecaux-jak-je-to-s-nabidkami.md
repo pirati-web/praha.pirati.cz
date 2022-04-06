@@ -1,12 +1,11 @@
 ---
 layout: post
 category: blog
-title: >-  
-  Štěpán Štrébl: Jak je to vlastně s těmi reklamními plochami od JCDecaux?
+title: Štěpán Štrébl: Jak je to vlastně s těmi reklamními plochami od JCDecaux?
 date: '2019-05-03 00:01am'
 author: "Štěpán Štrébl"
-image: magistrat.jpg
-tags: praha 
+image: posts/magistrat.jpg
+tags: [Volby 2018] 
 ---
 
 Včera mi volal někdo z Novy a ptal se mě na náš deal s JCDecaux. Tenhle post doufám bude mít podobný efekt na probíhající debatu, jako Obamův rodný list na debatu o jeho původu. Dohledal jsem v mailech inkriminovanou objednávku a zveřejňuji ji. Můj závěr bude taky stejný jako u Obamy - máme důležitější věci na práci než řešit tyhle hovadiny. Ale než se k tomu závěru dostanu, tak si jdu nejdřív přihřát polívčičku.

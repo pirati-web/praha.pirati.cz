@@ -1,7 +1,7 @@
 ---
 date:         2017-05-03
 category:     blog
-tags:         Karel-Březina zhmp kauzy
+tags:         [Karel Březina]
 layout:       post
 title:        "Piráti: Březino, odstup už konečně!" 
 image:        posts/klepeta.jpg
