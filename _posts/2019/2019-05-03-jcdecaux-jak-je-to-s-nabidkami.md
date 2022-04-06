@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Štěpán Štrébl: Jak je to vlastně s těmi reklamními plochami od JCDecaux?
+title: Jak je to s reklamními plochami od JCDecaux?
 date: '2019-05-03 00:01am'
 author: "Štěpán Štrébl"
 image: posts/magistrat.jpg
