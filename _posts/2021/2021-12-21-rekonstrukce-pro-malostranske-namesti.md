@@ -1,9 +1,9 @@
 ---
-date:         2021-12-21
-tags:         [Malostranské náměstí]
-title:        "Malostranské náměstí se dočká rekonstrukce"
-image: 	      posts/tomas-murnak.jpg
-author:       Tomáš Murňák
+date: 2021-12-21
+tags: [Malostranské náměstí]
+title: "Malostranské náměstí se dočká rekonstrukce"
+image: posts/tomas-murnak.jpg
+author: Tomáš Murňák
 ---
  
 Malostranské náměstí se dočká celková rekonstrukce. Po ní již na něm nebude možné parkovat, přibudou ovšem nové stromy, kašna i městský mobiliář. Rekonstrukce za 84 milionů Kč přesto zachová historickou hodnotu místa i jeho genius loci.
