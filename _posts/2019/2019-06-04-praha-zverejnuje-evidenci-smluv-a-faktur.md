@@ -4,7 +4,7 @@ category: blog
 title: "Piráti plní další ze slibů daných voličům: Praha zveřejňuje evidenci smluv a faktur"
 date: 2019-06-04
 author: "MHMP"
-image: opendata3.jpg
+image: posts/opendata3.jpg
 tags: [Operátor ICT, Transparentnost]
 ---
 

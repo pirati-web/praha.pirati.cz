@@ -4,13 +4,11 @@ category: blog
 title: "Červen Jaromíra Beránka: Dobíjecí stanice pro elektromobily, metro D a pražský inovační maraton"
 date: 2019-07-04
 author: "Jaromír Beránek"
-image: jaromir-beranek2.jpg
-tags: informatika 
+image: posts/jaromir-beranek2.jpg
+tags: [IT, prg.ai] 
 ---
 
-Milí Pražané. Po měsíci se opět hlásím s reportem za uplynulé období. 
-
-Hned první červnový týden jsem se vypravil do Brna na Smart City veletrh URBIS, kde jsem vedle účasti na přednáškách diskutoval o chytrých řešeních v dopravě se zástupci budapešťského dopravního podniku nebo o monitoringu zdravotního stavu stromů s tvůrci nástroje Safe Trees.
+Milí Pražané. Po měsíci se opět hlásím s reportem za uplynulé období. Hned první červnový týden jsem se vypravil do Brna na Smart City veletrh URBIS, kde jsem vedle účasti na přednáškách diskutoval o chytrých řešeních v dopravě se zástupci budapešťského dopravního podniku nebo o monitoringu zdravotního stavu stromů s tvůrci nástroje Safe Trees.
 
 Společně s Vítem Šimralem jsme se setkali se zástupci společnosti i&i (dceřiná společnost Ústavu organické chemie a biochemie AV ČR) a detailně diskutovali o projektu biotechnologického akcelerátoru v pražském Bubenči. Mám obrovskou radost, že se rodí stále nové nápady a mnohé z nich nabízejí dlouhodobý inovační potenciál, který pomůže Praze stát se vedle historického a kulturního města skutečnou metropolí vědy, výzkumu a vzdělanosti! Zabývám se proto nyní úvahami, jak z pozice města deep-tech inovace systematicky podpořit. Mojí představou je vytvořit koncept a brand „Powered by Prague“, který by (nejen) projektům v oblastech AI, biotechu, blockchainu, fintechu nebo gamingu nabídl potřebné zázemí a nástroje pro rychlý rozvoj, aby Praha jako specializovaný "hub" dokázala konkurovat jiným městům se silným inovačním kapitálem.
 

@@ -1,6 +1,6 @@
 ---
 date:         2020-02-25
-tags:         informatika
+tags:         [IT]
 title:        "Praha bude spolupořádat kongres ICGAI"
 image: 	      posts/0hrib.jpg
 author:       MHMP
