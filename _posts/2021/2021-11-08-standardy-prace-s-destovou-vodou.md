@@ -1,7 +1,6 @@
 ---
 date:         2021-11-08
-tags:         
-- ekonomika
+tags:         [životní-prostředí]
 title:        "Rada schválila Standardy pro hospodaření se srážkovou vodou. Žádné tepelné ostrovy, naopak přirozený vodní režim"
 image: 	      posts/novaradnice.jpg
 author:       MHMP
