@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík, Adam Zábranský
 image:	posts/dolinek.jpg
-tags:	zveřejňování-smluv
+tags:	[Transparentnost]
 date:	2015-06-22
 ---
 

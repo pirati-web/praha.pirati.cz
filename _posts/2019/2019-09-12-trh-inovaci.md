@@ -1,6 +1,6 @@
 ---
 date:         2019-09-12
-tags:         praha inovace technologie
+tags:         [Pražský inovační institut]
 title:        "Trh inovací zvítězil v národním kole Evropské ceny za podporu podnikání 2019"
 image: 	      posts/posts/vitsimral2.jpg
 author:       MHMP

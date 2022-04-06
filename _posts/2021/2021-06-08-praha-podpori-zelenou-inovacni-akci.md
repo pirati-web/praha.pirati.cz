@@ -1,8 +1,6 @@
 ---
 date:         2021-06-08
-tags:         
-- informatika
-- inovace
+tags:         [Pražský inovační institut]
 title:        "Praha přivítá největší „zelenou“ inovační akci v Evropě"
 image: 	      posts/8hrib.jpg
 author:       MHMP

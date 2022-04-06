@@ -1,6 +1,6 @@
 ---
 date:         2019-09-12
-tags:         praha informatika
+tags:         [Operátor ICT, Otevřená data]
 title:        "Operátor ICT se stal koordinátorem otevřených dat pro Prahu"
 image: 	      posts/posts/opendata4.jpg
 author:       MHMP
