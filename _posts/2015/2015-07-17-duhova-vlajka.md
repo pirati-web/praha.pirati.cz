@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/duhova-vlajka.jpg
-tags:	Praha
+tags:	[Prague Pride]
 date:	2015-07-17
 ---
 

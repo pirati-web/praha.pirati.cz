@@ -1,7 +1,6 @@
 ---
 date:         2021-09-07
-tags:         
-- praha
+tags:         [Zdeněk Hřib]
 title:        "Reakce primátora na otevřený dopis prezidenta"
 image: 	      posts/7hrib.jpg
 author:       Zdeněk Hřib

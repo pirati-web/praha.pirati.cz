@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/jakub-na-zastupku.jpg
-tags:	informace majetek magistrát
+tags:	[Transparentnost]
 date:	2015-04-17
 ---
 

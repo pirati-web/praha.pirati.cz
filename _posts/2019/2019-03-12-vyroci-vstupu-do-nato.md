@@ -4,6 +4,7 @@ tags:         praha
 title:        "Na Nové radnici dnes vlaje vlajka NATO. Slaví i MHD"
 image: 	      posts/posts/vlajka.jpg
 author:       Martina Vacková
+tags:         [NATO]
 ---
 
 Představitelé hlavního města Prahy v čele s primátorem Zdeňkem Hřibem dnes na oslavu 20. výročí vstupu České republiky do Severoatlantické aliance vyvěsili její vlajku na budovu Nové radnice na Mariánském náměstí.

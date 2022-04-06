@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/navrh.jpg
-tags:	granty
+tags:	[Karel Březina, Radmila Kleslová]
 date:	2015-02-18
 ---
 

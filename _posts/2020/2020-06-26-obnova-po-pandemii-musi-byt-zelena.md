@@ -1,6 +1,6 @@
 ---
 date:         2020-06-26
-tags:         praha
+tags:         [Pakt svobodných měst, Pandemie Covid-19]
 title:        "Primátoři hlavních měst V4: „Obnova po pandemii musí být zelená. Žádáme EU o partnerství“"
 image: 	      posts/0hrib.jpg
 author:       MHMP

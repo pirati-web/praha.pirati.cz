@@ -1,7 +1,6 @@
 ---
 date:         2021-10-08
-tags:         
-- sociální-politika
+tags:         [Sociální politika]
 title:        "Pražští radní schválili další projekty na podporu sociálních služeb"
 image: 	      posts/novaradnice.jpg
 author:       MHMP

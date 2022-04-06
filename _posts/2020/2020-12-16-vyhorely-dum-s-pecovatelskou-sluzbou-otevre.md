@@ -1,7 +1,6 @@
 ---
 date:         2020-12-16
-tags:         
- - sociální-politika
+tags:         [Sociální politika]
 title:        "Vyhořelý dům s pečovatelskou službou na Černém Mostě se znovu otevře. Rekonstrukce trvala přesně rok"
 image: 	      posts/magistrat3.jpg
 author:       MHMP
