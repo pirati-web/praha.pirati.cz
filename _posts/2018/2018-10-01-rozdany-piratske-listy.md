@@ -1,10 +1,10 @@
 ---
 date:         2018-10-01
 category:     blog
-tags:         kampaň
+tags:         [Volby 2018]
 layout:       post
 title:        "Pirátské listy v rekordním nákladu rozdává v ulicích Prahy dosud největší počet dobrovolníků"
-image:        dobrovolnik.jpg
+image:        posts/dobrovolnik.jpg
 author:       Marcela Šroubková
 ---
 

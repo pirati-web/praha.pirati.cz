@@ -3,8 +3,8 @@ title:	Praha 1 žádá od Piráta 2,5 milionu Kč za informace, které jinde dos
 layout:	post
 category:	blog
 author:	Olga Richterová
-image:	urednici-praha1.jpg
-tags:	praha-1 informace
+image:	posts/urednici-praha1.jpg
+tags:	[Praha 1]
 date:	2016-02-04
 ---
 

@@ -1,10 +1,10 @@
 ---
 date:         2018-08-16
 category:     blog
-tags:         informatika magistrát
+tags:         [Portál Pražana, Volby 2018]
 layout:       post
 title:        Piráti zavedou jeden pražský webový portál pro vyřizování žádostí na úřadech
-image:        hrib3.jpg
+image:        posts/hrib3.jpg
 author:       Zdeněk Hřib
 ---
 

@@ -5,7 +5,7 @@ title: "Praha tratí desítky milionů ročně na pronájmech restaurací. Pirá
 date: 2017-09-26T15:57:00+02:00
 author: Adam Zábranský
 image: posts/restaurace2.jpg
-tags: praha-1
+tags: [Praha 1]
 ---
 
 Rada hlavního města Prahy na svém úterním jednání schválila novou nájemní smlouvu na restauraci v Rytířské ulici. Za pronájem restaurace, kterou Praha dříve pronajímala za 500 000 Kč ročně, bude nový provozovatel platit desetinásobek - 5,4 milionu Kč ročně. V cenách za metr čtvereční za rok došlo k nárůstů z 3800 Kč na 41 600 Kč za rok (nejnižší nabídka ve výběrovém řízení byla 21 000 Kč).

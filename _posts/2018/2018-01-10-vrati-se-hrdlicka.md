@@ -1,7 +1,7 @@
 ---
 date:         2018-01-10
 category:     blog
-tags:         praha-10
+tags:         [Praha 10]
 layout:       post
 title:        "Čeká Prahu návrat kmotra Tomáše Hrdličky?" 
 image:        posts/praha10a.jpg

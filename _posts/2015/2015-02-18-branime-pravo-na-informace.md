@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/kleslova-chobotnice.jpg
-tags:	praha-10
+tags:	[Praha 10]
 date:	2015-02-18
 ---
 

@@ -1,11 +1,11 @@
 ---
 date:         2018-11-13
 category:     blog
-tags:         koalice praha-4
+tags:         [Praha 4, Volby 2018]
 layout:       post
 title:        "Piráti dementují: Koaliční smlouva v Praze 4 platí"
-image:        vansa2.jpg
-author:       Tibor Vansa
+image:        posts/vansa2.jpg
+authorId:     tibor.vansa
 ---
 
 Praha 13. 11. 2018. Česká televize dnes ráno nepravdivě informovala, že: „Dohodnutá povolební koalice v Praze 4 mezi Piráty, Prahou 4 sobě a hnutím Společně pro Prahu neplatí. Poté co soud přerozdělil počet mandátů a původní koalice by měla jen těsnou většinu, se vedou nová vyjednávání.“ Tato informace není pravdivá.

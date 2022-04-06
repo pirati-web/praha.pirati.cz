@@ -1,11 +1,11 @@
 ---
 date:         2018-08-07
 category:     blog
-tags:         kauzy praha-1
+tags:         [Praha 1]
 layout:       post
 title:        Znalec a vedoucí majetkového odboru Prahy 1 odmítli vypovídat v kauze pochybného prodeje bytů
-image:        praha1-2.jpg
-author:       David Bodeček
+image:        posts/praha1-2.jpg
+authorId:     david.bodecek
 ---
 
 Praha, 7. srpna 2018 – Prodej bytů Městskou části Praha 1 je opět vyšetřován Policií ČR. Škoda, která mohla Praze 1 vzniknout pochybným postupem znalce, dosahuje minimálně 2,6 mil. Kč. Vedoucí odboru majetku Prahy 1 a soudní znalec odmítli vypovídat.

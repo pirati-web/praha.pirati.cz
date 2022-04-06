@@ -1,7 +1,7 @@
 ---
 date:	2016-05-17
 category:	blog
-tags:	praha-1
+tags:	[Praha 1]
 layout:	post
 title:	"Utajené smlouvy Prahy 1. Kdo na nich vydělává?" 
 image:	posts/praha1.jpg

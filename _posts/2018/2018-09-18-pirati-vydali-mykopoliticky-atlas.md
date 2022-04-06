@@ -1,10 +1,10 @@
 ---
 date:         2018-09-18
 category:     blog
-tags:         kampaň
+tags:         [Volby 2018]
 layout:       post
 title:        "Piráti vydali mykopolitický atlas, aby se voliči neotrávili předvolební kampaní"
-image:        mykopoliticky-atlas.jpg
+image:        posts/mykopoliticky-atlas.jpg
 author:       Adam Zábranský
 ---
 

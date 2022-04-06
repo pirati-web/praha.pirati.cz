@@ -1,11 +1,11 @@
 ---
 date:         2018-09-12
 category:     blog
-tags:         praha-1 kauzy
+tags:         [Praha 1]
 layout:       post
 title:        "Zastupitelstvo Prahy 1 schválilo prodej bytu za 19 milionů, úřad jej však prodal za 7. Piráti podali trestní oznámení"
-image:        megasale.jpg
-author:       David Bodeček
+image:        posts/megasale.jpg
+authorId:     david.bodecek
 ---
 
 Praha, 12. září 2018 – Piráti podali další trestní oznámení kvůli nehospodárnému prodeji bytů Prahou 1. Ač zastupitelstvo schválilo u jednoho konkrétního bytu cenu 19 milionů korun, úřad ho nakonec prodal za 7,1 milionů. Žádný znalecký posudek, zda jde o cenu obvyklou, vypracován nebyl. Výsledná cena tak byla 31 tisíc korun za metr čtvereční, což je o více než polovinu menší částka než tehdejší cena obvyklá, jak vyplývá z [cenové mapy společnosti Ekospol](https://www.hypoindex.cz/tiskove-zpravy/unikatni-cenova-mapa-vi-kolik-stoji-metr-noveho-bytu-v-praze/). Praha 1 přišla o 9 milionů.

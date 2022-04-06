@@ -1,11 +1,11 @@
 ---
 date:         2018-08-29
 category:     blog
-tags:         praha-1
+tags:         [Praha 1]
 layout:       post
 title:        Vládnoucí TOP 09 na Praze 1 prodává svým členům městské byty za hubičku
-image:        top-byty.jpg
-author:       David Bodeček
+image:        posts/top-byty.jpg
+authorId:     david.bodecek
 ---
 
 Praha, 29. srpna 2018 – Praha 1, jejíž starostou je Oldřich Lomecký z TOP 09, prodala člence a kandidátce TOP 09 Kateřině Hamr městský byt za devítinu tržní ceny. Ta se ho o rok později zbavila se ziskem 6,5 milionu korun.

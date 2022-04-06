@@ -1,10 +1,10 @@
 ---
 date:         2018-09-11
 category:     blog
-tags:         praha kampaň
+tags:         [Volby 2018]
 layout:       post
 title:        "Reklamní plochy pro politickou kampaň jsou rozdělovány nespravedlivě."
-image:        sololit.jpg
+image:        posts/sololit.jpg
 author:       Zdeněk Hřib
 ---
 

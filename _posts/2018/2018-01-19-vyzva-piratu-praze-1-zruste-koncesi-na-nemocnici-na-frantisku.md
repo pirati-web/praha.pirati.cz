@@ -1,7 +1,7 @@
 ---
 date:         2018-01-19
 category:     blog
-tags:         praha-1 nemocnice-na-františku
+tags:         [Nemocnice Na Františku, Praha 1]
 layout:       post
 title:        "Vyzýváme Prahu 1, aby zrušila koncesi na Nemocnici na Františku." 
 image:        posts/frantisek2.jpg

@@ -1,7 +1,6 @@
 ---
 date:         2021-09-22
-tags:         
-- bydlení
+tags:         [bydlení, Praha 10]
 title:        "Díky memorandu Magistrátu s Prahou 10 vznikne Bytový dům Vršovická s městskými byty"
 image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP

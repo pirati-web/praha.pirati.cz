@@ -1,10 +1,10 @@
 ---
 date:         2018-10-24
 category:     blog
-tags:         koaliční-vyjednávání praha-3
+tags:         [Praha 3, Volby 2018]
 layout:       post
 title:        "Na Praze 3 vzniká koalice Pirátů, TOP 09 a Zelených"
-image:        praha3.jpg
+image:        posts/praha3.jpg
 author:       Zdeněk Hřib
 ---
 

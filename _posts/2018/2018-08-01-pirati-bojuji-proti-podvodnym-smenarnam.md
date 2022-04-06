@@ -1,10 +1,10 @@
 ---
 date:         2018-08-03
 category:     blog
-tags:         kauzy směnárny
+tags:         [Směnárny]
 layout:       post
 title:        Piráti vyhladoví nepoctivé směnárny
-image:        hrib-zabransky.jpg
+image:        posts/hrib-zabransky.jpg
 author:       Zdeněk Hřib
 ---
 

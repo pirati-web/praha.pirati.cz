@@ -1,7 +1,7 @@
 ---
 date:         2018-03-15
 category:     blog
-tags:         praha-4
+tags:         [Praha 4]
 layout:       post
 title:        "Nesouhlasíme s bouráním Budějovické pasáže" 
 image:        budejovicka.jpg

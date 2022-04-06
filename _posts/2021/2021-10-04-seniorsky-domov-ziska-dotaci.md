@@ -1,8 +1,6 @@
 ---
 date:         2021-10-04
-tags:         
-- sociální-péče
-- praha-14
+tags:         [Sociální politika, Praha 14]
 title:        "Dotace na rekonstrukci domova pro seniory a výstavbu bytového domu"
 image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP

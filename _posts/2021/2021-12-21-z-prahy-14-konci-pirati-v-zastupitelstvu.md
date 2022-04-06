@@ -1,7 +1,6 @@
 ---
 date:         2021-12-21
-tags:        
-- praha-14
+tags:         [Praha 14]
 title:        "Piráti končí v koalici na Praze 14 kvůli mocenským ambicím starosty Zajace z ODS"
 image: 	      posts/pirati14.jpg
 author:       MHMP

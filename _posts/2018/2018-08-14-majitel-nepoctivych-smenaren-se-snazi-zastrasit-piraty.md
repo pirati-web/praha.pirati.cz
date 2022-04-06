@@ -1,11 +1,11 @@
 ---
 date:         2018-08-14
 category:     blog
-tags:         kauzy směnárny
+tags:         [Směnárny]
 layout:       post
 title:        Majitel nepoctivých směnáren se snaží zastrašit Piráty. Jeho ochranka používá nevybíravé metody
-image:        smenarna-bodyguard.jpg
-author:       Magdalena Valdmanová
+image:        posts/smenarna-bodyguard.jpg
+authorId:     magdalena.valdmanova
 ---
 
 Praha, 13. srpna 2018 – Pražští Piráti už více než 10 dnů [stojí](https://praha.pirati.cz/pirati-bojuji-proti-podvodnym-smenarnam.html) před nepoctivou směnárnou v centru Prahy a upozorňují turisty na velmi nevýhodný kurz. Obdobně už obsadili i další nepoctivou směnárnu. Majitel směnáren si nyní najal skupinu mužů, kteří před směnárnami stojí a vyvíjejí na Piráty nátlak, aby svou snahu vzdali. Ti to ale v plánu nemají.

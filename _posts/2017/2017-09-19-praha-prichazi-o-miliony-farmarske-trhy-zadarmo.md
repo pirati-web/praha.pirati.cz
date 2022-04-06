@@ -5,7 +5,7 @@ title: "Praha přichází o miliony. Všechny peníze shrábne provozovatel trh�
 date: 2017-09-19T15:50:00+02:00
 author: Adam Zábranský
 image: posts/trhy.jpg
-tags: Praha-1
+tags: [Praha 1]
 ---
 
 Magistrát na podnět pražského zastupitele za Piráty Jakuba Michálka šetřil kauzu farmářských trhů na Náměstí Republiky. Městská část Praha 1 poskytla v roce 2012 firmě Delicato centrum zdarma plochu u rušné stanice metra, aby tam firma pořádala farmářské trhy. Farmářské trhy jsou přitom komerční záležitostí, za kterou jejich provozovatelé běžně platí peníze, a to i na místech, která nejsou tak rušná. Například na Náplavce či Jiřího z Poděbrad provozovatelé platí městu přes milion korun ročně, a to tam trhy nejsou zdaleka tak časté. 

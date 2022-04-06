@@ -1,6 +1,6 @@
 ---
 date:   2022-03-22
-tags:  [Elektromobilita, smart-cities]
+tags:  [Elektromobilita, Smart Cities]
 title:  "Praha podepíše memorandum o spolupráci při rozvoji dobíjecích stanic pro elektromobily"
 image: 	      posts/jaromir-beranek2.jpg
 author: MHMP

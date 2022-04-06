@@ -1,10 +1,10 @@
 ---
 date:         2018-09-26
 category:     blog
-tags:         praha-1
+tags:         [Praha 1, Volby 2018]
 layout:       post
 title:        "Vyzýváme TOP 09: Zbavte se Lomeckého"
-image:        hrib3.jpg
+image:        posts/hrib3.jpg
 author:       Zdeněk Hřib
 ---
 

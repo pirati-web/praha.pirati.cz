@@ -1,7 +1,6 @@
 ---
 date:         2021-06-17
-tags:         
-- praha-4
+tags:         [Metro D, Praha 4]
 title:        "Pirát Hora: Proti metru D se staví nezávislá zastupitelka Jelínková. Piráti metro podporují"
 image: 	      posts/hora2.jpg
 author:       Jan Hora

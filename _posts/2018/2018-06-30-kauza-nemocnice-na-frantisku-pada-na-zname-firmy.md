@@ -1,10 +1,10 @@
 ---
 date:         2018-06-30
 category:     blog
-tags:         kauzy praha-1
+tags:         [Nemocnice Na Františku, Praha 1]
 layout:       post
 title:        "Kauza Nemocnice Na Františku padá na hlavu “známých firem” z vedení Prahy 1" 
-image:        nemocnice-na-frantisku.jpg
+image:        posts/nemocnice-na-frantisku.jpg
 author:       Zdeněk Hřib
 ---
 

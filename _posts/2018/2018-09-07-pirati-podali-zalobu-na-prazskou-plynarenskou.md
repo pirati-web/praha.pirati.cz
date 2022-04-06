@@ -1,10 +1,10 @@
 ---
 date:         2018-09-07
 category:     blog
-tags:         praha
+tags:         [Pražská plynárenská]
 layout:       post
 title:        "Piráti žalovali Pražskou plynárenskou, která nerespektuje nález Ústavního soudu a neposkytuje informace"
-image:        pre-bonus.jpg
+image:        posts/pre-bonus.jpg
 author:       Adam Zábranský
 ---
 

@@ -5,7 +5,7 @@ title: "Piráti se obávají, že Metro D bude tunel"
 date: 2017-09-14T14:28:00+02:00
 author: Mikuláš Ferjenčík
 image: posts/pimp2.jpg
-tags: doprava
+tags: [Metro D]
 ---
 
 Piráti upozorňují na developerský projekt s menšinovou účastí města, který v tichosti přijala o prázdninách pražská koalice. V dopravním podniku nedávno skončilo 1. kolo výberového řízení, do kterého se přihlásilo několik developerů. Vítěz má jako hlavní developer s dopravním podnikem uzavřít smlouvy, na základě kterých bude mít aspoň na 15 let většinu ve společném podniku. 
