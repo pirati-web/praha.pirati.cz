@@ -1,7 +1,7 @@
 ---
 date:	2016-06-16
 category:	blog
-tags:	Praha
+tags:	[Pavel Bém]
 layout:	post
 title:	"Piráti předali Praze 10 000 Kč na vymáhání škod po Pavlu Bémovi" 
 image:	posts/10kbemovi.jpg

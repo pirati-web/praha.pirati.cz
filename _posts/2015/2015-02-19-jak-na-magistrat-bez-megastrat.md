@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/tym.jpg
-tags:	[Transparentnost]
+tags:	[Otevřená data, Transparentnost]
 date:	2015-02-19
 ---
 

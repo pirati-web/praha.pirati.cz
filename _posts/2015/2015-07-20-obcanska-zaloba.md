@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/soud.jpg
-tags:	korupce
+tags:	[Protikorupční strategie]
 date:	2015-07-20
 ---
 

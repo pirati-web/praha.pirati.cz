@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant, Adam Zábranský
 image:	posts/opendata.jpg
-tags:	informatika zhmp
+tags:	[Digitalizace, Otevřená data]
 date:	2015-09-17
 ---
 

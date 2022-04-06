@@ -1,11 +1,11 @@
 ---
 date:         2017-12-06
 category:     blog
-tags:         magistrát
+tags:         [Piráti]
 layout:       post
 title:        "Michálka vystřídá v pražském zastupitelstvu Mahrik"
 image:        posts/michalek-strecha.jpg
-author:       Jaku michálek
+author:       Jakub michálek
 ---
 
 Poslanec Jakub Michálek za Piráty se rozhodl vzdát svého mandátu v pražském zastupitelstvu. Svoji rezignaci na tento post zaslal písemně k rukám primátorky Krnáčové. 

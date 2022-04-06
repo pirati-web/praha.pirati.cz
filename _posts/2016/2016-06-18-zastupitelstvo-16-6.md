@@ -1,7 +1,7 @@
 ---
 date:	2016-06-18
 category:	blog
-tags:	Praha zhmp
+tags:	[Zastupitelstvo]
 layout:	post
 title:	"Zastupitelstvo 16. 6. nepřineslo změnu"
 image:	posts/navrh-ondra.jpg

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/mhd-prukaz.jpg
-tags:	zhmp opencard doprava
+tags:	[Opencard]
 date:	2015-01-31
 ---
 

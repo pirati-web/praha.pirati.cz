@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant
 image:	posts/office.png
-tags:	magistrát
+tags:	[IT]
 date:	2015-09-22
 ---
 

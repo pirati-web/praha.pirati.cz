@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/kolo.jpg
-tags:	opencard sms-jízdenky 
+tags:	[Opencard, SMS jízdenky]
 date:	2015-04-27
 ---
 

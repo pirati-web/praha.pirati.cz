@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/klub-zastupko.jpg
-tags:	opencard
+tags:	[Piráti]
 date:	2015-05-25
 ---
 

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/revize.jpg
-tags:	kauzy sms-jízdenky
+tags:	[SMS jízdenky]
 date:	2015-04-23
 ---
 

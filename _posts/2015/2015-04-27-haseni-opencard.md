@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/opencard.png
-tags:	opencard
+tags:	[Opencard]
 date:	2015-04-27
 ---
 
