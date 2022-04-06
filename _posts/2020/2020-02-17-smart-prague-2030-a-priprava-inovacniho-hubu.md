@@ -1,6 +1,6 @@
 ---
 date:         2020-02-17
-tags:         informatika
+tags:         [Nakopni Prahu, Smart Cities]
 title:        "Leden Jaromíra Beránka: Příprava inovačního hubu, kongres pro podporu prg.ai a Smart Prague 2030"
 image: 	      posts/jaromir-beranek2.jpg
 author:       Jaromír Beránek

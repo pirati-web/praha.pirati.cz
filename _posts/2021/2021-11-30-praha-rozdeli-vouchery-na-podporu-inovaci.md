@@ -1,7 +1,6 @@
 ---
 date:         2021-11-29
-tags:        
-- inovace
+tags:        [IT]
 title:        "Praha rozdělí 12 milionů korun na vouchery pro podporu inovací"
 image: 	      posts/vitsimral6.jpg
 author:       MHMP

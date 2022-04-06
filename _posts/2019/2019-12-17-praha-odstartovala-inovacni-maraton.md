@@ -1,6 +1,6 @@
 ---
 date:         2019-12-17
-tags:         informatika
+tags:         [Nakopni Prahu]
 title:        "Zahájen Pražský inovační maraton"
 image: 	      posts/8hrib.jpg
 author:       MHMP

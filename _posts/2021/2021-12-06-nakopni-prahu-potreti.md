@@ -1,7 +1,6 @@
 ---
 date:         2021-12-06
-tags:        
-- inovace
+tags:         [Nakopni Prahu]
 title:        "Praha podpoří třetí ročník Pražského inovačního maratonu #NAKOPNIPRAHU"
 image: 	      posts/vitsimral6.jpg
 author:       MHMP

@@ -1,6 +1,6 @@
 ---
 date:         2020-02-17
-tags:         informatika
+tags:         [Nakopni Prahu]
 title:        "Semifinalisté projektu #NakopniPrahu se sejdou, aby městu pomohli s inovacemi"
 image: 	      posts/mestskadata.jpg
 author:       MHMP
