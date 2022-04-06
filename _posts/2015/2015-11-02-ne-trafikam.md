@@ -3,8 +3,8 @@ title:	Řekněte NE politickým trafikám v Praze 5. listopadu v 9 ráno
 layout:	post
 category:	blog
 author:	praha.pirati.cz
-image:	trafika.jpg
-tags:	trafiky zhmp
+image:	posts/trafika.jpg
+tags:	[trafiky, Zastupitelstvo]
 date:	2015-11-02
 ---
 

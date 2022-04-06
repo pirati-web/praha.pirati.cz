@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/proti-cenzure.jpg
-tags:	zhmp koalice
+tags:	[Zastupitelstvo]
 date:	2015-09-22
 ---
 
