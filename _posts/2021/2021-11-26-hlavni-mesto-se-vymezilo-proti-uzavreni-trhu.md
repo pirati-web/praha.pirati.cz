@@ -1,9 +1,9 @@
 ---
-date:         2021-11-26
-tags:         [Pandemie Covid-19]
-title:        "Hlavní město se vymezilo proti opatření ministerstva k uzavření trhů den před prvním adventním víkendem"
-image: 	      posts/magistrat3.jpg
-author:       MHMP
+date: 2021-11-26
+title: Hlavní město se vymezilo proti opatření ministerstva k uzavření trhů den před prvním adventním víkendem
+tags: [Pandemie Covid-19]
+image: posts/magistrat3.jpg
+author: MHMP
 ---
 
 Vedení hlavního města Prahy se společně se stánkaři vymezilo proti rozhodnutí vlády uzavřít veškeré vánoční trhy v republice v rámci opatření proti šíření koronaviru. Navíc v situaci, kdy mají provozovatelé trhů nakoupeny veškeré suroviny k jejich zahájení den před adventním víkendem. I proto vedení města vyzvalo vládu k neodkladnému nabídnutí adekvátních kompenzací za zrušené trhy bez možnosti se na tuto situaci připravit.

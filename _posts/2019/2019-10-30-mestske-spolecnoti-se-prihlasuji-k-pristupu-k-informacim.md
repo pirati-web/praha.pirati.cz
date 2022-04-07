@@ -1,6 +1,6 @@
 ---
 date:         2019-10-30
-tags:         transparentnost
+tags:         [Městské firmy, Transparentnost]
 title:        "Městské společnosti se hlásí k transparentnosti a dodržování zákona o svobodném přístupu k informacím"
 image: 	      posts/adam-zabransky-3.jpg
 author:       Adam Zábranský
