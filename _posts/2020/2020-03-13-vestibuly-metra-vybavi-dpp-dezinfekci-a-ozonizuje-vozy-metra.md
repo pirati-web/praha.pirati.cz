@@ -1,6 +1,6 @@
 ---
 date:         2020-03-13
-tags:         [Pandemie Covid-19]
+tags:         [Doprava, Pandemie Covid-19]
 title:        "DPP rozšiřuje ozonizaci na vozy metra, vestibuly metra vybavuje dezinfekcí pro cestující"
 image: 	      posts/metro.jpg
 author:       MHMP

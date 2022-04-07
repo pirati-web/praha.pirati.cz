@@ -1,10 +1,10 @@
 ---
 date:	2016-03-18
 category:	blog
-tags:	Praha
+tags:	[Piráti, IPR, Digitalizace]
 layout:	post
 title:	Piráti zaslali své připomínky ke Strategickému plánu Prahy
-image:	strat.png
+image:	posts/strat.png
 author:	Adam Zábranský
 ---
 

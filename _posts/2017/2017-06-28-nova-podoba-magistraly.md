@@ -1,7 +1,7 @@
 ---
 date:         2017-06-28
 category:     blog
-tags:         praha doprava
+tags:         [Doprava, IPR]
 layout:       post
 title:        "Silnice místo dálnice. Piráti zklidnění magistrály vítají."
 image:        posts/magistrala.jpg

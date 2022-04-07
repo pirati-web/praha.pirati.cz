@@ -1,6 +1,6 @@
 ---
 date:         2021-11-29
-tags:	[Rozpočet, Zastupitelstvo]
+tags:	[Metro D, Doprava, Rozpočet, Zastupitelstvo]
 title:        "Rada projednala rozpočet. Hospodaření bude ve znamení velkých investic a nízkého zadlužení"
 image: 	      posts/novaradnice.jpg
 author:       MHMP

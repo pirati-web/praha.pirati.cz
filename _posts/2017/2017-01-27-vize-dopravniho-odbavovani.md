@@ -1,7 +1,7 @@
 ---
 date:         2017-01-27
 category:     blog
-tags:         [Lítačka]
+tags:         [Lítačka, Smart Cities]
 layout:       post
 title:        "Jízdné v kuponu, na kartě nebo v mobilu. Piráti představují vizi odbavování v pražské dopravě." 
 image:        posts/automaty.jpg

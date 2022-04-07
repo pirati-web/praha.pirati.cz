@@ -1,7 +1,7 @@
 ---
 date:         2018-07-16
 category:     blog
-tags:         [Metro D]
+tags:         [Doprava, Metro D]
 layout:       post
 title:        "Piráti varují před společným podnikem Dopravního podniku s Pentou k metru D" 
 image:        posts/pimp2.jpg

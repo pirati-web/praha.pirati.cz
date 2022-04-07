@@ -1,7 +1,6 @@
 ---
 date:         2021-04-22
-tags:         
-- doprava
+tags:         [Doprava]
 title:        "Uvádíme na pravou míru: Piráti jsou zásadně proti omezování spojů pražské hromadné dopravy"
 image: 	      posts/9hrib.jpg
 author:       MHMP

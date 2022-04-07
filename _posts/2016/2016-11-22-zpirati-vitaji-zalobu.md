@@ -1,7 +1,7 @@
 ---
 date:         2016-11-22
 category:     blog
-tags:         Praha
+tags:         [Opencard, Pavel Bém]
 layout:       post
 title:        "Piráti vítají žalobu na pravé viníky Opencard" 
 image:        posts/telefon-bem.jpg

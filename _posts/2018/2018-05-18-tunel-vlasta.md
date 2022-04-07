@@ -1,7 +1,7 @@
 ---
 date:         2018-05-18
 category:     blog
-tags:         [Městský okruh]
+tags:         [Doprava, Městský okruh]
 layout:       post
 title:        "Tunel Vlasta (Blanka 2) bude!" 
 image:        posts/blanka2.jpg

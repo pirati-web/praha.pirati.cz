@@ -1,7 +1,7 @@
 ---
 date:         2017-12-02
 category:     blog
-tags:         doprava
+tags:         [Trojská lávka]
 layout:       post
 title:        "Pád Trojské lávky: TSK dlouhodobě neřešila špatný stav mostů"
 image:        posts/lavka.jpg

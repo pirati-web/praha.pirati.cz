@@ -5,7 +5,7 @@ title: "Pokud v Blance 2 nebude MHD, nestojí za ty peníze"
 date: 2017-09-25
 author: Ondřej Profant
 image: posts/blanka2.jpg
-tags: [Městský okruh]
+tags: [Doprava, Městský okruh]
 ---
 
 Piráti nesouhlasí s další stavbou silničních tunelů bez řádného vyčíslení celkových nákladů a přímé integrace s MHD.  „Po otevření Blanky většina obyvatel očekávala zlepšení jejich života, jenže to se nestalo. Většina lidí jezdí veřejnou dopravou a těm nový tunel vůbec nepomohl. Nechceme opakovat tuto chybu,“ říká pražský zastupitel za Piráty Ondřej Profant.

@@ -1,7 +1,7 @@
 ---
 date:        2016-10-11
 category:        blog
-tags:        Praha
+tags:        [Volby 2016]
 layout:        post
 title:        "Kandidát do Senátu zneužil osobní údaje svých pacientů pro politickou agitaci" 
 image:        posts/dopisy.jpg

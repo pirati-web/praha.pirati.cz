@@ -1,7 +1,7 @@
 ---
 date:	2016-07-01
 category:	blog
-tags:	[Pražská energetika, Transparentnost]
+tags:	[Městské firmy, Transparentnost]
 layout:	post
 title:	"Pražská energetika se rozhodla vědomě porušovat zákon o registru smluv" 
 image:	posts/precko.png

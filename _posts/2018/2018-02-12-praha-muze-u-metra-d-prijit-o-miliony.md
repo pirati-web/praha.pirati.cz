@@ -1,7 +1,7 @@
 ---
 date:         2018-02-12
 category:     blog
-tags:         [Metro D]
+tags:         [Doprava, Metro D]
 layout:       post
 title:        "Michálek k metru D: Praha může přijít o miliardy" 
 image:        posts/bankrot.jpg

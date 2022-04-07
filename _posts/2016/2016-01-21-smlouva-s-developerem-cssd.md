@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/obalka.jpg
-tags:	Zastupitelstvo
+tags:	[ČSSD, Zastupitelstvo]
 date:	2016-01-21
 ---
 

@@ -1,7 +1,7 @@
 ---
 date:         2018-09-07
 category:     blog
-tags:         [Pražská plynárenská]
+tags:         [Městské firmy, Transparentnost]
 layout:       post
 title:        "Piráti žalovali Pražskou plynárenskou, která nerespektuje nález Ústavního soudu a neposkytuje informace"
 image:        posts/pre-bonus.jpg

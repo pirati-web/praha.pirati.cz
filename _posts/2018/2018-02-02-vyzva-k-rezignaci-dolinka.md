@@ -1,7 +1,7 @@
 ---
 date:         2018-02-02
 category:     blog
-tags:         [Doprava, Libeňský most, Petr Dolínek]
+tags:         [Doprava, Libeňský most, ČSSD, Petr Dolínek]
 layout:       post
 title:        "Vyzýváme náměstka Dolínka k rezignaci kvůli současnému stavu pražských mostů" 
 image:        posts/ruiny-mostu.jpg

@@ -1,7 +1,7 @@
 ---
 date:        2016-10-10
 category:        blog
-tags:        Zastupitelstvo
+tags:        [ODS, Doprava, Pražský okruh (dálnice D0), Zastupitelstvo]
 layout:        post
 title:        "Ministerstvo odmítlo řešit mimořádné zastupitelstvo v Praze, anonymové z ODS prý podpisy stáhli" 
 image:        posts/udzenija-podpis.jpg

@@ -1,6 +1,6 @@
 ---
 date:         2020-05-15
-tags:         [Letiště Václava Havla]
+tags:         [Doprava, Letiště Václava Havla]
 title:        "Mahrik: Rozvoj letiště ano, paralelní dráhu zatím ne"
 image: 	      posts/mahrik3.jpg
 author:       Viktor Mahrik

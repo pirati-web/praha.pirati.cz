@@ -1,7 +1,7 @@
 ---
 date:        2016-10-10
 category:        blog
-tags:        Praha
+tags:        [Hnutí ANO, Transparentnost]
 layout:        post
 title:        "Transparence podle Krnáčové: zakázky nebudou schvalovat politici, ale úředníci" 
 image:        posts/urednik.jpg

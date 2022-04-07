@@ -1,6 +1,6 @@
 ---
 date:         2021-06-15
-tags:         [Pražský okruh (dálnice D0)]
+tags:         [Doprava, Pražský okruh (dálnice D0)]
 title:        "Praha prosazuje urychlení výstavby Pražského okruhu a tzv. aglomeračního okruhu"
 image: 	      posts/magistrat3.jpg
 author:       MHMP

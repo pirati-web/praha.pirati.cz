@@ -1,6 +1,6 @@
 ---
 date:         2022-02-10
-tags:        [Metro D]
+tags:        [Doprava, Metro D]
 title:        "Hřib: Prioritou je zajištění financování stavby metra D, Praha si zaslouží vizi svého rozvoje s důrazem na současný životní styl obyvatel, aby se stala městem budoucnosti"
 image: 	      posts/8hrib.jpg
 author:       Zdeněk Hřib

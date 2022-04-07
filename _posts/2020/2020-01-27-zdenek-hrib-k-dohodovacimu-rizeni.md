@@ -1,6 +1,6 @@
 ---
 date:         2020-01-27
-tags:         doprava
+tags:         [Městské firmy, Transparentnost]
 title:        "Primátor Hřib: Chceme transparentnější řízení městských firem"
 image: 	      posts/0hrib.jpg
 author:       Zdeněk Hřib

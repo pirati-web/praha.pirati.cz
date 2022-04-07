@@ -1,7 +1,7 @@
 ---
 date:         2017-04-28
 category:     blog
-tags:         [Pražský okruh (dálnice D0), Zastupitelstvo]
+tags:         [Doprava, Pražský okruh (dálnice D0), Zastupitelstvo]
 layout:       post
 title:        "Piráti k zasedání pražského zastupitelstva: zbytečná silnice za miliardy" 
 image:        posts/z26.jpg

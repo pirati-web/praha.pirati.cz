@@ -1,8 +1,6 @@
 ---
 date:         2020-09-07
-tags:         
- - školství
- - doprava
+tags:        [Doprava, školství]
 title:        "Praha testuje projekt „Školní ulice“. Pomůže bezpečnosti dětí při provozu v okolí základních škol"
 image: 	      posts/skolni-ulice.jpg
 author:       MHMP
