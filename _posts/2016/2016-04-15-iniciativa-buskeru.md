@@ -1,7 +1,7 @@
 ---
 date:	2016-04-15
 category:	blog
-tags:	[Busking]
+tags:	[Umění ve veřejném prostoru]
 layout:	post
 title:	Výzva pouličním umělcům postiženým pražskou vyhláškou
 image:	posts/kytarista.jpg

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/busking-schvalen.jpg
-tags:	[Busking, Zastupitelstvo]
+tags:	[Umění ve veřejném prostoru, Zastupitelstvo]
 date:	2016-01-28
 ---
 

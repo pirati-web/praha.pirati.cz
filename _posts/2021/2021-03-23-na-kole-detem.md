@@ -1,7 +1,6 @@
 ---
 date:         2021-03-23
-tags:         
-- školství
+tags:         [školství, Cyklodoprava]
 title:        "Sportovně charitativní projekt Na kole dětem podpoří Praha i letos"
 image: 	      posts/vitsimral2.jpg
 author:       MHMP

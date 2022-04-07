@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/zakaz-vseho.jpg
-tags:	[Busking]
+tags:	[Umění ve veřejném prostoru]
 date:	2016-01-27
 ---
 

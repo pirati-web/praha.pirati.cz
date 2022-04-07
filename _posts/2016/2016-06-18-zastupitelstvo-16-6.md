@@ -1,7 +1,7 @@
 ---
 date:	2016-06-18
 category:	blog
-tags:	[Zastupitelstvo]
+tags:	[Pavel Bém, Zastupitelstvo]
 layout:	post
 title:	"Zastupitelstvo 16. 6. nepřineslo změnu"
 image:	posts/navrh-ondra.jpg
