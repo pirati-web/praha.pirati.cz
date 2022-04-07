@@ -1,6 +1,6 @@
 ---
 date:         2019-01-14
-tags:         zahraničí
+tags:         [Tchaj-wan, zahraničí]
 title:        "Praha chce jednat s Pekingem o úpravě vzájemné dohody o sesterských městech"
 image: 	      posts/tk-cina.jpg
 author:       Martina Vacková

@@ -1,6 +1,6 @@
 ---
 date:         2020-03-13
-tags:         bezpečnost koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Magistrát upravuje provoz a přesouvá agendy výhradně na přepážky. Uzavírá se Nová radnice a změny se dotknou i jednání zastupitelstva"
 image: 	      posts/magistrat3.jpg
 author:       MHMP

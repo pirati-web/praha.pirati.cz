@@ -1,10 +1,10 @@
 ---
 date:         2018-03-06
 category:     blog
-tags:         informatika
+tags:         [IT]
 layout:       post
 title:        "Zakázka na míru podruhé – datové centrum Chodovec pod taktovkou velkých IT firem" 
-image:        box.jpg
+image:        posts/box.jpg
 author:       Ondřej Profant, Ondřej Kallasch
 ---
 

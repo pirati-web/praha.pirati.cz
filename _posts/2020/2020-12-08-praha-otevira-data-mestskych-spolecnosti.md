@@ -1,6 +1,6 @@
 ---
 date:         2020-12-08
-tags:         [IT, otevřená data]
+tags:         [IT, Otevřená data]
 title:        "Praha otevírá data městských společností"
 image: 	      posts/opendata3.jpg
 author:       MHMP

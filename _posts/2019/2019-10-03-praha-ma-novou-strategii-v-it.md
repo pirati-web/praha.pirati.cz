@@ -1,6 +1,6 @@
 ---
 date:         2019-10-02
-tags:         informatika
+tags:         [IT]
 title:        "Praha má novou strategii pro IT, chce předejít neuváženým investicím"
 image: 	      posts/posts/8hrib.jpg
 author:       Zdeněk Hřib, MHMP

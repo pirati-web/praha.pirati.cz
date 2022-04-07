@@ -1,7 +1,6 @@
 ---
 date:         2021-11-29
-tags:        
-- informatika
+tags:         [IT]
 title:        "Magistrát přijal novou strategii boje proti nevýhodné závislosti na IT dodavatelích"
 image: 	      posts/0hrib.jpg
 author:       MHMP

@@ -5,7 +5,7 @@ title: "Praha se má do pěti let stát centrem umělé inteligence. Zaslouží 
 date: 2019-05-16
 author: "Odbor komunikace MHMP"
 image: posts/prg.jpg
-tags: [IT, prg.ai]
+tags: [IT, Prg.ai]
 ---
 
 ČVUT v Praze, Univerzita Karlova a Akademie věd ČR spojily síly s hlavním městem v iniciativě [prg.ai](http://prg.ai/), která podpoří špičkovou vědu a výzkum v oblasti umělé inteligence (AI). Iniciátoři plánují přilákat do Česka světové vědce, rozšířit základnu českých AI talentů a pomoct vzniku nových technologických firem a startupů. Díky prg.ai se Praha může v dohledné době stát centrem umělé inteligence evropského významu. Kromě pražského magistrátu podporují tuto unikátní iniciativu i vláda a významné soukromé společnosti.

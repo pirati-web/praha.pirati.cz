@@ -4,7 +4,7 @@ category:     blog
 tags:         [IT, Otevřená data]
 layout:       post
 title:        "Vítáme novou datovou platformu Prahy" 
-image:        golemio.jpg
+image:        posts/golemio.jpg
 author:       Adam Zábranský
 ---
 

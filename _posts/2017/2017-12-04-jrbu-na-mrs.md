@@ -1,7 +1,7 @@
 ---
 date:         2017-12-04
 category:     blog
-tags:         informatika
+tags:         [IT]
 layout:       post
 title:        "Zakázka za 93 milionů na radiový systém: předražená a bez soutěže"
 image:        posts/overpriced.jpg

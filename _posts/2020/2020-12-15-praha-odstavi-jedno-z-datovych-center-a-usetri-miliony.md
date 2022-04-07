@@ -1,7 +1,6 @@
 ---
 date:         2020-12-17
-tags:         
- - informatika
+tags:         [IT]
 title:        "Hlavní město ke konci roku odstaví jedno ze svých datových center. Ušetří tím ročně více než 12 milionů korun"
 image: 	      posts/8hrib.jpg
 author:       MHMP

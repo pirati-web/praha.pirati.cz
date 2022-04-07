@@ -1,7 +1,7 @@
 ---
 date:         2017-05-29
 category:     blog
-tags:         praha informatika
+tags:         [IT]
 layout:       post
 title:        "Zakázka na datové centrum psaná na míru"
 image:        posts/dc04.jpg

@@ -1,6 +1,6 @@
 ---
 date:   2022-02-27
-tags:  [Válka na Ukrajině]
+tags:  [Krizový štáb, Válka na Ukrajině]
 title:  "Praha má připraveny ubytovací kapacity v koordinaci s ministerstvy pro uprchlíky z Ukrajiny. Vzniknou i informační kiosky na strategických místech"
 image: 	      posts/8hrib.jpg
 author: MHMP

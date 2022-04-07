@@ -1,7 +1,7 @@
 ---
 date:         2016-11-25
 category:     blog
-tags:         Praha
+tags:         [Hnutí ANO, ČSSD, Zastupitelstvo]
 layout:       post
 title:        "ANO a ČSSD hodily nájemníky písnického sídliště přes palubu" 
 image:        posts/pisnicti.jpg

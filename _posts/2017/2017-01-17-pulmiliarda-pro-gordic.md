@@ -1,7 +1,7 @@
 ---
 date:         2017-01-17
 category:     blog
-tags:         informatika
+tags:         [IT]
 layout:       post
 title:        "Praha se chystá utratit za účetní systém další půlmiliardu, Piráti nesouhlasí"
 image:        posts/dojeni.jpg

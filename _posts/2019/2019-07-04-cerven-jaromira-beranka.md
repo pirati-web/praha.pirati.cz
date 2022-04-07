@@ -5,7 +5,7 @@ title: "Červen Jaromíra Beránka: Dobíjecí stanice pro elektromobily, metro 
 date: 2019-07-04
 author: "Jaromír Beránek"
 image: posts/jaromir-beranek2.jpg
-tags: [IT, prg.ai] 
+tags: [IT, Prg.ai] 
 ---
 
 Milí Pražané. Po měsíci se opět hlásím s reportem za uplynulé období. Hned první červnový týden jsem se vypravil do Brna na Smart City veletrh URBIS, kde jsem vedle účasti na přednáškách diskutoval o chytrých řešeních v dopravě se zástupci budapešťského dopravního podniku nebo o monitoringu zdravotního stavu stromů s tvůrci nástroje Safe Trees.

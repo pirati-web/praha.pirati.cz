@@ -1,7 +1,7 @@
 ---
 date:         2017-01-19
 category:     blog
-tags:         [Škodův Palác]
+tags:         [Škodův palác]
 layout:       post
 title:        "Bafuňář Jansta vs Piráti: Zastrašit se nedáme" 
 image:        posts/jansta.jpg

@@ -1,6 +1,6 @@
 ---
 date:         2021-08-05
-tags:         [IT, prg.ai]
+tags:         [IT, Prg.ai]
 title:        "Praha podporuje výchovu budoucích odborníků na umělou inteligenci"
 image: 	      posts/vitsimral2.jpg
 author:       MHMP

@@ -1,7 +1,6 @@
 ---
 date:         2021-10-26
-tags:         
-- informatika
+tags:         [IT, Pražský inovační institut]
 title:        "Pražský herní průmysl zamířil do Turecka"
 image: 	      posts/vitsimral6.jpg
 author:       MHMP

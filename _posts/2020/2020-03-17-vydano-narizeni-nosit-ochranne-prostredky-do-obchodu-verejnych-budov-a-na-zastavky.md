@@ -1,6 +1,6 @@
 ---
 date:         2020-03-17
-tags:         bezpečnost koronavirus
+tags:         [Krizový štáb, Pandemie Covid-19]
 title:        "Krizový štáb hl. m. Prahy doporučil rozšířit povinnost občanů nosit ochranné prostředky i do veřejných budov, obchodů a na zastávky MHD"
 image: 	      posts/magistrat2.jpg
 author:       MHMP

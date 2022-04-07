@@ -1,6 +1,6 @@
 ---
 date:         2020-05-13
-tags:         [Operátor ICT]
+tags:         [Operátor ICT, Prg.ai]
 title:        "Operátor ICT předal speciální cenu jednomu z vítězných týmů prvního ročníku online hackathonu UniHack"
 image: 	      posts/unihack.jpg
 author:       MHMP
