@@ -4,7 +4,7 @@ category:     blog
 tags:         [IPR, životní-prostředí]
 layout:       post
 title:        "Místo klimatizace potřebujeme ve městě stromy" 
-image:        strom.jpg
+image:        posts/strom.jpg
 author:       Eva Tylová
 ---
 

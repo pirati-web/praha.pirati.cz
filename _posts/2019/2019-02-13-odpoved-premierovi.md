@@ -1,6 +1,6 @@
 ---
 date:         2019-02-13
-tags:         praha
+tags:         [Majetkové směny se státem]
 title:        "Primátor Hřib: Zaslaná nabídka k Letňanům je nekompletní, pane premiére"
 image: 	      posts/8hrib.jpg
 author:       Zdeněk Hřib

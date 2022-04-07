@@ -1,7 +1,6 @@
 ---
 date:         2021-05-05
-tags:         
-- praha
+tags:         [Zdeněk Hřib]
 title:        "Vážení Pražané, dnes si připomínáme 76. výročí začátku Pražského povstání"
 image: 	      posts/11hrib.jpg
 author:       Zdeněk Hřib

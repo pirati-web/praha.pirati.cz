@@ -1,7 +1,6 @@
 ---
 date:         2021-01-10
-tags:         
-- praha
+tags:         [Umění ve veřejném prostoru]
 title:        "Praha ožívá uměním ve veřejném prostoru!"
 image: 	      posts/butovice.jpg
 author:       Zdeněk Hřib

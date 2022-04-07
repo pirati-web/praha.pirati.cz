@@ -1,7 +1,6 @@
 ---
 date:         2021-10-20
-tags:         
-- praha
+tags:         [Trojská lávka]
 title:        "V soutěži Stavba roku 2021 uspělo několik projektů na území hlavního města"
 image: 	      posts/hrib-stavba.jpg
 author:       MHMP

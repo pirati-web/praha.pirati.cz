@@ -1,7 +1,7 @@
 ---
 date:         2017-03-08
 category:     blog
-tags:         praha
+tags:         [bydlení]
 layout:       post
 title:        "Praha kvůli zastaralým smlouvám na správu nemovitostí ročně přichází o dvacet milionů." 
 image:        posts/panelaky.jpg
