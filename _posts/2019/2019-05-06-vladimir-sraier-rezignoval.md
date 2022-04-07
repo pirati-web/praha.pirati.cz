@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Piráti jdou příkladem: Vladimír Šraier vyvodil osobní odpovědnost a rezignoval na post v dozorčí radě Trade Centre Praha
+title: Piráti jdou příkladem. Vladimír Šraier rezignoval na post v dozorčí radě Trade Centre Praha
 date: '2019-05-06 00:01am'
 author: Piráti Praha
 image: posts/sraier.jpg
