@@ -1,7 +1,6 @@
 ---
 date:         2020-10-16
-tags:         
- - bydlení
+tags:         [Městská nájemní agentura, bydlení]
 title:        "Praha chce nakoupit objekty k bydlení, vyhlásí soutěž"
 image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP

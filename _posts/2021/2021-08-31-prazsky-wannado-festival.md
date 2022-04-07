@@ -1,7 +1,6 @@
 ---
 date:         2021-08-31
-tags:         
-- sport
+tags:         [Akce, sport]
 title:        "Pražský Wannado Festival opět nabídne veřejnosti možnost vyzkoušet si nové sporty a udělat něco pro své zdraví"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

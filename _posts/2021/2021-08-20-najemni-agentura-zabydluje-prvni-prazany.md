@@ -1,7 +1,6 @@
 ---
 date:         2021-08-18
-tags:         
-- bydlení
+tags:         [Městská nájemní agentura, bydlení]
 title:        "Městská nájemní agentura zabydluje první Pražany"
 image: 	      posts/domy-slunce.jpg
 author:       MHMP

@@ -1,6 +1,6 @@
 ---
 date:         2021-12-21
-tags:        [Praha 1]
+tags:        [Ochrana zvířat]
 title:        "Praha nebude od roku 2023 podporovat koňské povozy na Staroměstském náměstí a ve Stromovce"
 image: 	      posts/staromestske.jpg
 author:       MHMP
