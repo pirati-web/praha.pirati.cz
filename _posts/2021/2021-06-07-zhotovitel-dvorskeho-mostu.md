@@ -1,6 +1,6 @@
 ---
 date:         2021-06-07
-tags:         [Doprava, Praha 4, Praha 5, Dvorecký most]
+tags:         [Doprava, Praha 4, Praha 5, Dvorecký most, Tramvajové tratě]
 title:        "Praha hledá zhotovitele Dvoreckého mostu, který nově propojí Prahu 4 a Prahu 5"
 image: 	      posts/dvorecky.jpg
 author:       MHMP

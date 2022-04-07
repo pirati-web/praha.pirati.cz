@@ -1,8 +1,6 @@
 ---
 date:         2020-12-11
-tags:         
- - praha
- - životní-prostředí
+tags:         [Praha 1, Zahraničí]
 title:        "Modrozelený Petřín připomene pět let od podpisu klimatické Pařížské dohody"
 image: 	      posts/petrin.jpg
 author:       MHMP

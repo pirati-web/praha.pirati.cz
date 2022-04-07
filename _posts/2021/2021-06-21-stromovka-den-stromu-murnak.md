@@ -1,6 +1,6 @@
 ---
 date:         2021-06-21
-tags:         [Zastromuj Prahu, životní-prostředí]
+tags:         [Pražský klimatický závazek, Zastromuj Prahu, životní-prostředí]
 title:        "Piráti v pražské Stromovce pořádali happening na podporu městské zeleně s názvem Svátek stromů"
 image: 	      posts/strom7.jpg
 author:       MHMP

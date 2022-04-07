@@ -1,7 +1,7 @@
 ---
 date:         2017-02-24
 category:     blog
-tags:         praha
+tags:         [Protikorupční strategie, Transparentnost, Zastupitelstvo]
 layout:       post
 title:        "Koaliční válec, Pirátské návrhy v protikorupční strategii a senátor Kos zůstává ve finančním výboru." 
 image:        posts/jakub-ruce.jpg

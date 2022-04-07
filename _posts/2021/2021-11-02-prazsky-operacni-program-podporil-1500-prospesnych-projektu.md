@@ -1,6 +1,6 @@
 ---
 date:         2021-11-02
-tags:         [EU]
+tags:         [EU, Dvorecký most, Tramvajové tratě]
 title:        "Pražský operační program podpořil téměř 1 500 prospěšných projektů "
 image: 	      posts/dotace.jpg
 author:       MHMP

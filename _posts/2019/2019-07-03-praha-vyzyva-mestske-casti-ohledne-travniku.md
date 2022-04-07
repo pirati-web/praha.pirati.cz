@@ -4,7 +4,7 @@ category: blog
 title: "Ve vedru trávníky nesekejte apelují Piráti na pražské městské části"
 date: 2019-07-03
 author: "Eva Tylová, Zdeněk Hřib"
-image: sady2.jpg
+image: posts/sady2.jpg
 tags: školství
 ---
 

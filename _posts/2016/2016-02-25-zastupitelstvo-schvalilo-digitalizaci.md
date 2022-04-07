@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/lupa.jpg
-tags:	[Digitalizace]
+tags:	[Digitalizace, Zastupitelstvo]
 date:	2016-02-25
 ---
 
