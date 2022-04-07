@@ -1,10 +1,10 @@
 ---
 date:         2018-05-18
 category:     blog
-tags:         doprava
+tags:         [Městský okruh]
 layout:       post
 title:        "Tunel Vlasta (Blanka 2) bude!" 
-image:        blanka2.jpg
+image:        posts/blanka2.jpg
 author:       Viktor Mahrik
 ---
 

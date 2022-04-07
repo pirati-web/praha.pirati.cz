@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	praha.pirati.cz
 image:	posts/trafika.jpg
-tags:	[trafiky, Zastupitelstvo]
+tags:	[Trafiky, Praha 5, Zastupitelstvo]
 date:	2015-11-02
 ---
 

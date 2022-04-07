@@ -1,7 +1,7 @@
 ---
 date:	2016-06-22
 category:	blog
-tags:	[trafiky]
+tags:	[ČSSD, Trafiky]
 layout:	post
 title:	"ČSSD porušila slib nebrat přeběhlíky. Legalizuje tím politickou korupci" 
 image:	posts/transformace.jpg

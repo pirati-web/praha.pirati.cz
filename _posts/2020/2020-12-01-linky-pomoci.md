@@ -1,7 +1,6 @@
 ---
 date:         2020-12-01
-tags:         
- - zdravotnictví
+tags:         [Pandemie Covid-19]
 title:        "Praha informovala obyvatele o linkách pomoci. Slouží například pro psychickou pomoc nebo rady ke koronaviru"
 image: 	      posts/nejste.jpg
 author:       MHMP

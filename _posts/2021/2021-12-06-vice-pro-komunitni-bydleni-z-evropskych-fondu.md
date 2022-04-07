@@ -1,6 +1,6 @@
 ---
 date:         2021-12-06
-tags:         [bydlení, EU]
+tags:         [bydlení, Drop In, EU]
 title:        "Téměř 63 milionů z eurofondů na rozvoj komunitních center, sociálního bydlení i podporu lidí bez domova"
 image: 	      posts/magistrat3.jpg
 author:       MHMP

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/protest.jpg
-tags:	[Hnutí ANO, Městské firmy, trafiky]
+tags:	[Hnutí ANO, Městské firmy, Trafiky]
 date:	2015-11-05
 ---
 

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/holding.jpg
-tags:	[Transparentnost]
+tags:	[Městské firmy, Transparentnost]
 date:	2015-11-03
 ---
 

@@ -1,7 +1,7 @@
 ---
 date:	2016-09-16
 category:	blog
-tags:	Praha
+tags:	[Trafiky, Pavel Bém]
 layout:	post
 title:	"Koalice: Trafiky neřešíme, Béma nežalujeme, peníze neinvestujeme." 
 image:	posts/komorany-mikulas.jpg

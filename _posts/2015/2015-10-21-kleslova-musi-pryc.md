@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/kleslova-chobotnice.jpg
-tags:	[Radmila Kleslová, trafiky]
+tags:	[Hnutí ANO, Radmila Kleslová, Trafiky]
 date:	2015-10-21
 ---
 

@@ -1,7 +1,7 @@
 ---
 date:	2016-04-13
 category:	blog
-tags:	[trafiky, Dozorčí rady]
+tags:	[Trafiky, Dozorčí rady]
 layout:	post
 title:	Konec trafik v Praze v nedohlednu? Návrh nominačních pravidel od Pirátů pražská Rada ignoruje.
 image:	posts/trafikyano.jpg

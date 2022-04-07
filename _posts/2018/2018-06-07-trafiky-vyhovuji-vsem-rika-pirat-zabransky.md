@@ -1,7 +1,7 @@
 ---
 date:         2018-06-06
 category:     blog
-tags:         [Volby 2018, trafiky]
+tags:         [Volby 2018, Trafiky]
 layout:       post
 title:        "Trafiky vyhovují všem stranám u moci, říká Pirát Zábranský" 
 image:        posts/adamzabransky.jpg

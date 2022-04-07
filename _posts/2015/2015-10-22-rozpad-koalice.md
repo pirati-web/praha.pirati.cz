@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/smatejem.jpg
-tags:	[Hnutí ANO, trafiky]
+tags:	[Hnutí ANO, Trafiky]
 date:	2015-10-22
 ---
 
