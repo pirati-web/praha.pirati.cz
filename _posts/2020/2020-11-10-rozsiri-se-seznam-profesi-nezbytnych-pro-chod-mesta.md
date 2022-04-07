@@ -1,7 +1,6 @@
 ---
 date:         2020-11-10
-tags:         
- - koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Město rozšířilo seznam profesí důležitých pro jeho chod. Dětem zaměstnanců bude poskytnuta péče"
 image: 	      posts/magistrat3.jpg
 author:       MHMP

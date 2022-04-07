@@ -1,7 +1,6 @@
 ---
 date:         2021-06-07
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Praha nesouhlasí s nošením roušek ve školách a apeluje na zrušení tohoto pravidla"
 image: 	      posts/9hrib.jpg
 author:       MHMP

@@ -1,6 +1,6 @@
 ---
 date:         2020-06-19
-tags:         [Bezpečnost]
+tags:         [Praha 1]
 title:        "Praha vymění bezpečnostní betonové bloky za žulové kvádry"
 image: 	      posts/staromestske.jpg
 author:       MHMP

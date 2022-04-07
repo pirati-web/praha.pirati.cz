@@ -1,8 +1,6 @@
 ---
 date:         2021-11-11
-tags:         
-- školství
-- koronavirus
+tags:         [školství]
 title:        "Monitoring odpadních vod na vybraných školách pomáhá odhalit pozitivní případy a zároveň udržet prezenční výuku"
 image: 	      posts/skola.jpg
 author:       MHMP

@@ -1,8 +1,6 @@
 ---
 date:         2020-12-23
-tags:         
- - koronavirus
- - školství
+tags:         [Pandemie Covid-19]
 title:        "Zajištění péče o děti rodičů pracujících ve vybraných profesích v hlavním městě"
 image: 	      posts/vitsimral4.jpg
 author:       MHMP

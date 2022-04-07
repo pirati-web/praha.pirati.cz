@@ -1,7 +1,6 @@
 ---
 date:         2020-10-14
-tags:         
- - koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Odbor školství pražského magistrátu se podílí na zajištění péče o děti pracovníků IZS"
 image: 	      posts/vitsimral4.jpg
 author:       MHMP

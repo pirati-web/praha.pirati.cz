@@ -1,8 +1,6 @@
 ---
 date:         2021-08-02
-tags:         
-- školství
-- koronavirus
+tags:         [školství]
 title:        "Praha podpoří charitativní projekt a v září rozhýbe veřejnost na pomoc znevýhodněným dětem"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP
