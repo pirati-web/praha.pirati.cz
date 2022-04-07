@@ -5,7 +5,7 @@ title: "Červen Adama Zábranského: Čtvrtmilionu smluv zveřejněno, privatiza
 date: 2019-07-02
 author: "Adam Zábranský"
 image: posts/adam-zabransky-6.jpg
-tags: bydlení
+tags: [bydlení]
 ---
 
 Červen je už za námi, a tak zde přináším pravidelné shrnutí toho, na čem jsem se v uplynulém měsíci podílel.

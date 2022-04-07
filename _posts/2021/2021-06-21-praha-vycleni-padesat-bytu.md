@@ -1,7 +1,6 @@
 ---
 date:         2021-06-21
-tags:         
-- bydleni
+tags:         [Sociální politika, bydlení]
 title:        "Praha vyčlení dalších padesát městských bytů pro pracovníky ve zdravotní a sociální oblasti"
 image: 	      posts/adam-zabransky-8.jpg
 author:       MHMP
