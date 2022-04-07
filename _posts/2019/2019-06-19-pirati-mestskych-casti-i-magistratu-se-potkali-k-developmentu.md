@@ -5,7 +5,7 @@ title: "Piráti z Magistrátu a městských částí debatovali nad developmente
 date: 2019-06-19
 author: "MHMP"
 image: posts/plan.jpg
-tags: územní-plán
+tags: [Piráti, Metropolitní plán]
 ---
 
 Praha, 17. června 2019 – V pondělí 17. června v podvečer proběhlo v Praze veliké koordinační setkání Pirátů zastoupených v městských částech a zástupců pirátského magistrátního týmu. Setkání se zúčastnili za magistrát Tomáš Murňák jako pirátský gesční zastupitel pro problematiku rozvoje a místopředseda Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP, dále pak radní Adam Zábranský, který má na starost za Piráty bytovou politiku metropole, primátor Zdeněk Hřib, zástupci pražského vedení strany i předseda pirátů Ivan Bartoš.

@@ -1,7 +1,7 @@
 ---
 date:         2016-12-16
 category:     blog
-tags:         [Zastupitelstvo, územní-plán]
+tags:         [Zastupitelstvo, Hnutí ANO, ODS]
 layout:       post
 title:        "V Praze vzniká nová koalice pro změny územního plánu" 
 image:        posts/koalicnici.jpg

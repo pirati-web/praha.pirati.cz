@@ -1,8 +1,8 @@
 ---
 date:         2019-04-24
-tags:         praha životní-prostředí
+tags:         životní-prostředí
 title:        "Praha vyzývá žáky pražských škol k opuštění plastů"
-image: 	      posts/posts/vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       Prokop Laichter, Jan Loužek
 ---
 

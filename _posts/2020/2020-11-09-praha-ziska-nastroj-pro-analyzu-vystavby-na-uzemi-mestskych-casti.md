@@ -1,6 +1,6 @@
 ---
 date:         2020-11-09
-tags:         [IT, územní-plán]
+tags:         [IT, Otevřená data, Metropolitní plán]
 title:        "Hlavní město získá nástroj pro analýzu výstavby na území městských částí"
 image: 	      posts/golemio2.jpg
 author:       MHMP

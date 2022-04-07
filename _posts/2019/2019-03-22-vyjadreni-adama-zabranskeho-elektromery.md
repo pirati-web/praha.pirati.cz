@@ -1,8 +1,8 @@
 ---
 date:         2019-03-28
-tags:         praha bydlení
+tags:         bydlení
 title:        "Zábranský: Nikoho přes elektroměry šmírovat nebudeme"
-image: 	      posts/posts/adam-zabransky-4.jpg
+image: 	      posts/adam-zabransky-4.jpg
 author:       Adam Zábranský
 ---
 
