@@ -1,7 +1,6 @@
 ---
 date:         2021-05-03
-tags:         
-- praha
+tags:         [Kultura]
 title:        "Interaktivní mapa připomíná pietní místa spojená s Pražským povstáním v květnu roku 1945 "
 image: 	      posts/mapa.jpg
 author:       MHMP

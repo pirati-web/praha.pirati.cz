@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/prazskefirmy.png
-tags:	městské-firmy transparentnost
+tags:	[Městské firmy, Transparentnost]
 date:	2015-05-15
 ---
 

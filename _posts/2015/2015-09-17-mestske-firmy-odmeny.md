@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/radmila.jpg
-tags:	koalice městské-firmy
+tags:	[Městské firmy, Hnutí ANO, Dozorčí rady]
 date:	2015-09-17
 ---
 

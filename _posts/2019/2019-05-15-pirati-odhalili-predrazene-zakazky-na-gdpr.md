@@ -4,8 +4,8 @@ category: blog
 title: "Pirátská analýza odhalila předražené zakázky na GDPR"
 date: 2019-05-15
 author: "Štěpán Štrébl"
-image: strebl.jpg
-tags: praha kauzy
+image: posts/strebl.jpg
+tags: [Transparentnost]
 ---
 
 Praha, 15. května 2019 – S příchodem GDPR všechna města zřídila funkci pověřence pro ochranu osobních údajů. Piráti zpracovali analýzu, která porovnává, jak se s novou povinností vyrovnaly různé pražské městské části. Zatímco Praha 3 za analýzy k GDPR zaplatila přes tři a půl milionu korun a nepravomocně dostala i pokutu od Úřadu pro ochranu hospodářské soutěže, Praha 4 zaplatila jen něco přes dvě stě tisíc.

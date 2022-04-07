@@ -1,7 +1,7 @@
 ---
 date:         2018-07-03
 category:     blog
-tags:         životní-prostředí
+tags:         [IPR, životní-prostředí]
 layout:       post
 title:        "Místo klimatizace potřebujeme ve městě stromy" 
 image:        strom.jpg

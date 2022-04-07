@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	posts/honza.jpg
-tags:	[Transparentnost]
+tags:	[ODS, Transparentnost]
 date:	2015-02-19
 ---
 

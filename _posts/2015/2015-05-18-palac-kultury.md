@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/pakul.jpg
-tags:	městské-firmy kauzy
+tags:	[Městské firmy, Transparentnost]
 date:	2015-05-18
 ---
 

@@ -1,10 +1,10 @@
 ---
 date:         2018-04-24
 category:     blog
-tags:         kauzy informatika
+tags:         [IT]
 layout:       post
 title:        "Praha chce zadat zakázku na zabezpečení radiového systému za 93 milionů bez soutěže, Piráti to odmítají" 
-image:        radio93.jpg
+image:        posts/radio93.jpg
 author:       Ondřej Kallasch
 ---
 

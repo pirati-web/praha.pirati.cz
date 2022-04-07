@@ -3,8 +3,8 @@ title:	ANO a ČSSD v Praze nechtějí zveřejňovat faktury
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	ruka.png
-tags:	magistrát
+image:	posts/ruka.png
+tags:	[Hnutí ANO, ČSSD, Transparentnost]
 date:	2016-02-25
 ---
 

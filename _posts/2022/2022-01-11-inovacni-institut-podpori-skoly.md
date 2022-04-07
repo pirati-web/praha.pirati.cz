@@ -1,7 +1,6 @@
 ---
 date:         2022-01-11
-tags:        
-- školství
+tags:        [Pražský inovační institut]
 title:        "Hlavní město a Pražský inovační institut podpoří školy na území metropole v rámci nového Krajského akčního plánu"
 image: 	      posts/skola.jpg
 author:       MHMP

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/komuniste-najem.png
-tags:	[Transparentnost]
+tags:	[KSČM, Transparentnost]
 date:	2015-11-20
 ---
 

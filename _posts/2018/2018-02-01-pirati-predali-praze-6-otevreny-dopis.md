@@ -1,7 +1,7 @@
 ---
 date:         2018-02-01
 category:     blog
-tags:         [Praha 6, Transparentnost]
+tags:         [Praha 6, CityVizor, Transparentnost]
 layout:       post
 title:        "Chceme transparentnost na radnici Prahy 6. Piráti předali otevřený dopis starostovi" 
 image:        posts/praha-6-dopis.jpg

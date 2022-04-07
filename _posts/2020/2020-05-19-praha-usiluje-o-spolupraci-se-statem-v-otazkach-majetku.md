@@ -1,6 +1,6 @@
 ---
 date:         2020-05-19
-tags:         majetek
+tags:         [Majetkové směny se státem]
 title:        "Praha usiluje o věcnou spolupráci se státem v otázkách majetku, rozvoje a investic"
 image: 	      posts/0hrib.jpg
 author:       MHMP

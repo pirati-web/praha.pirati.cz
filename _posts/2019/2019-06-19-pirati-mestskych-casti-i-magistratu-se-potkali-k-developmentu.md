@@ -4,7 +4,7 @@ category: blog
 title: "Piráti z Magistrátu a městských částí debatovali nad developmentem v Praze. Identifikovali problematické projekty"
 date: 2019-06-19
 author: "MHMP"
-image: plan.jpg
+image: posts/plan.jpg
 tags: územní-plán
 ---
 

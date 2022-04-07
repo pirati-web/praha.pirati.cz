@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/karel-brezina.jpg
-tags:	[Karel Březina]
+tags:	[ČSSD, Karel Březina]
 date:	2015-10-03
 ---
 

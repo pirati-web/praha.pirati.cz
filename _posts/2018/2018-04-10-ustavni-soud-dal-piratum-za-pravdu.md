@@ -1,10 +1,10 @@
 ---
 date:         2018-04-10
 category:     blog
-tags:         městské-firmy
+tags:         [Městské firmy, Dozorčí rady, Transparentnost]
 layout:       post
 title:        "Ústavní soud se zastal Pirátů, dceřinky městských firem musejí poskytovat informace" 
-image:        adam-us.jpg
+image:        posts/adam-us.jpg
 author:       Adam Zábranský
 ---
 

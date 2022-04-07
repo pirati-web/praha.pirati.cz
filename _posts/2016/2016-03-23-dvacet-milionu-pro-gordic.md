@@ -1,10 +1,10 @@
 ---
 date:	2016-03-23
 category:	blog
-tags:	magistrát
+tags:	[Hnutí ANO, IT]
 layout:	post
 title:	ANO vytáhlo z kuchyňky 20 miliónů na účetní systém
-image:	penize-primatorka.jpg
+image:	posts/penize-primatorka.jpg
 author:	Ondřej Profant
 ---
 

@@ -1,7 +1,7 @@
 ---
 date:         2017-11-30
 category:     blog
-tags:         městské-firmy
+tags:         [Městské firmy]
 layout:       post
 title:        "Miliardový obchod Prahy s Křetínským je pochybný, nemůžeme ho podpořit"
 image:        posts/ave2.jpg

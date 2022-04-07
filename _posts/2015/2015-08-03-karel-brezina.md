@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/brezina.jpg
-tags:	[Karel Březina]
+tags:	[ČSSD, Karel Březina]
 date:	2015-08-03
 ---
 

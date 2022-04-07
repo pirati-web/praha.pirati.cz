@@ -6,8 +6,6 @@ image: 	      posts/novaradnice.jpg
 author:       MHMP
 ---
 
- 
-
 Radní hl. m. Prahy na pondělním zasedání schválili významný praktický dokument Standardy pro hospodaření se srážkovou vodou. Standardy stanoví možnosti realizace přírodě blízkých řešení při hospodaření a využívání srážkových vod v Praze.
 
 Hospodaření se srážkovými vodami je komplexní přístup k odvodňování urbanizovaných území, který klade důraz na zachytávání dešťové vody v místě jejího dopadu a zachování přirozeného vodního režimu v území – tedy maximalizaci vsaku a výparu a minimalizaci povrchového odtoku. Základním pravidlem standardů je proto minimalizace nepropustných povrchů již v rámci urbanisticko-architektonického řešení. Důležitým prvkem je například i budování střech s retenční vrstvou.

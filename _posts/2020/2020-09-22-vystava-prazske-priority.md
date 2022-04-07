@@ -1,7 +1,6 @@
 ---
 date:         2020-09-22
-tags:         
- - Praha
+tags:        [Kultura, IPR]
 title:        "Výstava Pražské priority ukazuje 25 výrazných projektů, které zásadně změní tvář Prahy"
 image: 	      posts/revolucni-promena.jpg
 author:       MHMP

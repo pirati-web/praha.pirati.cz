@@ -1,6 +1,6 @@
 ---
 date:         2021-11-09
-tags:         [COP 26, životní-prostředí]
+tags:         [COP 26, Pražský klimatický závazek, životní-prostředí]
 title:        "Praha bude mít zástupce na klimatickém summitu COP26. Je to velká příležitost pro naše město, říká primátor Hřib"
 image: 	      posts/0hrib.jpg
 author:       MHMP

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/zast-3.jpg
-tags:	stavební-předpisy koalice kauzy
+tags:	[ČSSD, Zelení, Zastupitelstvo]
 date:	2015-09-10
 ---
 

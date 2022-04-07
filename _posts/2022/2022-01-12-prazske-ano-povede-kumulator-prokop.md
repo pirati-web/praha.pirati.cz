@@ -1,6 +1,6 @@
 ---
 date:         2022-01-11
-tags:         [hnutí ANO]
+tags:         [Hnutí ANO]
 title:        "Pražské ANO povede kumulátor placených funkcí zapletený do podezřelé zakázky"
 image: 	      posts/billboard.jpg
 author:       Piráti Praha

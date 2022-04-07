@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/escher.jpg
-tags:	kauzy
+tags:	[Škodův palác]
 date:	2015-05-18
 ---
 

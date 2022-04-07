@@ -1,7 +1,7 @@
 ---
 date:         2017-11-24
 category:     blog
-tags:         dozorčí-rady
+tags:         [Dozorčí rady]
 layout:       post
 title:        "Pražská rada schválila chabá pravidla pro obsazování dozorčích rad, stejně je porušuje"
 image:        posts/trafiky.jpg

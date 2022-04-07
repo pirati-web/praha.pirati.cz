@@ -1,7 +1,7 @@
 ---
 date:         2018-01-15
 category:     blog
-tags:         kauzy
+tags:         [Městské firmy]
 layout:       post
 title:        "Pražská koalice udělala z opozičního zastupitele šéfa městské akciovky, měl by rezignovat." 
 image:        posts/zastupitelstvo5.jpg

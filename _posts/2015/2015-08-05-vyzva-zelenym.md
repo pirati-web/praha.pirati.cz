@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/duchod-brezina.jpg
-tags:	[Karel Březina]
+tags:	[Karel Březina, Zelení]
 date:	2015-08-05
 ---
 

@@ -5,7 +5,7 @@ title: "Praha si sama zadržela půl miliardy, přeběhlice Hášová možná p�
 date: 2017-09-19T17:50:00+02:00
 author: Jakub Michálek
 image: posts/pre-sidlo.jpg
-tags: městské-firmy
+tags: [Městské firmy]
 ---
 
 Dnes, 22. září 2017 byla podána žaloba na neplatnost usnesení valné hromady Pražské energetiky, největší pražské energetické firmy. Na této valné hromadě hlavní město Praha z neznámých důvodů zadrželo akcionářům Pražské energetiky podíl na zisku (dividendu) ve výši 1,7 miliardy korun. Naopak město odsouhlasilo vyplatit podíl na zisku (tantiemu) členům dozorčí rady, mimo jiné zastupitelce Hášové, v astronomické výši 1,2 milionu korun ročně. Háček je ale v tom, že takový postup je podle akcionářů nelegální a za pravdu jim dává i judikatura. Hášová tak v případě zrušení usnesení bude muset milion vracet.

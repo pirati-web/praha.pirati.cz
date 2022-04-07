@@ -1,9 +1,9 @@
 ---
 date:         2018-09-05
 category:     blog
-tags:         [kultura]
+tags:         [Kultura]
 layout:       post
-title:        "Místo Stalina pomník Krnáčové? Primátorka na poslední chvíli schválila projekt galerie na Letné."
+title:        "Místo Stalina pomník Krnáčové? Primátorka na poslední chvíli schválila projekt galerie na Letné"
 image:        posts/krnacova-metronom.jpg
 author:       Adam Zábranský, Jan Loužek
 ---

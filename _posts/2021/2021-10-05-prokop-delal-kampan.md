@@ -1,6 +1,6 @@
 ---
 date:         2021-10-05
-tags:         [hnutí ANO, Praha 11]
+tags:         [Hnutí ANO, Praha 11]
 title:        "Jiří Dohnal: Ondřej Prokop dlouhodobě nezvládal svěřenou oblast majetku a místo práce se věnoval volební kampani"
 image: 	      posts/dohnal.jpg
 author:       Jiří Dohnal

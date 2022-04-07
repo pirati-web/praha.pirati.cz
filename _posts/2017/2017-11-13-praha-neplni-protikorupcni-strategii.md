@@ -1,7 +1,7 @@
 ---
 date:         2017-11-13
 category:     blog
-tags:         magistrát
+tags:         [Protikorupční strategie]
 layout:       post
 title:        "Sliby chyby. Koalice neplní vlastní protikorupční strategii"
 image:        posts/ruka.jpg

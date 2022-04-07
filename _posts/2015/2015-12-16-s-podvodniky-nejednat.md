@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/brezina-nabidka.jpg
-tags:	[Karel Březina, Piráti, Zastupitelstvo]
+tags:	[Karel Březina, ČSSD, Piráti, Zastupitelstvo]
 date:	2015-12-16
 ---
 
