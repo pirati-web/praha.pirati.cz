@@ -1,8 +1,6 @@
 ---
 date:         2021-05-05
-tags:         
-- informatika
-- bydlení
+tags:         [IT, Otevřená data]
 title:        "Praha zpřístupnila nové datové sady z oblasti bytového fondu"
 image: 	      posts/opendata3.jpg
 author:       MHMP

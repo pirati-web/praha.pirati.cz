@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/hasek-brezina.jpg
-tags:	[Karel Březina]
+tags:	[Hnutí ANO, Karel Březina]
 date:	2016-01-27
 ---
 

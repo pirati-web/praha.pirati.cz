@@ -1,6 +1,6 @@
 ---
 date:         2020-05-05
-tags:         [Pandemie Covid-19, IT, bydlení, Transparentnost]
+tags:         [Pandemie Covid-19, IT, bydlení, Otevřená data, Transparentnost]
 title:        "Datová platforma Golemio zveřejňuje data týkající se dopadu epidemie koronaviru na realitní trh v Praze"
 image: 	      posts/golemio2.jpg
 author:       Adam Zábranský

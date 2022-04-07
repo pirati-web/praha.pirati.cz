@@ -1,10 +1,10 @@
 ---
 date:         2018-11-07
 category:     blog
-tags:         koalice praha
+tags:         [Volby 2018]
 layout:       post
 title:        "Nová koalice pro pražský magistrát představuje své programové prohlášení. Dominuje doprava a dostupné bydlení v metropoli"
-image:        tk-koalice.jpg
+image:        posts/tk-koalice.jpg
 author:       Zdeněk Hřib, Jiří Pospíšil, Jan Čižinský
 ---
 

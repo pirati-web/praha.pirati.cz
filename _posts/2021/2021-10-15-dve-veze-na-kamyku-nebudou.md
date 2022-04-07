@@ -1,7 +1,6 @@
 ---
 date:         2021-10-14
-tags:         
-- územní-rozvoj
+tags:         [Praha 4]
 title:        "Dvě věže lidé na Kamýku nechtějí. Návrh petentů a Pirátů na zamezení pronájmu pozemku Zastupitelstvo nepodpořilo"
 image: 	      posts/kamyk.jpg
 author:       MHMP

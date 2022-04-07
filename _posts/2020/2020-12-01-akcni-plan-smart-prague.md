@@ -1,7 +1,6 @@
 ---
 date:         2020-12-01
-tags:         
- - informatika
+tags:         [IT, Otevřená data, Smart Cities]
 title:        "Řídit město na základě dat: Pražští radní schválili Akční plán Smart Prague 2030"
 image: 	      posts/inovace.jpg
 author:       MHMP

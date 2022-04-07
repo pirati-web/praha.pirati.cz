@@ -1,7 +1,6 @@
 ---
 date:         2021-07-01
-tags:         
-- zdravotnictví
+tags:         [Majetkové směny se státem]
 title:        "Primátor Hřib žádá Babiše: Dodržte svůj slib!"
 image: 	      posts/7hrib.jpg
 author:       Zdeněk Hřib

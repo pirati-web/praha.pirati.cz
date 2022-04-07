@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/uplan.jpg
-tags:	územní-plán
+tags:	[Metropolitní plán]
 date:	2015-02-16
 ---
 

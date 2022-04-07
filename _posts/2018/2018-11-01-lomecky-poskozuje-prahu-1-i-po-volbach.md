@@ -1,7 +1,7 @@
 ---
 date:         2018-11-01
 category:     blog
-tags:         [Praha 1]
+tags:         [TOP09, Praha 1]
 layout:       post
 title:        "Starosta Lomecký a jeho kolegové z Rady MČ Praha 1 po prohraných volbách poškozují Prahu 1"
 image:        posts/destruct.jpg

@@ -1,7 +1,6 @@
 ---
 date:         2020-12-10
-tags:         
- - koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Speciální web nabídne přehled odběrných míst s antigenními testy v Praze"
 image: 	      posts/0hrib.jpg
 author:       MHMP

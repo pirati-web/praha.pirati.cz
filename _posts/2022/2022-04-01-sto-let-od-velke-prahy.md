@@ -2,7 +2,7 @@
 title: "Venkovní výstava na Mariánském náměstí připomene výročí 100 let od vzniku Velké Prahy"
 author: MHMP
 image: posts/8hrib.jpg
-tags: [kultura]
+tags: [Kultura]
 ---
 
 Magistrát hl. m. Prahy připravil ve spolupráci s Archivem hl. m. Prahy výstavu Velká Praha - 100 let od sloučení Prahy s předměstími, která při příležitosti letošního výročí přiblíží veřejnosti okolnosti zásadního rozšíření hlavního města. Výstava bude volně k vidění od 1. do 30. dubna 2022 na Mariánském náměstí před budovou Nové radnice.

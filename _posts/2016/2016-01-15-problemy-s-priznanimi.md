@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/neporadek.jpg
-tags:	[Transparentnost]
+tags:	[Pavel Bém, Transparentnost]
 date:	2016-01-15
 ---
 

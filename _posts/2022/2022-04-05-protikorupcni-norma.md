@@ -2,7 +2,7 @@
 title: "Praha jako první úřad v Česku zavede normu, která efektivně a systémově snižuje riziko korupce"
 author: MHMP
 image: posts/zabransky-okno.jpg
-tags: [Transparentnost]
+tags: [Transparentnost, Protikorupční strategie]
 ---
 
 Pražští radní dnes rozhodli o zavedení protikorupční normy označované ISO 37001 pro Magistrát hl. m. Prahy. Norma popisuje, jak má vypadat systém opatření pro prevenci, detekci a řešení nekalého, neetického, podvodného či nezákonného jednání v organizaci. Standard z roku 2016 vychází z nejpřísnějších národních protikorupčních norem i souvisejících mezinárodních úmluv.

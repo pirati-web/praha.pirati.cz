@@ -1,7 +1,6 @@
 ---
 date:         2020-10-20
-tags:         
- - informatika
+tags:         [IT, Otevřená data]
 title:        "Praha nabídne všem městům zdarma zdrojové kódy k IT systému V Praze jako doma"
 image: 	      posts/0hrib.jpg
 author:       MHMP

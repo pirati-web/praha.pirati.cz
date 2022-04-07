@@ -1,7 +1,7 @@
 ---
 date:         2018-09-26
 category:     blog
-tags:         [Praha 1, Volby 2018]
+tags:         [Praha 1, TOP 09, Volby 2018]
 layout:       post
 title:        "Vyzýváme TOP 09: Zbavte se Lomeckého"
 image:        posts/hrib3.jpg

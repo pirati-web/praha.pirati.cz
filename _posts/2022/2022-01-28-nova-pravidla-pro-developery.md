@@ -1,7 +1,6 @@
 ---
 date:         2022-01-28
-tags:        
-- územní-plánování
+tags:         [Pravidla pro developery]
 title:        "Praha má nová pravidla pro developery. Klíčový dokument odblokuje výstavbu ve městě"
 image: 	      posts/novaradnice.jpg
 author:       MHMP

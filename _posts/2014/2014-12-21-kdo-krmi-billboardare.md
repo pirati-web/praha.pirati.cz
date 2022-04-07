@@ -4,7 +4,7 @@ layout:	post
 author:	Jakub Michálek
 category:	blog
 image:	posts/psp.jpg
-tags:   [stavební-předpisy]
+tags:   [Pražské stavební předpisy, IPR, Stavební zákon]
 date:	2014-12-21
 ---
 

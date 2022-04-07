@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek, Mikuláš Ferjenčík
 image:	posts/stopy.jpg
-tags:	[stavební-předpisy, IPR, Transparentnost]
+tags:	[Pražské stavební předpisy, IPR, Transparentnost]
 date:	2015-09-02
 ---
 

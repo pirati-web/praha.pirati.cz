@@ -1,7 +1,7 @@
 ---
 date:	2016-09-03
 category:	blog
-tags:	Zastupitelestvo
+tags:	[ODS, Zastupitelstvo]
 layout:	post
 title:	"Piráti nesouhlasí podrazem ODS, která vycouvala z mimořádného Zastupitelstva." 
 image:	posts/magistrat.jpg

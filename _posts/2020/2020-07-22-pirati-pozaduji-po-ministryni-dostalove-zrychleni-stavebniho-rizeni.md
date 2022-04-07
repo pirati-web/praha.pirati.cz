@@ -1,6 +1,6 @@
 ---
 date:         2020-07-22
-tags:        [stavební-předpisy]
+tags:        [Pražské stavební předpisy, Stavební zákon]
 title:        "Piráti požadují po ministryni Dostálové data o stavebním řízení, aby zrychlilo povolování staveb"
 image: 	      posts/tomas-murnak.jpg
 author:       Tomáš Murňák, Michaela Beránková

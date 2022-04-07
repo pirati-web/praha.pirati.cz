@@ -1,7 +1,7 @@
 ---
 date:         2017-04-11
 category:     blog
-tags:         praha
+tags:         [Transparentnost]
 layout:       post
 title:        "Piráti k vedení Prahy: Zveřejňujte smlouvy firem i když bude zákon o registru smluv vykleštěn" 
 image:        posts/podpis.jpg

@@ -1,8 +1,8 @@
 ---
 date:         2019-10-02
-tags:         informatika
+tags:         [IT]
 title:        "Praha zrevidovala IT zakázky, ušetřila již přes 100 milionů korun"
-image: 	      posts/posts/magistrat2.jpg
+image: 	      posts/magistrat2.jpg
 author:       Zdeněk Hřib, MHMP
 ---
 

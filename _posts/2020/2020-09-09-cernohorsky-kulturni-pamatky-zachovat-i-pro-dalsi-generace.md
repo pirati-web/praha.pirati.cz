@@ -1,7 +1,6 @@
 ---
 date:         2020-09-09
-tags:         
- - Kultura
+tags:         [Kultura]
 title:        "Lukáš Černohorský: Kulturní památky chceme zachovat i pro další generace"
 image: 	      posts/cernohorsky.jpg
 author:       Lukáš Černohorský

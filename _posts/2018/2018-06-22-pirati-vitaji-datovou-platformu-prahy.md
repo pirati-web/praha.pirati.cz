@@ -1,7 +1,7 @@
 ---
 date:         2018-06-22
 category:     blog
-tags:         informatika
+tags:         [IT, Otevřená data]
 layout:       post
 title:        "Vítáme novou datovou platformu Prahy" 
 image:        golemio.jpg

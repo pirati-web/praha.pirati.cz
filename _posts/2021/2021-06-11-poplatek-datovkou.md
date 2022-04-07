@@ -1,7 +1,6 @@
 ---
 date:         2021-06-11
-tags:         
-- informatika
+tags:         [IT, Portál Pražana]
 title:        "Poplatek za komunální odpad nově na Portálu Pražana vyřeší nejen sami Pražané, ale i SVJ s datovou schránkou"
 image: 	      posts/8hrib.jpg
 author:       MHMP

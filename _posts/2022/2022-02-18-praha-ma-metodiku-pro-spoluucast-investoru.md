@@ -1,7 +1,6 @@
 ---
 date:   2022-02-18
-tags:  
-- územní-plánování
+tags:   [Pravidla pro developery]
 title:  "Praha má konečně metodiku pro spoluúčast investorů na rozvoji města"
 image: 	      posts/metodika.jpg
 author: Adam Zábranský

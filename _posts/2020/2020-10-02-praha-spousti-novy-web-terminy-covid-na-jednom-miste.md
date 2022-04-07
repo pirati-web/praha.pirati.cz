@@ -1,7 +1,6 @@
 ---
 date:         2020-10-02
-tags:         
- - koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Nejbližší termíny testování na COVID-19 na jednom místě. Praha spouští nový web"
 image: 	      posts/covid.jpg
 author:       MHMP

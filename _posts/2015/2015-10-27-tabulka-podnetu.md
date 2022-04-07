@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš  Ferjenčík
 image:	posts/mvcr.jpg
-tags:	[Transparentnost, územní-plán]
+tags:	[Transparentnost, Metropolitní plán]
 date:	2015-10-27
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2019-02-15
-tags:         praha informatika
+tags:         [Výběrové řízení, IT]
 title:        "Hledáme ředitele IT architektury pro Prahu, který pomůže dát informatiku města do pořádku!"
-image: 	      posts/posts/smart-prague.jpg
+image: 	      posts/smart-prague.jpg
 author:       Jan Loužek, Martina Vacková
 ---
 

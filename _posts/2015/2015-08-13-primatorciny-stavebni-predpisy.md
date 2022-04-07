@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/kuchynka.jpg
-tags:	[stavební-předpisy, Zastupitelstvo]
+tags:	[Pražské stavební předpisy, Zastupitelstvo]
 date:	2015-08-13
 ---
 
