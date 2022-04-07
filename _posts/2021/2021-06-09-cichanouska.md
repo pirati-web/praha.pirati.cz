@@ -1,17 +1,12 @@
 ---
 date:         2021-06-09
-tags:         
-- zahraničí
+tags:         [Zahraničí]
 title:        "Primátor Hřib přivítal Světlanu Cichanouskou v Praze"
 image: 	      posts/by2.jpg
 author:       Zdeněk Hřib
 ---
 
-Vážená paní Svjatlano Cichanouská,
-
-je mi nesmírnou ctí, že Vás mohu přivítat v Praze.
-
-Před více než 30 lety bylo naše město centrem protestů, které vedly k vymanění země z totalitního režimu a ze sféry sovětského vlivu. Minsk je nyní centrem demonstrací, které se rovněž snaží vymanit Vaší zemi z totality vedené prezidentem Lukašenkem a podporované putinovským Ruskem.
+Vážená paní Svjatlano Cichanouská, je mi nesmírnou ctí, že Vás mohu přivítat v Praze. Před více než 30 lety bylo naše město centrem protestů, které vedly k vymanění země z totalitního režimu a ze sféry sovětského vlivu. Minsk je nyní centrem demonstrací, které se rovněž snaží vymanit Vaší zemi z totality vedené prezidentem Lukašenkem a podporované putinovským Ruskem.
 
 Praha setrvale podporuje běloruské protesty proti zfalšovaným volbám, porušování lidských práv a režimu založeném na útlaku a zastrašování. Je pro mě velmi důležité, že Vám nyní mohu vyjádřit podporu i osobně.
 

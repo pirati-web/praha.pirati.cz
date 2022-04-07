@@ -1,7 +1,6 @@
 ---
 date:         2021-06-30
-tags:         
-- praha
+tags:         [Majetkové směny se státem]
 title:        "O vypořádání majetkoprávních vztahů mezi Prahou, Českou republikou a Ruskou federací bude jednat pracovní skupina"
 image: 	      posts/novaradnice.jpg
 author:       MHMP

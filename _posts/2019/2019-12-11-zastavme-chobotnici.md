@@ -1,6 +1,6 @@
 ---
 date:         2019-12-11
-tags:         [zahraničí]
+tags:         [Zahraničí]
 title:        "Čínská chobotnice rozpíná svoje chapadla nejen nad Českem ale i nad Prahou "
 image: 	      posts/chobotnice.jpg
 author:       Zdeněk Hřib
