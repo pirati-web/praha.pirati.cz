@@ -11,7 +11,7 @@ heroImg: Prague_panorama.jpeg
 description: vedoucí oddělení poradců primátora      	# kratký popis, max 160 znaků
 partyUid: pirati
 funkce: 
-  - vedoucí oddělení poradců primátora
+  - ředitel odboru Kancelář primátora MHMP
 mail:
   - jiri.hoskovec@pirati.cz
 orddr: 11
