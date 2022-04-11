@@ -21,7 +21,7 @@ profiles:
 ordpraha: 
 ---
 
-**Tomáš Vovsík** je poradce manažer sociálních sítí primátora Zdeňka Hřiba.
+**Tomáš Vovsík** je poradce a manažer sociálních sítí primátora Zdeňka Hřiba.
 
 Narodil se v Karviné, vyrůstal v Děčíně a později v Jihlavě. Po skončení studií se přestěhoval do Prahy. Vystudoval žurnalistiku a filmovou vědu v bakalářském programu a mediální studia v magisterském programu na Univerzitě Palackého v Olomouci. Půl roku studoval sociologii a politologii v rámci Erasmus stáže na Fatih University v Istanbulu. 
 
