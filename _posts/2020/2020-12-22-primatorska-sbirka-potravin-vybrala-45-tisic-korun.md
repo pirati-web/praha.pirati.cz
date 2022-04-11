@@ -1,6 +1,6 @@
 ---
 date:         2020-12-22
-tags:         [Primátorská potravinová sbírka, Piráti]
+tags:         [Primátorská potravinová sbírka, Piráti, Mariánské náměstí]
 title:        "Primátorská sbírka potravin slaví úspěch: vybrala se více jak tuna potravin a téměř 45 tisíc korun"
 image: 	      posts/sbirka.jpg
 author:       MHMP

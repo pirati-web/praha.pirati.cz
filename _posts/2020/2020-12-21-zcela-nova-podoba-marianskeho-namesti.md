@@ -1,6 +1,6 @@
 ---
 date:         2020-12-21
-tags:         [IPR, Praha 1]
+tags:         [IPR, Praha 1, Mariánské náměstí]
 title:        "Mariánské náměstí se promění. Pražští radní schválili jeho novou podobu"
 image: 	      posts/marianske.jpg
 author:       MHMP
