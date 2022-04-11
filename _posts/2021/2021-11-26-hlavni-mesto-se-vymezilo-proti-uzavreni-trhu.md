@@ -1,7 +1,7 @@
 ---
 date: 2021-11-26
 title: Hlavní město se vymezilo proti opatření ministerstva k uzavření trhů den před prvním adventním víkendem
-tags: [Pandemie Covid-19]
+tags: [Pandemie Covid-19, Mariánské náměstí]
 image: posts/magistrat3.jpg
 author: MHMP
 ---
