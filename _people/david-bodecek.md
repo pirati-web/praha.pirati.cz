@@ -3,7 +3,7 @@ uid: david.bodecek
 name:     David Bodeček  	# běžně používáné jméno
 titles:
   before: Mgr. 
-  after:
+  after: MBA
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - can
