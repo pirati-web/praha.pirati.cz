@@ -2,7 +2,7 @@
 date:         2019-12-19
 tags:         [Praha 1, Mariánské náměstí]
 title:        "Praha otevřela Mariánské náměstí veřejnosti, auta tudy už neprojedou"
-image: 	      posts/marianskenamesti-otevreni.jpg
+image: 	      posts/marianskenamesti-otevreni.jpeg
 author:       MHMP
 ---
 
