@@ -13,11 +13,13 @@ description: Kandidát č. 13. do voleb do Zastupitelstva hl. m. Prahy  	# kratk
 mail:
 - david.bodecek@pirati.cz
 mob:
+funkce: 
+  - zastupitel MČ Praha 1
+  - předseda konstrolního výboru MČ Praha 1
+  - místopředseda MS Praha 1
 profiles:
-  github:       
-  facebook:    
-  twitter: 		  
-  flickr:		  
+  facebook:  https://www.facebook.com/dajdanos
+  instagram: https://www.instagram.com/dajdanos
 ordcan: 13
 ---
 
