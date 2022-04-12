@@ -87,3 +87,5 @@ Od října 2013 je registrovaným příznivcem Pirátů. V komunálních volbác
 * [Veřejný kalendář primátora](https://posta16.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/4bb3b7813d634d4eb7340489c556118811534601839406330643/calendar.html)
 * [Životopis primátora](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/stranky_radnich/primator_zdenek_hrib/zivotopis/index.html)
 * [Platové podmínky a ohodnocení poradců primátora](/odmeny-poradcu)
+
+<iframe src="https://posta16.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/4bb3b7813d634d4eb7340489c556118811534601839406330643/calendar.html" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
