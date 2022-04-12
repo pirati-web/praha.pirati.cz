@@ -17,7 +17,7 @@ mob: +420 732 408 769
 mail:
   - martin.sterba@pirati.cz
 profiles:
-  facebook:  https://www.facebook.com/sterbamartin
+  facebook:  https://www.facebook.com/sterbamartin.praha8
   twitter:   https://twitter.com/sterbamartin
   linkedin:  https://linkedin.com/in/sterbamartin/
   instagram: https://www.instagram.com/sterbamartin__
