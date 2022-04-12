@@ -1,6 +1,6 @@
 ---
 title: "O Ukrajině na rovinu. Bude to stát peníze, ale nemusíme končit v minusu, říká Richterová "
-author: MHMP
+author: Petra Slezáková
 image: posts/olgarichterova-kafe.jpg
 tags: [Piráti, Praha 12, Válka na Ukrajině]
 ---
