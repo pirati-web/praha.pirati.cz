@@ -1,6 +1,6 @@
 ---
 date:         2019-04-02
-tags:         bydlení
+tags:         Bydlení
 title:        "Březen Adama Zábranského: Pronájem bytů podle zákona, byty policistům a vysvětlování ohledně elektroměrů"
 image: 	      posts/adam-zabransky-5.jpg
 author:       Adam Zábranský

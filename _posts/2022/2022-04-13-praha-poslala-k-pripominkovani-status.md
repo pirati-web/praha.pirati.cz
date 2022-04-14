@@ -2,7 +2,7 @@
 title: "Praha poslala do připomínkového řízení změnu Statutu hl. m. Prahy, která by omezila privatizace bytů ve správě městských částí"
 author: MHMP
 image: 	posts/zabransky-bydleni.jpg
-tags:   [bydlení, Legislativa]
+tags:   [Bydlení, Legislativa]
 ---
 
 **Hlavní město připravilo změnu Statutu hl. m. Prahy, která reaguje na přijatou Strategii rozvoje bydlení. Jedná se o dokument, který loni v dubnu schválilo Zastupitelstvo hl. m. Prahy a deklarovalo v něm zájem zamezit další privatizaci obecního bytového fondu. Změna Statutu je nyní v připomínkovém řízení, ve kterém se budou vyjadřovat městské části.**

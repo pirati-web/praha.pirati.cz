@@ -1,7 +1,7 @@
 ---
 date:         2022-02-02
 tags:        
-- bydlení
+- Bydlení
 title:        "Praha připravila úspěšný projekt humanitárních hostelů, ten nyní směřuje do finále"
 image: 	      posts/adam-zabransky-4.jpg
 author:       MHMP

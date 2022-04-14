@@ -1,6 +1,6 @@
 ---
 date:         2022-02-08
-tags:        [bydlení, Pravidla pro developery]
+tags:        [Bydlení, Pravidla pro developery]
 title:        "Zrychlení změn územního plánu loni odstartovalo výstavbu 10 000 nových bytů. Nejvíce za posledních 20 let"
 image: 	      posts/domy-slunce.jpg
 author:       MHMP

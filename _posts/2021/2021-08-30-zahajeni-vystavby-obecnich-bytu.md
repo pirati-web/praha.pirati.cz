@@ -1,7 +1,7 @@
 ---
 date:         2021-08-30
 tags:         
-- bydlení
+- Bydlení
 title:        "Pražští radní schválili další dotace pro městské části na výstavbu obecních bytů"
 image: 	      posts/adam-zabransky-6.jpg
 author:       MHMP

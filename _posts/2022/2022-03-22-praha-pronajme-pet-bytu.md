@@ -1,7 +1,7 @@
 ---
 date:   2022-03-22
 tags:  
-- bydlení
+- Bydlení
 title:  "Praha pronajme pět bytů dětským domovům Dolní Počernice a Klánovice. Pomohou mladým dospělým k samostatnému životu, nově začne fungovat i sdílené bydlení"
 image: 	      posts/adam-zabransky-7.jpg
 author: MHMP

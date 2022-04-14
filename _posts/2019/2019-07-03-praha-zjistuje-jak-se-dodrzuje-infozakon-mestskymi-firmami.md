@@ -5,7 +5,7 @@ title: "Rada hl. m. Prahy zjišťuje od městských společností, jak dodržuj�
 date: 2019-07-03
 author: "Adam Zábranský"
 image: posts/adam-zabransky-4.jpg
-tags: [Transparentnost]
+tags: [Transparentnost, Městské firmy]
 ---
 
 Praha, 3. 7. 2019 – Pražští radní požádali všechny městské společnosti, aby doložily, jak dodržují povinnosti vyplývající ze zákona o svobodném přístupu k informacím. Cílem je, aby městské společnosti zveřejňovaly všechny důležité informace, které nespadají pod obchodní tajemství.

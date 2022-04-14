@@ -1,7 +1,7 @@
 ---
 date:         2017-01-26
 category:     blog
-tags:         [bydlení, Zastupitelstvo]
+tags:         [Bydlení, Zastupitelstvo]
 layout:       post
 title:        "Nový statut fondu sociálního bydlení umožňuje utratit 3 miliardy korun bez kontroly zastupitelstva" 
 image:        posts/sidliste.jpg

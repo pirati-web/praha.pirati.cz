@@ -1,7 +1,7 @@
 ---
 date:         2020-10-12
 tags:         
- - bydlení
+ - Bydlení
 title:        "Praha podpoří kontaktní centra pro bydlení. Pomohou lidem ohroženým bytovou nouzí"
 image: 	      posts/adam-zabransky-3.jpg
 author:       MHMP

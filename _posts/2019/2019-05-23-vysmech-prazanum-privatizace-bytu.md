@@ -5,7 +5,7 @@ title: "Výsměch Pražanům: Spojené síly chtějí rozprodávat městské byt
 date: 2019-05-23
 author: "Zastupitelský klub Pirátů"
 image: posts/adam-zabransky-5.jpg
-tags: [bydlení]
+tags: [Bydlení]
 ---
 
 Praha, 23. květen 2019 – Klub Spojených sil pro Prahu v čele se svým předsedou Jiřím Pospíšilem bezprecedentně porušil koaliční mechanismy a programové prohlášení Rady hl. m. Prahy a zároveň také dnešní koaliční dohodu. Spojené síly pro Prahu společně s opozičními kluby ANO a ODS podpořily privatizaci městského bytového fondu za cenu 23 tisíc Kč/m2 ve chvíli, kdy průměrná cena starších bytů v Praze přesáhla 87 tisíc za metr. Podle Pirátů je nepřijatelné pokračovat v rozprodávání městského bytového fondu za zlomek jeho hodnoty. 

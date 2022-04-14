@@ -1,7 +1,7 @@
 ---
 date:   2022-02-15
 tags:  
-- bydlení
+- Bydlení
 title:  "Praha finančně podpoří pozici referentů, kteří pomohou nájemníkům se zabydlením v bytech městských částí"
 image: 	      posts/zabransky-okno.jpg
 author: MHMP

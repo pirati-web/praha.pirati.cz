@@ -1,7 +1,7 @@
 ---
 date:         2020-12-18
 tags:         
- - bydlení
+ - Bydlení
 title:        "Praha poskytne další dotace městským částem na rekonstrukce bytových jednotek a odkup ubytovny"
 image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP

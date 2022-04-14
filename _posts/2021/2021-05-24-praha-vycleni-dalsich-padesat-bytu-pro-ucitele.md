@@ -1,7 +1,7 @@
 ---
 date:         2021-05-25
 tags:         
-- bydlení
+- Bydlení
 title:        "Praha vyčlení dalších 50 městských bytů pro učitele"
 image: 	      posts/adam-zabransky-8.jpg
 author:       MHMP

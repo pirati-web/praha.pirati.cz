@@ -1,7 +1,7 @@
 ---
 date:         2021-05-11
 tags:         
-- bydlení
+- Bydlení
 title:        "Praha pronajme byt organizaci Baobab, která pomáhá lidem s duševním onemocněním"
 image: 	      posts/adam-zabransky-7.jpg
 author:       MHMP

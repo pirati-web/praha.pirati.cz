@@ -1,7 +1,7 @@
 ---
 date:         2020-12-21
 tags:         
- - bydlení
+ - Bydlení
 title:        "Radní schválili dodavatele zakázky na zateplení bytového domu. Cena bude o 30 procent nižší, než se předpokládalo"
 image: 	      posts/adam-zabransky-8.jpg
 author:       MHMP

@@ -1,6 +1,6 @@
 ---
 date:         2021-05-24
-tags:          [bydlení, Sociální politika]
+tags:          [Bydlení, Sociální politika]
 title:        "Hlavní město zlepší cílenou pomoc Pražanům, zakládá vlastní sociální nadační fond"
 image: 	      posts/magistrat2.jpg
 author:       MHMP

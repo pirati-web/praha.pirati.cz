@@ -1,6 +1,6 @@
 ---
 date:         2019-11-19
-tags:         bydlení
+tags:         Bydlení
 title:        "Praha schválila víc městských bytů pro potřebné profese"
 image: 	      posts/adam-zabransky-6.jpg
 author:       Adam Zábranský

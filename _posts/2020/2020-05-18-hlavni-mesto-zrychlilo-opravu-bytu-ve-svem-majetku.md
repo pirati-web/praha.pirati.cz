@@ -1,6 +1,6 @@
 ---
 date:         2020-05-18
-tags:         bydlení
+tags:         Bydlení
 title:        "Hlavní město zrychlilo tempo oprav bytů ve svém majetku"
 image: 	      posts/zabransky-stavi.jpg
 author:       Adam Zábranský

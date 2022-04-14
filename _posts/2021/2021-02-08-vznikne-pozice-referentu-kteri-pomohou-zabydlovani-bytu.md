@@ -1,7 +1,7 @@
 ---
 date:         2021-02-08
 tags:         
-- bydlení
+- Bydlení
 title:        "Praha podpoří v městských částech pozici referentů, kteří pomohou lidem se zabydlet v obecním bytě"
 image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP

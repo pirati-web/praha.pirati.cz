@@ -1,6 +1,6 @@
 ---
 date:         2021-08-30
-tags:         [bydlení, Praha 11]
+tags:         [Bydlení, Praha 11]
 title:        "Rada schválila výběr dodavatele rekonstrukce bývalého Hotelu Opatov"
 image: 	      posts/hotelopatov.jpg
 author:       MHMP

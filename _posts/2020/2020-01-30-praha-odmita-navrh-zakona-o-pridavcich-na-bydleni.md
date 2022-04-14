@@ -1,6 +1,6 @@
 ---
 date:         2020-01-30
-tags:         bydlení
+tags:         Bydlení
 title:        "Praha zásadně odmítá návrh zákona o přídavku na bydlení z dílny Ministerstva práce a sociálních věcí ČR"
 image: 	      posts/adamzabransky.jpg
 author:       Adam Zábranský

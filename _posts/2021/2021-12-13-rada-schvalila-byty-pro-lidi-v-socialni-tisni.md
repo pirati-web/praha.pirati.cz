@@ -1,7 +1,7 @@
 ---
 date:         2021-12-13
 tags:        
-- bydlení
+- Bydlení
 title:        "Pražští radní schválili způsob využití bytů pro osoby v sociální tísni na rok 2022"
 image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP

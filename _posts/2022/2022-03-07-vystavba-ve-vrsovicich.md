@@ -1,6 +1,6 @@
 ---
 date:   2022-03-07
-tags:   [bydlení, Praha 10]
+tags:   [Bydlení, Praha 10]
 title:  "Praha chystá výstavbu městských bytů ve Vršovicích, připravuje se i na rekonstrukci legendárního stadionu Bohemians"
 image: 	      posts/dum.jpg
 author: MHMP
