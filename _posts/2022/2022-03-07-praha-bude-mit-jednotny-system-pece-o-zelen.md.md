@@ -1,7 +1,6 @@
 ---
 date:   2022-03-07
-tags:  
-- životní-prostředí
+tags:   [Životní prostředí]
 title:  "Praha bude mít jednotnou péči o zeleň"
 image: 	      posts/murnak3.jpg
 author: MHMP

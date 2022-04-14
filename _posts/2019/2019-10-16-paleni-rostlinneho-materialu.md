@@ -1,6 +1,6 @@
 ---
 date:         2019-10-16
-tags:         životní-prostředí
+tags:         [Životní prostředí]
 title:        "Magistrátní výbor dal zelenou pirátskému návrhu zákazu masového pálení uschlých stromů a keřů. Táboráků se nedotkne"
 image: 	      posts/eva-tylova.jpg
 author:       Tomáš Murňák, Eva Tylová

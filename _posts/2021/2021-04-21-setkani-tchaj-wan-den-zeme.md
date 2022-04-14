@@ -1,6 +1,6 @@
 ---
 date:         2021-04-21
-tags:         [Tchaj-wan, životní-prostředí]
+tags:         [Tchaj-wan, Životní prostředí]
 title:        "Earth Day Talk: Představitelé Tchaj-wanu, odborných institucí a Prahy se sešli u kulatého stolu k tématu překonávání klimatických výzev"
 image: 	      posts/eday.jpg
 author:       MHMP

@@ -1,7 +1,6 @@
 ---
 date:         2021-12-15
-tags:        
-- životní-prostředí
+tags:        [Životní prostředí]
 title:        "Piráti usilovali o spravedlivější cenu svozu odpadu v Praze. Opozice překvapivě snížení ceny odpadu nepodpořila, i když to kritizovala "
 image: 	      posts/8hrib.jpg
 author:       MHMP

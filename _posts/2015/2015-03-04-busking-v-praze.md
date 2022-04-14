@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/harmoniky.jpg
-tags:	[Busking]
+tags:	[Umění ve veřejném prostoru]
 date:	2015-03-04
 ---
 

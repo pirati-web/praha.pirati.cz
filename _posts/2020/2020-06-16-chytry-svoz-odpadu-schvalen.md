@@ -1,6 +1,6 @@
 ---
 date:         2020-06-16
-tags:         [Smart Cities, životní-prostředí]
+tags:         [Smart Cities, Životní prostředí]
 title:        "Závěrečnou zprávu projektu „Chytrý svoz odpadu“ rada schválila, úspěšný projekt bude pokračovat"
 image: 	      posts/kontejner.jpg
 author:       MHMP

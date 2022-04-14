@@ -5,7 +5,7 @@ title: "Ve vedru trávníky nesekejte apelují Piráti na pražské městské č
 date: 2019-07-03
 author: "Eva Tylová, Zdeněk Hřib"
 image: posts/sady2.jpg
-tags: [životní-prostředí]
+tags: [Životní prostředí]
 ---
 
 Praha, 3. 7. 2019 – Sucho a vedro poškozuje trávníky. Je třeba změnit péči o ně. Proto Výbor pro životní prostředí a infrastrukturu hl. m. Prahy na podnět členky Evy Tylové vyzval, aby organizace města a městské části omezily sekání trávy v době sucha. Magistrát hl. m. Prahy na základě usnesení výboru vydal metodický pokyn, který podmínky seče dále specifikuje. Nesprávné je např. sekání trávy v horkých dnech nad 26° Celsia. Přesto se to ještě někde děje. Ochranu nad trávníky převzal i primátor Zdeněk Hřib, který osobně vyzval k omezení sečí.

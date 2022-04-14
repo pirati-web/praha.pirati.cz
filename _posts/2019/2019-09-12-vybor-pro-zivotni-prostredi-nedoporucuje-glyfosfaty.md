@@ -1,6 +1,6 @@
 ---
 date:         2019-09-12
-tags:         životní-prostředí
+tags:         [Životní prostředí]
 title:        "Výbor pro životní prostředí doporučuje městu, aby při údržbě zeleně nepoužívalo glyfosáty"
 image: 	      posts/tomas-murnak.jpg
 author:       MHMP

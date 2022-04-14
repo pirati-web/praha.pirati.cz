@@ -1,7 +1,6 @@
 ---
 date:         2021-12-15
-tags:        
-- životní-prostředí
+tags:        [Životní prostředí, Hnutí ANO]
 title:        "Piráti odmítají zdražení odpadů vynucené novelou z vládní dílny ANO. Po nové vládě budou požadovat revizi zákona"
 image: 	      posts/magistrat3.jpg
 author:       MHMP

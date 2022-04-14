@@ -1,7 +1,6 @@
 ---
 date:         2021-07-16
-tags:         
-- životní-prostředí
+tags:         [EU, Životní prostředí]
 title:        "Místopředseda Evropské komise vnímá Prahu jako důležitého partnera v prosazování společných cílů v oblasti životního prostředí"
 image: 	      posts/hrib-timmer.jpg
 author:       MHMP
