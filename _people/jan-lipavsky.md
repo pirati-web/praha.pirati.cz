@@ -22,6 +22,7 @@ profiles:
   instagram:  https://www.instagram.com/jan_lipavsky/
   twitter:    https://twitter.com/JanLipavsky
   wikipedia:  https://cs.wikipedia.org/wiki/Jan_Lipavsk%C3%BD
+  blog:       https://blog.aktualne.cz/blogy/jan-lipavsky.php
   flickr:     https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=lipavsk%C3%BD
 ordvlada: 1
 ---
