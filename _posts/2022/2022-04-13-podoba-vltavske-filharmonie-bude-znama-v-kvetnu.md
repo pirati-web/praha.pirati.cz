@@ -24,7 +24,7 @@ Mezinárodní soutěž o novou podobu koncertního sálu vyhlásil Institut plá
 
 Rozsah území, které řeší architektonická soutěž na budoucí podobu Vltavské filharmonie, je vyznačen níže.
 
-![Řešení území Vltavské filharmonie](https://www.praha.eu/file/3413105/vltavska_resene_uzemi_02.jpg)
+![Řešení území Vltavské filharmonie](https://a.pirati.cz/praha/img/posts/vltavska.jpg)
 
 
 
