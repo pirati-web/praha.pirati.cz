@@ -1,7 +1,7 @@
 ---
 title: "Plníme to, co jsme v roce 2019 naplánovali po návratu z Tchaj-peje"
 authorId: jaromir.beranek
-image: 	posts/jaromir-beranek.jpeg
+image: 	posts/jaromir-beranek.jpg
 tags:   [Zahraničí, Tchaj-wan, Nakopni Prahu]
 ---
 
