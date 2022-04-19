@@ -15,7 +15,7 @@ Praha již od roku 2019 jedná se státem o směnách budov a pozemků, které s
 
 Předmětem první směny je areál Fakultní nemocnice Bulovky, který je nyní vlastnicky velmi komplikovaný – část budov a pozemků patří městu, a část státu. Tento stav velmi ztěžuje efektivní správu, údržbu a především větší investice do budov a vybavení. Město a stát se proto dohodly, že státu zůstane konsolidované vlastnictví větší části areálu, město si ponechá jen několik budov v jižní části areálu Bulovka pro své sociální a zdravotnické účely. Jedná se tedy o transakci s pozitivním přínosem pro všechny – stát nemusí platit městu nájemné a může investovat do vlastního majetku a rozvoje zdravotnických služeb - a město za tento areál, který neprovozuje, získá jiné strategické majetky ve vlastnictví státu.
 
-![Majetkové směny se státem](https://scontent.fprg5-1.fna.fbcdn.net/v/t39.30808-6/278372528_1017698345389782_346437424347333993_n.png?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=a7zLDoNSfMcAX8s9MhP&tn=GEFxictv3l4msThv&_nc_ht=scontent.fprg5-1.fna&oh=00_AT9EqkvHq108vtpRTbhrWQ4grL1Z8Lk5S41GgbXCFMZpuw&oe=625C18DC)
+![Majetkové směny se státem](/posts/majetkovesmeny1.jpg)
 
 Praha jako protihodnotu získá areál karlínských kasáren, který chce dlouhodobě využít pro bydlení a kulturní funkce. 
 
@@ -27,7 +27,7 @@ Směna by se měla týkat i menších objektů, jako je například grafická š
 
 Druhá směna se týká zejména Faustova domu a přilehlých nemovitostí, které jsou v majetku města, a pozemků a areálu Nemocnice Na Homolce výměnou za areál Zámku Veleslavín. Cílem je umístit zde školské zařízení a zařízení pro zdravotnictví a sociální nebo paliativní péči. Současně by bylo možné otevřít celý areál jako park k rekreaci pro okolní obyvatele. Všeobecná fakultní nemocnice, což je státní organizace, má zájem o převod Faustova domu do svého vlastnictví především z provozních důvodů a podobně jako u Bulovky se jedná o soubor nemovitostí, který je a bude státem dlouhodobě užíván pro zajištění zdravotnických služeb v rámci celého areálu na Karlově náměstí. Dále se směna týká pozemků v areálu Nemocnice Na Homolce, kde je také cílem, aby měla celý areál ve své správě.
 
-![Majetkové směny se státem](https://scontent.fprg5-1.fna.fbcdn.net/v/t39.30808-6/278322256_1017698348723115_966714313915028085_n.png?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=tVOzq06biHMAX8GZssK&tn=GEFxictv3l4msThv&_nc_ht=scontent.fprg5-1.fna&oh=00_AT-sVmKV06r4PzLcm6riuNYmwlELcvvcSuuZGG3UvdAy6g&oe=625C8269)
+![Majetkové směny se státem](/posts/majetkovesmeny2.png)
 
 ### Ke stažení:
 - [Prezentace majetkových směn](https://www.praha.eu/file/3412986/_20220412_TK_smeny.pdf)
