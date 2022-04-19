@@ -5,7 +5,7 @@ image: 	posts/jaromir-beranek.jpeg
 tags:   [Zahraničí, Tchaj-wan, Nakopni Prahu]
 ---
 
-**Když jsme byli v březnu 2019 se primátorem Zdeňkem Hřibem a poslancem Jakubem Michálkem v Tchaj-peji, odvezli jsme si kromě spousty inspirace a zážitků 3 velké plány:
+**Když jsme byli v březnu 2019 se primátorem Zdeňkem Hřibem a poslancem Jakubem Michálkem v Tchaj-peji, odvezli jsme si kromě spousty inspirace a zážitků 3 velké plány:**
 
 1) **Okopírujeme koncept tchajwanského prezidentského hackathonu**, který umožňuje inovátorům z řad široké veřejnosti navrhovat praktická vylepšení pro stát, města i veřejný prostor. Nu a letos realizujeme už třetí ročník Pražského inovačního maratonu [#NakopniPrahu](https://praha.pirati.cz/aktuality/stitky/nakopni-prahu/). Nedávno jsme v rámci semifinále vybrali 12 týmů, které dostanou šanci na začátku června odprezentovat své nápady pro Prahu. Více na http://www.nakopniprahu.cz.
 
