@@ -1,7 +1,7 @@
 ---
 title: "Praha bude i nadále podporovat kurzy češtiny pro děti s odlišným mateřským jazykem a jejich integraci do českých škol"
 author: MHMP
-image: posts/vitsimral-5.jpg
+image: posts/vitsimral6.jpg
 tags: [školství]
 ---
 
