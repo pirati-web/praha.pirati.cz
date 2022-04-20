@@ -5,7 +5,7 @@ image: 	posts/zabransky-okno.jpg
 tags:   [Bydlení]
 ---
 
-Pražští radní dnes schválili návrh, který umožní domácnostem v městských bytech získat slevu na nájemném, pokud ubytují ukrajinské uprchlíky prchající před Putinovou vojenskou agresí. Sleva bude poskytována měsíčně ve výši 1 000 Kč za každého ukrajinského státního příslušníka, nejvýše pak ve výši 4 000 Kč měsíčně za jeden byt.
+Pražští radní v úterý 19. dubna schválili návrh, který umožní domácnostem v městských bytech získat slevu na nájemném, pokud ubytují ukrajinské uprchlíky prchající před Putinovou vojenskou agresí. Sleva bude poskytována měsíčně ve výši 1 000 Kč za každého ukrajinského státního příslušníka, nejvýše pak ve výši 4 000 Kč měsíčně za jeden byt.
 
 Rada tak reaguje na vládní nařízení o solidárním příspěvku pro domácnosti, které u sebe ubytují uprchlíky. Vládní příspěvek ve výši 3 000 Kč měsíčně na každého ubytovaného uprchlíka s limitem 12 000 Kč měsíčně na domácnost totiž odborníci považují za nedostatečný. Sleva bude poskytována po dobu účinnosti nařízení vlády.
 
