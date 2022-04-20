@@ -1,5 +1,5 @@
 ---
-title: "Praha poskytne slevy nájemníkům městských bytů, kteří ubytují ukrajinské uprchlíkyů korun"
+title: "Praha poskytne slevy nájemníkům městských bytů, kteří ubytují ukrajinské uprchlíky"
 authorId: MHMP
 image: 	posts/zabransky-okno.jpg
 tags:   [Bydlení]
