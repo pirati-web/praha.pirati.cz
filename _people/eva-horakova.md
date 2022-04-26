@@ -18,6 +18,11 @@ funkce:
   - místopředsedkyně zastupitelského klubu Pirátů
   - předsedkyně <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">Výboru pro sociální politiku ZHMP</a>  
 asistenti:
+  - name: Eva Filipová
+    uid: 
+    position: asistentka
+    mail: eva.filipova@praha.eu
+    tel:
 mail:
 - eva.horakova@pirati.cz
 mob: +420 727 870 828
