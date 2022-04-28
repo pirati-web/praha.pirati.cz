@@ -1,8 +1,8 @@
 ---
-title: "Praha poskytne slevy nájemníkům městských bytů, kteří ubytují ukrajinské uprchlíky"
+title: Tohle je plán! Nový Metropolitní plán je připraven k připomínkování
 authorId: zdenek.hrib
 image: 	posts/metropolitniplan-tohlejeplan.jpg
-tags:   [Metropolitní plán]
+tags:   [Metropolitní plán, IPR]
 ---
 
 **To je Plán! Máme upravený Metropolitní plán Prahy k vašemu připomínkování! Je to fakt velká věc, protože se jedná o nejvýznamnější dokument pro rozvoj našeho města v následujících desetiletích. Děkuji za tento parádní úspěch, který stál opravdu pot a krev, týmu a spolupracovníkům náměstka Petra Hlaváčka. Skvělá práce!**

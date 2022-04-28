@@ -1,7 +1,7 @@
 ---
 title: Nově vzniklá ulice Ukrajinských hrdinů připomíná odvahu
 authorId: zdenek.hrib
-image: 	posts/hrib-ukrajinskychhrdinu.jpg
+image: 	posts/hrib-uliceukrajinskychhrdinu.jpg
 tags:   [Praha 6, Válka na Ukrajině]
 ---
 
