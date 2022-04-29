@@ -1,7 +1,7 @@
 ---
 date:         2021-04-19
 tags:         
-- školství
+- Školství
 title:        "Praha i v příštím školním roce spustí projekt „Školní obědy pro každé dítě“ podpořený z evropských fondů"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

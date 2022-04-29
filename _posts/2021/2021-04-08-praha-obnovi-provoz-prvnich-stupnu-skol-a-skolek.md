@@ -1,7 +1,7 @@
 ---
 date:         2021-04-08
 tags:         
-- školství
+- Školství
 title:        "V pondělí se obnoví provoz prvních stupňů ZŠ a školek, platit budou bezpečnostní pravidla"
 image: 	      posts/skola.jpg
 author:       MHMP

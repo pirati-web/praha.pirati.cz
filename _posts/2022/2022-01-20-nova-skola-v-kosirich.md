@@ -1,7 +1,7 @@
 ---
 date:         2022-01-20
 tags:        
-- školství
+- Školství
 title:        "Směnou pozemků umožní Praha výstavbu nové základní školy v Košířích, zároveň vznikne objekt pro speciální školu"
 image: 	      posts/vitsimral2.jpg
 author:       MHMP

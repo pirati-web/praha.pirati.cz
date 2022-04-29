@@ -1,7 +1,7 @@
 ---
 date:         2021-12-20
 tags:        
-- školství
+- Školství
 title:        "ZUŠ U Půjčovny se dočká nových tanečních a koncertních sálů v Pštrossově ulici"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

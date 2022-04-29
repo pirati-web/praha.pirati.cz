@@ -1,7 +1,7 @@
 ---
 date:         2021-09-15
 tags:         
-- školství
+- Školství
 title:        "Studenti Právnické fakulty Univerzity Karlovy budou získávat praktické zkušenosti na magistrátních odborech"
 image: 	      posts/novaradnice.jpg
 author:       MHMP

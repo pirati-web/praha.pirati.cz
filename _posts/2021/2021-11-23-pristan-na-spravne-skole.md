@@ -1,7 +1,7 @@
 ---
 date:         2021-11-23
 tags:         
-- školství
+- Školství
 title:        "Přistaň na správné škole! Veletrh pražských středních škol Schola Pragensis 2021 bude znovu online"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP
