@@ -1,7 +1,7 @@
 ---
 date:   2022-02-17
 tags:  
-- školství
+- Školství
 title:  "Nadační fond Cesta ke vzdělání startuje svoji novou grantovou výzvu"
 image: 	      posts/vitsimral3.jpg
 author: MHMP

@@ -2,7 +2,7 @@
 title: "Praha bude i nadále podporovat kurzy češtiny pro děti s odlišným mateřským jazykem a jejich integraci do českých škol"
 author: MHMP
 image: posts/vitsimral6.jpg
-tags: [školství]
+tags: [Školství]
 ---
 
 Pražští radní dnes odsouhlasili poskytnutí dotace z rozpočtu hl. m. Prahy pro městské části Praha 6 a Praha 8. Ty se budou týkat pokračování intenzivních kurzů výuky českého jazyka pro žáky základních škol s odlišným mateřským jazykem (OMJ) a navýšení rozpočtu příspěvkové organizaci Akademické gymnázium a Jazyková škola s právem státní jazykové zkoušky na pokračování kurzů výuky češtiny jako druhého jazyka (ČDJ) pro žáky a studenty středních škol s OMJ. Celkem se jedná o částku přes 2,5 milionu korun. 
