@@ -1,8 +1,8 @@
 ---
 title: "Praha připravila komunikační kampaň pro širokou veřejnost k představení Metropolitního plánu"
-authorId: MHMP
-image: 	posts/0hrib.jpg
-tags:   [Metropolitní plán]
+author: MHMP
+image: 	posts/metropolitniplan-tohlejeplan.jpg
+tags:   [Metropolitní plán, IPR]
 ---
 
 Hlavní město je ve finální fázi příprav strategického Metropolitního plánu, který určí, jak se bude Praha v příštím desetiletí rozvíjet. Zároveň s tím nyní Magistrát hl. m. Prahy připravil informační kampaň, která má za cíl srozumitelnou a odlehčenou formou představit Pražanům základní principy chystaného dokumentu a rozšířit o něm povědomí. Její vizuální podobu zpracovalo grafické studio 20YY Designers. Součástí komunikace jsou i videa, která pocházejí z dílny NICE.film.
@@ -12,6 +12,10 @@ Smyslem aktuální kampaně hlavního města je představit Metropolitní plán 
 > „Praha chce téma Metropolitního plánu srozumitelně představit Pražanům i odborníkům. Je totiž zatíženo mnoha mýty, které v minulosti vznikly třeba kvůli netransparentní správě města. Revidovaný Metropolitní plán teď otvírá nové cesty k řešení budoucnosti Prahy v oblastech dostupnosti bydlení, rozvoje infrastruktury nebo ochrany zeleně. Teď mají ti, kteří v Praze bydlí a kterých se tak Metropolitní plán přímo dotýká, možnost ho sami připomínkovat. Poprvé v historii města je možné se takto podílet na rozvoji města i online formou přes Portál Pražana,” říká Zdeněk Hřib, primátor hl. m. Prahy.
 
 > „Hlavním účelem kampaně bylo dostat Metropolitní plán do povědomí co nejširší veřejnosti. A to způsobem, který je zaujme a nezahltí množstvím odborných informací. Zároveň jsme měli představu, že by měla vyvolávat pozitivní pocity, protože se skutečně jedná o zásadní dokument, který do budoucna změní kvalitu života Pražanů k lepšímu. Věřím, že se tento záměr podařilo naplnit,“ uvádí Jana Berková, ředitelka odboru médií a marketingu Magistrátu hl. m. Prahy.
+
+
+{% include youtube.html id="YdD4aGyHZa8" %}
+
 
 Hlavní témata, kterým se kampaň k Metropolitnímu plánu věnuje, se týkají veřejného prostoru, bydlení, klimatické změny nebo veřejné vybavenosti. Mezi texty, které v kampani zazní, patří například 
 
