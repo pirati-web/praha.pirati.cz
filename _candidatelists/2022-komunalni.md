@@ -195,147 +195,147 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     profession: TBD
     partyUid: pirati       
 # 36.
-  - name: TBD
+  - uid: michaela.berankova
     age: 0
     profession: TBD
     partyUid: pirati       
 # 37.
-  - name: TBD
+  - name: Karel Nejedlík
     age: 0
     profession: TBD
     partyUid: pirati      
 # 38.
-  - name: TBD
+  - name: Radka Daníčková
     age: 0
     profession: TBD
     partyUid: pirati    
 # 39.
-  - name: TBD
+  - name: Ladislav Diblík
     age: 0
     profession: TBD
     partyUid: pirati       
 # 40.
-  - name: TBD
+  - name: Apolena Ondráčková
     age: O
     profession: TBD
     partyUid: pirati         
 # 41.
-  - name: TBD
+  - name: Šárka Hozmanová
     age: O
     profession: TBD
     partyUid: pirati        
 # 42.
-  - name: TBD
+  - name: Jakub Backa
     age: O
     profession: TBD
     partyUid: pirati       
 # 43.
-  - name: TBD
+  - name: Tereza Nislerová
     age: O
     profession: TBD
     partyUid: piráti       
 # 44.
-  - name: TBD
+  - uid: eva.ticha
     age: O
     profession: TBD
     partyUid: pirati         
 # 45.
-  - name: TBD
+  - name: Jan Mejsnar
     age: O
     profession: TBD
     partyUid: pirati       
 # 46.
-  - name: TBD
+  - name: Martin Suchan
     age: O
     profession: TBD
     partyUid: pirati       
 # 47.
-  - name: TBD
+  - name: Jana Raiterová
     age: O
     profession: TBD
     partyUid: pirati    
 # 48.
-  - name: TBD
+  - name: Pavel Podgorný
     age: O
     profession: TBD
     partyUid: pirati         
 # 49.
-  - name: TBD
+  - uid: jitka.novotna
     age: O
     profession: TBD
     partyUid: pirati       
 # 50.
-  - name: TBD
+  - uid: karel.bauer
     age: O
     profession: TBD
     partyUid: pirati     
 # 51.
-  - name: TBD
+  - uid: Adam Rut
     age: O
     profession: TBD
     partyUid: pirati        
 # 52.
-  - name: TBD
+  - uid: Zuzana Drázdová
     age: O
     profession: TBD
     partyUid: pirati      
 # 53.
-  - name: TBD
+  - uid: vaclav.vislous
     age: O
     profession: TBD
     partyUid: pirati        
 # 54.
-  - name: TBD
+  - name: Tereza Hubáčková
     age: O
     profession: TBD
     partyUid: pirati      
 # 55.
-  - name: TBD
+  - name: Jiří Gebert
     age: O
     profession: TBD
     partyUid: pirati       
 # 56.
-  - name: TBD
+  - name: Zuzana Lajksnerová
     age: O
     profession: TBD
     partyUid: pirati     
 # 57.
-  - name: TBD
+  - name: Petr Kolář
     age: O
     profession: TBD
     partyUid: pirati        
 # 58.
-  - name: TBD
+  - name: Ivan Mikoláš
     age: O
     profession: TBD
     partyUid: pirati    
 # 59.
-  - name: TBD
+  - name: Karel Malý
     age: O
     profession: TBD
     partyUid: pirati       
 # 60.
-  - name: TBD
+  - name: Helena Buchtová
     age: O
     profession: TBD
     partyUid: pirati     
 # 61.
-  - name: TBD
+  - name: Josef Břečka
     age: O
     profession: TBD
     partyUid: pirati        
 # 62.
-  - name: TBD
+  - name: Dagmar Vybíralová
     age: O
     profession: TBD
     partyUid: pirati      
 # 63.
-  - name: TBD
+  - name: Iveta Lysoňková
     age: O
     profession: TBD
     partyUid: pirati      
 # 64.
-  - name: TBD
+  - name: Jan Žák
     age: 0
     profession: TBD
     partyUid: pirati    
