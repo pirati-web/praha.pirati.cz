@@ -1,6 +1,6 @@
 ---
 title: "Hlavní město ještě v letošním roce zahájí rekonstrukci budovy Základní školy Ružinovská v Praze 4"
-authorId: MHMP
+author: MHMP
 image: 	posts/vitsimral5.jpg
 tags:   [Školství]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Praha finančně podpoří uspořádání dějepisné soutěže"
-authorId: MHMP
+author: MHMP
 image: 	posts/vitsimral3.jpg
 tags:   [Školství]
 ---

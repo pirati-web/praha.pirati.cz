@@ -1,6 +1,6 @@
 ---
 title: "Praha v rámci Programu na podporu využití volného času dětí rozdělí mezi jednotlivé žadatele přes 40 milionů korun"
-authorId: MHMP
+author: MHMP
 image: 	posts/vitsimral5.jpg
 tags:   [Školství]
 ---
