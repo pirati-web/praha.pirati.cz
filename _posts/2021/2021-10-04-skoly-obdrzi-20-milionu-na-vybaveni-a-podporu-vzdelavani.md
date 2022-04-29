@@ -1,7 +1,7 @@
 ---
 date:         2021-10-04
 tags:         
-- školství
+- Školství
 title:        "Do pražských středních škol zamíří 20 milionů na vybavení a podporu odborného vzdělávání "
 image: 	      posts/skola2.jpg
 author:       MHMP

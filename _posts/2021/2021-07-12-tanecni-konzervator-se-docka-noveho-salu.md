@@ -1,6 +1,6 @@
 ---
 date:         2021-07-12
-tags:         [Praha 3, školství]
+tags:         [Praha 3, Školství]
 title:        "Taneční konzervatoř se dočká nového víceúčelového sálu"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

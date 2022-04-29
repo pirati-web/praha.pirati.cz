@@ -1,7 +1,7 @@
 ---
 date:         2021-03-01
 tags:         
-- školství
+- Školství
 title:        "V mateřských školách v Letňanech a v Kamýku přibydou nové třídy"
 image: 	      posts/vitsimral2.jpg
 author:       MHMP

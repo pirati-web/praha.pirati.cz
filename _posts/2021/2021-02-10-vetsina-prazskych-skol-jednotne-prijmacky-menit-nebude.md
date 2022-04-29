@@ -1,6 +1,6 @@
 ---
 date:         2021-02-10
-tags:         [Pandemie Covid-19, školství]
+tags:         [Pandemie Covid-19, Školství]
 title:        "Většina pražských škol jednotné přijímačky měnit nebude"
 image: 	      posts/skola.jpg
 author:       MHMP

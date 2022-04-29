@@ -1,7 +1,7 @@
 ---
 date:         2021-06-14
 tags:         
-- sport
+- Sport
 title:        "Mezi dvanáct městských částí Praha rozdělí bezmála 78 milionů korun na rekonstrukce a výstavbu sportovišť"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/brezina.jpg
-tags:	[Karel Březina, sport]
+tags:	[Karel Březina, Sport]
 date:	2015-03-10
 ---
 

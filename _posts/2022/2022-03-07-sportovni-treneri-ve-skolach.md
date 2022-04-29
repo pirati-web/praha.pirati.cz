@@ -1,7 +1,6 @@
 ---
 date:   2022-03-07
-tags:  
-- sport
+tags:  [Školství, Sport]
 title:  "V pražských základních školách se do výuky tělocviku zapojí sportovní trenéři"
 image: 	      posts/vitsimral3.jpg
 author: MHMP

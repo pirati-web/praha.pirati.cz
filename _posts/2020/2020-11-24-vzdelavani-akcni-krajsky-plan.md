@@ -1,7 +1,7 @@
 ---
 date:         2020-11-24
 tags:         
- - školství
+ - Školství
 title:        "Krajský akční plán vzdělávání a Školní inkluzivní koncepce dostaly od radních zelenou"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

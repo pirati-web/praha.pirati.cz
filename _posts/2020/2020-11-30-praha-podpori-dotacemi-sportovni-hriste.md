@@ -1,7 +1,7 @@
 ---
 date:         2020-11-30
 tags:         
- - sport
+ - Sport
 title:        "Praha podpoří dotacemi sportovní hřiště nebo školní akce městských částí"
 image: 	      posts/vitsimral2.jpg
 author:       MHMP

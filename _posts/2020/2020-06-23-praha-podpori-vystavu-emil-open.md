@@ -1,6 +1,6 @@
 ---
 date:         2020-06-23
-tags:         sport
+tags:         Sport
 title:        "Město podpoří pražskou výpravu na Emil Open 2020"
 image: 	      posts/vitsimral2.jpg
 author:       MHMP

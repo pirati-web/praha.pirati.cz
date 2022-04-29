@@ -1,7 +1,7 @@
 ---
 date:         2021-11-03
 tags:         
-- školství
+- Školství
 title:        "Školská komise Asociace krajů ČR chce udržet školy v chodu a s prezenční výukou. Radní Šimral za Prahu souhlasí"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

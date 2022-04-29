@@ -1,7 +1,7 @@
 ---
 date:         2020-09-07
 tags:         
- - sport
+ - Sport
 title:        "První zářijový víkend patřil elitním běžcům z celého světa"
 image: 	      posts/simral-runczech.jpg
 author:       MHMP

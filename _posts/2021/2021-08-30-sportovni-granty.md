@@ -1,7 +1,7 @@
 ---
 date:         2021-08-30
 tags:         
-- sport
+- Sport
 title:        "Na sportovní granty půjde z rozpočtu Prahy v příštím roce téměř 400 milionů korun. Na sportovních akcích budou muset odměňovat stejně muže i ženy"
 image: 	      posts/vitsimral6.jpg
 author:       MHMP

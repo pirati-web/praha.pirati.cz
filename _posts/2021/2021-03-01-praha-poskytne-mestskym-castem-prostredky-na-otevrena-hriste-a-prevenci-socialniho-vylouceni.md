@@ -1,7 +1,7 @@
 ---
 date:         2021-03-01
 tags:         
-- školství
+- Školství
 title:        "Praha poskytne městským částem 4,6 milionu korun na otevřená hřiště a prevenci sociálního vyloučení"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

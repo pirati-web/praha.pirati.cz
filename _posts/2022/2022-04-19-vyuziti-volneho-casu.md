@@ -2,7 +2,7 @@
 title: "Praha v rámci Programu na podporu využití volného času dětí rozdělí mezi jednotlivé žadatele přes 40 milionů korun"
 authorId: MHMP
 image: 	posts/vitsimral5.jpg
-tags:   [školství]
+tags:   [Školství]
 ---
 
 Pražští radní na svém pondělním jednání projednali návrh na poskytnutí dotací v Programu podpory využití volného času dětí a mládeže na rok 2022 v Praze. Celkem bude pro tento účel vyčleněna částka převyšující 40 milionů korun. 

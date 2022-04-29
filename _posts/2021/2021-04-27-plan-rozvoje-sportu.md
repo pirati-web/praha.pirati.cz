@@ -1,7 +1,7 @@
 ---
 date:         2021-04-27
 tags:         
-- školství
+- Školství
 title:        "Podporu v oblasti sportu, zajištění efektivní výstavby sportovišť a rozdělování financí zajistí nový plán rozvoje sportu v Praze"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

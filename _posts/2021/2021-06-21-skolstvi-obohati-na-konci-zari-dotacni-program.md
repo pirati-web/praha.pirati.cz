@@ -1,7 +1,7 @@
 ---
 date:         2021-06-21
 tags:         
-- školství
+- Školství
 title:        "Koncem září se otevře dotační program pro podporu využití volného času dětí a mládeže na rok 2022"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

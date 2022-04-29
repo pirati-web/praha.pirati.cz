@@ -2,7 +2,7 @@
 title: "Nové dětské skupiny v Praze 5 a Praze 6 bude navštěvovat téměř stovka dětí"
 author: MHMP
 image: posts/magistrat3.jpg
-tags: [školství, Praha 5, Praha 6]
+tags: [Školství, Praha 5, Praha 6]
 ---
 
 Rodiče zhruba 90 dětí z městských částí Praha 5 a Praha 6 budou od června moci své potomky svěřit do péče nových dětských skupin. Pražští radní dnes odsouhlasili poskytnutí bezmála tří milionů korun potřebných na jejich zřízení z Operačního programu Praha – pól růstu ČR.

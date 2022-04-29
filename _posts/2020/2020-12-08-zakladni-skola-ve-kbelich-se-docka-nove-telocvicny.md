@@ -1,7 +1,7 @@
 ---
 date:         2020-12-08
 tags:         
- - školství
+ - Školství
 title:        "Základní škola Praha – Kbely se dočká rozšíření tělocvičny. Využije ji více žáků i sportovní kluby"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

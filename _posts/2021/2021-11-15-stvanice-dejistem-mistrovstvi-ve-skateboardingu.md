@@ -1,6 +1,6 @@
 ---
 date:         2021-11-15
-tags:         [Akce, sport]
+tags:         [Akce, Sport]
 title:        "Praha podpořila uspořádání Mistrovství ČR ve skateboardingu na Štvanici"
 image: 	      posts/vitsimral6.jpg
 author:       MHMP

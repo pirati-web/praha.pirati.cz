@@ -1,6 +1,6 @@
 ---
 date:         2021-12-06
-tags:         [Akce, sport]
+tags:         [Akce, Sport]
 title:        "Praha podpořila uspořádání Mistrovství Evropy seniorských týmů v šachu"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

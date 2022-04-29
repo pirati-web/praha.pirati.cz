@@ -5,7 +5,7 @@ title: "Březen Víta Šimrala: Návštěvy a kontroly pražských škol, techni
 date: 2019-04-11
 author: "Vít Šimral"
 image: posts/vitsimral.jpg
-tags: [školství, Prg.ai]
+tags: [Školství, Prg.ai]
 ---
 
 Milí Pražané,
