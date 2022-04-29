@@ -233,9 +233,9 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
   - name: Tereza Nislerová
     age: O
     profession: TBD
-    partyUid: piráti       
+    partyUid: pirati       
 # 44.
-  - uid: eva.ticha
+  - name: Eva Tichá
     age: O
     profession: TBD
     partyUid: pirati         
@@ -260,22 +260,22 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     profession: TBD
     partyUid: pirati         
 # 49.
-  - uid: jitka.novotna
+  - name: Jitka Novotná
     age: O
     profession: TBD
     partyUid: pirati       
 # 50.
-  - uid: karel.bauer
+  - name: Karel Bauer
     age: O
     profession: TBD
     partyUid: pirati     
 # 51.
-  - uid: Adam Rut
+  - name: Adam Rut
     age: O
     profession: TBD
     partyUid: pirati        
 # 52.
-  - uid: Zuzana Drázdová
+  - name: Zuzana Drázdová
     age: O
     profession: TBD
     partyUid: pirati      
