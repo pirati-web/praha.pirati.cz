@@ -1,7 +1,7 @@
 ---
 title: "Praha připravila komunikační kampaň pro širokou veřejnost k představení Metropolitního plánu"
 author: MHMP
-image: 	posts/metropolitniplan-tohlejeplan.jpg
+image: 	posts/mmetropolitniplan-hrib-tohlejeplan.jpg
 tags:   [Metropolitní plán, IPR]
 ---
 
