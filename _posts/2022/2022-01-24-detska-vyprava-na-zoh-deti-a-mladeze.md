@@ -1,7 +1,7 @@
 ---
 date:         2022-01-24
 tags:        
-- školství
+- Školství
 title:        "Pražská výprava bude bojovat o medaile na republikových hrách zimní olympiády dětí a mládeže"
 image: 	      posts/skola.jpg
 author:       MHMP

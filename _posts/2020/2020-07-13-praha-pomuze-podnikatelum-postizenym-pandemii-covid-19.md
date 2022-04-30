@@ -1,6 +1,6 @@
 ---
 date:         2020-07-13
-tags:         sport
+tags:         [Pandemie Covid-19]
 title:        "Praha navyšuje pomoc pro podnikatele a zveřejňuje seznam dalších podpořených v rámci programu COVID Praha"
 image: 	      posts/0hrib.jpg
 author:       MHMP

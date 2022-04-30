@@ -1,7 +1,7 @@
 ---
 date:         2021-02-03
 tags:         
-- školství
+- Školství
 title:        "Akademie umění a kultury pro seniory zůstávají zavřené. Kde to je možné, výuka se koná online"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

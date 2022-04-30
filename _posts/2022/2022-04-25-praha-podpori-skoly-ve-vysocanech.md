@@ -1,6 +1,6 @@
 ---
 title: "Praha podpořila výstavbu nové základní a mateřské školy ve Vysočanech"
-authorId: MHMP
+author: MHMP
 image: 	posts/vitsimral2.jpg
 tags:   [Školství]
 ---

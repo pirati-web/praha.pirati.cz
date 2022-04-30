@@ -1,6 +1,6 @@
 ---
 date:         2021-01-27
-tags:         [Tchaj-wan, školství]
+tags:         [Tchaj-wan, Školství]
 title:        "Roboti z Tchaj-wanu se zapojí do výuky na pražských školách"
 image: 	      posts/robotic-arm.jpg
 author:       MHMP

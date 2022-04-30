@@ -1,7 +1,7 @@
 ---
 date:         2021-05-25
 tags:         
-- sport
+- Sport
 title:        "Prahou poběží na maratonské trati špičkoví atleti z celého světa"
 image: 	      posts/magistrat3.jpg
 author:       MHMP

@@ -1,7 +1,7 @@
 ---
 date:         2021-11-23
 tags:         
-- školství
+- Školství
 title:        "Pražští studenti se spojí s mezinárodní vesmírnou stanicí a popovídají si s astronautem Matthiasem Maurerem"
 image: 	      posts/novaradnice.jpg
 author:       MHMP

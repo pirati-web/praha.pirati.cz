@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	posts/sport.jpg
-tags:	[sport]
+tags:	[Sport]
 date:	2015-06-10
 ---
 

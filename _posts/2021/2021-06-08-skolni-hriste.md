@@ -1,7 +1,7 @@
 ---
 date:         2021-06-08
 tags:         
-- školství
+- Školství
 title:        "Praha finančně podpoří odpolední provoz školních hřišť a pomůže dětem ze sociálně znevýhodněných rodin v účasti na školních akcích"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

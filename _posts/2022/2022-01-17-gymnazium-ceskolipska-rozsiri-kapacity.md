@@ -1,6 +1,6 @@
 ---
 date:         2022-01-17
-tags:        [školství]
+tags:        [Školství]
 title:        "Gymnázium Českolipská bude v letošním roce rozšiřovat prostory pro výuku"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

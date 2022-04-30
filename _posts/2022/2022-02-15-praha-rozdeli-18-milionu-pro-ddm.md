@@ -1,7 +1,7 @@
 ---
 date:   2022-02-15
 tags:  
-- školství
+- Školství
 title:  "Praha mezi své domy dětí a mládeže rozdělí bezmála 18 milionů korun a podpoří jejich zájmové aktivity"
 image: 	      posts/vitsimral3.jpg
 author: MHMP

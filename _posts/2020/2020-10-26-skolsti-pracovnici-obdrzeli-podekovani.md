@@ -1,6 +1,6 @@
 ---
 date:         2020-10-26
-tags:         [Pandemie Covid-19, školství]
+tags:         [Pandemie Covid-19, Školství]
 title:        "Pracovníci škol a školských zařízení obdrželi od Prahy poděkování"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

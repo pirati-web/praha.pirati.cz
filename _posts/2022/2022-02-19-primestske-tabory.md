@@ -1,7 +1,7 @@
 ---
 date:   2022-02-19
 tags:  
-- školství
+- Školství
 title:  "Pražské domy dětí a mládeže budou nově pořádat letní příměstské tábory i pro děti s odlišným mateřským jazykem"
 image: 	      posts/vitsimral5.jpg
 author: MHMP

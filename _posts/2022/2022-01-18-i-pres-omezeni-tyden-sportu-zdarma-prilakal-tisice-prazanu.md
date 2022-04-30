@@ -1,7 +1,7 @@
 ---
 date:         2022-01-18
 tags:        
-- sport
+- Sport
 title:        "I přes omezení spojená s pandemií si v rámci Týdnu sportu zdarma přišly zasportovat tisíce Pražanů"
 image: 	      posts/vitsimral6.jpg
 author:       MHMP

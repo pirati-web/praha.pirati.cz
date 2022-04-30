@@ -1,6 +1,6 @@
 ---
 date:         2021-03-08
-tags:         [Pandemie Covid-19, školství]
+tags:         [Pandemie Covid-19, Školství]
 title:        "Praha přišla s návrhem, jak usnadnit dětem jejich návrat do škol. Dopis s 31 podpisy starostů, radních a zastupitelů poslala ministru Plagovi"
 image: 	      posts/vitsimral5.jpg
 author:       MHMP

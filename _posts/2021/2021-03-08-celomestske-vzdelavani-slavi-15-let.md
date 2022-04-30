@@ -1,7 +1,7 @@
 ---
 date:         2021-03-08
 tags:         
-- školství
+- Školství
 title:        "Celoměstské vzdělávání podpoří Praha letos 15 miliony"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

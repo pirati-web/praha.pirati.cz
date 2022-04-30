@@ -1,7 +1,7 @@
 ---
 date:         2021-09-20
 tags:         
-- školství
+- Školství
 title:        "Zastaralý areál Rugby Clubu Tatra Smíchov se dočká rekonstrukce"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

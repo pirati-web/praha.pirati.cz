@@ -1,6 +1,6 @@
 ---
 title: "Praha vyhlásila nový dotační program na podporu nadaných dětí na základních a středních školách"
-authorId: MHMP
+author: MHMP
 image: 	posts/vitsimral6.jpg
 tags:   [Školství]
 ---

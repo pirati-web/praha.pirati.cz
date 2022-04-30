@@ -5,7 +5,7 @@ title: "Duben Víta Šimrala: Školy bez plastů i rozvoj inovačních center"
 date: 2019-05-07
 author: "Vít Šimral"
 image: posts/vitsimral2.jpg
-tags: školství
+tags: Školství
 ---
 
 Milí Pražané, v dubnu se toho v mé gesci stalo mnoho, ale srdeční záležitostí pro mne bylo zahájení soutěže Škola bez plastů. Věřím, že touto soutěží podpoříme žáky a žákyně, aby si více uvědomovali složení odpadu, který vyprodukují a jeho dopad na naši planetu.

@@ -1,7 +1,7 @@
 ---
 date:         2021-11-15
 tags:         
-- školství
+- Školství
 title:        "Praha ročně poskytuje přes 2 miliony korun na intenzivní kurzy češtiny"
 image: 	      posts/vitsimral3.jpg
 author:       MHMP

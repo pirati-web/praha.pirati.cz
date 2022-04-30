@@ -1,7 +1,7 @@
 ---
 date:         2021-05-25
 tags:         
-- školství
+- Školství
 title:        "Praha rozdělí městským částem 303 miliony korun na zvýšení kapacity škol"
 image: 	      posts/vitsimral6.jpg
 author:       MHMP

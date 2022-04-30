@@ -1,7 +1,7 @@
 ---
 date:   2022-03-01
 tags:  
-- školství
+- Školství
 title:  "Praha podepsala Memorandum o spolupráci s UMPRUM"
 image: 	      posts/memorandum-umprum.jpg
 author: MHMP

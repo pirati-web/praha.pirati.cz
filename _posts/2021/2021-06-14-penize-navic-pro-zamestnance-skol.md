@@ -1,7 +1,7 @@
 ---
 date:         2021-06-14
 tags:         
-- školství
+- Školství
 title:        "Zaměstnanci pražských škol dostanou z městského rozpočtu nad rámec přidáno o půl miliardy korun"
 image: 	      posts/skola.jpg
 author:       MHMP
