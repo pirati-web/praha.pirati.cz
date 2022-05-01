@@ -2,7 +2,7 @@
 title: "O příspěvek pro ubytovatele uprchlíků lze žádat přes Portál Pražana. Praha na webu poskytuje žadatelům všechny potřebné informace"
 author: MHMP
 image: 	posts/pprazana.jpg
-tags:   [IT]
+tags:   [IT, Portál Pražana]
 ---
 
 Hlavní město na svých webových stránkách umístilo kompletní informace pro poskytovatele ubytování lidem utíkajícím před válkou na Ukrajině. Právnické, ale i podnikající fyzické osoby, které v době od 24. února 2022 poskytly bezúplatné ubytování uprchlíkům např. v hotelích, se zde dozví podrobnosti ke svým nárokům na kompenzační příspěvek a rovnou o něj mohou i požádat prostřednictvím Portálu Pražana. Tento kompenzační příspěvek se nevztahuje na poskytování ubytování v bytech ve vlastnictví fyzických osob, který řeší Úřad práce.
