@@ -1,6 +1,6 @@
 ---
 date:         2022-02-10
-tags:        [Otevřená data, Transparentnost]
+tags:        [Otevřená data, Transparentnost, Golemio]
 title:        "„Transparentnost 2.0“ pro hlavní město. Pomocí pár kliků může každý vidět, jak Praha soutěží své dodavatele"
 image: 	      posts/adam-zabransky-6.jpg
 author:       MHMP

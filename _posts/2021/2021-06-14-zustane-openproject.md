@@ -1,6 +1,6 @@
 ---
 date:         2021-06-14
-tags:         [IT]
+tags:         [IT, Pragozor, Golemio]
 title:        "Hlavní město bude nadále efektivně řídit své projekty díky open source OpenProject"
 image: 	      posts/8hrib.jpg
 author:       MHMP

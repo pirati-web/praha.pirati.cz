@@ -2,7 +2,7 @@
 title: "Dopravu budoucnosti řídí data. Praha využívá nejmodernější nástroje pro lepší průjezdnost městem"
 author: MHMP
 image: 	posts/7hrib.jpg
-tags:   [Doprava]
+tags:   [Doprava, IT, Pragozor, Golemio]
 ---
 
 Velká města se dlouhodobě potýkají s růstem automobilové dopravy. Nejinak je tomu v Praze. Zajistit řidičům hladký průjezd městem je proto stále větší výzvou. Řešením je kromě intenzivních investic do dopravní infrastruktury také řízení dopravy na základě dat a chytrých technologií. Hlavní město a jeho organizace proto už teď pro řízení dopravy využívají data z městských platforem Golemio a Pragozor, navigačních aplikací nebo monitorují dopravu pomocí senzorů a lokačních zařízení. Pracuje také s počítačovým modelováním dopravních situací.

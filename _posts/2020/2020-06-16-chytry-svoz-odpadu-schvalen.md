@@ -1,6 +1,6 @@
 ---
 date:         2020-06-16
-tags:         [Smart Cities, Životní prostředí]
+tags:         [Smart Cities, Životní prostředí, Golemio]
 title:        "Závěrečnou zprávu projektu „Chytrý svoz odpadu“ rada schválila, úspěšný projekt bude pokračovat"
 image: 	      posts/kontejner.jpg
 author:       MHMP

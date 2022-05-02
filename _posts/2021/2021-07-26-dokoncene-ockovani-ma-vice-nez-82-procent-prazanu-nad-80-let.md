@@ -1,6 +1,6 @@
 ---
 date:         2021-07-16
-tags:         [Pandemie Covid-19]
+tags:         [Pandemie Covid-19, Golemio]
 title:        "Dokončené očkování má více než 82 procent Pražanů nad 80 let. Proočkovanost zbytku populace dál stoupá"
 image: 	      posts/ockovani-web.jpg
 author:       MHMP
