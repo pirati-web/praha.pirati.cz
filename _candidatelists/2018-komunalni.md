@@ -160,7 +160,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     profession: programátor
     partyUid: pirati
 # 29.
-  - uid: petr.daubner
+  - name: Petr Daubner
     age: 45
     profession: středoškolský učitel
     partyUid: pirati
