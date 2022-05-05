@@ -2,7 +2,7 @@
 title: "Krajské asistenční centrum pomoci Ukrajině nadále potřebuje dobrovolníky, Praha pro ně uvolnila peníze"
 author: MHMP
 image: 	posts/8hrib.jpg
-tags:   [Válka na Ukrajině]
+tags:   [Krizový štáb, Válka na Ukrajině]
 ---
 
 Krizový štáb hl. m. Prahy projednal současnou situaci v souvislosti s migrační vlnou z Ukrajiny. Členové štábu byli seznámení s tím, že upadá zájem dobrovolníků o zapojení se do pomoci v Krajském asistenčním centru pomoci Ukrajině (KACPU). K řešení situace by ale měly pomoci finanční prostředky, které pro dobrovolníky schválili minulý týden pražští zastupitelé.
