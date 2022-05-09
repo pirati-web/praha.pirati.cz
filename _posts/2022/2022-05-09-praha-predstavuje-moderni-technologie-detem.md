@@ -5,7 +5,7 @@ image: 	posts/vlacky.jpg
 tags:   [IT]
 ---
 
-ak probudit v dětech zájem o chytrá řešení, technologie, inovace a dění ve městě? Nabídněte jim zábavný program! A právě takový pod názvem Poznej chytrou Prahu odstartoval v sobotu 7. května v Království železnic na pražském Smíchově.
+Jak probudit v dětech zájem o chytrá řešení, technologie, inovace a dění ve městě? Nabídněte jim zábavný program! A právě takový pod názvem Poznej chytrou Prahu odstartoval v sobotu 7. května v Království železnic na pražském Smíchově.
 
 Zábavně-naučný program, který ve spolupráci s Královstvím železnic připravila městská společnost Operátor ICT (OICT), je vhodný pro děti ve věku od 6 do 11 let a hravou formou ukazuje, jak moderní technologie a nejrůznější inovativní vychytávky fungují v hlavním městě. Programem děti provádí maskot projektové kanceláře Smart Prague robot Prageek. Na místě je pro ně připravena tzv. zážitková mapa, kde je čeká řada otázek věnovaných např. chytrým dopravním značkám a popelnicím, elektromobilitě nebo udržitelnosti. Na zahájení přišly děti z dětských domovů, které tak měly možnost projít si program Poznej chytrou Prahu jako první, a rovněž si prohlédly atrakce celého Království železnic. Poznej chytrou Prahu se stane stálou součástí programu v Království železnic.
 
