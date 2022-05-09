@@ -1,8 +1,8 @@
 ---
 title: "Hlavní město poskytne ukrajinským uprchlíkům bytový dům v Praze 12"
 author: MHMP
-image: 	posts/zabransky-okno.jpg
-tags:   [Válka na Ukrajině]
+image: 	posts/adam-zabransky-7.jpg
+tags:   [Praha 12, Válka na Ukrajině]
 ---
 
 Pražský magistrát poskytne pro ubytování uprchlíků z Ukrajiny bytový dům v Modřanech. Díky rekonstrukci, kterou uskutečnila na své náklady společnost Skanska, se podařilo v krátké době zajistit opravy a vybavení domu, kde budou moci být ubytováni lidé prchající před ruskou agresí v osmi bytech. Vhodné osoby pro ubytování, které jsou dočasně umístěny v nouzovém přístřeší, budou vybrány zástupci městské části Praha 12. Dům byl původně určen k demolici, jelikož zde v budoucnu vznikne nová komunikace propojující městskou část a Pražský okruh.
