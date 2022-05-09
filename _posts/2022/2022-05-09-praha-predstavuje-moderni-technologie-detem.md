@@ -2,7 +2,7 @@
 title: "Poznej chytrou Prahu. Hlavní město představuje moderní technologie dětem"
 author: MHMP
 image: 	posts/vlacky.jpg
-tags:   [IT]
+tags:   [IT, Operátor ICT]
 ---
 
 Jak probudit v dětech zájem o chytrá řešení, technologie, inovace a dění ve městě? Nabídněte jim zábavný program! A právě takový pod názvem Poznej chytrou Prahu odstartoval v sobotu 7. května v Království železnic na pražském Smíchově.
