@@ -1,7 +1,7 @@
 ---
 title: "Poznej chytrou Prahu. Hlavní město představuje moderní technologie dětem"
 author: MHMP
-image: 	posts/vitsimral6.jpg
+image: 	posts/vlacky.jpg
 tags:   [IT]
 ---
 
