@@ -1,7 +1,7 @@
 ---
 title: "Hlavní město poskytne ukrajinským uprchlíkům bytový dům v Praze 12"
 author: MHMP
-image: 	posts/adam-zabransky-6.jpg
+image: 	posts/zabransky-okno.jpg
 tags:   [Válka na Ukrajině]
 ---
 
