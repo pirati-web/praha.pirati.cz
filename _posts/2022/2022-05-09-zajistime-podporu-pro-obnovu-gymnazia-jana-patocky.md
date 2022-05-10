@@ -5,7 +5,7 @@ image: 	posts/vitsimral6.jpg
 tags:   [Školství]
 ---
 
-Radou hl. m. Prahy byl dnes odsouhlasen záměr veřejné zakázky na rekonstrukci vnitřních prostor Gymnázia prof. Jana Patočky v Praze 1. Financování bude pro roky 2022-2027 hrazeno z rozpočtu hl. m. Prahy v předpokládané výši přes 12 milionů korun bez DPH.
+Radou hl. m. Prahy byl v pondělí 9. května odsouhlasen záměr veřejné zakázky na rekonstrukci vnitřních prostor Gymnázia prof. Jana Patočky v Praze 1. Financování bude pro roky 2022-2027 hrazeno z rozpočtu hl. m. Prahy v předpokládané výši přes 12 milionů korun bez DPH.
 
 > „S problémy nedostatečných kapacit v pražských školách se potýkáme dlouhodobě a prioritně se zaměřujeme na jejich řešení. Prostřednictvím těchto plánovaných investičních akcí, které vycházejí z nezbytně nutné potřeby rozšiřovat či renovovat stávající prostory budov, chceme co nejlépe pokrýt zvyšující se poptávku po vzdělání na našich středních školách. Jedná se především o akce typu přestavby či vestavby jako je tomu i u Gymnázia profesora Jana Patočky, kde je důvodem realizace takovéto rozsáhlé finanční zakázky kompletní rekonstrukce školy a rozšíření jejích prostorových kapacit,” uvedl pražský radní pro oblast školství Vít Šimral. 
 
