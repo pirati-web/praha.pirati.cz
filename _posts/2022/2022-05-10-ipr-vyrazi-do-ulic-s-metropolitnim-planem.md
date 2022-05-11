@@ -2,7 +2,7 @@
 title: "IPR se vrací do ulic. Představí nový Metropolitní plán"
 author: MHMP
 image: 	posts/hrib-plan.jpg
-tags:   [Metropolitní plán]
+tags:   [IPR, Metropolitní plán]
 ---
 
 Obdobně jako v roce 2018, kdy byl Metropolitní plán poprvé představen veřejnosti, zahájil Institut plánování a rozvoje (IPR) spolu s hlavním městem informační tour po městských částech. Celkově se ikonický bílý kontejner objeví ve 12 lokalitách. Kromě toho Praha připravila také zbrusu nový informační stánek, který postupně navštíví 7 obchodních center. Na všech místech se bude veřejnost moci seznámit s návrhem Metropolitního plánu, zeptat se na individuální dotazy ke konkrétním lokalitám či se poradit, jak podat připomínku. Tour potrvá od 9. května až do 28. června.
