@@ -5,7 +5,7 @@ image: 	posts/jana-komrskova.jpg
 tags:   [Praha 10, Bydlení]
 ---
 
-**Od 1. července přebírá správu městského bytového fondu Praha 10 - Majetková a.s. (100% vlastněná Prahou 10). Desítka tak konečně získá plnou kontrolu nad hospodařením s obecními byty. ** Změna přinese snížení administrativy, průhlednost finančních toků a lepší služby pro nájemníky.
+**Od 1. července přebírá správu městského bytového fondu Praha 10 - Majetková a.s. (100% vlastněná Prahou 10). Desítka tak konečně získá plnou kontrolu nad hospodařením s obecními byty.** Změna přinese snížení administrativy, průhlednost finančních toků a lepší služby pro nájemníky.
 
 >„Majetkovou jsme dávali do kupy přes dva roky. Když jsme ji přebírali, prakticky chybělo účetnictví za několik let. To, spolu s dalšími chybami vedení firmy a malou motivací části zaměstnanců, znamenalo ohromné vícenáklady. Jen za „právní služby“ létaly miliony korun ročně. Za zastupování na schůzích SVJ, kde má Desítka nějaký podíl, platila Praha 10 do „Majetkové“ okolo 5 000 000," říká 1: místostarostka MČ Praha 10 Jana Komrsková.
 
