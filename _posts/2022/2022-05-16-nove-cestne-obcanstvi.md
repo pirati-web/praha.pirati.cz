@@ -1,6 +1,6 @@
 ---
 title: "Praha udělí čestné občanství zpěvačce Kubišové, houslistovi Hudečkovi a stříbrnou medaili in memoriam doktorce Černé"
-authorId: zdenek.hrib
+author: MHMP
 image: 	posts/novaradnice.jpg
 tags:   [Čestná občanství]
 ---
