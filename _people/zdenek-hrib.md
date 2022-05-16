@@ -21,7 +21,7 @@ funkce:
 asistenti:
   - name: Ing. Jiří Hoskovec
     uid: jiri.hoskovec
-    position: ředitel odboru Kancelář primátora (PRM)
+    position: ředitel odboru Kancelář primátora
     mail: jiri.hoskovec@praha.eu
     tel: 
   - name: Mgr. Michal Geisler, Ph.D.
