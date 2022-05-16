@@ -1,0 +1,19 @@
+---
+title: "Krizový štáb Prahy: Bez funkčního realokačního mechanismu bude metropole nucena uzavřít krajské asistenční centrum pomoci"
+author: MHMP
+image: 	posts/uaflag.jpg
+tags:   [Krizový štáb, Válka na Ukrajině]
+---
+
+**Krizový štáb hl. m. Prahy se dnes zabýval zejména ubytovacími kapacitami, situací v Krajském asistenčním centru pomoci Ukrajině (KACPU) a vládním stanovým městečkem, které hasiči vybudovali na základě pokynu ministra vnitra Víta Rakušana v pražské Troji. Krizový štáb hlavního města Prahy důrazně apeluje na vládu ČR, aby urychleně připravila celostátní mechanismus rozdělení válečných uprchlíků mezi kraje. Vzhledem k naplnění kapacit města štáb doporučuje uzavřít krajské asistenční centrum pomoci, pokud vláda do úterý 17. května nezačne s přípravami realokačního mechanismu na základě krajského rozvrstvení kapacit ubytování, pomoci, lékařské péče a školství.**
+
+>"Stanové městečko postavili hasiči na pokyn pana ministra Rakušana přes noc. Areál má sloužit jako čekárna pro Krajské asistenční centrum pomoci Ukrajině. Na Hlavní nádraží by pak měla několikrát denně docházet cizinecká policie, která bude čekající rozdělovat dle toho, zda budou mít nárok na vízum strpění. Od samého začátku v Praze říkáme, že budování stanových táborů považujeme za krajní řešení situace půl procenta uprchlíků, kteří se nyní nacházejí na území našeho kraje,“ říká primátor hl. m. Prahy Zdeněk Hřib.
+
+Ve stanovém městečku je ještě nutné zajistit správce objektu, režim provozu, stravu a podobně, a to ve spolupráci mezi Správou uprchlických zařízení, organizací Romodrom a případně dalšími organizacemi. Na omezené a vyčerpané ubytovací kapacity města upozorňuje metropole a primátor hl. m. Prahy Zdeněk Hřib vládu několik týdnů a v úterý se primátor obrátil dopisem přímo na premiéra Petra Fialu. Nepoměr v rozložení uprchlíků v rámci České republiky je i podle nově představených vládních dat alarmující. I z městské datové platformy Golemio.cz je patrný až čtyřnásobný rozdíl v počtu uprchlíků na 1 000 obyvatel mezi Prahou a některými jinými kraji.
+
+>„Zajímá nás ale zejména, jak bude vláda řešit zbylých 99,5 procenta uprchlíků v našem kraji. Premiéra Fialu jsem vyzval dopisem k aktivnímu řešení této situace. Azylovou a migrační politiku musí řešit stát. V Praze je nyní 4x více uprchlíků na 1 000 obyvatel než v jiných krajích a kapacity bydlení i škol nebudou stačit. Celá situace se tak přímo dotýká Pražanů, kteří jsou nyní vystaveni zvyšujícím se životním nákladům, včetně bydlení nebo energií. Pokud do úterý vláda nezahájí práci na funkčním mechanismu rozložení uprchlíků po krajích, budeme nuceni krajské asistenční centrum pomoci v Praze zavřít. Nedává smysl registrovat další lidi v místech, kde už není kapacita, když v jiných krajích je volněji. Premiér Fiala musí začít situaci řešit i koordinací ministrů své vlády,“ dodává primátor Zdeněk Hřib.
+
+Provoz stanového městečka by měl být zahájen pravděpodobně o víkendu a po zahájení provozu bude sloužit jako čekárna pro Krajské asistenční centrum pomoci Ukrajině. Uprchlíci se proto do městečka dostanou pouze prostřednictvím KACPU a nebude tedy možný individuální příchod. Určeno bude pouze pro osoby splňující předpoklady pro udělení víza dočasné ochrany a pro osoby v procesu procedury udělování víza dočasné ochrany. Přes den bude otevřené a přes noc, mezi 22. a 6. hodinou, bude areál uzavřen. V okolí budou ve zvýšené míře na bezpečnost dohlížet policisté a strážníci městské police, stejně tak i v celé městské části. Krizový štáb hl. m. Prahy proto požádal ředitele Krajského ředitelství policie hl. m. Prahy a ředitele Městské policie hl. m. Prahy o zajištění bezpečnosti v okolí vybudovaného stanového městečka.
+
+### Příloha
+- [Dopis premiérovi Petru Fialovi (ODS)](https://www.praha.eu/file/3421837/Dopis_primatora_hl._m._Prahy_MUDr._Zdenka_Hriba.pdf)
