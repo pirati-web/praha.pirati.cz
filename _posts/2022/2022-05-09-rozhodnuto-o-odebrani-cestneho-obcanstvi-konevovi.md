@@ -2,7 +2,7 @@
 title: "Hlavní město odebere čestné občanství kontroverzní osobě sovětského maršála Koněva"
 author: MHMP
 image: 	posts/0hrib.jpg
-tags:   [Zahraničí]
+tags:   [Čestná občanství, Zahraničí]
 ---
 
 Pražští radní v pondělí 9. května souhlasili s odebráním čestného občanství hlavního města Prahy sovětskému vojevůdci, maršálovi Sovětského svazu a hrdinovi SSSR Ivanu Stěpanovičovi Koněvovi. Čestné občanství hlavního města Prahy bylo sovětskému maršálovi Koněvovi uděleno v roce 1945. Šlo o reakci tehdejšího vedení Prahy na ukončení 2. světové války, kdy byla Koněvova vojska vítána jako osvoboditelská. Jeho aktivity po konci války však měly značně represivní charakter a jsou v rozporu s kvalitami, které jsou od čestných občanů Prahy očekávány. Radou odsouhlasený návrh na odebrání čestného občanství tedy vychází ze současného stavu historického poznání osoby maršála Koněva. Návrh bude ještě schvalovat Zastupitelstvo hlavního města Prahy.
