@@ -2,7 +2,7 @@
 title: "Plníme to, co jsme v roce 2019 naplánovali po návratu z Tchaj-peje"
 authorId: jaromir.beranek
 image: 	posts/jaromir-beranek.jpg
-tags:   [Zahraničí, Tchaj-wan, Nakopni Prahu]
+tags:   [Zahraničí, Tchaj-wan, Nakopni Prahu, ZOO Praha]
 ---
 
 **Když jsme byli v březnu 2019 se primátorem Zdeňkem Hřibem a poslancem Jakubem Michálkem v Tchaj-peji, odvezli jsme si kromě spousty inspirace a zážitků 3 velké plány:**

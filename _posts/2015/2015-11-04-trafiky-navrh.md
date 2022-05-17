@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	posts/trafika2.png
-tags:	[Piráti, Městské firmy, Trafiky]
+tags:	[Piráti, Městské firmy, Trafiky, Radmila Kleslová]
 date:	2015-11-04
 ---
 

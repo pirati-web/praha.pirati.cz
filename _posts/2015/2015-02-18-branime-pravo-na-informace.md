@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	posts/kleslova-chobotnice.jpg
-tags:	[Praha 10]
+tags:	[Praha 10, Radmila Kleslová]
 date:	2015-02-18
 ---
 
