@@ -2,7 +2,7 @@
 title: "Jaká bude metropole za 10 let? Budoucnost ukáže konference Inovační vize Prahy 2030"
 author: MHMP
 image: 	posts/inovacni.jpg
-tags:   [IT]
+tags:   [Pražský inovační institut, IT]
 ---
 
 Inovátoři, výzkumníci, nadějní talenti, kreativci nebo také instituce a podnikatelé. Ti všichni pomáhají Praze rozvíjet její inovační prostředí. Česká metropole má slibný potenciál stát se evropským lídrem v inovacích, k čemuž potřebuje hlavně jednotnou vizi. O jejích potřebách a změnách, které by do deseti let měly v metropoli nastat, budou debatovat odborníci na celodenní konferenci Inovační vize Prahy 2030. Uskuteční se v úterý 24. května v konferenčním prostoru obchodního centra Máj na Národní třídě.
