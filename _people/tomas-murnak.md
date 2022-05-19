@@ -24,7 +24,7 @@ asistenti:
     tel:
 mail:
 - tomas.murnak@pirati.cz
-mob: +420 604 330 995
+mob: 
 profiles:
   github:                 
   facebook: https://www.facebook.com/TMurnak
