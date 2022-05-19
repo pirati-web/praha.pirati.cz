@@ -4,7 +4,7 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: bydleni
 order: 1
-garant: zuzana.freistas
+garant: zuzana.freitas
 redmine: 23492
 img: program/metro-nejen-to.jpg
 intro: >
