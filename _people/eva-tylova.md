@@ -24,9 +24,10 @@ ordvyb: 27
 ordcan: 7
 profiles:
   github:       
-  facebook:  https://www.facebook.com/evatylovacz   
+  facebook: https://www.facebook.com/evatylovacz   
   twitter: 		  
-  flickr:		 https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=tylov%C3%A1 
+  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=tylov%C3%A1
+  wikipedia: https://cs.wikipedia.org/wiki/Eva_Tylov%C3%A1 
 ---
 
 **Eva Tylová** (* 12. prosince 1959) je místostarostka městské části Praha 12. Je rovněž členkou výboru pro životní prostředí, infrastrukturu a vybavenost při pražském zastupitelstvu.
