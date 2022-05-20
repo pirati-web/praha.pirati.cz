@@ -2,7 +2,7 @@
 title: "Pražský krizový štáb: Přetížení Prahy musí vláda vyřešit do konce května, asistenční centrum zatím zůstává otevřené"
 author: MHMP
 image: 	posts/uaflag.jpg
-tags:   [Ukrajina]
+tags:   [Krizový štáb, Válka na Ukrajině]
 ---
 
 Na dnešním zasedání Krizového štábu hl. m. Prahy byla hlavním bodem přetrvávající situace uprchlíků v hlavním městě, kterou Praha bez zásahu vlády nebo Ministerstva vnitra nemůže adekvátně řešit. Krizový štáb apeluje na vládu, aby co nejrychleji nastavila opatření, která sníží riziko migrace z ekonomických důvodů. Nastavení procesu přesunu uprchlíků do méně zatížených lokalit by měla vláda představit včetně harmonogramu nejpozději do 31. května 2022. V opačném případě bude nutné opět jednat o možném uzavření Krajského asistenčního centra pro uprchlíky ve Vysočanech (KACPU).
