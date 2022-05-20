@@ -24,7 +24,7 @@ funkce:
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594">Výboru pro bezpečnost ZHMP</a>
   - člen komise pro IT RHMP
 mail:
-- honza.hora@pirati.cz
+- jan.hora@pirati.cz
 mob: "+420 775 608 734"
 profiles:
   github:        
