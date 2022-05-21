@@ -9,6 +9,7 @@ category:
 contactType: 
 img: people/michal-geisler.jpg
 heroImg: Prague_panorama.jpeg
+partyUid: bezpp
 description: vedoucí poradců primátora    	# kratký popis, max 160 znaků
 mail:
   - michal.geisler@praha.eu

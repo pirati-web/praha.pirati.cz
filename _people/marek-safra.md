@@ -9,6 +9,7 @@ category:
 contactType: 
 img: people/marek-safra.jpg
 heroImg: Prague_panorama.jpeg
+partyUid: bezpp
 description: poradce primátora    	# kratký popis, max 160 znaků
 mail:
 - marek.safra@praha.eu

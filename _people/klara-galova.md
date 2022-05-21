@@ -9,10 +9,11 @@ category:
 contactType: 
 img: people/klara-galova.jpg # 165 x 220
 heroImg: Prague_panorama.jpeg
+partyUid: bezpp
 description: poradkyně primátora    	# kratký popis, max 160 znaků
 mail:
 - klara.galova@praha.eu
-mob: 
+mob: +420 728 622 755
 profiles:
   github:       
   facebook:

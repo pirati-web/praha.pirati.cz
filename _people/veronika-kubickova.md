@@ -9,6 +9,7 @@ category:
 contactType: 
 img: people/veronika-kubickova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
+partyUid: bezpp
 description: poradce primátora    	# kratký popis, max 160 znaků
 mail:
 - veronika.kubickova@praha.eu
