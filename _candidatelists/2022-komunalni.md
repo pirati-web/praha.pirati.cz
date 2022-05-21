@@ -98,8 +98,8 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     partyUid: pirati
 # 16.
   - uid: mikulas.ferjencik
-    age: 0
-    profession: lektor kroužků zábavné logiky, překladatel
+    age: 35
+    profession: asistent poslance a bývalý poslanec
     city: Praha 10
     partyUid: pirati
 # 17.
