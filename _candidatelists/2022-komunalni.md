@@ -18,7 +18,7 @@ head:
 # 3.
   - uid: adam.zabransky
     age: 28
-    profession: radní hlavního města Prahy pro oblast bydlení a transparentnost
+    profession: radní hlavního města Prahy pro bydlení a transparentnost
     city: Praha 1
     partyUid: pirati
 # 4.
@@ -93,7 +93,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 15.
   - uid: eva.horakova
     age: 0
-    profession: předsedkyně Výboru pro sociální politiku hlavního města Prahy, medicínská konzultantka
+    profession: předsedkyně Výboru pro sociální politiku ZHMP a medicínská konzultantka
     city: Praha 5
     partyUid: pirati
 # 16.
@@ -133,9 +133,9 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: Praha 11
     partyUid: pirati
 # 22.
-  - name: Štěpán Rattay
+  - name: Ing. Štěpán Rattay
     age: 0
-    profession: ekonom, předseda kontrolního výboru MČ Praha 5, expert na hospodárnost veřejných financí
+    profession: ekonom a předseda kontrolního výboru
     city: Praha 5
     partyUid: pirati
 # 23.
@@ -296,8 +296,8 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     partyUid: pirati         
 # 49.
   - name: Jitka Novotná
-    age: O
-    profession: TBD
+    age: 32
+    profession: programátorka
     city: Praha 8
     partyUid: pirati       
 # 50.
