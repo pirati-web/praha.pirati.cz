@@ -65,6 +65,25 @@ title: Odměny poradců primátora
             
             </tr>
         
+        
+            <tr>
+            
+                <td><a href="/lide/michal-geisler.html">Mgr. Michal Geisler, Ph.D.</a></td>
+            
+                <td>39000–45000</td>
+            
+                <td>5000</td>
+            
+                <td>20000–33000</td>
+            
+                <td>64000–85000</td>
+            
+            </tr>
+        
+            <tr>
+            
+            </tr>
+
             <tr>
             
                 <td>  <a href="/lide/marek-safra.html">Mgr. Marek Šafra</a></td>
@@ -132,24 +151,6 @@ title: Odměny poradců primátora
                 <td>16000–24000</td>
             
                 <td>55000–69000</td>
-            
-            </tr>
-        
-            <tr>
-            
-                <td><a href="/lide/michal-geisler.html">Mgr. Michal Geisler, Ph.D.</a></td>
-            
-                <td>39000–45000</td>
-            
-                <td>0</td>
-            
-                <td>16000–24000</td>
-            
-                <td>55000–69000</td>
-            
-            </tr>
-        
-            <tr>
             
             </tr>
         
