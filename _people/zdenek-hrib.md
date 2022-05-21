@@ -24,7 +24,7 @@ asistenti:
     position: ředitel odboru Kancelář primátora
     mail: jiri.hoskovec@praha.eu
     tel: 
-  - name: Mgr. Michal Geisler, Ph.D.
+  - name: <a href="/lide/michal-geisler.html">Mgr. Michal Geisler, Ph.D.</a></p>
     uid: michal.geisler
     position: vedoucí oddělení poradců primátora
     mail: michal.geisler@praha.eu

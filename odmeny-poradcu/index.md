@@ -50,7 +50,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Hoskovec Jiří, Ing.</td>
+                <td><a href="https://lide.pirati.cz/personProfile/981/">Ing. Jiří Hoskovec</a> </td>
             
                 <td>39000–47000</td>
             
@@ -64,7 +64,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Šafra Marek, Mgr</td>
+                <td>  <a href="/lide/marek-safra.html">Mgr. Marek Šafra</a></td>
             
                 <td>39000–45000</td>
             
@@ -78,7 +78,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Kameník Martin, Mgr.</td>
+                <td><a href="/lide/martin-kamenik.html">Mgr. Martin Kameník</a></td>
             
                 <td>39000–45000</td>
             
@@ -92,7 +92,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Kubičková Veronika</td>
+                <td><a href="/lide/veronika-kubickova.html">Veronika Kubičková</a> </td>
             
                 <td>39000–45000</td>
             
@@ -106,7 +106,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Vacková Martina, Bc.</td>
+                <td><a href="/lide/martina-vackova.html">Bc. Martina Vacková</a></td>
             
                 <td>39000–45000</td>
             
@@ -120,7 +120,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Galová Klára, Mgr.</td>
+                <td><a href="/lide/klara-galova.html">Mgr. Klára Galová</a> </td>
             
                 <td>39000–45000</td>
             
@@ -134,7 +134,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td><a href="/lide/michal-geisler.html">Mgr. Michal Geisler, Ph.D.</a></p></td>
+                <td><a href="/lide/michal-geisler.html">Mgr. Michal Geisler, Ph.D.</a></td>
             
                 <td>39000–45000</td>
             
@@ -155,12 +155,7 @@ title: Odměny poradců primátora
 
 </section>
 
-
-<p><strong>Profily uvedených osob:</strong> <a href="https://lide.pirati.cz/personProfile/981/">Jiří Hoskovec</a> 
-  <a href="/lide/marek-safra.html">Marek Šafra</a> <a href="/lide/martin-kamenik.html">Martin Kameník</a> 
-  <a href="/lide/veronika-kubickova.html">Veronika Kubičková</a> <a href="/lide/martina-vackova.html">Martina Vacková</a> 
-  <a href="/lide/klara-galova.html">Klára Galová</a> 
-
+ 
 <section class="o-section">
     
     <div class="o-secion-header o-section-header--bordered">
@@ -186,7 +181,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Tomáš Vovsík</td>
+                <td><a href="/lide/tomas-vovsik.html">Mgr. Tomáš Vovsík</a></td>
             
                 <td>0</td>
             
@@ -205,8 +200,6 @@ title: Odměny poradců primátora
 
 </section>
 
-
-<p><strong>Profily uvedených osob:</strong> <a href="/lide/tomas-vovsik.html">Tomáš Vovsík</a></p>
 
 <section class="o-section">
     
@@ -229,7 +222,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Jaroslav Vlk</td>
+                <td><a href="/lide/jaroslav-vlk.html">Jaroslav Vlk</a> </td>
             
                 <td>0</td>
             
@@ -239,7 +232,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Jana Kabelová</td>
+                <td><a href="https://lide.pirati.cz/osoba/1005/">Jana Kabelová</a> </td>
             
                 <td>0</td>
             
@@ -249,7 +242,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Matěj Kubíček</td>
+                <td> <a href="https://lide.pirati.cz/osoba/1452/">Matěj Kubíček</a></td>
             
                 <td>7700</td>
             
@@ -300,12 +293,6 @@ title: Odměny poradců primátora
         </tbody>
     </table>
 
-
-
-
-<p><strong>Profily uvedených osob:</strong> <a href="/lide/jaroslav-vlk.html">Jaroslav Vlk</a> 
- <a href="https://lide.pirati.cz/osoba/1005/">Jana Kabelová</a> 
-  <a href="https://lide.pirati.cz/osoba/1452/">Matěj Kubíček</a>. </p>
 <p><strong>Zmínění advokáti nebo právní kanceláře:</strong> </p>
 <ul>
 <li>Mgr. Martin Švehlík, advokát</li>
