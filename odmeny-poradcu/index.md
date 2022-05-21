@@ -134,7 +134,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Geisler Michal, PhD.</td>
+                <td><a href="/lide/michal-geisler.html">Mgr. Michal Geisler, Ph.D.</a></p></td>
             
                 <td>39000–45000</td>
             
@@ -159,7 +159,7 @@ title: Odměny poradců primátora
 <p><strong>Profily uvedených osob:</strong> <a href="https://lide.pirati.cz/personProfile/981/">Jiří Hoskovec</a> 
   <a href="/lide/marek-safra.html">Marek Šafra</a> <a href="/lide/martin-kamenik.html">Martin Kameník</a> 
   <a href="/lide/veronika-kubickova.html">Veronika Kubičková</a> <a href="/lide/martina-vackova.html">Martina Vacková</a> 
-  <a href="/lide/klara-galova.html">Klára Galová</a> <a href="/lide/michal-geisler.html">Michal Geisler</a></p>
+  <a href="/lide/klara-galova.html">Klára Galová</a> 
 
 <section class="o-section">
     

@@ -2,7 +2,7 @@
 uid: tomas.vovsik
 name:    Tomáš Vovsík
 titles:
-  before: 
+  before:  Mgr.
   after:
 category:                
 - poradce_primatora
@@ -18,7 +18,8 @@ profiles:
   facebook: https://www.facebook.com/tomas.vovsik
   twitter: 		  
   flickr:		  
-ordpraha: 
+funkce:
+  - poradce primátora <a href="https://praha.pirati.cz/lide/zdenek-hrib.html">Zdeňka Hřiba</a>
 ---
 
 **Tomáš Vovsík** je poradce a manažer sociálních sítí primátora Zdeňka Hřiba.

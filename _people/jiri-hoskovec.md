@@ -20,7 +20,9 @@ profiles:
   github:       
   facebook:
   twitter: 		  
-  flickr:		  
+  flickr:
+funkce:
+  - ředitel odboru kanceláře primátora <a href="https://praha.pirati.cz/lide/zdenek-hrib.html">Zdeňka Hřiba</a>		  
 ---
 
 **Jiří Hoskovec (1992) je vedoucí poradců pražského primátora.** Dohlíží jako vedoucí oddělení na to, aby všechny exekutivní, analytické, PRové a administrativní aktivity fungovaly jako celek, zastupuje primátora na významných jednáních a komunikuje z jeho pověření s koaličními partnery, úřadem či veřejností v klíčových záležitostech.

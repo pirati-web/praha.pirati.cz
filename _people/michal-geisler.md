@@ -18,6 +18,8 @@ profiles:
   facebook:
   twitter: 		  
   flickr:		  
+funkce:
+  - vedoucí oddělení poradců primátora <a href="https://praha.pirati.cz/lide/zdenek-hrib.html">Zdeňka Hřiba</a>
 
 ---
 

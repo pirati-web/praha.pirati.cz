@@ -2,7 +2,7 @@
 uid: marek.safra
 name:    Marek Šafra
 titles:
-  before: 
+  before: Mgr.
   after:
 category:                
 - poradce_primatora
@@ -18,7 +18,8 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-ordpraha: 
+funkce:
+  - poradce primátora <a href="https://praha.pirati.cz/lide/zdenek-hrib.html">Zdeňka Hřiba</a>
 ---
 
 **Marek Šafra** se narodil v roce 1992 v Turnově a do Prahy se přestěhoval v roce 2012.
