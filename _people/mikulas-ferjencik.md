@@ -18,7 +18,7 @@ profiles:
   flickr:    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=mikul%C3%A1%C5%A1%20ferjen%C4%8D%C3%ADk
   wikipedia: https://cs.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Ferjen%C4%8D%C3%ADk_(1987)
 funkce:
-  - asistent poslance [Jakuba Michálka](https://praha.pirati.cz/lide/jakub-michalek.html)
+  - asistent poslance <a href="https://praha.pirati.cz/lide/jakub-michalek.html">Jakuba Michálka</a>
 ---
 
 **Mikuláš Ferjenčík (1987) byl v letech 2014 až 2017 zastupitelem hlavního města Prahy, od roku 2017 do roku 2021 pak poslancem Poslanecké sněmovny Parlamentu ČR. V letech 2010 až 2014 byl také místopředsedou strany.**
