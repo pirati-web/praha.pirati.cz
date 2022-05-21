@@ -19,10 +19,13 @@ title: Odměny poradců primátora
 <p>Odměňování poradců primátora hl. m. Prahy Magistrát hl. m. Prahy pod vedením Pirátů pokračuje ve své transparentnosti vůči veřejnosti a posilování transparentnosti a zveřejňuje platy poradců primátora Zdeňka Hřiba. Odměňování těchto zaměstnanců se určuje podle tabulek, které jsou vydávány nařízením vlády (nařízení vlády č. 341/2017 Sb., o platových poměrech zaměstnanců ve veřejných službách a správě, ve znění pozdějších předpisů, a nařízení vlády č. 304/2014 Sb., o platových poměrech státních zaměstnanců, ve znění pozdějších předpisů). Platové stupně se i v tomto případě řídí legislativou podle délky praxe, a platové třídy se řídí podle toho, jak zodpovědnou, významnou a složitou práci pracovník vykonává, zohledňuje se zde i vzdělání. Aktuálně je na Oddělení poradců zaměstnáno na hlavní pracovní poměr 7 osob, v rámci DPČ 2 osoby.</p>
 <p><strong>Poradci zaměstnaní na hlavní pracovní poměr (7):</strong></p>
 <p>Poradci zaměstnaní na hlavní pracovní poměr pobírají tabulkový plat podle výše uvedeného nařízení vlády v rozmezí 38 až 43 tisíc Kč hrubého v závislosti na výši platového stupně (tedy délce započitatelné praxe a vzdělání). Nad rámec těchto fixních odměn mohou dosáhnout poradci na mimořádné odměny. Ty jsou nenárokové a jejich průměrná měsíční výše je 17 až 22 tisíc Kč hrubého, respektive až 26 tisíc Kč, v závislosti na vykonané agendě. Vedoucí poradců dostává k tomu ještě 4 520 Kč hrubého příplatku za vedení.</p>
-<p><strong>Poradci zaměstnaní na DPČ (2):</strong></p>
+
+<p><strong>Poradci zaměstnaní na DPČ:</strong></p>
 <p>Poradci zaměstnaní na DPČ jsou placeni podle odpracovaných hodin v daném měsíci. </p>
+
 <p><strong>Externí dodavatelé kanceláře primátora:</strong></p>
 <p>Průběžné plnění uzavřených smluv ukazuje tabulka uvedená ve spodní části stránky. </p>
+
 <p><strong>Všechny uvedené mzdy jsou hrubé</strong>. Všechny údaje jsou platné k srpnu 2020</p>
 
 <section class="o-section">
@@ -192,7 +195,7 @@ title: Odměny poradců primátora
                 <td>29000–34000</td>
             
             </tr>
-        
+       </tbody>
     </table>
 
 </section>
