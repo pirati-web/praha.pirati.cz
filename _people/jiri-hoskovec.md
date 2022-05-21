@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jiri-hoskovec.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: vedoucí oddělení poradců primátora      	# kratký popis, max 160 znaků
-partyUid: pirati
+partyUid: bezpp
 funkce: 
   - ředitel odboru Kancelář primátora MHMP
 mail:

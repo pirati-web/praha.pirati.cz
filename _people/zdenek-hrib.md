@@ -64,7 +64,7 @@ mail:
 mob: +420 602 560 028
 profiles:
   facebook:  https://www.facebook.com/zdenek.hrib.primator/
-  twitter: 	 https://twitter.com/ZdenekHrib
+  twitter:   https://twitter.com/ZdenekHrib
   instagram: https://www.instagram.com/zdenek.hrib
   linkedin:  https://www.linkedin.com/in/zdenekhrib/
   youtube:   https://www.youtube.com/channel/UCZVRrw9rZYFSgsPVwgga0JQ
