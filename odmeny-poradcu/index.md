@@ -180,7 +180,7 @@ title: Odměny poradců primátora
         <tbody>
         
             <tr>
-            
+           
                 <td><a href="/lide/tomas-vovsik.html">Mgr. Tomáš Vovsík</a></td>
             
                 <td>0</td>
@@ -193,9 +193,6 @@ title: Odměny poradců primátora
             
             </tr>
         
-            <tr>
-        
-        </tbody>
     </table>
 
 </section>
@@ -318,7 +315,3 @@ title: Odměny poradců primátora
 
 </section>
 
-          
-        </div></div>
-    </div>
-    </div>

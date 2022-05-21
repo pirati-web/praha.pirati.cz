@@ -17,7 +17,7 @@ funkce:
   - místopředseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33576">Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP</a>
   - místopředseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33590">místopředseda Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP</a>
 asistenti:
-  - name: Michaela Beránková
+  - name: <a href="/lide/michaela-berankova.html">Michaela Beránková</a></p>
     uid: michaela.berankova
     position: asistentka
     mail: michaela.berankova@pirati.cz
