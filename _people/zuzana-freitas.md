@@ -4,12 +4,11 @@ name:     Zuzana Freitas  	# běžně používáné jméno
 titles:
   before: Mgr.
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- vybor
-- pks
-- can
-- vlada
-img: people/2022/zuzana-freitas.jpg   # 165 x 220
+category: 
+  - vybor
+  - pks
+  - vlada
+img: people/zuzana-freitas-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:

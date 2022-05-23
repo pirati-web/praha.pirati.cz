@@ -5,11 +5,10 @@ titles:
   before: Mgr. 
   after: MBA
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- can
-img: people/2022/david-bodecek-2022.jpg   # 165 x 220
+  - praha
+img: people/david-bodecek-2022.jpg
 heroImg: Prague_panorama.jpeg
-description: Kandidát č. 13. do voleb do Zastupitelstva hl. m. Prahy  	# kratký popis, max 160 znaků
+description: předseda kontrolního výboru MČ Praha 1
 mail:
 - david.bodecek@pirati.cz
 mob:
