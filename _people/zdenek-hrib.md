@@ -68,8 +68,6 @@ profiles:
   flickr:    https://www.flickr.com/search/?text=zden%C4%9Bk%20H%C5%99ib
   wikipedia: https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib
   blog:      https://blog.aktualne.cz/blogy/zdenek-hrib.php
-ordpraha: 1
-ordcan: 1
 ---
 **Zdeněk Hřib** (\* 1981) se narorodil se ve Slavičíně a vyrůstal ve Zlíně. V letech 1999 až 2006 vystudoval obor všeobecné lékařství na 3. lékařské fakultě Univerzity Karlovy v Praze (získal titul MUDr., specializace nemoci z ozáření). Během studií absolvoval v roce 2005 stáž na Tchaj-wanu. V Praze žije od roku 1999. Je ženatý a má 3 děti.
 

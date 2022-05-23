@@ -6,8 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
-- can
-img: people/bara-soukup-2022.jpg   # 165 x 220
+img: people/bara-soukup-2022B.jpg
 heroImg: Prague_panorama.jpeg
 profession: specialistka na eGovernment, asistentka výboru pro Smart Cities ZHMP
 partyUid: pirati
@@ -20,7 +19,6 @@ mail:
 - bara.soukupova@pirati.cz
 mob: "+420 737 803 982"
 ordpks: 5
-ordcan: 8
 profiles:
   github:       
   facebook:  https://www.facebook.com/barasoukup  

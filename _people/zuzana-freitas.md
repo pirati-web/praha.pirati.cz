@@ -24,7 +24,6 @@ mail:
 - zuzana.freitas@pirati.cz
 mob: "+420 776 278 860"
 ordpks: 4
-ordcan: 10
 ordvlada: 3
 profiles:
   github:       

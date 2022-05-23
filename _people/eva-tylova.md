@@ -7,7 +7,6 @@ titles:
 category:               	# kategorie: rp, praha, vary, hradec, jmk,
 - praha
 - vybor
-- can
 img: people/eva-tylova-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: bezpp
@@ -21,7 +20,6 @@ mail:
 - eva.tylova@pirati.cz
 mob:			 
 ordvyb: 27
-ordcan: 7
 profiles:
   github:       
   facebook: https://www.facebook.com/evatylovacz   

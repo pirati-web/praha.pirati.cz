@@ -7,7 +7,6 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
-- can
 img: people/jaromir-beranek-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: předseda výboru pro IT a Smart City ZHMP
@@ -29,7 +28,6 @@ profiles:
   twitter: 		https://twitter.com/JaromirBeranek
   flickr:
 ordmhmp: 3
-ordcan: 12
 redmine: 223
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
 ---
