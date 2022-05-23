@@ -1,11 +1,12 @@
 ---
 uid: jana.kabelova
-name:     Jana Kabelová  	# běžně používáné jméno
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-img: people/jana-kabelova.jpg   # 165 x 220
+name: Jana Kabelová
+category: 
+img: people/jana-kabelova.jpg  
 heroImg: Prague_panorama.jpeg
-description:      	# kratký popis, max 160 znaků
+description:   
+náměstek ministra pro místní rozvoj ČR
+partyUid: pirati
 mail:
 - jana.kabelova@pirati.cz
 mob:			 

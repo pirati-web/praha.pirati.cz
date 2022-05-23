@@ -8,6 +8,7 @@ category:
 img: people/zuzana-ujhelyiova.jpg
 heroImg: Prague_panorama.jpeg
 description: zastupitelka MČ Praha 11
+partyUid: pirati
 mail:
   - zuzana.ujhelyiova@pirati.cz
 mob:			 

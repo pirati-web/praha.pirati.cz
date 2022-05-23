@@ -6,7 +6,7 @@ titles:
   after:
 name: Adam Zábranský  
 category: 
-   - mhmp-radni
+   - mhmp-rhmp
 img: people/adam-zabransky.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: radní pro bydlení a transparentnost
@@ -37,15 +37,16 @@ asistenti:
     position: poradce pro oblast bydlení <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
     mail: jan.snopek@praha.eu
 mail:
-- adam.zabransky@pirati.cz
+   - adam.zabransky@pirati.cz
 mob: +420 721 006 868
 profiles:
   github:    https://github.com/adamzabransky
   facebook:  https://www.facebook.com/piratzabransky/
-  twitter: 	 https://twitter.com/adamzabransky
+  twitter:   https://twitter.com/adamzabransky
   instagram: https://instagram.com/zabranskyadam
   flickr:    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=adam%20z%C3%A1bransk%C3%BD
   wikipedia: https://cs.wikipedia.org/wiki/Adam_Z%C3%A1bransk%C3%BD
+ordrhmp: 2
 redmine: 16
 calendar: 1codkq4c1g98n0o1f5tv3f3rf0@group.calendar.google.com
 ---

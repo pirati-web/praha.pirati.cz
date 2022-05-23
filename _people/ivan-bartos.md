@@ -8,6 +8,7 @@ category:
 img: people/ivan-bartos.jpg # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: předseda České pirátské strany
+partyUid: pirati
 mail:
   - ivan.bartos@pirati.cz
 mob: +420 603 415 378

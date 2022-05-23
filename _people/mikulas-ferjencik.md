@@ -7,7 +7,8 @@ titles:
 category:
 img: people/mikulas-ferjencik.jpg
 heroImg: Prague_panorama.jpeg
-description: asistent poslance          	
+description: asistent poslance
+partyUid: pirati          	
 mail: 
   - mikulas.ferjencik@pirati.cz
 mob:  +420 737 943 770

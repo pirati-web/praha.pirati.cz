@@ -1,25 +1,23 @@
 ---
 uid:  jakub.michalek
-name: Jakub Michálek  	# běžně používáné jméno
+name: Jakub Michálek 
 titles:
   before: Mgr. et Mgr. 
   after:
-category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- rp
-- pos
-img: 		people/jakub-michalek.jpg    # 165 x 220
+category:                      
+  - pos
+img: people/jakub-michalek.jpg
 heroImg: Prague_panorama.jpeg
 description: předseda poslaneckého klubu Pirátů
 mail:
-- jakub.michalek@pirati.cz
+  - jakub.michalek@pirati.cz
 mob: +420 775 978 550
 partyUid: pirati
 funkce:
-- předseda poslaneckého klubu Pirátů
-- místopředseda <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1551">Ústavně-právního výboru PSP ČR</a>
-- člen <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1589">Finančního podvýbor</a>
-- člen <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1587">Podvýboru pro justici</a>
+  - předseda poslaneckého klubu Pirátů
+  - místopředseda <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1551">Ústavně-právního výboru PSP ČR</a>
+  - člen <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1589">Finančního podvýbor</a>
+  - člen <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1587">Podvýboru pro justici</a>
 profiles:
   github:    https://github.com/jmichalek
   facebook:  https://www.facebook.com/smidak

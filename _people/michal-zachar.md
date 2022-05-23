@@ -3,6 +3,7 @@ uid: michal.zachar
 name: Michal Zachar
 fullname: Michal Zachar
 mail: michal.zachar@pirati.cz
+partyUid: pirati
 category: 
 img: people/michal-zachar.jpg
 heroImg: Prague_panorama.jpeg

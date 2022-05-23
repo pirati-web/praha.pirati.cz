@@ -5,12 +5,9 @@ titles:
   before: PhDr. Mgr.
   after: Ph.D. et Ph.D.
 category:
-- praha
-- mhmp-radni
-- ga
+  - mhmp-rhmp
 img: people/vit-simral.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-profilebadge: people/badge/12-simral.jpg
 profession: radní hlavního města Prahy
 description: radní pro oblast školství, sportu, vědy a podpory podnikání 
 teamDescription:
@@ -48,7 +45,7 @@ profiles:
   flickr:     https://www.flickr.com/search/?text=V%C3%ADt%20%C5%A0imral
   blog:        http://www.jakdalseskolstvim.cz/
   wikipedia:  https://cs.wikipedia.org/wiki/V%C3%ADt_%C5%A0imral
-ordpraha: 5
+ordrhmp: 3
 ordvyb: 31
 redmine: 164
 calendar: erijtgm3jaa14hnr4d5urm37t4@group.calendar.google.com
