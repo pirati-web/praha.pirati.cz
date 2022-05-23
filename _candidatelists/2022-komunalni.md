@@ -4,7 +4,7 @@ uid: 2022-komunalni
 # number: 13
 leader:
   uid: zdenek.hrib
-  age: 40
+  age: 41
   profession: primátor hlavního města Prahy
   city: Praha 11
   partyUid: pirati
@@ -23,7 +23,7 @@ head:
     partyUid: pirati
 # 4.
   - uid: magdalena.valdmanova
-    age: 40
+    age: 41
     profession: zastupitelka MČ Praha 2
     city: Praha 2
     partyUid: pirati
@@ -78,7 +78,7 @@ head:
 # 13.
   - uid: david.bodecek
     age: 42
-    profession: předseda konstrolního výboru MČ Praha 1
+    profession: předseda kontrolního výboru MČ Praha 1
     city: Praha 1
     partyUid: pirati
     
@@ -145,7 +145,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: Praha 9
     partyUid: pirati
 # 24.
-  - name: Michal Macek
+  - name: Bc. Michal Macek
     age: 0
     profession: TBD
     city: Praha 12
@@ -157,7 +157,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: Praha 2
     partyUid: pirati
 # 26.
-  - name: Michal Gill
+  - name: Bc. Michal Gill
     age: 0
     profession: TBD
     city: Praha 3
@@ -181,13 +181,13 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: Praha 8
     partyUid: pirati
 # 30.
-  - name: Michal Kočí
+  - name: Mgr. Michal Kočí
     age: 0
     profession: TBD
     city: TBD
     partyUid: pirati
 # 31.
-  - name: Walter Sodomka
+  - name: Ing. Walter Sodomka
     age: 0
     profession: TBD
     city: TBD
@@ -223,13 +223,13 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: Praha 13
     partyUid: pirati       
 # 37.
-  - name: Karel Nejedlík
+  - name: Bc. Karel Nejedlík
     age: 0
     profession: TBD
     city: TBD
     partyUid: pirati      
 # 38.
-  - name: Radka Daníčková
+  - name: Ing. Radka Daníčková
     age: 0
     profession: TBD
     city: Praha 15
@@ -241,61 +241,61 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: TBD
     partyUid: pirati       
 # 40.
-  - name: Apolena Ondráčková
+  - name: Apolena Ondráčková, LL.M.
     age: O
     profession: TBD
     city: Praha 3
     partyUid: pirati         
 # 41.
-  - name: Šárka Hozmanová
+  - name: Bc. Šárka Hozmanová
     age: O
     profession: TBD
     city: TBD
     partyUid: pirati        
 # 42.
-  - name: Jakub Backa
+  - name: JUDr. Ing. Jakub Backa
     age: O
     profession: TBD
-    city: TBD
+    city: Praha 6
     partyUid: pirati       
 # 43.
   - name: Tereza Nislerová
     age: O
     profession: TBD
-    city: TBD
+    city: Praha 4
     partyUid: pirati       
 # 44.
-  - name: Eva Tichá
+  - name: Ing. Eva Tichá
     age: O
     profession: TBD
     city: Praha 6
     partyUid: pirati         
 # 45.
-  - name: Jan Mejsnar
+  - name: Mgr. Jan Mejsnar
     age: O
     profession: TBD
-    city: TBD
+    city: Praha 11
     partyUid: pirati       
 # 46.
-  - name: Martin Suchan
+  - name: Mgr. Martin Suchan
     age: O
     profession: TBD
-    city: TBD
+    city: Praha 6
     partyUid: pirati       
 # 47.
-  - name: Jana Raiterová
+  - name: Mgr. Jana Raiterová
     age: O
     profession: TBD
-    city: TBD
+    city: Praha 1
     partyUid: pirati    
 # 48.
-  - name: Pavel Podgorný
+  - name: Ing. Pavel Podgorný
     age: O
     profession: TBD
     city: Praha 11
     partyUid: pirati         
 # 49.
-  - name: Jitka Novotná
+  - name: Mgr. Jitka Novotná
     age: 32
     profession: programátorka
     city: Praha 8
@@ -313,7 +313,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: TBD
     partyUid: pirati        
 # 52.
-  - name: Zuzana Drázdová
+  - name: Mgr. Zuzana Drázdová
     age: O
     profession: TBD
     city: TBD
@@ -325,7 +325,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: Praha 9
     partyUid: pirati        
 # 54.
-  - name: Tereza Hubáčková
+  - name: Tereza Hubáčková, DiS.
     age: O
     profession: TBD
     city: Praha 6
@@ -334,18 +334,18 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
   - name: Jiří Gebert
     age: O
     profession: TBD
-    city: TBD
+    city: Praha 6
     partyUid: pirati       
 # 56.
-  - name: Zuzana Lajksnerová
+  - name: Mgr. Zuzana Lajksnerová
     age: O
     profession: TBD
-    city: TBD
+    city: Praha 10
     partyUid: pirati     
 # 57.
-  - name: Petr Kolář
+  - name: Ing. Petr Kolář
     age: O
-    profession: TBD
+    profession: Praha 13
     city: TBD
     partyUid: pirati        
 # 58.
@@ -355,40 +355,40 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: TBD
     partyUid: pirati    
 # 59.
-  - name: Karel Malý
+  - name: Ing. Karel Malý
     age: O
     profession: TBD
-    city: TBD
+    city: Praha 4
     partyUid: pirati       
 # 60.
   - name: Helena Buchtová
     age: O
     profession: TBD
-    city: TBD
+    city: Praha 4
     partyUid: pirati     
 # 61.
   - name: Josef Břečka
     age: O
     profession: TBD
-    city: TBD
+    city: Praha 10
     partyUid: pirati        
 # 62.
   - name: Dagmar Vybíralová
     age: O
-    profession: TBD
-    city: TBD
+    profession: lektorka jógy
+    city: Praha 6
     partyUid: pirati      
 # 63.
-  - name: Iveta Lysoňková
+  - name: Bc. Iveta Lysoňková
     age: O
     profession: TBD
     city: Praha 7
     partyUid: pirati      
 # 64.
-  - name: Jan Žák
+  - name: Ing. Jan Žák
     age: 0
     profession: TBD
-    city: TBD
+    city: Praha 11
     partyUid: pirati    
 # 65.
   - uid: jaroslav.verner

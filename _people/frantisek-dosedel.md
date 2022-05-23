@@ -2,7 +2,7 @@
 uid: frantisek.dosedel
 name: František Doseděl  	# běžně používáné jméno
 titles:
-  before: 
+  before: Mgr.
   after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
