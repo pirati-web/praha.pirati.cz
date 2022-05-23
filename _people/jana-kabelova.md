@@ -4,8 +4,7 @@ name: Jana Kabelová
 category: 
 img: people/jana-kabelova.jpg  
 heroImg: Prague_panorama.jpeg
-description:   
-náměstek ministra pro místní rozvoj ČR
+description:
 partyUid: pirati
 mail:
 - jana.kabelova@pirati.cz

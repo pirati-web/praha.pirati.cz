@@ -5,7 +5,7 @@ titles:
   before: PhDr. 
   after:
 category:                 
-  - pos
+  - poslanci
 img: people/olga-richterova.jpg 
 heroImg: Prague_panorama.jpeg
 description: místopředsedkyně Poslanecké sněmovny PČR 

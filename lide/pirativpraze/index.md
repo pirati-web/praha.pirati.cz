@@ -13,7 +13,7 @@ groups:
     category: vlada 
     sort: ordvlada
   - name: Poslanci a poslankyně
-    category: pos 
+    category: poslanci 
     sort: ordpos
   - name: Senátoři a senátorky
     category: senat

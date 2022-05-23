@@ -5,7 +5,7 @@ titles:
   before: Mgr. et Mgr. 
   after:
 category:                      
-  - pos
+  - poslanci
 img: people/jakub-michalek.jpg
 heroImg: Prague_panorama.jpeg
 description: předseda poslaneckého klubu Pirátů
