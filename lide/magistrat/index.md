@@ -4,8 +4,8 @@ title: Piráti na Magistrátu hl. města Prahy
 viewMode: grouped # or alltogether
 groups:
   - name: Členové rady hlavního města Prahy
-    category: mhmp-radni
-    sort: ordpraha
+    category: mhmp-rhmp
+    sort: ordrhmp
   - name: Další zastupitelé z magistrátu
     category: mhmp
     sort: ordmhmp
