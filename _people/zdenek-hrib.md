@@ -1,16 +1,13 @@
 ---
 uid: zdenek.hrib
-name:    Zdeněk Hřib
+name: Zdeněk Hřib
 titles:
   before: MUDr. 
   after:
 category:                 
-- mhmp-radni
-- praha
-- can
-img: people/zdenek-hrib.jpg  # 165 x 220
+  - mhmp-radni
+img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
-profilebadge: people/badge/13-hrib.jpg
 partyUid: pirati
 profession: primátor hlavního města Prahy
 description: primátor hlavního města Prahy

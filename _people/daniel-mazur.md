@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vybor
 - pks
 - can
-img: people/daniel-mazur.jpg    # 165 x 220
+img: people/daniel-mazur-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profession: projektový manažer v oblasti vědy, výzkumu, vzdělávání a inovací
 description: předseda KS Praha

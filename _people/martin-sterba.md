@@ -4,7 +4,7 @@ name: Martin Štěrba
 titles:
   before: Mgr.
 category:
-img: people/martin-sterba.jpg
+img: people/martin-sterba-2022.jpg
 heroImg: Prague_panorama.jpeg
 profession: manažer a stratég on-line komunikace
 partyUid: pirati

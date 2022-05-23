@@ -8,9 +8,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - vybor
 - can
-img: 		people/jana-komrskova.jpg    # 165 x 220
+img: people/jana-komrskova-2022.jpg
 heroImg: Prague_panorama.jpeg
-profilebadge: people/badge/jana-komrskova.jpg
 partyUid: pirati
 description: 1. místostarostka MČ Praha 10
 teamDescription:

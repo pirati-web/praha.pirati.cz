@@ -8,9 +8,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
 - can
-img: people/2022/jaromir-beranek.jpg    # 165 x 220
+img: people/jaromir-beranek-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-profilebadge: people/badge/08-beranek.jpg
 description: předseda výboru pro IT a Smart City ZHMP
 partyUid: pirati
 teamDescription:

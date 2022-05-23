@@ -9,9 +9,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - pks
 ordpks: 3
-img: people/jan-hora.jpg   # 165 x 220
+img: people/jan-hora-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-profilebadge: people/badge/14-hora.jpg
 partyUid: pirati
 description: místopředseda KS Praha
 teamDescription:

@@ -8,7 +8,7 @@ category:               	# kategorie: rp, praha, vary, hradec, jmk,
 - praha
 - vybor
 - can
-img: people/eva-tylova.jpg   # 165 x 220
+img: people/eva-tylova-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: bezpp
 profession: místostarostka Prahy 12, ekoložka

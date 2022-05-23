@@ -7,7 +7,7 @@ titles:
 category:
  - vybor
  - can
-img: 		people/magdalena-valdmanova.jpg    # 165 x 220
+img: people/magdalena-valdmanova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
@@ -22,7 +22,7 @@ mob:
 profiles:
   github:     
   facebook: https://www.facebook.com/valdmanova.pirati	
-  twitter: 	https://mobile.twitter.com/magvaldmanova	
+  twitter:  https://mobile.twitter.com/magvaldmanova	
   flickr:
 ordcan: 4
 ---

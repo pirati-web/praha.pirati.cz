@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - can
-img: people/bara-soukupova.jpg   # 165 x 220
+img: people/bara-soukup-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profession: specialistka na eGovernment, asistentka výboru pro Smart Cities ZHMP
 partyUid: pirati
