@@ -35,4 +35,4 @@ Bára je registrovanou příznivkyní Pirátů od roku 2013, do strany jsem vsto
 
 Kromě map se zajímá i o územní plánování, urbanismus a veřejné prostory. Ve svém volném čase ráda cestuje a jezdí na kole. V poslední době je velmi činná aktivistka v oblasti práv trans* lidí.
 
-Od roku 2021 je členkou a jednatelkou republikového výboru Pirátské strany a místopředsedkyně krajského sdružení Praha.
+Od roku 2021 je členkou republikového výboru Pirátské strany a místopředsedkyně krajského sdružení Praha.
