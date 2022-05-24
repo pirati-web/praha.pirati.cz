@@ -1,7 +1,7 @@
 ---
 title: Kandidáti do Zastupitelstva. hl. města Prahy
 uid: 2022-komunalni
-# number: 13
+# number: 16
 leader:
   uid: zdenek.hrib
   age: 41
@@ -81,18 +81,16 @@ head:
     profession: předseda kontrolního výboru MČ Praha 1
     city: Praha 1
     partyUid: pirati
-    
-tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 14.
   - uid: jan.hora
-    age: 0
+    age: 38
     profession: informatik
     city: Praha 4
     party: člen Pirátské strany
     partyUid: pirati
 # 15.
   - uid: eva.horakova
-    age: 0
+    age: 42
     profession: předsedkyně Výboru pro sociální politiku ZHMP a medicínská konzultantka
     city: Praha 5
     partyUid: pirati
@@ -102,15 +100,17 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     profession: asistent poslance a bývalý poslanec
     city: Praha 10
     partyUid: pirati
+
+tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 17.
   - uid: tomas.murnak
-    age: 0
+    age: 42
     profession: předseda výboru pro legislativu ZHMP
     city: Praha 13
     partyUid: pirati
 # 18.
   - uid: zuzana.ujhelyiova
-    age: 0
+    age: 39
     profession: zastupitelka MČ Praha 11
     city: Praha 11
     partyUid: pirati
@@ -122,7 +122,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     partyUid: pirati    
 # 20.
   - uid: jana.kabelova
-    age: 0
+    age: 63
     profession: TBD
     city: Praha 6
     partyUid: pirati

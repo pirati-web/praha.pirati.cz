@@ -1,12 +1,12 @@
 ---
 uid: bara.soukupova
-name:     Bára Soukupová 	# běžně používáné jméno
+name: Bára Soukupová 	# běžně používáné jméno
 titles:
   before: Mgr.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
-img: people/bara-soukup-2022B.jpg
+img: people/bara-soukupova.jpg
 heroImg: Prague_panorama.jpeg
 profession: specialistka na eGovernment, asistentka výboru pro Smart Cities ZHMP
 partyUid: pirati
@@ -22,7 +22,7 @@ ordpks: 5
 profiles:
   github:       
   facebook:  https://www.facebook.com/barasoukup  
-  twitter: 	 https://twitter.com/bara_soukup  
+  twitter:   https://twitter.com/bara_soukup  
   instagram: https://www.instagram.com/barasoukup/
   flickr:		  
 ---
