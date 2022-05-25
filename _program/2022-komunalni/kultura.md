@@ -6,7 +6,7 @@ uid: kultura
 order: 1
 garant: magdalena.valdmanova
 redmine: 23492
-img: program/metro-nejen-to.jpg
+img: program/program2022-nahledy/kultura.png
 intro: >
   Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
 

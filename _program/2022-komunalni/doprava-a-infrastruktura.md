@@ -6,7 +6,7 @@ uid: doprava-a-insfrastruktura
 order: 1
 garant: gabriela.lnenickova
 redmine: 23492
-img: program/metro-nejen-to.jpg
+img: program/program2022-nahledy/doprava.png
 intro: >
   Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
 

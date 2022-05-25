@@ -4,9 +4,9 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: verejna-sprava
 order: 1
-garant: zdenek.hrib
+garant: bara.soukupova
 redmine: 23492
-img: program/metro-nejen-to.jpg
+img: program/program2022-nahledy/verejna-sprava.png
 intro: >
   Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
 
