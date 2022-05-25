@@ -9,7 +9,7 @@ pagination:
 
 <div class="container container--default pt-8 lg:py-24">
   <section>
-    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuality:</h1>
+    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuality z Magistrátu:</h1>
     <main>
       {% include articles/list-responsive.html posts=paginator.posts %}
     </main>
