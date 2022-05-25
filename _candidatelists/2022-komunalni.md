@@ -350,9 +350,9 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     partyUid: pirati        
 # 58.
   - uid: ivan.mikolas
-    age: technik a ekonom
-    profession: TBD
-    city: TBD
+    age: 57
+    profession: technik a ekonom
+    city: Praha 10tbd
     partyUid: pirati    
 # 59.
   - name: Ing. Karel Malý
