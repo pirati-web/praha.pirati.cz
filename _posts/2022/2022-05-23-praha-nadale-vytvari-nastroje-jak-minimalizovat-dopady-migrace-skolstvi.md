@@ -5,7 +5,7 @@ image: 	posts/vitsimral5.jpg
 tags:   [Školství, Válka na Ukrajině]
 ---
 
-**Hlavní město aktivně reaguje na vysokou míru migrační vlny, kterou způsobil válečný konflikt na Ukrajině. Intenzivně řeší otázku pomoci ukrajinským uprchlickým rodinám nejen v rámci zajištění dostatečných ubytovacích kapacit, ale také se snaží ulehčit postup při zajišťování vzdělání pro ukrajinské děti. Proto Praha vytváří nástroje, kterými rodinám pomáhá v adaptaci, a zároveň zavádí opatření, jimiž předchází případným negativním dopadům na pražské školství. **
+**Hlavní město aktivně reaguje na vysokou míru migrační vlny, kterou způsobil válečný konflikt na Ukrajině. Intenzivně řeší otázku pomoci ukrajinským uprchlickým rodinám nejen v rámci zajištění dostatečných ubytovacích kapacit, ale také se snaží ulehčit postup při zajišťování vzdělání pro ukrajinské děti. Proto Praha vytváří nástroje, kterými rodinám pomáhá v adaptaci, a zároveň zavádí opatření, jimiž předchází případným negativním dopadům na pražské školství.**
 
 >„Vzhledem k přetrvávající válce na Ukrajině i nadále realizujeme ve spolupráci s magistrátním odborem školství mimořádná opatření pro zvládání migrace ukrajinských uprchlíků a jejich začleňování do pražského vzdělávacího systému a také se jim snažíme pomoci v jejich celkovém zapojení do společnosti. Jsme si vědomi toho, že tato extrémní situace, která v jejich zemi panuje, negativně ovlivňuje psychický stav i jejich dětí, proto jsme ve spolupráci s pražskými sportovními kluby a spolky zajistili možnost odreagování se prostřednictvím jejich oblíbených sportů,” řekl radní hl. m. Prahy pro oblast školství a sportu Vít Šimral.
 
