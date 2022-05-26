@@ -4,7 +4,7 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: skolstvi
 order: 1
-garant: jana.komrskova
+garant: daniel.mazur
 redmine: 23492
 img: program/program2022-nahledy/skolstvi.png
 intro: >
