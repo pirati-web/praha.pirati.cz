@@ -19,7 +19,7 @@ head:
   - uid: adam.zabransky
     age: 28
     profession: radní hlavního města Prahy pro bydlení a transparentnost
-    city: Praha 1
+    city: Praha 10
     partyUid: pirati
 # 4.
   - uid: magdalena.valdmanova
@@ -48,7 +48,7 @@ head:
 # 8.
   - uid: bara.soukupova
     age: 34
-    profession: specialistka na eGovernment, asistentka předsedy Výboru pro IT a Smart City ZHMP 
+    profession: specialistka na eGovernment
     city: Praha 11
     partyUid: pirati
 # 9.
@@ -71,7 +71,7 @@ head:
     partyUid: pirati
 # 12.
   - uid: jaromir.beranek
-    age: 35
+    age: 36
     profession: předseda Výboru pro IT a Smart City ZHMP a finanční manažer
     city: Praha 6
     partyUid: pirati
@@ -84,7 +84,7 @@ head:
 # 14.
   - uid: jan.hora
     age: 38
-    profession: informatik
+    profession: zastupitelka MČ Praha 4 a informatik
     city: Praha 4
     party: člen Pirátské strany
     partyUid: pirati
