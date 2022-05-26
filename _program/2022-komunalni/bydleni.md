@@ -8,7 +8,6 @@ garant: adam.zabransky
 redmine: 23492
 img: program/program2022-nahledy/bydleni.png
 intro: >
-  Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
 
 ---
 

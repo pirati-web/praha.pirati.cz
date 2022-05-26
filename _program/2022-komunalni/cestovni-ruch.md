@@ -8,7 +8,7 @@ garant: zdenek.hrib
 redmine: 23492
 img: program/program2022-nahledy/cestovni-ruch.png
 intro: >
-  Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
+
 ---
 
 ## Podpora cestovního ruchu

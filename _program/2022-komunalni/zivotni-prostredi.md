@@ -8,7 +8,6 @@ garant: eva.tylova
 redmine: 23492
 img: program/program2022-nahledy/zivotni-prostredi.png
 intro: >
-  Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
 
 ---
 

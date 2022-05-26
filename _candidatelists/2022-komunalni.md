@@ -207,13 +207,13 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 34.
   - name: Albert Štěrba
     age: 28
-    profession: TBD
-    city: TBD
+    profession: lékař na Neurochirurgické klinice v Nemocnici Královské Vinohrady
+    city: Praha 10
     partyUid: bezpp
 # 35.
   - name: Jakub Rychlý
     age: 20
-    profession: TBD
+    profession: inovátor se zájmem v oblasti vzdělávání a volného času
     city: Praha 12
     partyUid: pirati       
 # 36.
@@ -225,8 +225,8 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 37.
   - name: Bc. Karel Nejedlík
     age: 36
-    profession: TBD
-    city: TBD
+    profession: informatika
+    city: Praha 16
     partyUid: pirati      
 # 38.
   - name: Ing. Radka Daníčková
@@ -279,13 +279,13 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 46.
   - name: Mgr. Martin Suchan
     age: 37
-    profession: TBD
+    profession: vývojář
     city: Praha 6
     partyUid: pirati       
 # 47.
   - name: Mgr. Jana Raiterová
     age: 51
-    profession: TBD
+    profession: hudebnice
     city: Praha 1
     partyUid: pirati    
 # 48.
@@ -325,7 +325,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: Praha 9
     partyUid: pirati        
 # 54.
-  - name: Tereza Hubáčková, DiS.
+  - name: Bc. Tereza Hubáčková, DiS.
     age: 49
     profession: sociální pracovnice
     city: Praha 6
@@ -333,7 +333,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 55.
   - name: Jiří Gebert
     age: 80
-    profession: TBD
+    profession: architekt a publicista
     city: Praha 6
     partyUid: bezpp       
 # 56.
@@ -363,7 +363,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 60.
   - name: Mgr. Helena Buchtová
     age: 32
-    profession: TBD
+    profession: asistentka technického odboru Pirátů
     city: Praha 4
     partyUid: pirati     
 # 61.
@@ -381,13 +381,13 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 63.
   - name: Bc. Iveta Lysoňková
     age: 37
-    profession: TBD
+    profession: senior account manažerka
     city: Praha 7
     partyUid: pirati      
 # 64.
   - name: Ing. Jan Žák
     age: 40
-    profession: TBD
+    profession: informatik
     city: Praha 11
     partyUid: pirati    
 # 65.

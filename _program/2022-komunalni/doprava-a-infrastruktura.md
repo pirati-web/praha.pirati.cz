@@ -8,7 +8,6 @@ garant: gabriela.lnenickova
 redmine: 23492
 img: program/program2022-nahledy/doprava.png
 intro: >
-  Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
 
 ---
 
