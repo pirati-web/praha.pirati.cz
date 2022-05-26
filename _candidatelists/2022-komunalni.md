@@ -12,7 +12,7 @@ head:
 # 2.
   - uid: jana.komrskova
     age: 44
-    profession: 1. místostarostka MČ Praha 10 a expertka na školství
+    profession: 1. místostarostka MČ Praha 10
     city: Praha 10
     partyUid: pirati
 # 3.
@@ -24,7 +24,7 @@ head:
 # 4.
   - uid: magdalena.valdmanova
     age: 41
-    profession: zastupitelka MČ Praha 2
+    profession: zastupitelka MČ Praha 2 a manažerka
     city: Praha 2
     partyUid: pirati
 # 5.
@@ -36,7 +36,7 @@ head:
 # 6.
   - uid: viktor.mahrik
     age: 40
-    profession: předseda výboru pro správu majetku ZHMP
+    profession: předseda výboru pro správu majetku ZHMP a specialista výzkumů
     city: Praha 6
     partyUid: pirati
 # 7.
@@ -72,13 +72,13 @@ head:
 # 12.
   - uid: jaromir.beranek
     age: 35
-    profession: předseda Výboru pro IT a Smart City ZHMP 
+    profession: předseda Výboru pro IT a Smart City ZHMP a finanční manažer
     city: Praha 6
     partyUid: pirati
 # 13.
   - uid: david.bodecek
     age: 42
-    profession: předseda kontrolního výboru MČ Praha 1
+    profession: předseda kontrolního výboru MČ Praha 1 a pedagog
     city: Praha 1
     partyUid: pirati
 # 14.
