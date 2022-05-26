@@ -12,7 +12,7 @@ head:
 # 2.
   - uid: jana.komrskova
     age: 44
-    profession: 1. místostarostka MČ Praha 10
+    profession: 1. místostarostka MČ Praha 10 a expertka na školství
     city: Praha 10
     partyUid: pirati
 # 3.

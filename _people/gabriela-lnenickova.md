@@ -5,7 +5,7 @@ titles:
   before: Mgr.
   after: MBA
 category: 
-img: people/gabriela-lnenickova-2022.jpg
+img: people/gabriela-lnenickova-2022-2.jpg
 heroImg: Prague_panorama.jpeg
 profession: projektová manažerka a ekonomka
 description: radní MČ Praha–Suchdol
