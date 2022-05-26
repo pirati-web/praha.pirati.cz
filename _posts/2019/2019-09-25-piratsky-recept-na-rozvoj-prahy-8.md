@@ -3,7 +3,7 @@ date:         2019-09-25
 tags:         [Nová Palmovka, Praha 8]
 title:        "Piráti z Prahy 8 mají recept, jak rozvíjet Palmovku. Torzo radnice nechtějí prodávat pod cenou"
 image: 	      posts/palmovka.jpg
-author:       Michal Novák, Ivo Slávka
+authorId:     martin.sterba
 ---
 
 Praha, 25. září 2019 – **Piráti na Praze 8 přicházejí s alternativní variantou, jak dále postupovat ohledně rozestavěné budovy Nová Palmovka, do které městská část v minulých letech investovala více než 500 milionů korun. Vedení městské části ji chce prodat výrazně pod cenou, podle nového posudku by za prodej torza nedokončené radnice bylo možné získat více než miliardu korun. Pirátští zastupitelé dnes chtějí o prodeji či dostavbě jednat na zasedání Zastupitelstva městské části Praha 8.**
