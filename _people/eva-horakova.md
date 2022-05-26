@@ -6,7 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
   - mhmp
-img: people/eva-horakova-2022-2.jpg   # 165 x 220
+img: people/eva-horakova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: předsedkyně Výboru pro sociální politiku ZHMP
