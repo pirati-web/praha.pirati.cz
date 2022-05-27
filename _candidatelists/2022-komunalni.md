@@ -84,7 +84,7 @@ head:
 # 14.
   - uid: jan.hora
     age: 38
-    profession: zastupitelka MČ Praha 4 a informatik
+    profession: zastupitel MČ Praha 4 a informatik
     city: Praha 4
     party: člen Pirátské strany
     partyUid: pirati
