@@ -54,7 +54,7 @@ head:
 # 9.
   - uid: jiri.bruzek
     age: 45
-    profession: radní MČ Praha 12 a informatik
+    profession: radní MČ Praha 12 a konzultant
     city: Praha 12
     partyUid: pirati
 # 10.
@@ -66,7 +66,7 @@ head:
 # 11.
   - uid: gabriela.lnenickova
     age: 42
-    profession: radní MČ Praha–Suchdol a projektová manažerka
+    profession: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
     city: Praha–Suchdol
     partyUid: pirati
 # 12.

@@ -8,6 +8,7 @@ category:
 img: people/jiri-bruzek-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
+profession: radní MČ Praha 12 a konzultant
 description: radní MČ Praha 12
 mail:
 - jiri.bruzek@pirati.cz

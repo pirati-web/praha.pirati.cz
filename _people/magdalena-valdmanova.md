@@ -25,7 +25,9 @@ profiles:
   flickr:
 ---
 
-**Magdalena Valdmanová** (* 29. 9. 1981) je členkou Pirátů na Praze 2. Po odmaturování (Management a podnikání v umění a reklamě) a po mateřské dovolené začala pracovat v různých firmách a později v tréningové kavárně, která zaměstnávala mladé lidi po odchodu z dětský domovů. V současnosti má vlastní catering, kde tyto lidi zaměstnává. Zároveň pracuje pro moc fajn start-up zabývající se e-learningem. V roce 2019 působila jako poradce primátora, kam byla [vybrána ve výběrovém řízení](https://forum.pirati.cz/viewtopic.php?f=572&t=45517). Od října 2019 působí jako asistentka Viktora Mahrika.
+Celý život žiji v Praze. Po maturitě v oboru management a podnikání v umění a reklamě jsem nastoupila na mateřskou dovolenou. Poté jsem pracovala v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětských domovů. Právě pro ně jsem pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti jsem získala ve startupu zaměřeném na e-learning, v kanceláři pražského primátora Zdeňka Hřiba, kde jsem pracovala jako jeho poradkyně a v současnosti tuto pozici zastávám u pirátského zastupitele hlavního města Viktora Mahrika. 
+
+Zároveň jsem od roku 2018 zastupitelkou na Praze 2. Zajímají mě sociální a kulturní témata, hudba, film, přátele. Mám moc ráda Prahu, ale i výlety na venkov. Žiji se svými dvěma dospělými syny, třemi kočkami a jedním partnerem na Vinohradech.
 
 ### Další informace
 

@@ -16,6 +16,3 @@ Kultura je tady pro všechny, i pro znevýhodněné. Naším cílem je co nejvě
 
 ## Transparentní financování
 Přineseme větší názorovou pestrost do rozhodování o podpoře kultury ze strany města. Hodnotící komise budou jmenovány na návrhy široké skupiny stakeholderů. Zvýšíme počet hodnotitelů, aby nebyli při hodnocení přetížení. Zavedeme půlroční periodicitu dotačního systému pro menší projekty, ale zaměříme se také na adekvátní víceleté financování těch nejvýznamnějších. Podpoříme samotný tvůrčí proces a donátorství, vytvoříme odpovídající systém iniciativ u příspěvkových organizací. Zajistíme vyšší míru participace občanů v kultuře. Omezíme podporu ryze komerčních akcí.
-
-## Obnova Staroměstské radnice a jejího významu
-Obnovme Staroměstskou radnici a kašnu před ní. Obnovme radnici funkčně jako univerzální konferenční prostor a vraťme rozbitému Staroměstskému náměstí jeho ducha, krásu a důstojnost. Vypíšeme po 35 letech 9. architektonickou soutěž na obnovu Staroměstského náměstí, abychom konečně našli jeho správnou podobu a centrum Prahy se stane prestižním místem všech konferencí a „středem světa“.
