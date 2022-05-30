@@ -8,7 +8,7 @@ category:
   - vybor
   - pks
   - vlada
-img: people/zuzana-freitas-2022-2.jpg
+img: people/zuzana-freitas-2022-3.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:

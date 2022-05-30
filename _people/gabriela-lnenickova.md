@@ -5,7 +5,7 @@ titles:
   before: Ing.
   after: MBA
 category: 
-img: people/gabriela-lnenickova-2022-2.jpg
+img: people/gabriela-lnenickova-2022-3.jpg
 heroImg: Prague_panorama.jpeg
 profession: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
 description: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
