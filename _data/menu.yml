@@ -15,33 +15,35 @@ main:
     name: Aktuality
   - name: Vaši lidé
     submenu:
-      - link: /lide/pirativpraze
-        name: Piráti v Praze
+      - name:  Piráti v Praze
+        link:  /lide/pirativpraze
         match: /lide/pirativpraze
-      - link: /lide/magistrat
-        name: Piráti na Magistrátu hl. města Prahy
+      - name:  Piráti na Magistrátu hl. města Prahy
+        link:  /lide/magistrat
         match: /lide/magistrat         
-      - link: /lide/dr
-        name: Piráti v dozorčích radách městských firem
+      - name:  Piráti v dozorčích radách městských firem
+        link:  /lide/dr
         match: /lide/dr
-      - link: /lide/mestske-casti
-        name: Piráti v městských částech
+      - name:  Piráti v městských částech
+        link:  /lide/mestske-casti
         match: /lide/mestske-casti       
-      - link: /lide/krajske-expertni-tymy/
-        name: Pirátské pražské expertní týmy
+      - name:  Pirátské pražské expertní týmy
+        link:  /lide/krajske-expertni-tymy/
         match: /lide/krajske-expertni-tymy/
   - name: Volby 
     submenu:
+      - name: Komunální volby 2022
       - name: Volby do Sněmovny 2021
         link: "https://www.piratiastarostove.cz/kandidati/kraj/praha/"
-      - link: /volby/2018-komunalni.html
-        name: Komunální volby 2018
-      - link: /volby/2014-komunalni.html
-        name: Komunální volby 2014   
-  - link: /pice/
-    name: Pirátské centrum
-  - link: /kontakt/
-    name: Kontakt
+      - name: Komunální volby 2018
+        link: /volby/2018-komunalni.html
+      - name: Komunální volby 2014   
+        link: /volby/2014-komunalni.html
+  - name: Pirátské centrum
+    link: /pice/
+  - name: Kontakt
+    link: /kontakt/
+    
 
 bottom:
   - class: small-12 medium-4
