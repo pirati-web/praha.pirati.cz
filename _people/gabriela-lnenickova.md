@@ -27,6 +27,4 @@ Od listopadu 2018 je radní městské části Praha – Suchdol a od dubna 2019 
 
 Gabriela je [mezinárodní mistryní v šachu](https://www.chess.cz/hrac/2559). V roce 1997 vyhrála Mistrovství ČR v kategorii žen a juniorek a v následujících letech získala jednu stříbrnou a dvě bronzové medaile. Reprezentovala Českou republiku na světových a evropských šampionátech mládeže, mezinárodních turnajích a na šachové olympiádě v Rusku.
 
-Je členkou rady neziskové organizace Platforma za kvalitní dopravní infrastrukturu se zaměřením na dopravu a udržitelnou mobilitu [www.rozumnadoprava.cz](http://www.rozumnadoprava.cz).
-
 Gabriela má ráda procházky v přírodě, cyklistiku, zajímá se o zdravý životní styl a ráda čte knihy o osobním rozvoji. Je vdaná a má dvě děti.
