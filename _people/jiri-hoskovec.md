@@ -8,19 +8,12 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jiri-hoskovec.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: vedoucí oddělení poradců primátora      	# kratký popis, max 160 znaků
+description: ředitel odboru Kancelář primátora MHMP
 partyUid: bezpp
 funkce: 
   - ředitel odboru Kancelář primátora MHMP
 mail:
   - jiri.hoskovec@pirati.cz
-orddr: 11
-mob:
-profiles:
-  github:       
-  facebook:
-  twitter: 		  
-  flickr:
 funkce:
   - ředitel odboru kanceláře primátora <a href="https://praha.pirati.cz/lide/zdenek-hrib.html">Zdeňka Hřiba</a>		  
 ---
