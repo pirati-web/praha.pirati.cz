@@ -10,7 +10,7 @@ layout: default
     <div class="lg:row-span-1 lg:col-span-3 order-3">
       <div class="mt-4 md:mt-8 space-y-4">
         <button class="btn btn--white btn--fullwidth md:btn--autowidth text-lg">
-          <div class="btn__body "><a href="/volby/plneni-programu/2018-komunalni.html">Plníme náš program pro Prahu</a></div>
+          <div class="btn__body "><a href="/volby/2022-komunalni.html">S čím jdeme v Praze do voleb?</a></div>
         </button>
 
         <button class="btn btn--white btn--fullwidth md:btn--autowidth text-lg">

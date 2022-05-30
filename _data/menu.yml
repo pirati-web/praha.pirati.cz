@@ -34,8 +34,6 @@ main:
     submenu:
       - name: Volby do Sněmovny 2021
         link: "https://www.piratiastarostove.cz/kandidati/kraj/praha/"
-      - link: /volby/plneni-programu/2018-komunalni.html
-        name: Plnění programu 2018–2022
       - link: /volby/2018-komunalni.html
         name: Komunální volby 2018
       - link: /volby/2014-komunalni.html
