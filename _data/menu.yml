@@ -33,6 +33,7 @@ main:
   - name: Volby 
     submenu:
       - name: Komunální volby 2022
+        link: /volby/2022-komunalni.html
       - name: Volby do Sněmovny 2021
         link: "https://www.piratiastarostove.cz/kandidati/kraj/praha/"
       - name: Volby do Evropského parlamentu 2019
