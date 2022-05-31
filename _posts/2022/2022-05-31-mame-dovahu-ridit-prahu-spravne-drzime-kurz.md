@@ -23,11 +23,11 @@ Piráti chtějí dále pokračovat v naplňování klimatického plánu, postavi
 
 ### Vlajkové projekty Pirátů pro Prahu: 
 
-- Bydlení pro tisíce Pražanů - masivní výstavba městských bytů pro řešení stoupajících nákladů na bydlení
-- Energie pro Prahu - energetická soběstačnost města ušetří peníze Pražanům i rozpočet města
-- Postavíme tramvajový okruh - nejlepší poměr cena / výkon ze všech velkých infrastrukturních projektů s realizací v dohledné době
-- Chladíme Prahu milionem stromů - plníme náš slib přesně podle plánu
-- Vědeckotechnický park - pro podporu inovací a kvalifikovaných pracovních míst v Praze
-- Nový život pro sídliště - vyjednali jsme peníze z EU pro revitalizaci sídlišť
+- **Bydlení pro tisíce Pražanů** - masivní výstavba městských bytů pro řešení stoupajících nákladů na bydlení
+- **Energie pro Prahu** - energetická soběstačnost města ušetří peníze Pražanům i rozpočet města
+- **Postavíme tramvajový okruh** - nejlepší poměr cena / výkon ze všech velkých infrastrukturních projektů s realizací v dohledné době
+- **Chladíme Prahu milionem stromů** - plníme náš slib přesně podle plánu
+- **Vědeckotechnický park** - pro podporu inovací a kvalifikovaných pracovních míst v Praze
+- **Nový život pro sídliště** - vyjednali jsme peníze z EU pro revitalizaci sídlišť
 
-[Seznam kandidátů a volební program Pirátů na magistrát naleznete zde.](https://praha.pirati.cz/volby/2022-komunalni.html
+[Seznam kandidátů a volební program Pirátů na magistrát naleznete zde.](https://praha.pirati.cz/volby/2022-komunalni.html)
