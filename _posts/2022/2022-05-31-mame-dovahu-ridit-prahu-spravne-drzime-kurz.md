@@ -1,13 +1,15 @@
 ---
 title: "Máme odvahu Prahu řídit správně. Držíme kurz, město vedeme správným směrem"
 author: Piráti Praha
-image: 	posts/hrib-komrskova-banner.jpg
+image: 	posts/zahajeni-vitkov-2022-1.jpg
 tags:   [Piráti, Volby 2022]
 ---
 
 **Piráti v Praze dnes zahájili kampaň na pražský magistrát, na radnice městských částí a Senátu Parlamentu České republiky a představili svůj program. Do voleb jdou s heslem: Odvaha Prahu řídit správně.** Jako jedničku Piráti vysílají do voleb současného primátora Zdeňka Hřiba, který bude obhajovat svoji pozici ve vedení Prahy. Jako dvojka kandidátky bude Hřibovi krýt záda současná první místostarostka městské části Praha 10 Jana Komrsková. Ta za poslední čtyři roky vyvětrala radnici městské části od kmotrů a nekalých praktik, kterým byla roky vystavována. Čelo pirátské kandidátky na magistrát občanům Prahy také představilo vlajkové projekty programu. Ty se zaměří mimo jiné na výstavbu nových městských bytů, aby tisíce rodin mělo kde bydlet a také na to, aby se metropole stala energeticky soběstačným městem. Pozornost upřou rovněž na rozvoj sídlišť, která byla v minulých letech přehlížena, postaví tramvajový okruh, nebo vědeckotechnický park, pokračovat ovšem budou i ve výsadbě stromů a ochlazování města. Piráti také vysílají své kandidáty na starostu či starostku do více než patnácti pražských městských částí a také kandidátku do Senátu za senátní obvod Praha 6 Danu Balcarovou.
 
 >“Máme odvahu řídit Prahu správně. Díky důvěře Pražanů a stabilitě v koalici jsme mohli naše město 4 roky vést a měnit jej k lepšímu a také ho provést dvěma bezprecedentními krizemi. Praha za naší vlády prochází rekordním rozvojem. Zahájili jsme stavbu metra D, první nové linky po 40 letech. Loni se povolila stavba 9.700 nových bytů, což je rekord od roku 1989. Nebývalým tempem se prodlužují tramvajové trati. Otevřeli jsme rekordní množství nových P+R parkovišť. Za našich předchůdců mosty chátraly a padaly, my máme odvahu jít do velkých rekonstrukcí, bez kterých by spadly další. A nadto stavíme i nová přemostění řeky. Plán na výsadbu milionu nových stromů plníme přesně jak jsme slíbili,“ říká Zdeněk Hřib, primátor hl. m. Prahy za Piráty.
+
+![Zdeněk Hřib](/posts/zahajeni-vitkov-2022-2.jpg)
 
 Piráti chtějí dále pokračovat v naplňování klimatického plánu, postavit bioplynovou stanici, využít zbytkové teplo z čistírny odpadních vod a dále rozšiřovat solární společenství. Praha  si zaslouží být maximálně energeticky soběstačná. Minulá vedení města nevěnovala dostatečnou pozornost velké části Pražanů, kteří bydlí na sídlištích. Ti si zaslouží od vedení metropole náležitou péči. Stejně tak jako rodiny s dětmi, které potřebují důstojné a dostupné bydlení. Vizí Pirátů je 15 minutové město, ve kterém se žije dobře všem lidem a vše je v dostupné vzdálenosti. Každý si ale může vybrat, jak se po městě bude pohybovat – ať už pěšky, na kole, MHD nebo autem.
 
