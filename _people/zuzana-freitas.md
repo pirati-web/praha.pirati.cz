@@ -1,6 +1,6 @@
 ---
 uid: zuzana.freitas
-name:     Zuzana Freitas  	# běžně používáné jméno
+name: Zuzana Freitas Lopesová
 titles:
   before: Mgr.
   after:
