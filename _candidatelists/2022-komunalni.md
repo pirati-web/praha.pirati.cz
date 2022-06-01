@@ -117,8 +117,8 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 19.
   - uid: ondrej.vojta
     age: 22
-    profession: TBD
-    city: Praha 15
+    profession: marketingový specialista a dobrovolný hasič
+    city: Praha – Petrovice
     partyUid: pirati    
 # 20.
   - uid: jana.kabelova
