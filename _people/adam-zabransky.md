@@ -7,15 +7,13 @@ titles:
 name: Adam Zábranský  
 category: 
    - mhmp-rhmp
-img: people/adam-zabransky.jpg   # 165 x 220
+img: people/adam-zabransky.jpg
 heroImg: Prague_panorama.jpeg
 description: radní pro bydlení a transparentnost
 profession: radní hl. města Prahy pro bydlení a transparentnost 
 partyUid: pirati
 funkce: 
   - radní hl. města Prahy pro bydlení a transparentnost  
-profilebadge: people/badge/03-zabransky.jpg
-direct-contact: true
 asistenti:
   - name: Alice Houšková
     position: sekretářka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->
