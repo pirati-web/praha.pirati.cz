@@ -145,7 +145,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
     city: Praha 9
     partyUid: pirati
 # 24.
-  - name: Bc. Michal Macek
+  - uid: michal.macek
     age: 31
     profession: tajemník poslaneckého klubu Pirátů
     city: Praha 12
@@ -273,7 +273,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
 # 45.
   - name: Mgr. Jan Mejsnar
     age: 37
-    profession: TBD
+    profession: meteorolog a zastupitel MČ Praha 11
     city: Praha 11
     partyUid: pirati       
 # 46.
@@ -352,7 +352,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
   - uid: ivan.mikolas
     age: 57
     profession: technik a ekonom
-    city: Praha 10tbd
+    city: Praha 10
     partyUid: pirati    
 # 59.
   - name: Ing. Karel Malý
