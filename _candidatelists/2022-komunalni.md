@@ -220,7 +220,7 @@ tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete 
   - uid: michaela.berankova
     age: 31
     profession: asistentka Výboru pro životní prostředí ZHMP
-    city: Praha 13
+    city: Praha 5
     partyUid: pirati       
 # 37.
   - name: Bc. Karel Nejedlík
