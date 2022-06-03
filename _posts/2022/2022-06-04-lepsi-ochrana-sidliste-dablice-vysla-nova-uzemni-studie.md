@@ -11,7 +11,7 @@ tags: [Praha 8, IPR, Územní rozvoj]
 
 Dokument určuje požadavky pro případné záměry v území, a to nejen ty stavební, ale také jakékoliv zásahy ve veřejném prostoru. Studie byla zveřejněna ve středu 1. června a až do 13. července je připravena k připomínkování. Od pondělí 20. do pátku 24. června bude také možné pokládat dotazy a diskutovat v prezentačním kontejneru, který bude umístěn u stanice metra Ládví, 22. června se navíc bude konat komentovaná další vycházka po sídlišti. Po ukončení podávání připomínek bude následovat jejich vyhodnocení, na jehož základě bude návrh upraven. Výsledná podoba územní studie pak projde finálním schválením. 
 
-Sídliště v Praze má ochránit také nový metropolitní plán, který je ve fázi veřejného projednání. V tom stávajícím je totiž téměř celé sídliště zastavitelné, což znamená nulovou ochranu sídlištní zeleně a volného prostoru mezi domy. Principy ochrany sídlišť jsou zakotveny již v aktuální studii Ďáblic. 
+Sídliště Ďáblice má ochránit také nový metropolitní plán, který je ve fázi veřejného projednání. V tom stávajícím je totiž téměř celé sídliště zastavitelné, což znamená nulovou ochranu sídlištní zeleně a volného prostoru mezi domy. Principy ochrany sídlišť jsou zakotveny již v aktuální studii Ďáblic. 
 
 >"Ze 145 hektarů tohoto unikátního sídliště je parkem ve volné zástavbě 55 hektarů plus nově stanovené nezastavitelné plochy čítají dalších 16 hektarů. Chráněno je také 23 hektarů veřejné vybavenosti. Studie uvažuje s možnou výstavbou především v okolí stanice metra,“ dodává náměstek primátora pro územní rozvoj Petr Hlaváček (STAN).
 
