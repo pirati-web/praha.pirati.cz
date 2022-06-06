@@ -2,7 +2,7 @@
 title: "Praha postupně mění koncepci zahraničních vztahů. Před evropským předsednictvím spouští nový informační web"
 author: MHMP
 image: 	posts/hrib-naplavka2.jpg
-tags:   [Zahraničí]
+tags:   [Předsednictví ČR v Radě EU, EU, Zahraničí]
 ---
 
 **Hlavní město se intenzivně připravuje na nadcházející předsednictví České republiky v Radě Evropské unie, kdy se na jeho území od 1. července 2022 do konce roku uskuteční celá řada klíčových akcí. Nejen o nich bude informovat nový web international.praha.eu, který bude také do budoucna místním i cizincům představovat Prahu z pohledu zahraničních vztahů.**
