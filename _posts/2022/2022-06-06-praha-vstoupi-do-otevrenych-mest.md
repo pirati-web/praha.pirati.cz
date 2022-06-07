@@ -1,5 +1,5 @@
 ---
-title: "Praha vstoupí do spolku Otevřená města, který rozvíjí IT samospráv a snižuje náklady
+title: "Praha vstoupí do spolku Otevřená města, který rozvíjí IT samospráv a snižuje náklady"
 author: MHMP
 image: 	posts/hrib-smich.jpg
 tags:   [IT, Otevřená města, Cityvizor, Digitalizace]
