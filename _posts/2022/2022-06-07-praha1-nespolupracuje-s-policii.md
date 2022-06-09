@@ -1,5 +1,5 @@
 ---
-title: "Bodeček: Praha 1 nespolupracuje s policií, která rozplétá podvody správkyně školy v přírodě v Janově nad Nisou. Škoda městské části jde do milionů"
+title: "Bodeček: Správkyně ŠVP v Janově nad Nisou způsobila škody za miliony, radnice nechce věc s policií řešit"
 author: Piráti Praha 1
 image: 	posts/praha1-bodecek.jpg
 tags:   [Kultura, Výstaviště]
