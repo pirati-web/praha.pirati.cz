@@ -19,10 +19,13 @@ title: Odměny poradců primátora
 <p>Odměňování poradců primátora hl. m. Prahy Magistrát hl. m. Prahy pod vedením Pirátů pokračuje ve své transparentnosti vůči veřejnosti a posilování transparentnosti a zveřejňuje platy poradců primátora Zdeňka Hřiba. Odměňování těchto zaměstnanců se určuje podle tabulek, které jsou vydávány nařízením vlády (nařízení vlády č. 341/2017 Sb., o platových poměrech zaměstnanců ve veřejných službách a správě, ve znění pozdějších předpisů, a nařízení vlády č. 304/2014 Sb., o platových poměrech státních zaměstnanců, ve znění pozdějších předpisů). Platové stupně se i v tomto případě řídí legislativou podle délky praxe, a platové třídy se řídí podle toho, jak zodpovědnou, významnou a složitou práci pracovník vykonává, zohledňuje se zde i vzdělání. Aktuálně je na Oddělení poradců zaměstnáno na hlavní pracovní poměr 7 osob, v rámci DPČ 2 osoby.</p>
 <p><strong>Poradci zaměstnaní na hlavní pracovní poměr (7):</strong></p>
 <p>Poradci zaměstnaní na hlavní pracovní poměr pobírají tabulkový plat podle výše uvedeného nařízení vlády v rozmezí 38 až 43 tisíc Kč hrubého v závislosti na výši platového stupně (tedy délce započitatelné praxe a vzdělání). Nad rámec těchto fixních odměn mohou dosáhnout poradci na mimořádné odměny. Ty jsou nenárokové a jejich průměrná měsíční výše je 17 až 22 tisíc Kč hrubého, respektive až 26 tisíc Kč, v závislosti na vykonané agendě. Vedoucí poradců dostává k tomu ještě 4 520 Kč hrubého příplatku za vedení.</p>
-<p><strong>Poradci zaměstnaní na DPČ (2):</strong></p>
+
+<p><strong>Poradci zaměstnaní na DPČ:</strong></p>
 <p>Poradci zaměstnaní na DPČ jsou placeni podle odpracovaných hodin v daném měsíci. </p>
+
 <p><strong>Externí dodavatelé kanceláře primátora:</strong></p>
 <p>Průběžné plnění uzavřených smluv ukazuje tabulka uvedená ve spodní části stránky. </p>
+
 <p><strong>Všechny uvedené mzdy jsou hrubé</strong>. Všechny údaje jsou platné k srpnu 2020</p>
 
 <section class="o-section">
@@ -50,7 +53,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Hoskovec Jiří, Ing.</td>
+                <td><a href="https://lide.pirati.cz/personProfile/981/">Ing. Jiří Hoskovec</a> </td>
             
                 <td>39000–47000</td>
             
@@ -62,9 +65,28 @@ title: Odměny poradců primátora
             
             </tr>
         
+        
             <tr>
             
-                <td>Šafra Marek, Mgr</td>
+                <td><a href="/lide/michal-geisler.html">Mgr. Michal Geisler, Ph.D.</a></td>
+            
+                <td>39000–45000</td>
+            
+                <td>5000</td>
+            
+                <td>20000–33000</td>
+            
+                <td>64000–85000</td>
+            
+            </tr>
+        
+            <tr>
+            
+            </tr>
+
+            <tr>
+            
+                <td>  <a href="/lide/marek-safra.html">Mgr. Marek Šafra</a></td>
             
                 <td>39000–45000</td>
             
@@ -78,7 +100,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Kameník Martin, Mgr.</td>
+                <td><a href="/lide/martin-kamenik.html">Mgr. Martin Kameník</a></td>
             
                 <td>39000–45000</td>
             
@@ -92,7 +114,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Kubičková Veronika</td>
+                <td><a href="/lide/veronika-kubickova.html">Veronika Kubičková</a> </td>
             
                 <td>39000–45000</td>
             
@@ -106,7 +128,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Vacková Martina, Bc.</td>
+                <td><a href="/lide/martina-vackova.html">Bc. Martina Vacková</a></td>
             
                 <td>39000–45000</td>
             
@@ -120,7 +142,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Galová Klára, Mgr.</td>
+                <td><a href="/lide/klara-galova.html">Mgr. Klára Galová</a> </td>
             
                 <td>39000–45000</td>
             
@@ -129,24 +151,6 @@ title: Odměny poradců primátora
                 <td>16000–24000</td>
             
                 <td>55000–69000</td>
-            
-            </tr>
-        
-            <tr>
-            
-                <td>Geisler Michal, PhD.</td>
-            
-                <td>39000–45000</td>
-            
-                <td>0</td>
-            
-                <td>16000–24000</td>
-            
-                <td>55000–69000</td>
-            
-            </tr>
-        
-            <tr>
             
             </tr>
         
@@ -155,12 +159,8 @@ title: Odměny poradců primátora
 
 </section>
 
-
-<p><strong>Profily uvedených osob:</strong> <a href="https://lide.pirati.cz/personProfile/981/">Jiří Hoskovec</a> 
-  <a href="/lide/marek-safra.html">Marek Šafra</a> <a href="/lide/martin-kamenik.html">Martin Kameník</a> 
-  <a href="/lide/veronika-kubickova.html">Veronika Kubičková</a> <a href="/lide/martina-vackova.html">Martina Vacková</a> 
-  <a href="/lide/klara-galova.html">Klára Galová</a> <a href="/lide/michal-geisler.html">Michal Geisler</a></p>
-
+<p></p>
+ 
 <section class="o-section">
     
     <div class="o-secion-header o-section-header--bordered">
@@ -185,8 +185,8 @@ title: Odměny poradců primátora
         <tbody>
         
             <tr>
-            
-                <td>Tomáš Vovsík</td>
+           
+                <td><a href="/lide/tomas-vovsik.html">Mgr. Tomáš Vovsík</a></td>
             
                 <td>0</td>
             
@@ -197,16 +197,12 @@ title: Odměny poradců primátora
                 <td>29000–34000</td>
             
             </tr>
-        
-            <tr>
-        
-        </tbody>
+       </tbody>
     </table>
 
 </section>
 
-
-<p><strong>Profily uvedených osob:</strong> <a href="/lide/tomas-vovsik.html">Tomáš Vovsík</a></p>
+<p></p>
 
 <section class="o-section">
     
@@ -229,7 +225,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Jaroslav Vlk</td>
+                <td><a href="/lide/jaroslav-vlk.html">Jaroslav Vlk</a> </td>
             
                 <td>0</td>
             
@@ -239,7 +235,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Jana Kabelová</td>
+                <td><a href="https://lide.pirati.cz/osoba/1005/">Jana Kabelová</a> </td>
             
                 <td>0</td>
             
@@ -249,7 +245,7 @@ title: Odměny poradců primátora
         
             <tr>
             
-                <td>Matěj Kubíček</td>
+                <td> <a href="https://lide.pirati.cz/osoba/1452/">Matěj Kubíček</a></td>
             
                 <td>7700</td>
             
@@ -300,12 +296,6 @@ title: Odměny poradců primátora
         </tbody>
     </table>
 
-
-
-
-<p><strong>Profily uvedených osob:</strong> <a href="/lide/jaroslav-vlk.html">Jaroslav Vlk</a> 
- <a href="https://lide.pirati.cz/osoba/1005/">Jana Kabelová</a> 
-  <a href="https://lide.pirati.cz/osoba/1452/">Matěj Kubíček</a>. </p>
 <p><strong>Zmínění advokáti nebo právní kanceláře:</strong> </p>
 <ul>
 <li>Mgr. Martin Švehlík, advokát</li>
@@ -331,7 +321,3 @@ title: Odměny poradců primátora
 
 </section>
 
-          
-        </div></div>
-    </div>
-    </div>

@@ -9,6 +9,7 @@ category:
 contactType: 
 img: people/veronika-kubickova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
+partyUid: bezpp
 description: poradce primátora    	# kratký popis, max 160 znaků
 mail:
 - veronika.kubickova@praha.eu
@@ -18,7 +19,8 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-ordpraha: 
+funkce:
+  - poradkyně primátora <a href="https://praha.pirati.cz/lide/zdenek-hrib.html">Zdeňka Hřiba</a>
 ---
 
 **Veronika Kubičková** se narodila v roce 1991 v Písku, kde vystudovala dvojjazyčné francouzské gymnázium – zakončené certifikátem C1. Na Západočeské univerzitě v Plzni pak studovala obor Politologie a mezinárodní vztahy na katedře filozofické (přerušeno ze zdravotních důvodů).

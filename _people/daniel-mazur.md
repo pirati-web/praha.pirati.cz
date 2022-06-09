@@ -3,13 +3,11 @@ uid: daniel.mazur
 name:     Daniel Mazur  	# běžně používáné jméno
 titles:
   before: RNDr. 
-  after:  PhD.
+  after:  Ph.D.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 - vybor
 - pks
-- can
-img: people/daniel-mazur.jpg    # 165 x 220
+img: people/daniel-mazur-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profession: projektový manažer v oblasti vědy, výzkumu, vzdělávání a inovací
 description: předseda KS Praha
@@ -31,7 +29,6 @@ profiles:
   twitter: 		https://twitter.com/DanielMazurP5
   flickr:
 ordpks: 1
-ordcan: 5
 calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
 ---
 

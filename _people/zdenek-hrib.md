@@ -1,16 +1,13 @@
 ---
 uid: zdenek.hrib
-name:    Zdeněk Hřib
+name: Zdeněk Hřib
 titles:
   before: MUDr. 
   after:
 category:                 
-- mhmp-radni
-- praha
-- can
-img: people/zdenek-hrib.jpg  # 165 x 220
+  - mhmp-rhmp
+img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
-profilebadge: people/badge/13-hrib.jpg
 partyUid: pirati
 profession: primátor hlavního města Prahy
 description: primátor hlavního města Prahy
@@ -19,42 +16,42 @@ TeamDescription:
 funkce: 
   - primátor hlavního města Prahy 
 asistenti:
-  - name: Ing. Jiří Hoskovec
+  - name: <a href="/lide/jiri-hoskovec.html">Ing. Jiří Hoskovec</a></p>
     uid: jiri.hoskovec
     position: ředitel odboru Kancelář primátora
     mail: jiri.hoskovec@praha.eu
     tel: 
-  - name: Mgr. Michal Geisler, Ph.D.
+  - name: <a href="/lide/michal-geisler.html">Mgr. Michal Geisler, Ph.D.</a></p>
     uid: michal.geisler
     position: vedoucí oddělení poradců primátora
     mail: michal.geisler@praha.eu
     tel:     
-  - name: Bc. Martina Vacková
+  - name: <a href="/lide/martina-vackova.html">Bc. Martina Vacková</a></p>
     uid: martina.vackova
     position: poradkyně primátora
     mail: martina.vackova@praha.eu
     tel: 
-  - name: Mgr. Martin Kameník
+  - name:  <a href="/lide/martin-kamenik.html">Mgr. Martin Kameník</a></p>
     uid: martin.kamenik
     position: poradce primátora
     mail: martin.kamenik@praha.eu
     tel: 
-  - name: Mgr. Marek Šafra
+  - name: <a href="/lide/marek-safra.html">Mgr. Marek Šafra</a></p>
     uid: marek.safra
     position: poradce primátora
     mail: marek.safra@praha.eu
     tel: 
-  - name: Mgr. Klára Galová
+  - name: <a href="/lide/klara-galova.html">Mgr. Klára Galová</a></p>
     uid: klara.galova
     position: poradkyně primátora
     mail: klara.galova@praha.eu
     tel:     
-  - name: Veronika Kubičková
+  - name:  <a href="/lide/veronika-kubickova.html">Veronika Kubičková</a></p>
     uid: veronika.kubickova
     position: poradkyně primátora
     mail: veronika.kubickova@praha.eu
     tel: 
-  - name: Mgr. Tomáš Vovsík
+  - name:  <a href="/lide/tomas-vovsik.html">Mgr. Tomáš Vovsík</a></p>
     uid: tomas.vovsik
     position: poradce primátora
     mail: tomas.vovsik@praha.eu
@@ -64,15 +61,15 @@ mail:
 mob: +420 602 560 028
 profiles:
   facebook:  https://www.facebook.com/zdenek.hrib.primator/
-  twitter: 	 https://twitter.com/ZdenekHrib
+  twitter:   https://twitter.com/ZdenekHrib
   instagram: https://www.instagram.com/zdenek.hrib
   linkedin:  https://www.linkedin.com/in/zdenekhrib/
   youtube:   https://www.youtube.com/channel/UCZVRrw9rZYFSgsPVwgga0JQ
   flickr:    https://www.flickr.com/search/?text=zden%C4%9Bk%20H%C5%99ib
   wikipedia: https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib
   blog:      https://blog.aktualne.cz/blogy/zdenek-hrib.php
-ordpraha: 1
-ordcan: 1
+ordrhmp: 1
+
 ---
 **Zdeněk Hřib** (\* 1981) se narorodil se ve Slavičíně a vyrůstal ve Zlíně. V letech 1999 až 2006 vystudoval obor všeobecné lékařství na 3. lékařské fakultě Univerzity Karlovy v Praze (získal titul MUDr., specializace nemoci z ozáření). Během studií absolvoval v roce 2005 stáž na Tchaj-wanu. V Praze žije od roku 1999. Je ženatý a má 3 děti.
 

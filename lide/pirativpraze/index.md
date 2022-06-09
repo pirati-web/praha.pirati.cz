@@ -7,13 +7,13 @@ groups:
     category: pks
     sort: ordpks
   - name: Členové rady hlavního města Prahy
-    category: mhmp-radni
-    sort: ordpraha
+    category: mhmp-rhmp
+    sort: ordrhmp
   - name: Členové vlády České republiky
     category: vlada 
     sort: ordvlada
   - name: Poslanci a poslankyně
-    category: pos 
+    category: poslanci 
     sort: ordpos
   - name: Senátoři a senátorky
     category: senat

@@ -91,7 +91,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha6.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha6.png" alt="MS Praha 6" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha6.pirati.cz" target="_blank">MS Praha 6</a></h1> 
-<p class="card-body-text">Ondřej Chrást<br /><a href="mailto:ondrej.chrast@pirati.cz">ondrej.chrast@pirati.cz</a></p>
+<p class="card-body-text">Miloš Vlach<br /><a href="mailto:milos.vlach@pirati.cz">milos.vlach@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/piratipraha6" class="social-icon "><i class="ico--facebook"></i></a>

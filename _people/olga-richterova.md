@@ -1,18 +1,16 @@
 ---
 uid: olga.richterova
-name:     Olga Richterová  	# běžně používáné jméno
+name: Olga Richterová 
 titles:
   before: PhDr. 
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- mc
-- pos
-img: people/olga-richterova.jpg   # 165 x 220
+category:                 
+  - poslanci
+img: people/olga-richterova.jpg 
 heroImg: Prague_panorama.jpeg
-description: místopředsedkyně Poslanecké sněmovny PČR            	# kratký popis, max 160 znaků
+description: místopředsedkyně Poslanecké sněmovny PČR 
 funkce:
-  - místopředsedkyně Poslanecké sněmovny PČR
+   - místopředsedkyně Poslanecké sněmovny PČR
    - místopředsedkyně <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1547">Organizačního výboru PSP ČR</a>
    - členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1630">Podvýboru pro sociálně zdravotní pomezí PSP ČR</a>
    - členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1641">Podvýboru pro média a svobodu slova</a>

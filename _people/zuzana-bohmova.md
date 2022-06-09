@@ -5,7 +5,7 @@ titles:
   before: Mgr.
 category:
   - vybor
-img: people/zuzana-bohmova.jpg
+img: people/zuzana-bohmova-2022.jpg
 heroImg: Prague_panorama.jpeg
 profession: učitelka
 partyUid: pirati

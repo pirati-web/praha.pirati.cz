@@ -1,20 +1,27 @@
 ---
 uid: zuzana.ujhelyiova
-name:     Zuzana Ujhelyiová  	# běžně používáné jméno
-fullname: Mgr. Zuzana Ujhelyiová 	# jméno s tituly etc.
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-img: people/zuzana-ujhelyiova.jpg   # 165 x 220
+name: Zuzana Ujhelyiová
+titles:
+  before: Mgr. 
+
+category:
+img: people/zuzana-ujhelyiova.jpg
 heroImg: Prague_panorama.jpeg
-description:      	# kratký popis, max 160 znaků
+description: zastupitelka MČ Praha 11
+partyUid: pirati
 mail:
-- zuzana.ujhelyiova@pirati.cz
+  - zuzana.ujhelyiova@pirati.cz
 mob:			 
-profiles:
-  github:       
-  facebook:  
+profiles:   
+  facebook: https://www.facebook.com/ujhelyiovazuzana
   twitter: 		  
-  flickr:		  
+  flickr:
+funkce:
+  - zastupitelka MČ Praha 11
+  - místopředsedkyně MS Praha 11 
+  - členka Komise pro školskou infrastrukturu RHMP		  
 ---
 
-**Zuzana Ujhelyiová** (16. března 1983) je radní městské části Praha 11 a členka Pirátů. Vystudovala SPŠ zeměměřickou a katolickou teologii na Katolické teologické fakultě Univerzity Karlovy. Před rodičovskou dovolenou se profesně věnovala práci v oblasti HR a financí v českých i mezinárodních firmách. O politiku se aktivně zajímá již od mládí, byla členem Mladých sociálních demokratů a následně České strany sociálně demokratické.
+**Zuzana Ujhelyiová (*1983) pochází z Prahy, kde vystudovala SPŠ zeměměřickou a následně katolickou teologii na Katolické teologické fakultě Univerzity Karlovy. Nyní dokončuje studium předškolní a mimoškolní pedagogiky.** Profesně se věnovala práci v oblasti personalistiky a financí v českých i mezinárodních firmách a ve startupech. Nyní pracuje jako projektová manažerka na Úřadu vlády v kabinetu místopředsedy vlády pro digitalizaci.
+
+Za Piráty kandidovala v roce 2018 do zastupitelstva městské části Praha 11, byla zvolena zastupitelkou a následně se stala radní s gescí školství. Od roku 2021 je členkou komise pro výchovu, vzdělávání a národnostní menšiny MČ Praha 11, členka komise pro školskou infrastrukturu při MHMP. Podílí se na programových cílech a prioritách v oblasti školství za Piráty v rámci resortního týmu školství a krajského expertního týmu školství.

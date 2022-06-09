@@ -1,15 +1,15 @@
 ---
 uid: jiri.bruzek
-name:    Jiří Brůžek
+name: Jiří Brůžek
 titles:
   before: 
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- can
-img: people/2022/jiri-bruzek.jpg   # 165 x 220
+category: 
+img: people/jiri-bruzek-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description:   Kandidát č. 9. do Zastupitelstva hl. m. Prahy   	# kratký popis, max 160 znaků
+partyUid: pirati
+profession: radní MČ Praha 12 a konzultant
+description: radní MČ Praha 12
 mail:
 - jiri.bruzek@pirati.cz
 mob:			 
@@ -18,7 +18,8 @@ profiles:
   facebook:     
   twitter: 		  
   flickr:		  
-ordcan: 9
+funkce:
+  - radní MČ Praha 12
 ---
 
 **Jiří Brůžek** (* 1977, Klatovy) je kandidát č. 9 do Zastupitelstva hl. m. Prahy.

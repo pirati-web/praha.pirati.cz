@@ -5,13 +5,13 @@ titles:
   before:  
   after:
 category:                 	# kategorie: praha
-- praha
-img:   people/ondrej-vojta.jpg
+img: people/ondra-vojta-2022.jpg
 heroImg: Prague_panorama.jpeg
-description:      	# kratký popis, max 160 znaků
+description:      
+partyUid: pirati
 mail:
 - ondrej.vojta@pirati.cz
-mob:			  +420 736 726 061			 
+mob: +420 736 726 061			 
 profiles:
   github:       
   facebook:  https://www.facebook.com/OndrejVojta.Pirati/

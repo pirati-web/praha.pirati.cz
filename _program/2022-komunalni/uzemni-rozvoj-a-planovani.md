@@ -6,9 +6,8 @@ uid: uzemni-rozvoj-a-planovani
 order: 1
 garant: viktor.mahrik
 redmine: 23492
-img: program/metro-nejen-to.jpg
+img: program/program2022-nahledy/uzemni-rozvoj.png
 intro: >
-  Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
 
 ---
 

@@ -10,7 +10,7 @@ Praha, 14. února 2022 – Piráti od soboty znají 13 čelních míst kandidát
 
 > „Podařilo se nám navolit skvělý tým, ve kterém máme osobnosti s širokým rozsahem zájmů a odborných zkušeností z magistrátu, městských částí i mimo politiku. Velmi mě potěšilo také rovné zastoupení žen a mužů na kandidátce vzniklé demokratickým hlasováním všech pražských Pirátů bez jakýchkoliv kvót nařízených shora. Společně teď budeme pracovat na vizích pro Prahu budoucnosti a získání co nejlepšího volebního výsledku,“ vyzdvihl navolené čelo kandidátky primátor Zdeněk Hřib.
 
-Na dalších místech se umístila specialistka na e-government Bára Soukupová, zastupitelka Prahy 10 a asistentka poslankyně Olgy Richterové Zuzana Freitas, radní Suchdola Gabriela Lněničková, předseda výboru pro IT a Smart City ZHMP Jaromír Beránek a předseda kontrolního výboru z Prahy 1 David Bodeček.
+Na dalších místech se umístila specialistka na e-government Bára Soukupová, zastupitelka Prahy 10 a asistentka poslankyně Olgy Richterové Zuzana Freitas Lopesová, radní Suchdola Gabriela Lněničková, předseda výboru pro IT a Smart City ZHMP Jaromír Beránek a předseda kontrolního výboru z Prahy 1 David Bodeček.
 
 > „Magistrát musí jít příkladem radnicím městských částí ve své otevřenosti a férovém přístupu k občanům. Chci zlepšit způsob komunikace s jednotlivými městskými částmi a nastavit vzájemnou efektivnější spolupráci na místních projektech městských částí v oblastech týkajících se občanské vybavenosti, školství, bydlení, veřejného prostoru, dětských hřišť a dopravy,” sdělila Jana Komrsková.
 
@@ -31,7 +31,7 @@ Prvních 13. kandidátů pirátské strany do komunálních voleb do MHMP
 7. Eva Tylová
 8. Bára Soukupová
 9. Jiří Brůžek
-10. Zuzana Freitas
+10. Zuzana Freitas Lopesová
 11. Gabriela Lněničková
 12. Jaromír Beránek
 13. David Bodeček

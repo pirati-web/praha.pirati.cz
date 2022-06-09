@@ -1,14 +1,13 @@
 ---
 uid: ondrej.chrast
-name: Ondřej Chrást  	# běžně používáné jméno
+name: Ondřej Chrást
 titles:
   before: Mgr. 
   after: 
 category:
- - praha
  - pks
  - vlada
-img: people/ondrej-chrast.jpg    # 165 x 220
+img: people/ondrej-chrast-2022.jpg
 heroImg: Prague_panorama.jpeg
 description: 1. místopředseda krajského sdružení
 profession: projektový manažer v kultuře a vzdělávání
@@ -21,7 +20,7 @@ funkce:
   - náměstek ministra kultury ČR
   - zastupitel MČ Praha 6
 mail:
-- ondrej.chrast@pirati.cz
+  - ondrej.chrast@pirati.cz
 mob: +420 606 914 916
 ordpks: 2
 ordvlada: 2

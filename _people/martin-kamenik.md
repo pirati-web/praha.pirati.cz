@@ -2,13 +2,14 @@
 uid: martin.kamenik
 name:    Martin Kameník
 titles:
-  before: 
+  before: Mgr.
   after:
 category:                
 - poradce_primatora
 contactType: 
 img: people/martin-kamenik.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
+partyUid: bezpp
 description: poradce primátora    	# kratký popis, max 160 znaků
 mail:
 - martin.kamenik@praha.eu
@@ -18,7 +19,8 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
-ordpraha: 
+funkce:
+  - poradce primátora <a href="https://praha.pirati.cz/lide/zdenek-hrib.html">Zdeňka Hřiba</a>
 ---
 
 **Martin Kameník** (* 1978, Jeseník) je poradce primátora hl. m. Prahy.

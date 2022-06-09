@@ -1,7 +1,7 @@
 ---
 title: Kandidáti do Zastupitelstva. hl. města Prahy
 uid: 2018-komunalni
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+# number: 12 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: zdenek.hrib
   age: 37
@@ -76,14 +76,14 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: projektový manažer
     city: Praha 11
     partyUid: pirati
+
+tail: # zbytek kandidatky
 # 13.
   - uid: ondrej.kallasch
     age: 27
     profession: aplikační specialista
     city: Praha 22
     partyUid: pirati
-    
-tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 14.
   - uid: ladislav.kos2
     age: 32

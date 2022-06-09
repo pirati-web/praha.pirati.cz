@@ -6,9 +6,8 @@ uid: sport-a-volny-cas
 order: 1
 garant: jana.komrskova
 redmine: 23492
-img: program/metro-nejen-to.jpg
+img: program/program2022-nahledy/sport2.png
 intro: >
-  Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
 
 ---
 

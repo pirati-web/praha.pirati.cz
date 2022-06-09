@@ -6,9 +6,8 @@ uid: socialni-politika
 order: 1
 garant: zuzana.freitas
 redmine: 23492
-img: program/metro-nejen-to.jpg
+img: program/program2022-nahledy/socialni-politika.png
 intro: >
-  Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
 
 ---
 

@@ -1,25 +1,23 @@
 ---
 uid:  jakub.michalek
-name: Jakub Michálek  	# běžně používáné jméno
+name: Jakub Michálek 
 titles:
   before: Mgr. et Mgr. 
   after:
-category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- rp
-- pos
-img: 		people/jakub-michalek.jpg    # 165 x 220
+category:                      
+  - poslanci
+img: people/jakub-michalek.jpg
 heroImg: Prague_panorama.jpeg
 description: předseda poslaneckého klubu Pirátů
 mail:
-- jakub.michalek@pirati.cz
+  - jakub.michalek@pirati.cz
 mob: +420 775 978 550
 partyUid: pirati
 funkce:
-- předseda poslaneckého klubu Pirátů
-- místopředseda <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1551">Ústavně-právního výboru PSP ČR</a>
-- člen <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1589">Finančního podvýbor</a>
-- člen <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1587">Podvýboru pro justici</a>
+  - předseda poslaneckého klubu Pirátů
+  - místopředseda <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1551">Ústavně-právního výboru PSP ČR</a>
+  - člen <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1589">Finančního podvýbor</a>
+  - člen <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1587">Podvýboru pro justici</a>
 profiles:
   github:    https://github.com/jmichalek
   facebook:  https://www.facebook.com/smidak
@@ -28,7 +26,7 @@ profiles:
   wikipedia: https://cs.wikipedia.org/wiki/Jakub_Mich%C3%A1lek
   flickr:    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jakub%20mich%C3%A1lek&view_all=1
 asistenti:
-  - name: Mikuláš Ferjenčík
+  - name: <a href="/lide/mikulas-ferjencik.html">Bc. Mikuláš Ferjenčík</a></p>
     uid: mikulas.ferjencik
     position: asistent
   - name: Tomáš Kopečný

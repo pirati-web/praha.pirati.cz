@@ -8,7 +8,9 @@ category:
   - vlada
 img: people/ondrej-profant.jpg
 heroImg: Prague_panorama.jpeg
+profession: náměstek ministra pro místní rozvoj ČR
 description: náměstek ministra pro místní rozvoj ČR
+partyUid: pirati
 TeamDescription:
   - vlada: náměstek ministra pro místní rozvoj ČR
 mail:

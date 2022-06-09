@@ -4,11 +4,10 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: verejna-sprava
 order: 1
-garant: zdenek.hrib
+garant: bara.soukupova
 redmine: 23492
-img: program/metro-nejen-to.jpg
+img: program/program2022-nahledy/verejna-sprava.png
 intro: >
-  Tady je třeba doplnit hrubou anotaci celého programového bodu. Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu.  Tady je třeba doplnit hrubou anotaci celého programového bodu. 
 
 ---
 
@@ -18,7 +17,7 @@ Budeme dále integrovat služby města, městských částí i městských spole
 ## Efektivní úřad
 V uplynulém volebním období jsme snížili počet pracovníků magistrátu o 7 %. Plánujeme digitalizovat a zautomatizovat další agendu úřadu. Město tak nejen ušetří náklady na zaměstnance, ale hladší bude i spolupráce mezi MHMP a městskými částmi. Sníží se i riziko chyb z přepisování údajů mezi softwarovými systémy. Budeme nadále podporovat využívání moderních a osvědčených metod vzdálené komunikace. Podpoříme další sjednocování informačních systémů, jejich centralizaci do městského datového centra a snižování závislosti na externích dodavatelích v základním provozu. Budeme podporovat využití open-source softwaru.
 
-##Městské akciové společnosti ve službách občanů
+## Městské akciové společnosti ve službách občanů
 V minulém období se podařilo zahájit proces sjednocení a zprůhlednění odměňování dozorčích rad a představenstev městských akciových společností. Teď prostřednictvím politiky odměňování zajistíme, že tyto společnosti budou postupovat v souladu s dlouhodobým veřejným zájmem Prahy. Průběžně aktualizujeme vlastnickou politiku. Město bude své společnosti řádně spravovat a řídit. Nastavíme jim jasný kurz přehledně definovanými strategickými zásadami a pokyny.Prosazujeme trvale udržitelné hospodaření. Dohlédneme, aby městské společnosti hospodařily ekologicky šetrně a maximálně omezovaly negativní vlivy svého působení.
 
 ## Odpovědné hospodaření

@@ -1,6 +1,6 @@
 ---
 uid: ladislav.kos2
-name:     Ladislav Kos  	# běžně používáné jméno
+name: Ladislav Kos  	# běžně používáné jméno
 titles:
   before: Ing. 
   after:

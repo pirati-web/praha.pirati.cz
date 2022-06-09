@@ -1,17 +1,13 @@
 ---
 uid: viktor.mahrik
-name:     Viktor Mahrik  	# běžně používáné jméno
+name: Viktor Mahrik
 titles:
   before: 
   after:
-category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- mhmp
-- carousel
-- can
-img: 		people/viktor-mahrik.jpg    # 165 x 220
+category:          
+  - mhmp
+img: people/viktor-mahrik-2022.jpg
 heroImg: Prague_panorama.jpeg
-profilebadge: people/badge/04-mahrik.jpg
 description: předseda Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP
 partyUid: pirati
 teamDescription:
@@ -38,11 +34,6 @@ profiles:
   facebook: https://www.facebook.com/viktor.mahrik
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=viktor%20mahrik&view_all=1
 ordmhmp: 1
-ordcan: 6
-carousel:
-  img: viktor-mahrik.jpg
-  text: |
-    <p>Předseda zastupitelského klubu Pirátů, člen předsednictva krajského sdružení Pirátů v Praze. </p>
 redmine: 5
 calendar: 2l6sfsk9eeb3qfkuhtfuu44od4%40group.calendar.google.com
 ---

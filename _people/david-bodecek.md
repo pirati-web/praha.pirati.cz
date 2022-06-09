@@ -5,11 +5,9 @@ titles:
   before: Mgr. 
   after: MBA
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- can
-img: people/2022/david-bodecek.jpg   # 165 x 220
+img: people/david-bodecek-2022.jpg
 heroImg: Prague_panorama.jpeg
-description: Kandidát č. 13. do voleb do Zastupitelstva hl. m. Prahy  	# kratký popis, max 160 znaků
+description: předseda kontrolního výboru MČ Praha 1
 mail:
 - david.bodecek@pirati.cz
 mob:
@@ -20,7 +18,6 @@ funkce:
 profiles:
   facebook:  https://www.facebook.com/dajdanos
   instagram: https://www.instagram.com/dajdanos
-ordcan: 13
 ---
 
 **David Bodeček** (* 1980) je kandidátem č. 13 do Zastupitelstva hl. m. Prahy a 1. místopředsedou Pirátů na Praze 1. Narodil se v roce 1980 na Moravě, absolvoval Pedagogickou fakultu Masarykovy univerzity v Brně, obor dějepis – občanská výchova pro základní školu, s navazující aprobací pro školu střední. Po pětileté pedagogické praxi se 12 let v komerční sféře zabýval metodikou a nastavováním procesů. Na dobrovolnické bázi spolupracoval s nadacemi, které se ve své aktivitě zaměřují na děti, které prodělaly onkologickou léčbu a také na děti z dětských domovů.
