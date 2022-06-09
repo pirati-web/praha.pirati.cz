@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
-img: people/eva-horakova3.jpg   # 165 x 220
+img: people/eva-horakova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/06-horakova.jpg
 partyUid: pirati
