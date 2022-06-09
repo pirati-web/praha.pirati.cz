@@ -1,14 +1,20 @@
 ---
 uid: eva.horakova
-name:     Eva Horáková  	# běžně používáné jméno
+name: Eva Horáková
 titles:
   before: Mgr. 
   after:
+<<<<<<< Updated upstream
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 <<<<<<< HEAD
 - mhmp
 - praha
 img: people/eva-horakova.jpg   # 165 x 220
+=======
+category:
+  - mhmp
+img: people/eva-horakova-2022.jpg
+>>>>>>> Stashed changes
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: předsedkyně Výboru pro sociální politiku ZHMP
@@ -33,7 +39,6 @@ profiles:
   instagram: https://instagram.com/eva_danis_horakova
   flickr:		  
 ordmhmp: 2
-redmine: 520
 calendar: ewa.horakowa@gmail.com
 ---
 

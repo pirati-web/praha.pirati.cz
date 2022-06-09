@@ -101,7 +101,7 @@ head:
     city: Praha 10
     partyUid: pirati
 
-tail: # zbytek kandidatky  # jediná povinnná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
+tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 17.
   - uid: tomas.murnak
     age: 42
