@@ -4,17 +4,12 @@ name: Eva Horáková
 titles:
   before: Mgr. 
   after:
-<<<<<<< Updated upstream
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-<<<<<<< HEAD
+category:
 - mhmp
-- praha
 img: people/eva-horakova.jpg   # 165 x 220
-=======
 category:
   - mhmp
 img: people/eva-horakova-2022.jpg
->>>>>>> Stashed changes
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: předsedkyně Výboru pro sociální politiku ZHMP
@@ -35,7 +30,7 @@ mob: +420 727 870 828
 profiles:
   github:       
   facebook:  https://www.facebook.com/eva.danis.horakova  
-  twitter: 	 https://twitter.com/scintie
+  twitter:   https://twitter.com/scintie
   instagram: https://instagram.com/eva_danis_horakova
   flickr:		  
 ordmhmp: 2
