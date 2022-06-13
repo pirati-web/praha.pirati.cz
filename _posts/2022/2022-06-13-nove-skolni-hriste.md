@@ -2,7 +2,7 @@
 title: "Studenti Střední průmyslové školy stavební Josefa Gočára si brzy budou moci zasportovat na novém školním hřišti"
 author: MHMP
 image: 	posts/vitsimral3.jpg
-tags:   [Školství]
+tags:   [Sport, Školství]
 ---
 
 Radou hl. m. Prahy byl dnes odsouhlasen záměr na realizaci veřejné zakázky rekonstrukce sportovního hřiště Střední průmyslové školy stavební Josefa Gočára v Praze 4 s předpokládanou hodnotou 12,5 milionu korun (bez DPH). 
