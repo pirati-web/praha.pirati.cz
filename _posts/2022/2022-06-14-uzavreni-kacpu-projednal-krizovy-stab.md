@@ -2,7 +2,7 @@
 title: "Krizový štáb hl. m. Prahy projednal uzavření Krajského asistenčního centra pomoci Ukrajině"
 author: MHMP
 image: 	posts/magistrat3.jpg
-tags:   [Ukrajina]
+tags:   [Válka na Ukrajině, Krizový štáb]
 ---
 
 Krizový štáb hl. m. Prahy se na dnešním jednání zabýval aktuální situací v Krajském asistenčním centru pomoci Ukrajině (KACPU) a také jeho uzavřením. K uzavření centra dojde od 16. června, a to kvůli přetížení hlavního města Prahy a chybějícímu systém přesunu uprchlíků do jiných a méně vytížených krajů. Uzavření centra doporučil krizový štáb na svém předchozím zasedání 1. června.
