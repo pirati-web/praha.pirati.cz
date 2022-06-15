@@ -1,6 +1,6 @@
 ---
 title: "Hřib: Pokud se prokáže, že je náměstek Hlubuček obviněn, budu požadovat jeho rezignaci"
-author: MHMP
+author: Piráti Praha
 image: 	posts/8hrib.jpg
 tags:   [STAN]
 ---
