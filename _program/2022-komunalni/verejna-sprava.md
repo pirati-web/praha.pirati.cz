@@ -1,5 +1,5 @@
 ---
-title: Veřejná správa
+title: Digitalizujeme, abyste na úřady nemuseli
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: verejna-sprava
@@ -8,6 +8,7 @@ garant: bara.soukupova
 redmine: 23492
 img: program/program2022-nahledy/verejna-sprava.png
 intro: >
+  V dnešní době jde tolik věcí zařídit přes internet. Proč bychom stejně nezjednodušili i vyřizování záležitostí s úřady? Už v minulém volebním období jsme díky tomu snížili počet úřeníků magistrátu o 7 %. A to není všechno! Digitalizovat a automatizovat plánujeme i další agendu úřadů.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Bydlení
+title: Postavíme víc bytů
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: bydleni
@@ -8,6 +8,7 @@ garant: adam.zabransky
 redmine: 23492
 img: program/program2022-nahledy/bydleni.png
 intro: >
+  Praha potřebuje dostupné bydlení. Proto jsme na magistrátu už začali připravovat projekty obecních bytů a do osmi let jich postavíme alespoň pět stovek. A město je bude pronajímat jako dostupné sociální bydlení. 
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Doprava a infrastruktura
+title: Doprava má městu pomáhat. Ne ho zatěžovat
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: doprava-a-insfrastruktura
@@ -8,6 +8,7 @@ garant: gabriela.lnenickova
 redmine: 23492
 img: program/program2022-nahledy/doprava.png
 intro: >
+  Doprava ve městě musí být rychlá a moderní. Proto je tak důležitý třeba promyšlený systém parkování. Posílíme a zrychlíme hromadnou dopravu a budeme zavádět nízkoemisní spoje, třeba elektrobusy. Chceme totiž, aby lidé MHD rádi a častěji využívali. A samozřejmě budeme stále krok za krokem zlepšovat podmínky pro chodce i cyklisty.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Školství
+title: Moderní společnost začíná v moderních školách
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: skolstvi
@@ -8,6 +8,7 @@ garant: daniel.mazur
 redmine: 23492
 img: program/program2022-nahledy/skolstvi.png
 intro: >
+  Sázíme na tvořivost a svobodné myšlení. Proto podpoříme školy, aby vytvářely přátelské a inspirující prostředí, kde můžou děti a studenti naplno rozvíjet nejen svůj potenciál, ale také se učit spolupracovat v týmu.
 
 ---
 

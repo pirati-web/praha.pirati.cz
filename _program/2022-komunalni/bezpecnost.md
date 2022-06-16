@@ -1,5 +1,5 @@
 ---
-title: Bezpečnost
+title: V centru nebo na sídlišti musí být bezpečně
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: bezpecnost
@@ -8,6 +8,7 @@ garant: david.bodecek
 redmine: 23492
 img: program/program2022-nahledy/bezpecnost.png
 intro: >
+  Na bezpečí v Praze se zaměříme hned z několika úhlů. Například zavedeme systém včasné intervence, který pomůže v místě bydliště každému, kdo se setká s kriminálním jednáním. Také se postaráme, aby neodcházeli ze služby záchranáři, hasiči a policisti. A posílit chceme i programy prevence kriminality. To všechno přispěje k tomu, že se budete v Praze cítit bezpečně. Ve dne v noci.
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Rekonstrukce Barrandovského mostu dopravu v Praze ovlivnila jen minimálně"
 author: MHMP
 image: 	posts/barrandovsky-most.jpg
-tags:   [Doprava]
+tags:   [Barrandovský most, Doprava]
 ---
 
 Dopravní data ukázala, že se po zahájení rekonstrukce Barrandovského mostu doprava v Praze změnila jen minimálně a byť byl někde zaznamenán nárůst dopravy, jedná se řádově o jednotky minut i v dopravních špičkách oproti obvyklému stavu. Ze sledovaných míst vykazuje největší nárusty jízdní doby komunikace Komořanská, kde je průměrné zdržení přibližně o 5 minut vyšší, než tomu bylo v dopravních špičkách před zahájením rekonstrukce, kdy zde vznikaly kolony spíše nárazově.

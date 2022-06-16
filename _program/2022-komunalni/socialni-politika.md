@@ -1,5 +1,5 @@
 ---
-title: Sociální politika
+title: Podpoříme všechny rodiny
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: socialni-politika
@@ -8,6 +8,7 @@ garant: zuzana.freitas
 redmine: 23492
 img: program/program2022-nahledy/socialni-politika.png
 intro: >
+  Budeme respektovat různorodost obyvatel města. Proto podpoříme všechny rodiny, ty vlastní i ty náhradní, bez ohledu na sexuální orientaci jejich členů nebo sociální status. A každému umožníme zapojit se do nejrůznějších sousedských aktivit, komunitních center nebo akcí pro děti. A pokud se někdo dostane do nelehké sociální situace, vždy bude mít kam se obrátit. Každý problém musí mít řešení.
 
 ---
 

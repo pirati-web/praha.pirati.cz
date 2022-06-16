@@ -1,5 +1,5 @@
 ---
-title: Sport a volný čas
+title: Sportoviště pro všechny. Od ping-pongu po stadiony
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: sport-a-volny-cas
@@ -8,6 +8,7 @@ garant: jana.komrskova
 redmine: 23492
 img: program/program2022-nahledy/sport2.png
 intro: >
+  Sport má být dostupný pro každého. Proto podpoříme vylepšování a rozšiřování sportovišť pro širokou veřejnost, pro děti, seniory i hendikepované. A myslíme třeba i na hřiště pro společenské sporty, jako je pétanque nebo ping-pong.
 
 ---
 
