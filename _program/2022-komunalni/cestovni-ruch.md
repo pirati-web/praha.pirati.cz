@@ -1,5 +1,5 @@
 ---
-title: Cestovní ruch
+title: Cestovní ruch bude výhodný pro turisty i místní
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: cestovni-ruch
@@ -8,6 +8,7 @@ garant: zdenek.hrib
 redmine: 23492
 img: program/program2022-nahledy/cestovni-ruch.png
 intro: >
+  Po covidových omezeních chceme turistiku v Praze znovu oživit. Pomůže to opět nastartovat ekonomický růst, ze kterého budeme těžit i my místní. Chceme ale podpořit turisticky přitažlivá místa i mimo historické centrum, tak aby se turistika rozprostřela i do dalších částí Prahy.
 
 ---
 

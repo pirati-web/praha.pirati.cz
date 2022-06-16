@@ -1,5 +1,5 @@
 ---
-title: Zdravotnictví
+title: Každý ví, že prevence je levnější než léčba
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: zdravotnictvi
@@ -8,6 +8,7 @@ garant: zdenek.hrib
 redmine: 23492
 img: program/program2022-nahledy/zdravotnictvi.png
 intro: >
+  Předcházet nemocem, to je nejúčinnější a také nejlevnější cesta, jak zefektivnit naše zdravotnictví. Ať už jde o prevenci rakoviny nebo třeba užívání návykových látek, o závislost na alkoholu a tabáku nebo například dětskou obezitu. A proto plánujeme rozvinout hned několik preventivních programů.
 
 ---
 

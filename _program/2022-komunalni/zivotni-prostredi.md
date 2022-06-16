@@ -1,5 +1,5 @@
 ---
-title: Životní prostředí
+title: Připravíme Prahu na klimatickou změnu
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: zivotni-prostredi

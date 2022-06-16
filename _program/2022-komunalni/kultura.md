@@ -1,5 +1,5 @@
 ---
-title: Kultura
+title: Od písničky po operu. Kultura má být pro všechny
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: kultura
@@ -8,6 +8,7 @@ garant: magdalena.valdmanova
 redmine: 23492
 img: program/program2022-nahledy/kultura.png
 intro: >
+  Budeme podporovat nejen klasické, ale i alternativní umění po celé Praze. Kultura má být totiž pestrá. A dostupná pro všechny, i pro ty znevýhodněné.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Územní rozvoj a plánování
+title: V moderním městě byste měli mít všechno po ruce
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: uzemni-rozvoj-a-planovani
@@ -8,6 +8,7 @@ garant: viktor.mahrik
 redmine: 23492
 img: program/program2022-nahledy/uzemni-rozvoj.png
 intro: >
+  Velké město neznamená, že musíte být všechno daleko. My se naopak postaráme, aby většina občanské vybavenosti byla co nejblíže vašeho bydliště. Ideálně v docházkové vzdálenosti. Pomůže to nejen problémům s dopravou a znečištěním, ale život ve městě tak bude pohodlnější. Protože Praha by měla být nejen krásná, ale i krásně promyšlená.
 
 ---
 
