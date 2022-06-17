@@ -1,6 +1,6 @@
 ---
 title: "Kauza Hlubuček je kauzou hnutí STAN. S Piráty není spjat žádný případ korupce"
-author: MHMP
+author: Piráti Praha
 image: 	posts/hrib-logoprahy.jpg
 tags:   [STAN]
 ---
