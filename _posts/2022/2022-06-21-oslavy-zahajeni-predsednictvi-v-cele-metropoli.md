@@ -13,7 +13,7 @@ V rámci začátku předsednictví ČR v Radě EU je v Praze plánováno několi
 
 Prostranství u Rudolfina nabídne od pátku 24. do neděle 26. června multižánrový happening Praha, srdce Evropy s besedami na téma EU, hudebními vystoupeními, divadelními představeními nebo zábavnými aktivitami jak pro dospělé, tak pro děti. Program v pátek, v sobotu a v neděli vždy ve 14:30, 17:30 a ve 22:00 hodin doplní unikátní vystoupení akrobatky zavěšené pod heliovým balonem.
 
-![Praha myslí dopředu]((https://a.pirati.cz/praha/img/posts/dopredu.jpg)
+![Praha myslí dopředu](https://a.pirati.cz/praha/img/posts/dopredu.jpg)
 
 >"Oslavy začátku předsednictví ČR v Radě EU doprovodí desítky akcí po celé metropoliPraha, srdce Evropy je multižánrový happening určený nejen Pražanům, ale i návštěvníkům naší metropole. Chceme Prahu ukázat jako město, které je živé, přátelské a plné překvapení. Při procházce centrem si tedy budete moci zahrát vědomostní hru, podívat se na dětské divadlo nebo třeba potkat obří loutku lva, která reprezentovala Českou republiku na světové výstavě EXPO v Dubaji. Průvody tanečníků s vlajkami vystřídají průvody svítících loutek a k nebi bude vzlétat balón s akrobatkou, ukážeme tak Prahu i z jiných úhlů, než ji známe," představuje Jakub Vedral ze společnosti ArtProm.
 
