@@ -5,7 +5,7 @@ image: 	posts/praha9-dolezal.jpg
 tags:   [Praha 9, STAN, TOP 09]
 ---
 
-**Piráti z Prahy 9 přivítali rozhodnutí Marka Doležala (TOP 09/STAN) rezignovat na funkci místostarosty a člena rady MČ Praha 9. Pokud by neodstoupil sám, byli Piráti připraveni navrhnout jeho odvolání během dnešního jednání zastupitelstva. Podle Pirátů je spojení Doležalova jména s kauzou Dozimetr neslučitelné s vedením městské části. Doležal byl v pondělí odvolán také z dozorčí rady pražského dopravního podniku. **
+**Piráti z Prahy 9 přivítali rozhodnutí Marka Doležala (TOP 09/STAN) rezignovat na funkci místostarosty a člena rady MČ Praha 9. Pokud by neodstoupil sám, byli Piráti připraveni navrhnout jeho odvolání během dnešního jednání zastupitelstva. Podle Pirátů je spojení Doležalova jména s kauzou Dozimetr neslučitelné s vedením městské části. Doležal byl v pondělí odvolán také z dozorčí rady pražského dopravního podniku.**
 
 >“Jméno pana Doležala se objevilo v policejních odposleších v souvislosti s kauzou Dozimetr bývalého pražského náměstka Hlubučka. Přestože Doležal nečelí zatím žádnému obvinění, kvitujeme jeho rozhodnutí v radě městské části Praha 9 skončit. Odpovídal za investiční politiku MČ a devítka si žádné takové spojení dovolit nemůže. Pokud by neodstoupil sám, byli jsme připraveni navrhnout jeho odvolání,” vysvětluje předseda zastupitelského klubu Pirátů na Praze 9 a lídr kandidátky pro podzimní volby Václav Vislous. 
 
