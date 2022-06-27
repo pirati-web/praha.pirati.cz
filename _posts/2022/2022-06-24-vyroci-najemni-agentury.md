@@ -2,7 +2,7 @@
 title: "Městská nájemní agentura slaví první narozeniny. Za rok přijala do správy téměř 40 bytů, v nichž zabydluje lidi v bytové nouzi"
 author: MHMP
 image: 	posts/domy-slunce.jpg
-tags:   [Bydlení]
+tags:   [Bydlení, Městská nájemní agentura]
 ---
 
 Přesně před rokem založilo hlavní město Praha Městskou nájemní agenturu (MNA) pro Pražany v bytové nouzi. Za tu dobu MNA zajistila ubytování pro 23 domácností, spravuje 36 bytů a ty volné právě zabydluje. Zájem vlastníků bytů předčil očekávání. MNA se stává systémovým prvkem v zajištění bydlení pro nízkopříjmové domácnosti v Praze. Do roku 2030 proto plánuje spravovat přes 500 bytů.
