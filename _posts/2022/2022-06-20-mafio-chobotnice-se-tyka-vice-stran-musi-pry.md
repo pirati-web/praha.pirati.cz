@@ -2,7 +2,7 @@
 title: "Mafio-chobotnice se týká více stran, zapletení lidé musí pryč!"
 authorId: zdenek.hrib
 image: 	posts/hrib-cnnprimanews.png
-tags:   [STAN, TOP 09, SPOLU, ODS]
+tags:   [STAN, TOP 09, SPOLU, ODS, kauza Dozimetr]
 ---
 
 **Jednoznačně všichni lidé, kteří jsou propojení s mafio-chobotnicí, musí pryč! A týká se to i dalších stran, nejen STAN.**

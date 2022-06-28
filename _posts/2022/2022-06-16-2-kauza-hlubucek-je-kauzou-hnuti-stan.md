@@ -2,7 +2,7 @@
 title: "Kauza Hlubuček je kauzou hnutí STAN. S Piráty není spjat žádný případ korupce"
 author: Piráti Praha
 image: 	posts/hrib-logoprahy.jpg
-tags:   [STAN]
+tags:   [STAN, kauza Dozimetr]
 ---
 
 **Zdeněk Hřib šel na magistrát s heslem: "Chci řídit město s čistým štítem." A to požaduje a bude i nadále požadovat i od svých kolegů. Transparentnost je pro Piráty naprosto zásadní a je vizitkou nejen jednotlivých politiků, ale i jejich stran a hnutí.**
