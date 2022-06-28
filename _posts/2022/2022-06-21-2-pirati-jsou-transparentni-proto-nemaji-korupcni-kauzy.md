@@ -2,7 +2,7 @@
 title: "Piráti jsou transparentní, proto nemají korupční kauzy!"
 authorId: zdenek.hrib
 image: 	posts/hrib-noviny.jpg
-tags:   [Piráti, Transparentnost, kauza Dozimetr]
+tags:   [Piráti, Transparentnost, Kauza Dozimetr]
 ---
 
 **To není náhoda a není to ani žádné kouzlo, díky kterému udělá pirátství z každého člověka křišťálově čistou bytost. Je to jednoduše výsledek toho, že zavádíme pravidla, která nedávají korupci šanci. Proto jsou Piráti vlastně jedinou stranou, která dlouhodobě stojí mimo jakékoliv mafiánské a korupční struktury a která si ve vedení Prahy drží čistý štít.**

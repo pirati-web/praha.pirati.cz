@@ -2,7 +2,7 @@
 title: "Piráti v tom nejedou. Budou žádat prosazení dalších konkrétních protikorupčních opatření na magistrátu i v městských společnostech"
 author: Piráti Praha
 image: 	posts/hrib-tk-koneckorupce.jpg
-tags:   [STAN, kauza Dozimetr, Piráti, Transparentnost]
+tags:   [STAN, Kauza Dozimetr, Piráti, Transparentnost]
 ---
 
 **Po celé volební období jsme na pražském magistrátu soustavně tlačili na zavádění systémových protikorupčním opatření a celé série nástrojů kontroly veřejné moci. Výsledkem toho je, že se nám podařilo prosadit množství účinných a prospěšných nástrojů. I díky těmto opatřením se na magistrátu hlavního města už nekrade. Práce, která stojí za zastupitelským klubem Pirátů na pražském magistrátu, by mohla být inspirací pro další kraje - často totiž s opatřeními jdeme mnohem dál, než nám ukládá zákon. My můžeme garantovat, že s prací nekončíme a právě v souvislosti s kauzou Dozimetr budeme požadovat zavedení dalších nástrojů pro prevenci korupce, a to například u městských firem, které jsou v odpovědnosti koaličních partnerů.**  

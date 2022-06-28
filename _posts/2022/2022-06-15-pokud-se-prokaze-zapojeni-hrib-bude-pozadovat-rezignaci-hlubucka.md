@@ -2,7 +2,7 @@
 title: "Hřib: Pokud se prokáže, že je náměstek Hlubuček obviněn, budu požadovat jeho rezignaci"
 author: Piráti Praha
 image: 	posts/8hrib.jpg
-tags:   [STAN, kauza Dozimetr]
+tags:   [STAN, Kauza Dozimetr]
 ---
 
 **V kanceláři náměstka za STAN Petra Hlubučka dnes probíhá policejní prohlídka. Magistrát hlavního města Prahy samozřejmě poskytuje součinnost. Vyšetřování vede NCOZ a týká se Dopravního podniku, který je v gesci hnutí Praha Sobě Jana Čižinského.**
