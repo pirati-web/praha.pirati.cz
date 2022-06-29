@@ -14,7 +14,7 @@ Piráti na místě informují turisty nejen o nevýhodném kurzu ve vybrané sm�
 
 > „Když jsme začali stát před směnárnou na adrese 28. října, od mnoha lidí jsme dostali tip na podobně nepoctivou směnárnu v ulici Karlova. Proto jsme ji taky obsadili a až později jsme zjistili, že obě směnárny mají jednoho majitele. Ten si nyní najal partičku několika mužů, kteří před oběma směnárnami stojí a snaží se nám bránit v informování turistů a sbírání podpisů pod petici,“ vysvětluje Pirátka Magdalena Valdmanová, kandidátka do zastupitelstva Prahy 2, která akci proti nepoctivým směnárnám koordinuje.
 
-![Hodnocení směnárny ze stany návštěvníků hlavního města](/assets/img/posts/smenarna-karlova.png "Hodnocení směnárny ze strany návštěvníků hlavního města")
+![Hodnocení směnárny ze stany návštěvníků hlavního města](https://a.pirati.cz/praha/img/posts/smenarna-karlova.png "Hodnocení směnárny ze strany návštěvníků hlavního města")
 
 Zástupci směnárny spolu s najatou ochrankou proti Pirátům používají různé metody, z nichž některé jsou za hranou přijatelného chování: například přivolávání policie 5x denně, vyhrožování, verbální obtěžování, vytlačování tělem či rozbíjení informačních cedulí. 
 

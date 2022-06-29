@@ -20,6 +20,6 @@ Pražská plynárenská mu ale odmítla informace poskytnout s odůvodněním, �
 
 ### Odkazy 
 
-* [Žádost o informace Pirátů](/assets/pdf/01main.pdf)
-* [Zamítnutí žádosti Pirátů ze strany Pražské plynárenské](/assets/pdf/01zamitnuti.pdf)
-* [Žaloba Pirátů na Pražskou plynárenskou](/assets/pdf/01zaloba.pdf)
+* [Žádost o informace Pirátů](https://a.pirati.cz/praha/pdf/01main.pdf)
+* [Zamítnutí žádosti Pirátů ze strany Pražské plynárenské](https://a.pirati.cz/praha/pdf/01zamitnuti.pdf)
+* [Žaloba Pirátů na Pražskou plynárenskou](https://a.pirati.cz/praha/pdf/01zaloba.pdf)

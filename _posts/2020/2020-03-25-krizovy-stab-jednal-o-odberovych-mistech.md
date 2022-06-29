@@ -18,4 +18,4 @@ Krizový štáb hl. m. Prahy opakovaně apeluje na předsedkyni Krizového štá
 
 ### Odkazy
 
-* [Výstup z jednání krizového štábu](/assets/pdf/ks-vystup3.pdf)
+* [Výstup z jednání krizového štábu](https://a.pirati.cz/praha/pdf/ks-vystup3.pdf)

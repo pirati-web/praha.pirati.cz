@@ -27,7 +27,7 @@ Pražská rada rozhodla rozdělit 1,3 miliardy korun jednotlivým městským č�
 
 O rozdělení nejspíše rozhodovaly dobré konexe a leštění klik. To totiž také vysvětluje, že v přepočtu na jednoho obyvatele jde nejvíce peněz do Lysolají (starosta je členem koaliční strany STAN), Ďáblic (starosta je zároveň pražský zastupitel za STAN) a Slivenec (starostka Slivence sedí v Radě hlavního města Prahy). Je-li váš starosta ze spřízněné městské části, peníze se posypou. Pokud „dělá problémy“, budete mít smůlu. Po cca 30 opakováních dotazu jsme se dozvěděli, že miliardy rozdělovali zástupci koaliční rady, tedy nejspíše Karel Březina (ČSSD), Petr Štěpánek (SZ) a Radmila Kleslová (ANO).  
 
-![1,3 miliardy přepočítaných podle počtu obyvatel městských částí. Nejvíc dostanou Lysolaje, Ďáblice a Slivenec.](/assets/img/posts/dotace-mc.png "Dotace, které koalice schválila přepočítané podle počtu obyvatel MČ.")
+![1,3 miliardy přepočítaných podle počtu obyvatel městských částí. Nejvíc dostanou Lysolaje, Ďáblice a Slivenec.](https://a.pirati.cz/praha/img/posts/dotace-mc.png "Dotace, které koalice schválila přepočítané podle počtu obyvatel MČ.")
 
 Narychlo sesypané projekty byly zastupitelům prezentovány jen názvy a některé z nich opravdu nebudily důvěru. Koalice např. schválila, že Praha 12 má dostat 50 milionů na projektovou dokumentaci základní školy. Chceme, aby se nové školy stavěly. Ale nechápeme, proč má být projektová dokumentace tak šíleně drahá. Má snad ta modřanská škola ve výsledku stát miliardu a půl? V Uhříněvsi dokázali za padesát milionů postavit celou školu.
 

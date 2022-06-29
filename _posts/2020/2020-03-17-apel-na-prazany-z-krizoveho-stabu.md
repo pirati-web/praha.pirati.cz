@@ -20,4 +20,4 @@ Pokud jde o situaci s osobními ochrannými prostředky, informoval štáb, že 
 
 ### Odkazy
 
-* [Nařízení primátora hl. m. Prahy](/assets/pdf/narizeni.pdf)
+* [Nařízení primátora hl. m. Prahy](https://a.pirati.cz/praha/pdf/narizeni.pdf)

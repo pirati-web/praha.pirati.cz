@@ -14,7 +14,7 @@ Na náhradách zastupitelů za dobu strávenou výkonem funkce jsme obdrželi v 
 
 Tato částka je zcela nesrovnatelná s koaličními zastupiteli ANO a ČSSD nebo předsedkyní kontrolního výboru za ODS, kteří jako uvolnění členové zastupitelstva mají platy 80 000 až 100 000 korun měsíčně, případně mají jako neuvolnění členové zastupitelstva mají i několik míst v dozorčích radách v městských firmách, kde si přijdou na desetitisíce korun měsíčně. Například příjem Radmily Kleslové (ANO) z dozorčích rad se odhaduje na [360 000 Kč měsíčně](https://praha.pirati.cz/kleslova-musi-pryc.html) včetně tantitiém, tedy třicetkrát tolik (!), viz obrázek níže:
 
-![Graf srovnání](/assets/img/posts/srovnani.png)
+![Graf srovnání](https://a.pirati.cz/praha/img/posts/srovnani.png)
 
 Obrázek pochází z [výroční zprávy za první rok Pirátů v pražském Zastupitelstvu](https://github.com/pirati-cz/KlubPraha/raw/master/materialy/vyrocni-zprava/vyrocni-zprava.pdf).
 

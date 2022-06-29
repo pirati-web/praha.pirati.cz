@@ -26,5 +26,5 @@ Prioritou bude také transparentní a Pražanům přístupné hospodaření měs
 
 ### Odkazy
 
-* [Programové prohlášení koalice](/assets/pdf/programove-prohlaseni.pdf)
-* [Personální složení jednotlivých členů budoucí Rady](/assets/pdf/personalni-slozeni-nove-rady.pdf)
+* [Programové prohlášení koalice](https://a.pirati.cz/praha/pdf/programove-prohlaseni.pdf)
+* [Personální složení jednotlivých členů budoucí Rady](https://a.pirati.cz/praha/pdf/personalni-slozeni-nove-rady.pdf)

@@ -18,4 +18,4 @@ Je evidentní, že epidemická situace se v České republice do konce probíhaj
 
 ### Odkazy 
 
-* [Dopis ministrovi školství](/assets/pdf/covid/dopis.pdf)
+* [Dopis ministrovi školství](https://a.pirati.cz/praha/pdf/covid/dopis.pdf)

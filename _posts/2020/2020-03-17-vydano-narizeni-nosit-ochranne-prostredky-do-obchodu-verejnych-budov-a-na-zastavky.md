@@ -16,6 +16,6 @@ Podle informace krizového štábu budou v Praze čtyři nová stacionární odb
 
 ### Odkazy
 
-* [Nařízení primátora hl. m. Prahy (povinnost nosit roušky)](/assets/pdf/narizeni2.pdf)
-* [Nařízení primátora hl. m. Prahy (péče o děti)](/assets/pdf/narizeni-skoly.pdf) a [příloha](/assets/xls/skoly.xls)
-* [Výstup z jednání Krizového štábu hl. m. Prahy](/assets/pdf/ks-vystup.pdf)
+* [Nařízení primátora hl. m. Prahy (https://a.pirati.cz/praha/pdf/narizeni2.pdf)
+* [Nařízení primátora hl. m. Prahy (https://a.pirati.cz/praha/xls/skoly.xls)
+* [Výstup z jednání Krizového štábu hl. m. Prahy](https://a.pirati.cz/praha/pdf/ks-vystup.pdf)

@@ -16,4 +16,4 @@ Oproti předcházejícímu období nedochází ve znění Programu k významným
 
 ### Odkazy 
 
-* [Program podpory sportu a tělovýchovy v hl. m. Praze pro rok 2021](/assets/pdf/program-sport.pdf)
+* [Program podpory sportu a tělovýchovy v hl. m. Praze pro rok 2021](https://a.pirati.cz/praha/pdf/program-sport.pdf)

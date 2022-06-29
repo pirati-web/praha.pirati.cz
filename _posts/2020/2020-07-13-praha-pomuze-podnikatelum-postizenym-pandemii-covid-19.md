@@ -24,5 +24,5 @@ Záruční fond COVID Praha byl vytvořen uzavřením o dohody o financování m
 
 ### Odkazy 
 
-* Všechny poskytnuté záruky [/assets/pdf/covid/2.pdf](/assets/pdf/covid/2.pdf)
-* Nově poskytnuté záruky [/assets/pdf/covid/3.pdf](/assets/pdf/covid/3.pdf)
+* Všechny poskytnuté záruky [/assets/pdf/covid/2.pdf](https://a.pirati.cz/praha/pdf/covid/2.pdf)
+* Nově poskytnuté záruky [/assets/pdf/covid/3.pdf](https://a.pirati.cz/praha/pdf/covid/3.pdf)

@@ -8,7 +8,7 @@ image:        budejovicka.jpg
 author:       Viktor Mahrik
 ---
 
-Praha, 15. března 2018 – Piráti nesouhlasí s uzavřením a demolicí Budějovické pasáže na základě povrchního posudku magistrátního statika. Požadují, aby magistrát zahájil komunikaci s ostatními odborníky a urychleně uspořádal kulatý stůl mezi statiky DBK, zástupci Magistrátu hl. m. Prahy a za přítomnosti znaleců z ČVUT. Je žádoucí znovu posoudit nutnost bourání v tomto celoměstsky důležitém komunikačním uzlu. Na podporu tohoto požadavku sepsalo Místní sdružení Pirátů Praha 4 [petici](/assets/pdf/petice-budejovicka.pdf) za urychlenou opravu a zprůchodnění pasáže Budějovická.
+Praha, 15. března 2018 – Piráti nesouhlasí s uzavřením a demolicí Budějovické pasáže na základě povrchního posudku magistrátního statika. Požadují, aby magistrát zahájil komunikaci s ostatními odborníky a urychleně uspořádal kulatý stůl mezi statiky DBK, zástupci Magistrátu hl. m. Prahy a za přítomnosti znaleců z ČVUT. Je žádoucí znovu posoudit nutnost bourání v tomto celoměstsky důležitém komunikačním uzlu. Na podporu tohoto požadavku sepsalo Místní sdružení Pirátů Praha 4 [petici](https://a.pirati.cz/praha/pdf/petice-budejovicka.pdf) za urychlenou opravu a zprůchodnění pasáže Budějovická.
 
 Pasáž včetně jižního výstupu ze stanice metra Budějovická uzavřel její vlastník, Magistrát hl. m. Prahy, dne 19. ledna 2018. Prostor musí nyní složitě obcházet i lidé jdoucí do polikliniky nebo na radnici Prahy 4. Majitel DBK, jehož objekt tvoří s terasou jeden konstrukční celek, si nechal vypracovat vlastní posudek s měřením tloušťky nosníků ultrazvukem a zkoumáním jejich vnitřku pomocí kamer. Ten namísto neopravitelného havarijního stavu konstatoval, že terasa nutně potřebuje opravu, ale aktuálně neohrožuje bezpečnost chodců pod ní. Podle názoru znaleckého ústavu může terasa po opravách sloužit klidně dalších 50 let. Potvrdil tak, že terasu není nutné bezprostředně bourat, stačí ji opravit. 
 
@@ -22,4 +22,4 @@ Piráti v Praze 4 připravili petici, ve které požadují uspořádání kulat�
 
 ### Odkazy
 
-* [Petice Pirátů z Prahy 4](/assets/pdf/petice-budejovicka.pdf)
+* [Petice Pirátů z Prahy 4](https://a.pirati.cz/praha/pdf/petice-budejovicka.pdf)

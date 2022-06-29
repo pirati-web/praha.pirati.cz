@@ -28,4 +28,4 @@ Portál občana je bránou k elektronickým službám státu, ke které je možn
 
 ### Odkazy 
 
-* [Podepsané memorandum](/assets/pdf/memorandum.pdf)
+* [Podepsané memorandum](https://a.pirati.cz/praha/pdf/memorandum.pdf)

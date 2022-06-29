@@ -28,7 +28,7 @@ Piráti však chtějí jít ještě mnohem dál, aby byla majetková přiznání
 
 
 
-Piráti již dříve [transparentně zveřejnili příjmy](/transparentni-nahrady.html), které jim náleží od města jako náhrada výdělku. Výkaz příjmů za první půl roku obsahuje [půlroční zpráva](/assets/pdf/pulrocni-zprava-piratu-v-zhmp.pdf). Během několika dní také Piráti spustí své veřejné účetnictví klubu, do kterého bude moci nahlížet každý občan online a zjistit aktuální výši příjmů.
+Piráti již dříve [transparentně zveřejnili příjmy](https://a.pirati.cz/praha/pdf/pulrocni-zprava-piratu-v-zhmp.pdf). Během několika dní také Piráti spustí své veřejné účetnictví klubu, do kterého bude moci nahlížet každý občan online a zjistit aktuální výši příjmů.
 
 
 [et-mikulas]: https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2014/mikulas/prilohy.pdf

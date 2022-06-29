@@ -16,7 +16,7 @@ Požádali jsme všechny městské části v Praze o vyplnění dotazníku k vyu
 
 Poslední týden jsem [vysvětloval](https://praha.pirati.cz/zadne-smirovani-nechystame.html) náš záměr na zjištění počtu prázdných bytů v Praze. Bohužel někteří lidé záměr špatně pochopili a mluví o šmírování lidí přes elektroměry, což je hloupost. Udělal jsem k tomu dokonce i obrázek, aby opravdu všichni pochopili, že jde o získání statistických dat a nikoliv údajů o jednotlivých bytech. 
 
-![Získání statistických dat](/assets/img/posts/elektromery.png "Získání statistických dat")
+![Získání statistických dat](https://a.pirati.cz/praha/img/posts/elektromery.png "Získání statistických dat")
 
 S radní Milenou Johnovou, předsedkyní sociálního výboru Evou Horákovou a dalšími kolegy jsme po Brně navštívili Ostravu, kde nám představili jejich přístup k sociálnímu bydlení a dosavadní výsledky a zkušenosti, kterými se v budoucnu chceme inspirovat i pro Prahu.
 

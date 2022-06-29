@@ -18,5 +18,5 @@ Toto rozhodnutí nabylo účinnosti dnem 9. listopadu 2020 a je zveřejněno na 
 
 ### Příloha
 
-* [Rozhodnutí primátora hl. m. Prahy a určená zařízení](/assets/pdf/dec.pdf)
-* [Příloha k rozhodnutí](/assets/pdf/dec1.pdf)
+* [Rozhodnutí primátora hl. m. Prahy a určená zařízení](https://a.pirati.cz/praha/pdf/dec.pdf)
+* [Příloha k rozhodnutí](https://a.pirati.cz/praha/pdf/dec1.pdf)

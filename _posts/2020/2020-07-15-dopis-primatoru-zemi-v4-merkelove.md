@@ -20,4 +20,4 @@ Návrhy čtyř primátorů jsou v souladu s dosavadní snahou největší evrops
 
 ### Odkazy
 
-* [Dopis adresovaný kancléřce Merkelové](/assets/pdf/dopis-merkelove.pdf)
+* [Dopis adresovaný kancléřce Merkelové](https://a.pirati.cz/praha/pdf/dopis-merkelove.pdf)

@@ -57,7 +57,7 @@ Zasláno starostovi a členům rady MČ Praha 1, členům správní rady a ředi
 
 ### Příloha č.2 - Vyznačení pozemku 1038/4 v KÚ Staré Město 
 
-![Vyznačení pozemku](/assets/img/posts/frantisek.jpg "Vyznačení pozemku")
+![Vyznačení pozemku](https://a.pirati.cz/praha/img/posts/frantisek.jpg "Vyznačení pozemku")
 
 Vyznačení pozemku uvedeného výše.
 

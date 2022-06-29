@@ -10,7 +10,7 @@ author:       Mikuláš Ferjenčík
 
 Rada hl. m. Prahy dnes schválila podání žaloby na bývalého primátora Pavla Béma kvůli jeho podílu na kauze Opencard. Bémovi tak hrozí, že bude muset zaplatit část škody, která městu nevýhodným projektem vznikla. 
 
-**[Usnesením č. 2920](/assets/pdf/2920.pdf)** ze dne 22. 11. 2016 Rada hl. m. Prahy na návrh primátorky Krnáčové souhlasila s podáním žaloby na náhradu úmyslně způsobené škody v souvislosti s projektem Opencard proti bývalému primátorovi MUDr. Pavlu Bémovi, popř. dalším členům Rady HMP či předsedům výborů ZHMP. 
+**[Usnesením č. 2920](https://a.pirati.cz/praha/pdf/2920.pdf)** ze dne 22. 11. 2016 Rada hl. m. Prahy na návrh primátorky Krnáčové souhlasila s podáním žaloby na náhradu úmyslně způsobené škody v souvislosti s projektem Opencard proti bývalému primátorovi MUDr. Pavlu Bémovi, popř. dalším členům Rady HMP či předsedům výborů ZHMP. 
 
 „Před rokem jsem zpracoval 40stránkovou analýzu kauzy Opencard a vyzval jsem primátorku k tomu, aby uplatnila nárok na náhradu škody. Před měsícem prošlo na výboru Zastupitelstva pro legislativu mnou připravený návrh, aby byla žaloba dopracována. A nyní se konečně podařilo žalobu schválit. Samozřejmě máme radost, že i opoziční práce má smysl,“ říká Jakub Michálek, právník a pražský zastupitel za Piráty.
 

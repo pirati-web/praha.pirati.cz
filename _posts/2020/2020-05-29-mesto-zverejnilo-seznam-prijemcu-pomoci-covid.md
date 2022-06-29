@@ -22,6 +22,6 @@ Program COVID Praha byl spuštěn jako reakce hlavního města na palčivou pot�
 
 ### Odkazy 
 
-* [Seznam podepsaných smluv](/assets/xlsx/covid.xlsx)
+* [Seznam podepsaných smluv](https://a.pirati.cz/praha/xlsx/covid.xlsx)
 
 

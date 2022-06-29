@@ -26,4 +26,4 @@ Hlavní město dlouhodobě prosazuje testování formou přesnějších PCR test
 
 ### Soubory
 
-* [plné znění dopisu členů Rady hl. m. Prahy adresovaného předsedovi vlády ČR Andreji Babišovi](/assets/pdf/dopisbabisovi.pdf)
+* [plné znění dopisu členů Rady hl. m. Prahy adresovaného předsedovi vlády ČR Andreji Babišovi](https://a.pirati.cz/praha/pdf/dopisbabisovi.pdf)

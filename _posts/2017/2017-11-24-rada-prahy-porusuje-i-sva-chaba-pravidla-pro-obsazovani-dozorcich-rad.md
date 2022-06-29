@@ -22,6 +22,6 @@ Zástupci ANO, kteří působí ve více než ve 2 městských firmách zárove�
 
 ### Odkazy
 
-* [Odměny a hospodaření členů dozorčích rad](/assets/xlsx/odmeny-a-hospodareni.xlsx)
-* [Usnesení Rady hlavního města Prahy k pravidlům obsazování dozorčích rad](/assets/pdf/usneseni-rady.pdf)
-* [Usnesení ZHMP k pravidlům obsazování dozorčích rad (Z-3919)](/assets/pdf/TiskZ-3919-usneseni-zastupitelstva.pdf)
+* [Odměny a hospodaření členů dozorčích rad](https://a.pirati.cz/praha/xlsx/odmeny-a-hospodareni.xlsx)
+* [Usnesení Rady hlavního města Prahy k pravidlům obsazování dozorčích rad](https://a.pirati.cz/praha/pdf/usneseni-rady.pdf)
+* [Usnesení ZHMP k pravidlům obsazování dozorčích rad (https://a.pirati.cz/praha/pdf/TiskZ-3919-usneseni-zastupitelstva.pdf)

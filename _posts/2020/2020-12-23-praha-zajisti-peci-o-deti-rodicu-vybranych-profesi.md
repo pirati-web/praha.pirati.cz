@@ -18,5 +18,5 @@ Rozhodnutí primátora hl. m. Prahy nabývá účinnosti dnem 4. ledna 2021 a je
 
 ### Odkazy 
 
-* [Rozhodnutí primátora](/assets/pdf/rozhodnuti3.pdf)
-* [Seznam dotčených škol](/assets/pdf/skoly3.pdf)
+* [Rozhodnutí primátora](https://a.pirati.cz/praha/pdf/rozhodnuti3.pdf)
+* [Seznam dotčených škol](https://a.pirati.cz/praha/pdf/skoly3.pdf)

@@ -28,4 +28,4 @@ Z investic bude směřovat opět největší podíl do rozvoje pražské dopravy
 
 ### Odkazy
 
-* [Prezentace k představenému rozpočtu](/assets/pdf/2021.pdf)
+* [Prezentace k představenému rozpočtu](https://a.pirati.cz/praha/pdf/2021.pdf)
