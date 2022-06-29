@@ -72,7 +72,7 @@ Konečné rozhodnutí ministryně Karla Šlechtová (ANO 2011) zatím nevydala.
 Rada hl. m. Prahy měla v návaznosti na výzvu ministerstva zjednat nápravu do 15. prosince a do 22. prosince 2014 to oznámit ministerstvu. Do té doby Rada sice jednala s ministerstvem, ale žádnou **nápravu nezjednala**. (Ministerstvo navrhovalo vypustit celou část třetí a čtvrtou, tj. včetně vypuštění omezení billboardů, což Praha pochopitelně odmítla.)
 
 Do 26. listopadu 2014 (tj. více než měsíc) měl problém na starosti primátor Tomáš Hudeček, jehož Rada nápravu nezjednala. Od zvolení nové Rady dne 26. listopadu 2014 (necelý měsíc) měl nápravu na starosti náměstek primátorky Matěj Stropnický. Ten sice v úterý 16. prosince 2014 předložil návrh novely
-pražských stavebních předpisů (https://a.pirati.cz/praha/pdf/tisk-R-16312.pdf)), který měl sporné části z nařízení vypustit,
+pražských stavebních předpisů ([tisk R-16312](https://a.pirati.cz/praha/pdf/tisk-R-16312.pdf)), který měl sporné části z nařízení vypustit,
 ale Rada návrh neschválila. **Proti návrhu na úterní Radě zatlačila ČSSD** (koaliční zastupitelé Karel Březina a Jan Slezák).
 
 ![Zasedání dne 18. 12. 2014 rokuje o pražských stavebních předpisech](https://a.pirati.cz/praha/img/posts/zasedani-vanoce.jpg "Zasedání dne 18. 12. 2014 rokuje o pražských stavebních předpisech")
@@ -94,7 +94,7 @@ předpisy jako celek a nikoliv jen v částech, v nichž vidí rozpor se zákone
 ### Co bude dál?
 
 Rada následující den po zasedání, tj. v pátek 19. prosince 2014, schválila, že se Praha proti rozhodnutí ministerstva bude bránit
-právními prostředky a pokusí se nápravu zjednat příští rok (https://a.pirati.cz/praha/pdf/tisk-r-16381.pdf)).
+právními prostředky a pokusí se nápravu zjednat příští rok ([tisk R-16381](https://a.pirati.cz/praha/pdf/tisk-r-16381.pdf)).
 
 Vypadá to, že 
 

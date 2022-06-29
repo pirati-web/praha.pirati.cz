@@ -6,14 +6,14 @@ image: 	      posts/hrib3.jpg
 author:       Zdeněk Hřib
 ---
 
-Před koupí chátrajícího rodinného domku o zastavěné ploše 63 metrů čtverečních se zahradou v pražských Kyjích od původního majitele pana Václava Augustina jsem zcela standardně v roce 2015 odpověděl na inzerát realitní kanceláře. Prodávající dorazil na prohlídku s realitní makléřkou a u podpisu smlouvy měl svoji advokátku. Dohodnutá prodejní cena (https://a.pirati.cz/praha/pdf/zasta1.pdf) s bankou k hypotéce na tento dům a nechal ji vložit do katastru nemovitostí. Z tohoto prodeje však sešlo a následně pan Augustin prodal chátrající nemovitost znovu, tentokrát mně a mé manželce. 
+Před koupí chátrajícího rodinného domku o zastavěné ploše 63 metrů čtverečních se zahradou v pražských Kyjích od původního majitele pana Václava Augustina jsem zcela standardně v roce 2015 odpověděl na inzerát realitní kanceláře. Prodávající dorazil na prohlídku s realitní makléřkou a u podpisu smlouvy měl svoji advokátku. Dohodnutá prodejní cena (4,2 milionu Kč) byla dokonce vyšší než posudek na cenu předložený při jednání původním majitelem. Za pana Augustina jsem zaplatil i daň z převodu nemovitosti, kterou v té době měl podle zákona platit prodávající. Odmítám, že bych na původního majitele vyvíjel jakýkoliv nátlak. Naopak už v roce 2014 zkoušel pan Augustin prodat tuto nemovitost jistému panu S. Ch. z Brna, kterému [podepsal s ověřeným podpisem i zástavní smlouvu](https://a.pirati.cz/praha/pdf/zasta1.pdf) s bankou k hypotéce na tento dům a nechal ji vložit do katastru nemovitostí. Z tohoto prodeje však sešlo a následně pan Augustin prodal chátrající nemovitost znovu, tentokrát mně a mé manželce. 
 
 Původní majitel pan Augustin v chátrajícím domku v době jeho prodeje dne 1. 9. 2015 už dávno nebydlel. Vlastnil totiž několik jiných nemovitostí v Praze. Tento dům mu sloužil jako ubytovna pronajímaná zahraničním dělníkům a současně jako sklad haraburdí, nakupovaného na bleším trhu za příjmy z tohoto pronájmu. Jednoho dne však množství haraburdí vytlačilo nájemníky a původní "ekonomický model" tohoto koloběhu peněz a haraburdí se zhroutil. Nemovitost byla v okamžiku jejího zpřístupnění v neuvěřitelně zanedbaném stavu. 
 
 ![Nepořádek v domě](https://a.pirati.cz/praha/img/posts/v-dome-2.jpeg "Nepořádek v domě")
 ![Nepořádek v domě](https://a.pirati.cz/praha/img/posts/v-dome-1.jpeg "Nepořádek okolo domu")
 
-Nabídl jsem původnímu majiteli panu Augustinovi nadstandardně dlouhou dobu rok a půl na vyklizení nemovitosti od jeho věcí (https://a.pirati.cz/praha/pdf/inzerat.pdf). Díky tomu se mu podařilo část věcí zpeněžit. Větší část věcí nicméně tvořil zcela neprodejný odpad.
+Nabídl jsem původnímu majiteli panu Augustinovi nadstandardně dlouhou dobu rok a půl na vyklizení nemovitosti od jeho věcí (tedy do 1. 3. 2017) a tento závazek z kupní smlouvy jsem dodržel. Již před podpisem kupní smlouvy jsem opakovaně pomáhal panu Augustinovi s nafocením věcí a [vyvěsil jsem inzeráty dle jeho instrukcí na internetových bazarech](https://a.pirati.cz/praha/pdf/inzerat.pdf). Díky tomu se mu podařilo část věcí zpeněžit. Větší část věcí nicméně tvořil zcela neprodejný odpad.
  
 ![Ukázka inzerátu](https://a.pirati.cz/praha/img/posts/inzerat-auto.jpg "Ukázka inzerátu")
 

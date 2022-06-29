@@ -15,4 +15,4 @@ Rád bych ještě upozornil, že ve věci nakládání s majetkem státu v žád
 ## Odkazy
 
 * [Nabídka premiéra Andreje Babiše](https://a.pirati.cz/praha/pdf/do_babis.pdf)
-* [Dopis primátora Úřadu pro zastupování státu ve věcech majetkových (https://a.pirati.cz/praha/pdf/do_uzsvm.pdf)
+* [Dopis primátora Úřadu pro zastupování státu ve věcech majetkových (ÚZSVM)](https://a.pirati.cz/praha/pdf/do_uzsvm.pdf)
