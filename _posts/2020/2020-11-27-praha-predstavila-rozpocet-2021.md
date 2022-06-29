@@ -1,8 +1,9 @@
 ---
 date:         2020-11-27
-tags:	[Rozpočet, Zastupitelstvo]
+tags:         
+ - praha
 title:        "Praha představila rozpočet na rok 2021. Plánuje zachovat investice, omezí běžné výdaje"
-image: 	      posts/2021.jpg
+image: 	      2021.jpg
 author:       MHMP
 ---
 
@@ -28,4 +29,4 @@ Z investic bude směřovat opět největší podíl do rozvoje pražské dopravy
 
 ### Odkazy
 
-* [Prezentace k představenému rozpočtu](/assets/pdf/2021.pdf)
+* [Prezentace k představenému rozpočtu](https://a.pirati.cz/praha/pdf/2021.pdf)

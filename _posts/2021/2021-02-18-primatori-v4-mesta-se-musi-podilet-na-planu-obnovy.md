@@ -1,8 +1,10 @@
 ---
 date:         2021-02-18
-tags:         [Pakt svobodných měst, Pandemie Covid-19]
+tags:         
+- zahraničí
+- koronavirus
 title:        "Primátoři metropolí V4 apelují: města a regiony se musí podílet na sestavování národních plánů obnovy"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 
@@ -16,4 +18,4 @@ Primátoři vyzvali vlády členských států a Evropskou komisi k tomu, aby se
 
 ### Odkazy 
 
-* [Otevřený dopis primátorů metropolí V4 (anglicky)](/assets/pdf/covid/v4.pdf)
+* [Otevřený dopis primátorů metropolí V4 (https://a.pirati.cz/praha/pdf/covid/v4.pdf)

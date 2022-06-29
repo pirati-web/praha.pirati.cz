@@ -4,8 +4,8 @@ category: blog
 title: "Reakce Pirátů na alternativní způsob hlasování na pondělní Radě hl. m Prahy "
 date: 2019-05-22
 author: "Martina Vacková"
-image: posts/hrib-kamera2.jpg
-tags: [Metro D, Zdeněk Hřib]
+image: hrib-kamera2.jpg
+tags: zahraničí
 ---
 
 Praha, 22. květen 2019 – Na pondělní Radě hl. m. Prahy, které je ze zákona neveřejné, byl použit alternativní způsob hlasování radních ohledně tisku ke schválení geologického průzkumu Metra D. Piráti byli jedinou stranou, která v koaličních jednáních prosazovala jmenovité hlasování rady. Piráti vidí jako ideální příležitost se nyní k tématu na úrovni koalice vrátit a získat v této záležitosti i podporu od opozičních klubů. Naváží tak přímo na aktivity pirátského poslance Lukáše Bartoně a jeho novelu zákona o obcích, který zavádí ve všech radách v obcích jmenovité hlasování. V současné chvíli jsou jednání Rady hl.m. Prahy vždy neveřejná a v zápise jsou jen celkové počty hlasů pro usnesení. Nicméně je umožněna přítomnost opozice na radě a diskuze k tiskům probíhají v místnosti rady a nikoliv v [kuchyňce](https://praha.pirati.cz/primatorciny-stavebni-predpisy.html), jako za předešlého volebního období. O financování geologického průzkumu metra D se bude hlasovat ještě ve čtvrtek na zastupitelstvu, které je veřejné a otevřené všem občanům. 

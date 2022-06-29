@@ -1,10 +1,10 @@
 ---
 date:         2017-11-01
 category:     blog
-tags:         [Praha 1, Protialkoholní vyhláška, Náplavka]
+tags:         praha-1
 layout:       post
 title:        "Odmítáme extrémistickou protialkoholní vyhlášku"
-image:        posts/vystraha.jpg
+image:        vystraha.jpg
 author:       Adam Zábranský
 ---
 
@@ -16,4 +16,4 @@ Nápad na zákaz alkoholu v centru města Magistrát se zastupiteli zatím ani n
 
 ### Odkazy
 
-* [Návrh nové verze protialkoholní vyhlášky Prahy](/assets/pdf/vyhlaska.pdf)
+* [Návrh nové verze protialkoholní vyhlášky Prahy](https://a.pirati.cz/praha/pdf/vyhlaska.pdf)

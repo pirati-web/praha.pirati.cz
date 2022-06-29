@@ -1,10 +1,10 @@
 ---
 date:         2017-08-24
 category:     blog
-tags:         [Airbnb, Bydlení]
+tags:         bydlení
 layout:       post
 title:        "Ceny bytů v Praze rostou. Piráti navrhují řešení."
-image:        posts/domy-slunce.jpg
+image:        domy-slunce.jpg
 author:       Jakub Michálek
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2020-04-08
-tags:         [Pandemie Covid-19, Tchaj-wan]
+tags:         koronavirus zdravotnictví
 title:        "Plicní ventilátory z tchaj-wanského daru budou zachraňovat lidské životy v nemocnicích v Praze"
-image: 	      posts/taiwan2.jpg
+image: 	      taiwan2.jpg
 author:       MHMP
 ---
 

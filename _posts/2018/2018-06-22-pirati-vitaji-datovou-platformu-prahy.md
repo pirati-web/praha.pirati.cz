@@ -1,10 +1,10 @@
 ---
 date:         2018-06-22
 category:     blog
-tags:         [IT, Otevřená data, Golemio]
+tags:         informatika
 layout:       post
 title:        "Vítáme novou datovou platformu Prahy" 
-image:        posts/golemio.jpg
+image:        golemio.jpg
 author:       Adam Zábranský
 ---
 

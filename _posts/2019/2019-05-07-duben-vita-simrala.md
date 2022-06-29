@@ -4,11 +4,13 @@ category: blog
 title: "Duben Víta Šimrala: Školy bez plastů i rozvoj inovačních center"
 date: 2019-05-07
 author: "Vít Šimral"
-image: posts/vitsimral2.jpg
-tags: Školství
+image: vitsimral2.jpg
+tags: praha školství
 ---
 
-Milí Pražané, v dubnu se toho v mé gesci stalo mnoho, ale srdeční záležitostí pro mne bylo zahájení soutěže Škola bez plastů. Věřím, že touto soutěží podpoříme žáky a žákyně, aby si více uvědomovali složení odpadu, který vyprodukují a jeho dopad na naši planetu.
+Milí Pražané,
+
+v dubnu se toho v mé gesci stalo mnoho, ale srdeční záležitostí pro mne bylo zahájení soutěže Škola bez plastů. Věřím, že touto soutěží podpoříme žáky a žákyně, aby si více uvědomovali složení odpadu, který vyprodukují a jeho dopad na naši planetu.
 
 Nejdůležitější je ale nepopiratelně představení pirátské Vize pro školství 2030. Na ní chceme stavět vše nové, co v tomto volebním období uděláme s pražským školstvím. A po volbách do Poslanecké sněmovny v roce 2021? Kdo ví?
 

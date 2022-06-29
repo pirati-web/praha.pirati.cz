@@ -1,8 +1,9 @@
 ---
 date:         2020-09-07
-tags:         [Bydlení, Praha 17]
+tags:         
+ - bydlení
 title:        "Reakce na otevřený dopis starostky Prahy 17 k problematice využívání magistrátního bytového fondu"
-image: 	      posts/adam-zabransky-3.jpg
+image: 	      adam-zabransky-3.jpg
 author:       MHMP
 ---
 

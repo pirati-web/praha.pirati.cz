@@ -1,8 +1,8 @@
 ---
 date:         2020-02-25
-tags:         [Akce, IT, Prg.ai]
+tags:         informatika
 title:        "Praha bude spolupořádat kongres ICGAI"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

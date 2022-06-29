@@ -1,9 +1,9 @@
 ---
 date:         2019-11-20
-tags:         [Praha 1]
+tags:         praha-1
 title:        "Otevřený dopis Davida Bodečka starostovi Prahy 1 ve věci řešení nefunkčního a personálně podhodnoceného úřadu"
-image: 	      posts/david-bodecek.jpg
-authorId:     david.bodecek
+image: 	      david-bodecek.jpg
+author:       David Bodeček
 ---
 
 Mgr. Pavel Čižinský
@@ -47,4 +47,4 @@ radní pro majetek městské části Praha 1
 
 ### Odkazy
 
-* [Naskenovaná a podepsaná verze dopisu](/assets/pdf/bodecek.pdf)
+* [Naskenovaná a podepsaná verze dopisu](https://a.pirati.cz/praha/pdf/bodecek.pdf)

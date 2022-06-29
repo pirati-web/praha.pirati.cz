@@ -1,8 +1,9 @@
 ---
 date:         2020-09-22
-tags:        [Doprava, Kultura, Dvorecký most, IPR]
+tags:         
+ - Praha
 title:        "Výstava Pražské priority ukazuje 25 výrazných projektů, které zásadně změní tvář Prahy"
-image: 	      posts/revolucni-promena.jpg
+image: 	      revolucni-promena.jpg
 author:       MHMP
 ---
 

@@ -1,6 +1,6 @@
 ---
 date:         2019-08-05
-tags:         [Prague Pride]
+tags:         praha prague-pride
 title:        "Duhová vlajka zavlála nad Prahou"
 image: 	      posts/duhovavlajka.jpg
 author:       Zdeněk Hřib

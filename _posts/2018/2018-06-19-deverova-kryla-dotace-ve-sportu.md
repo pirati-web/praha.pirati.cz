@@ -1,10 +1,10 @@
 ---
 date:         2018-06-19
 category:     blog
-tags:         [Protikorupční strategie, Sport]
+tags:         magistrát
 layout:       post
 title:        "Ředitelka Magistrátu kryla podivné dotace ve sportu, říkají Piráti a požadují její hlavu" 
-image:        posts/sport-urad.jpg
+image:        sport-urad.jpg
 author:       Zdeněk Hřib
 ---
 

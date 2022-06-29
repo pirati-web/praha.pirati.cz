@@ -1,6 +1,6 @@
 ---
 date:         2019-03-14
-tags:         [Praha 2, Zahraničí] 
+tags:         praha 
 title:        "Promenáda v Riegrových sadech ponese jméno zavražděného primátora Gdaňsku Pawła Adamowicze"
 image: 	      posts/sady.jpg
 author:       Zdeněk Hřib

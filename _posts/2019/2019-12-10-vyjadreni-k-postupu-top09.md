@@ -1,8 +1,8 @@
 ---
 date:         2019-12-10
-tags:         [TOP 09]
+tags:         koalice
 title:        "Hřib: Udělali jsme velké množství práce. Nerozumím tomu, v čem vidí pan předseda Pospíšil tak zásadní problém"
-image: 	      posts/7hrib.jpg
+image: 	      7hrib.jpg
 author:       Zdeněk Hřib
 ---
 

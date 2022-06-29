@@ -1,10 +1,10 @@
 ---
 date:	2016-09-26
 category:	blog
-tags:	[Karel Březina]
+tags:	Praha
 layout:	post
 title:	"Luxusní vstupenky na dotované sportovní akce dostávají zastupitelé bokem." 
-image:	posts/pasovani.png
+image:	pasovani.png
 author:	Adam Zábranský
 ---
 

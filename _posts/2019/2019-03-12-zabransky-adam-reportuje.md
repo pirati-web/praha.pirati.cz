@@ -1,6 +1,6 @@
 ---
 date:         2019-03-12
-tags:         [Bydlení]
+tags:         praha bydlení
 title:        "Únorová práce radního Zábranského: Hotel Opatov, sociální práce, spolupráce s městskými částmi a mnoho dalšího..."
 image: 	      posts/adam-zabransky-3.jpg
 author:       Adam Zábranský

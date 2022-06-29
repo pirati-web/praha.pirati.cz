@@ -1,11 +1,12 @@
 ---
 layout: post
 category: blog
-title: Michal Špaček promluví o řešeních a problémech sociálních sítí
+title: >-  
+  Michal Špaček promluví o řešeních a problémech sociálních sítí
 date: '2019-04-25 00:01am'
 author: Zdeněk Zchar
-image: posts/novepice.jpg
-tags: [IT]
+image: novepice.jpg
+tags: informatika
 ---
 
 Rizika plynoucí z používání sociálních sítí jsou tématem, které se týká každého z nás. Ve čtvrtek 25. dubna proto promluví v pražském Pirátském centru (PiCe) odborník na internetovou bezpečnost Michal Špaček. Od 18:00 potom představí, jak snadno sebe a svá data chránit.

@@ -1,8 +1,8 @@
 ---
 date:         2020-07-08
-tags:         Sport
+tags:         sport
 title:        "Judisté dostali od hlavního města podporu na uskutečnění Mistrovství Evropy v judu 2020"
-image: 	      posts/vitsimral3.jpg
+image: 	      vitsimral3.jpg
 author:       MHMP
 ---
 

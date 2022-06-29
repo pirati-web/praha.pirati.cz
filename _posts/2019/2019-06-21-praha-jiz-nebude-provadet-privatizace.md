@@ -4,8 +4,8 @@ category: blog
 title: "Praha ukončila privatizace: Dojde již jen k privatizaci šesti domů, která byla rozjednána v minulém volebním období"
 date: 2019-06-19
 author: "Rada hlavního města Prahy"
-image: posts/domy-slunce.jpg
-tags: Bydlení
+image: domy-slunce.jpg
+tags: bydlení praha
 ---
 
 Zastupitelstvo hl. m. Prahy ukončilo privatizaci bytů v majetku města, zároveň se zastupitelé usnesli, že bude zachována kontinuita v systému již zahájených privatizací. Tento krok je v souladu s programovým prohlášením koalice, kde jednotlivé kluby konstatovaly, že v rámci problematiky zvýšení dostupnosti bydlení si Praha nemůže dovolit dále snižovat počet obecních bytů.

@@ -3,8 +3,8 @@ title:	Magistrát nesmí tajit nájmy za hubičku, rozhodlo Ministerstvo vnitra
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	posts/jakub-na-zastupku.jpg
-tags:	[Transparentnost]
+image:	jakub-na-zastupku.jpg
+tags:	informace majetek magistrát
 date:	2015-04-17
 ---
 

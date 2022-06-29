@@ -1,10 +1,10 @@
 ---
 date:         2018-12-19
 category:     blog
-tags:         [Dozorčí rady]
+tags:         dozorčí-rady
 layout:       post
 title:        "Piráti pokračují v obsazování orgánů městských společností vítězi otevřených výběrových řízení"
-image: 	      posts/hrib-primator.jpg
+image: 	      hrib-primator.jpg
 author:       Martina Vacková
 ---
 

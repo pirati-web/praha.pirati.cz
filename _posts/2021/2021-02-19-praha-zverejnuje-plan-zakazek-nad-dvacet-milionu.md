@@ -1,8 +1,9 @@
 ---
 date:         2021-02-19
-tags:         [Transparentnost]
+tags:         
+- transparentnost
 title:        "Praha zveřejňuje plán velkých zakázek pro rok 2021 v celkové výši přes 5 miliard Kč"
-image: 	      posts/adam-zabransky-6.jpg
+image: 	      adam-zabransky-6.jpg
 author:       MHMP
 ---
 

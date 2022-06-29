@@ -3,8 +3,8 @@ title:	Piráti navštívili vrchní státní zastupitelství kvůli kauze Březi
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	posts/brezina2.jpg
-tags:	[Karel Březina]
+image:	brezina2.jpg
+tags:	korupce Karel-Březina kauzy
 date:	2015-09-02
 ---
 

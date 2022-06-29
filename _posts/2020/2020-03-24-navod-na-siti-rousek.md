@@ -1,8 +1,8 @@
 ---
 date:         2020-03-24
-tags:         [Pandemie Covid-19]
+tags:         zdravotnictví koronavirus
 title:        "Šijete roušky? Praha je společně s Českým červeným křížem doručí potřebným"
-image: 	      posts/rousky.jpg
+image: 	      rousky.jpg
 author:       MHMP
 ---
 

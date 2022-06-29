@@ -1,8 +1,8 @@
 ---
 date:         2020-07-13
-tags:         [Pandemie Covid-19]
+tags:         sport
 title:        "Praha navyšuje pomoc pro podnikatele a zveřejňuje seznam dalších podpořených v rámci programu COVID Praha"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 
@@ -24,5 +24,5 @@ Záruční fond COVID Praha byl vytvořen uzavřením o dohody o financování m
 
 ### Odkazy 
 
-* Všechny poskytnuté záruky [/assets/pdf/covid/2.pdf](/assets/pdf/covid/2.pdf)
-* Nově poskytnuté záruky [/assets/pdf/covid/3.pdf](/assets/pdf/covid/3.pdf)
+* Všechny poskytnuté záruky [https://a.pirati.cz/praha/pdf/covid/2.pdf](https://a.pirati.cz/praha/pdf/covid/2.pdf)
+* Nově poskytnuté záruky [https://a.pirati.cz/praha/pdf/covid/3.pdf](https://a.pirati.cz/praha/pdf/covid/3.pdf)

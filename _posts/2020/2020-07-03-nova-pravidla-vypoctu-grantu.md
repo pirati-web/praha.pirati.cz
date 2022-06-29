@@ -1,8 +1,8 @@
 ---
 date:         2020-07-03
-tags:         Sport
+tags:         sport
 title:        "Nový model výpočtu sportovních grantů dostal zelenou"
-image: 	      posts/vitsimral2.jpg
+image: 	      vitsimral2.jpg
 author:       MHMP
 ---
 

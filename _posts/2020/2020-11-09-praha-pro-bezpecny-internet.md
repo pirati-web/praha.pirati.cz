@@ -1,8 +1,9 @@
 ---
 date:         2020-11-09
-tags:         [Akce, IT]
+tags:         
+ - informatika
 title:        "Praha posedmé podpoří osvětový projekt „Kraje pro bezpečný internet“"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

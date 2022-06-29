@@ -3,8 +3,8 @@ title:	Piráti prosadili odvolání předsedy výboru pro územní plán, Jana S
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	posts/hlasovani-slezak.png
-tags:	[ČSSD, Zastupitelstvo]
+image:	hlasovani-slezak.png
+tags:	územní-plán kauzy
 date:	2015-11-26
 ---
 

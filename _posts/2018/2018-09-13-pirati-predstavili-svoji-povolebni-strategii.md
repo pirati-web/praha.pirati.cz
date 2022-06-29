@@ -1,10 +1,10 @@
 ---
 date:         2018-09-13
 category:     blog
-tags:         [Volby 2018]
+tags:         praha magistrát kampaň
 layout:       post
 title:        "Piráti představili svou povolební strategii a tým, s nímž chtějí vést Prahu"
-image:        posts/tk-hrib.jpg
+image:        tk-hrib.jpg
 author:       Zdeněk Hřib
 ---
 
@@ -42,4 +42,4 @@ Kandidáti za Piráty podepsali kodex, ve kterém se zavázali nekumulovat funkc
 
 ### Odkazy 
 
-* [Schválený dokument povolební strategie Pirátů](/assets/pdf/povolebni-strategie-zhmp.pdf)
+* [Schválený dokument povolební strategie Pirátů](https://a.pirati.cz/praha/pdf/povolebni-strategie-zhmp.pdf)

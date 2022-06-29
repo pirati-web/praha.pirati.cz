@@ -1,8 +1,8 @@
 ---
 date:         2019-11-27
-tags:         [Elektromobilita, Operátor ICT]
+tags:         doprava
 title:        "Pražští radní schválili rozvoj dobíjecí infrastruktury pro elektromobily"
-image: 	      posts/nabijeni.jpg
+image: 	      nabijeni.jpg
 author:       MHMP
 ---
 

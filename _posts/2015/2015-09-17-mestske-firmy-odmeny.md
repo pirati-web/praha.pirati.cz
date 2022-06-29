@@ -3,8 +3,8 @@ title:	V dozorčích radách pražských firem jsou téměř výhradně politici
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	posts/radmila.jpg
-tags:	[Městské firmy, Hnutí ANO, Trafiky, Dozorčí rady]
+image:	radmila.jpg
+tags:	koalice městské-firmy
 date:	2015-09-17
 ---
 
@@ -16,7 +16,7 @@ Důkazem, že dozorčí rady se stále používají také jako trafiky, je např
 
 Dozorčí rady tedy často slouží jako jednoduchý zdroj příjmů. Někdy jde ale spíše o prostředek, jak si zajistit ve firmě vliv. Jak jinak si vysvětlit zvolení europoslance Miroslava Pocheho (ČSSD) do dozorčí rady Pražské strojírny (dceřiná společnost Dopravního podniku) či starostky Prahy 10 Radmily Kleslové (ANO) do dozorčí rady PRE a představenstva pražského teplárenského holdingu. Poche i Kleslová mají už tak peněz dost (Poche má plat europoslance a Kleslová ke svému platu starostky dostává ještě 100 000 Kč měsíčně od ČEZu), ale oba jsou považováni za šedé eminence pražské politiky.
 
-![Přehled akciového portfolia hl. m. Prahy](https://praha.pirati.cz/assets/img/posts/prazskefirmy-prehled.png)
+![Přehled akciového portfolia hl. m. Prahy](https://a.pirati.cz/praha/img/posts/prazskefirmy-prehled.png)
 
 Piráti s takovýmto způsobem obsazování dozorčích rad nesouhlasí. „Už v květnu jsme poslali Radě hl. m. Prahy návrhy na zlepšení fungování pražských firem. Na příklad jsme požadovali, aby Rada vymezila kvalifikační předpoklady členů statutárních orgánů městských firem a aby tito členové více informovali o své činnosti. Radní pro majetek Hašek (ANO) nám odpověděl, že děkuje za podněty, ale nic se nezměnilo,“ zakončuje zastupitel Adam Zábranský, který se fungováním městských firem zabývá.
 

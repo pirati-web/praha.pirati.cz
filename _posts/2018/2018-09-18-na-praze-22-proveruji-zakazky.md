@@ -1,10 +1,10 @@
 ---
 date:         2018-09-18
 category:     blog
-tags:         [Praha 22]
+tags:         praha-22 kauzy
 layout:       post
 title:        "Cinknul radní na Praze 22 zakázku? Mimořádné zastupitelstvo rozhodne o jeho osudu"
-image:        posts/cyklostezka-hajek.jpg
+image:        cyklostezka-hajek.jpg
 author:       Ondřej Kallasch
 ---
 

@@ -3,8 +3,8 @@ title:	Praha nepotřebuje protikorupční strategii, ale protikorupční opatře
 layout:	post
 category:	blog
 author:	Adam Zábranský, Jakub Michálek, Mikuláš Ferjenčík
-image:	posts/korupce-praha.jpg
-tags:	[Transparentnost]
+image:	korupce-praha.jpg
+tags:	zhmp korupce transparentnost zveřejňování-smluv
 date:	2015-05-05
 ---
 

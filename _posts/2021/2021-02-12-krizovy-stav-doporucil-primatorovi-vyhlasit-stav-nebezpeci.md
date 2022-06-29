@@ -1,8 +1,9 @@
 ---
 date:         2021-02-12
-tags:         [Krizový štáb, Pandemie Covid-19]
+tags:         
+- koronavirus
 title:        "Krizový štáb hlavního města Prahy doporučil primátorovi vyhlásit stav nebezpečí"
-image: 	      posts/9hrib.jpg
+image: 	      9hrib.jpg
 author:       MHMP
 ---
 
@@ -28,4 +29,4 @@ Hlavní město o opatřeních pravidelně informuje městské části prostředn
 
 ### Odkazy
 
-* [Výstup jednání krizového štábu](/assets/pdf/vystupks.pdf)
+* [Výstup jednání krizového štábu](https://a.pirati.cz/praha/pdf/vystupks.pdf)

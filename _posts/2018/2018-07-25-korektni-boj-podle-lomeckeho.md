@@ -1,11 +1,11 @@
 ---
 date:         2018-07-25
 category:     blog
-tags:         [Praha 1]
+tags:         kauzy praha-1
 layout:       post
 title:        „Korektní“ politický boj podle pravidel starosty Prahy 1 Lomeckého
-image:        posts/lomecky-fb.jpg
-authorId:     david.bodecek
+image:        lomecky-fb.jpg
+author:       David Bodeček
 ---
 
 Praha, 25. července 2018 – Jakoby pro městskou část Praha 1 neplatila Listina základních práv a svobod, dle které je cenzura nepřípustná. Blokovaný člen České pirátské strany David Bodeček k tomu uvedl: „V březnu letošního roku jsem zjistil, že nemohu vkládat příspěvky na facebookový profil Městské části Praha 1. Obrátil jsem se tedy na tajemníka úřadu, od něhož jsem obdržel informaci, že blokaci mé osoby provedl systém, avšak že sjedná nápravu, neboť jsem se v minulosti nedopustil žádné nevhodné komunikace.“ Vzhledem k tomu, že náprava se neuskutečnila, oslovil Bodeček tajemníka úřadu ještě jednou.

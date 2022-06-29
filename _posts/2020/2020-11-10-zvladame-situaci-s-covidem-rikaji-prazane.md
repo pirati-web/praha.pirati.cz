@@ -1,8 +1,9 @@
 ---
 date:         2020-11-10
-tags:         [Pandemie Covid-19]
+tags:         
+ - koronavirus
 title:        "Město rozšířilo seznam profesí důležitých pro jeho chod. Dětem zaměstnanců bude poskytnuta péče"
-image: 	      posts/7hrib.jpg
+image: 	      7hrib.jpg
 author:       MHMP
 ---
 

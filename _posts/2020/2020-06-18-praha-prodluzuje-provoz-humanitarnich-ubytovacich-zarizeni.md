@@ -1,8 +1,8 @@
 ---
 date:         2020-06-18
-tags:         [Pandemie Covid-19]
+tags:         koronavirus
 title:        "Praha prodlužuje provoz humanitárních ubytovacích zařízení pro osoby bez domova"
-image: 	      posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 

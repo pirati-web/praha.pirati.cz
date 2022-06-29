@@ -1,8 +1,8 @@
 ---
 date:         2020-07-15
-tags:         [Pakt svobodných měst]
+tags:         zahraničí
 title:        "Primátoři metropolí V4 v dopisu Merkelové: Zásadní je udržitelnost měst a jejich přímé financování"
-image: 	      posts/8hrib.jpg
+image: 	      8hrib.jpg
 author:       MHMP
 ---
 
@@ -20,4 +20,4 @@ Návrhy čtyř primátorů jsou v souladu s dosavadní snahou největší evrops
 
 ### Odkazy
 
-* [Dopis adresovaný kancléřce Merkelové](/assets/pdf/dopis-merkelove.pdf)
+* [Dopis adresovaný kancléřce Merkelové](https://a.pirati.cz/praha/pdf/dopis-merkelove.pdf)

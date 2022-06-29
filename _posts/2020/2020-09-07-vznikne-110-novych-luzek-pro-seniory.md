@@ -1,8 +1,9 @@
 ---
 date:         2020-09-07
-tags:         [Sociální politika]
+tags:         
+ - zdravotnictví
 title:        "Praha podpoří rozvoj komunitních služeb pro seniory, vznikne 110 nových lůžek"
-image: 	      posts/adam-zabransky-5.jpg
+image: 	      adam-zabransky-5.jpg
 author:       MHMP
 ---
 

@@ -1,10 +1,10 @@
 ---
 date:	2016-09-03
 category:	blog
-tags:	[ODS, Zastupitelstvo]
+tags:	Praha
 layout:	post
 title:	"Piráti nesouhlasí podrazem ODS, která vycouvala z mimořádného Zastupitelstva." 
-image:	posts/magistrat.jpg
+image:	magistrat.jpg
 author:	Jakub Michálek
 ---
 

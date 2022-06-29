@@ -1,8 +1,10 @@
 ---
 date:         2020-11-18
-tags:         [Pandemie Covid-19, Školství]
+tags:         
+ - školství 
+ - koronavirus
 title:        "Prvňáci a druháci se vrátili do škol. Praha toto rozhodnutí podporuje"
-image: 	      posts/simral-tabule.jpg
+image: 	      simral-tabule.jpg
 author:       MHMP
 ---
 

@@ -1,10 +1,10 @@
 ---
 date:         2018-07-18
 category:     blog
-tags:         [Volby 2018] 
+tags:         zahraničí 
 layout:       post
 title:        "Pirátský kandidát na primátora Prahy Hřib navštíví progresivní světové metropole. Chce se inspirovat úspěšnými projekty"
-image:        posts/Zdenek_Hrib-zahajeni_kampane.jpg
+image:        Zdenek_Hrib-zahajeni_kampane.jpg
 author:       Štěpán Štrébl
 ---
 

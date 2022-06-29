@@ -1,8 +1,10 @@
 ---
 date:         2021-02-24
-tags:         [Pandemie Covid-19, Školství]
+tags:         
+- školství
+- koronavirus
 title:        "Pokud to situace umožní, školy se otevřou nejdříve 3. března. Sníží se i poplatek za výuku v uměleckých školách"
-image: 	      posts/skola.jpg
+image: 	      skola.jpg
 author:       MHMP
 ---
 

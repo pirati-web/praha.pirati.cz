@@ -1,10 +1,10 @@
 ---
 date:         2018-02-02
 category:     blog
-tags:         [Doprava, Libeňský most, ČSSD, Petr Dolínek]
+tags:         doprava libeňský-most
 layout:       post
 title:        "Vyzýváme náměstka Dolínka k rezignaci kvůli současnému stavu pražských mostů" 
-image:        posts/ruiny-mostu.jpg
+image:        ruiny-mostu.jpg
 author:       Viktor Mahrik
 ---
 
@@ -24,5 +24,5 @@ Piráti kritizují laxnost Rady hlavního města Prahy. Vedení města mohlo mos
 
 ### Odkazy
 
-* [Příloha 1 – Praktická ukázka nekvalitní údržby Libeňského mostu s komentářem soudní znalkyně Miloslavy Pošvářové](/assets/pdf/udrzba-libenskeho-mostu.pdf)
+* [Příloha 1 – Praktická ukázka nekvalitní údržby Libeňského mostu s komentářem soudní znalkyně Miloslavy Pošvářové](https://a.pirati.cz/praha/pdf/udrzba-libenskeho-mostu.pdf)
 

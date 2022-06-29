@@ -1,10 +1,10 @@
 ---
 date:         2018-06-21
 category:     blog
-tags:         [Praha 1]
+tags:         praha-1 kauzy
 layout:       post
 title:        "Praha 1 neoprávněně vyvedla 30 milionů, Piráti podali trestní oznámení" 
-image:        posts/praha1-2.jpg
+image:        praha1-2.jpg
 author:       Adam Zábranský
 ---
 

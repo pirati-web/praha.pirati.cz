@@ -1,10 +1,10 @@
 ---
 date:         2017-08-23
 category:     blog
-tags:         [Airbnb]
+tags:         bydlení
 layout:       post
 title:        "Stát by se měl dohodnout s Airbnb místo otravování pronajímatelů."
-image:        posts/airbnb.jpg
+image:        airbnb.jpg
 author:       Jakub Michálek
 ---
 

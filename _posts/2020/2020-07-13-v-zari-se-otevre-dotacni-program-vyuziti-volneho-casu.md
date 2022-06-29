@@ -1,8 +1,8 @@
 ---
 date:         2020-07-13
-tags:         Sport
+tags:         sport
 title:        "V září se otevře dotační Program podpory využití volného času dětí a mládeže na rok 2021"
-image: 	      posts/vitsimral2.jpg
+image: 	      vitsimral2.jpg
 author:       MHMP
 ---
 

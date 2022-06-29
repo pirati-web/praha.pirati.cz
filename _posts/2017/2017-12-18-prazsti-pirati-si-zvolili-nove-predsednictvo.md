@@ -1,10 +1,10 @@
 ---
 date:         2017-12-18
 category:     blog
-tags:         [Piráti]
+tags:         piráti
 layout:       post
 title:        "Pražští Piráti si zvolili nové předsednictvo"
-image:        posts/predsednictvo.jpg
+image:        predsednictvo.jpg
 author:       Adam Zábranský
 ---
 

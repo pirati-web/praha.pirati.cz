@@ -1,8 +1,10 @@
 ---
 date:         2021-01-26
-tags:         [Pandemie Covid-19]
+tags:         
+- koronavirus
+- 
 title:        "Praha představila veřejnosti informační web k očkování"
-image: 	      posts/ockovani-web.jpg
+image: 	      ockovani-web.jpg
 author:       MHMP
 ---
 

@@ -1,10 +1,10 @@
 ---
 date:         2017-10-24
 category:     blog
-tags:         [Volby 2017]
+tags:         praha
 layout:       post
 title:        "Piráti jsou druhou největší stranou v Praze. V obecních volbách se pokusí úspěch zopakovat"
-image:        posts/volby.jpg
+image:        volby.jpg
 author:       Adam Zábranský
 ---
 

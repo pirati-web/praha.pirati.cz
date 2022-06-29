@@ -1,8 +1,10 @@
 ---
 date:         2020-11-11
-tags:         [Pandemie Covid-19, Praha 11]
+tags:         
+ - koronavirus
+ - praha-11
 title:        "Praha 11 má nové odběrové místo pro testy na Covid-19"
-image: 	      posts/dohnal.jpg
+image: 	      dohnal.jpg
 author:       MHMP
 ---
 

@@ -1,8 +1,9 @@
 ---
 date:         2020-10-14
-tags:         [Pandemie Covid-19]
+tags:         
+ - koronavirus
 title:        "Odbor školství pražského magistrátu se podílí na zajištění péče o děti pracovníků IZS"
-image: 	      posts/vitsimral4.jpg
+image: 	      vitsimral4.jpg
 author:       MHMP
 ---
 
@@ -18,4 +19,4 @@ Pokud epidemiologická situace dovolí, zpět do školních lavic by se žáci m
 
 ### Odkazy
 
-* [nařízení primátora](/assets/pdf/narizeni-primatora.pdf) a doprovodná [příloha](/assets/pdf/narizeni-primatora-priloha.pdf)
+* [nařízení primátora](https://a.pirati.cz/praha/pdf/narizeni-primatora-priloha.pdf)

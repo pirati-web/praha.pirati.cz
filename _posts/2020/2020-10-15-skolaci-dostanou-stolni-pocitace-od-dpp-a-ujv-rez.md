@@ -1,8 +1,10 @@
 ---
 date:         2020-10-15
-tags:         [Praha 7, Školství]
+tags:         
+ - koronavirus
+ - školství
 title:        "Školáci z Prahy 7 dostanou stolní počítače od Dopravního podniku hl. m. Prahy a ÚJV Řež, a.s."
-image: 	      posts/vitsimral2.jpg
+image: 	      vitsimral2.jpg
 author:       MHMP
 ---
 

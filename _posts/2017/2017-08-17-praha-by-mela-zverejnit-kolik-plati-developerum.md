@@ -1,10 +1,10 @@
 ---
 date:         2017-08-17
 category:     blog
-tags:         [Metropolitní plán]
+tags:         územní-plán
 layout:       post
 title:        "Praha by měla zveřejnit, kolik miliard přihraje developerům na změnách územního plánu"
-image:        posts/namesti.jpg
+image:        namesti.jpg
 author:       Jakub Michálek
 ---
 

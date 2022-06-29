@@ -1,8 +1,9 @@
 ---
 date:         2020-12-17
-tags:         [Piráti, Primátorská potravinová sbírka]
+tags:         
+ - praha
 title:        "Dnes probíhá potravinová sbírka pro Prahu. Přijímáme trvanlivé potraviny, hygienické potřeby pro ženy, drogistické zboží i dětské pleny"
-image: 	      posts/hrib-vanoce.jpg
+image: 	      hrib-vanoce.jpg
 author:       MHMP
 ---
  

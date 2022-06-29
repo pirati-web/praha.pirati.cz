@@ -1,7 +1,7 @@
 ---
 date:         2018-06-15
 category:     blog
-tags:         [Praha 22]
+tags:         praha-22
 layout:       post
 title:        "Eurodotace pro vládnoucí koalici na Praze 22" 
 image:        proprahu22.jpg

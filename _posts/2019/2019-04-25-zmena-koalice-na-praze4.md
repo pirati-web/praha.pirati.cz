@@ -1,11 +1,12 @@
 ---
 layout: post
 category: blog
-title: Padla rada MČ Praha 4; přichází návrat do klientelistických devadesátek
+title: >-  
+  Padla rada MČ Praha 4; přichází návrat do klientelistických 90. let
 date: '2019-04-24 00:01am'
 author: Piráti Praha 4
-image: posts/svrzeni.jpg
-tags: [Praha 4]
+image: svrzeni.jpg
+tags: praha-4 koalice
 ---
 
 Třetí zasedání Zastupitelstva městské části Praha 4 se změnilo v mnohahodinový boj o odvolání Rady MČ Praha 4. S návrhem přišla opoziční zastupitelka Irena Michalcová (hnutí ANO). S opozicí hlasoval člen rady za STAN+KDU-ČSL Josef Svoboda; díky jeho hlasu pak byla rada svržena a následně i ustavena rada nová. Starostkou se tak stala Irena Michalcová, kterou překvapivě podpořila nejen ODS, ale i TOP09, která se na celostátní úrovni proti hnutí ANO vymezuje.

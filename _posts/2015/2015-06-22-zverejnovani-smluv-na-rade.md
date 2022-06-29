@@ -3,8 +3,8 @@ title:	Rada má šanci schválit kvalitní návrh zveřejňování smluv
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík, Adam Zábranský
-image:	posts/dolinek.jpg
-tags:	[Transparentnost]
+image:	dolinek.jpg
+tags:	zveřejňování-smluv
 date:	2015-06-22
 ---
 

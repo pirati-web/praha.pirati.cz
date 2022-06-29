@@ -3,8 +3,7 @@ title:	Kontrolní výbor Pirátům
 layout:	post
 author:	Mikuláš Ferjenčík
 category:	blog
-image:	posts/magistrat.jpg
-tags:   [Kontrolní výbor, Volby 2014]
+image:	magistrat.jpg
 date:	2014-11-11
 ---
 

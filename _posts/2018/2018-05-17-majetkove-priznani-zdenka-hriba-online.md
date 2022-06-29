@@ -1,7 +1,7 @@
 ---
 date:         2018-05-17
 category:     blog
-tags:         [Transparentnost]
+tags:         transparentnost
 layout:       post
 title:        "Zveřejňujeme majetkové přiznání kandidáta Pirátů na primátora hl. m. Prahy" 
 image:        hrib.jpg

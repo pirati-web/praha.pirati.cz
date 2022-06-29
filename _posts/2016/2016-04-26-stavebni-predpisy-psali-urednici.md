@@ -1,10 +1,10 @@
 ---
 date:	2016-04-15
 category:	blog
-tags:	[Pražské stavební předpisy]
+tags:	Praha stavební-předpisy
 layout:	post
 title:	"Magistrát potvrdil: Pražské stavební předpisy napsali úředníci bez kvalifikace"
-image:	posts/urednik.png
+image:	urednik.png
 author:	Ondřej Profant
 ---
 

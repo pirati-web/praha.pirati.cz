@@ -1,10 +1,10 @@
 ---
 date:         2018-01-30
 category:     blog
-tags:         [Parkování, Václavské náměstí]
+tags:         doprava
 layout:       post
 title:        "Nesouhlasíme s navyšováním parkovacích kapacit na Václavském náměstí" 
-image:        posts/rampa.jpg
+image:        rampa.jpg
 author:       Viktor Mahrik
 ---
 

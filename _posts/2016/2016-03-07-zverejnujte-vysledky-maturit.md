@@ -3,8 +3,8 @@ title:	Paní ministryně, zveřejněte data k výsledkům z maturitních testů
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	posts/maturita.png
-tags:	[Transparentnost] 
+image:	maturita.png
+tags:	informace
 date:	2016-03-07
 ---
 

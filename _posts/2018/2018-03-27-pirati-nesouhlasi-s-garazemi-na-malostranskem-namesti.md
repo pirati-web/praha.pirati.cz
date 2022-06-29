@@ -1,10 +1,10 @@
 ---
 date:         2018-03-27
 category:     blog
-tags:         [Doprava, Malostranské náměstí]
+tags:         doprava
 layout:       post
 title:        "Odmítáme podzemní garáže na Malostranském náměstí" 
-image:        posts/garaze-mal.jpg
+image:        garaze-mal.jpg
 author:       Adam Zábranský
 ---
 

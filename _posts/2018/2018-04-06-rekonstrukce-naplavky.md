@@ -1,10 +1,10 @@
 ---
 date:         2018-04-06
 category:     blog
-tags:         [Náplavka, Praha 2]
+tags:         praha-2
 layout:       post
 title:        "Další rekonstrukční přešlap Krnáčové. Revitalizace Náplavky během sezony" 
-image:        posts/naplavka-stavba.jpg
+image:        naplavka-stavba.jpg
 author:       Viktor Mahrik
 ---
 

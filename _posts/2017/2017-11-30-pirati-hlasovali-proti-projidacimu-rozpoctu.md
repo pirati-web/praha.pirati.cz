@@ -1,10 +1,10 @@
 ---
 date:         2017-11-30
 category:     blog
-tags:	[Rozpočet, Zastupitelstvo]
+tags:         rozpočet
 layout:       post
 title:        "Koalice připravila extrémně projídací rozpočet"
-image:        posts/feast.jpg
+image:        feast.jpg
 author:       Adam Zábranský
 ---
 

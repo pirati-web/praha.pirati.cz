@@ -4,8 +4,8 @@ category: blog
 title: "Zdeněk Hřib zaslal otevřený dopis předsedovi TOP 09 Jiřímu Pospíšilovi"
 date: 2019-04-14
 author: "Zdeněk Hřib"
-image: posts/8hrib.jpg
-tags: [TOP 09]
+image: 8hrib.jpg
+tags: praha koalice
 ---
 
 Praha, 14. dubna 2019 – Primátor hl. m. Prahy Zdeněk Hřib (Piráti) odeslal otevřený dopis předsedovi TOP 09 Jiřímu Pospíšilovi v návaznosti na jeho nepřesná vyjádření do médií v minulých týdnech. Jiří Pospíšil je zároveň předsedou klubu Spojené síly pro Prahu v rámci pražské magistrátní koalice. Zdeněk Hřib Pospíšilovi v dopise vytýká především jeho nekonzistentní postoje, liknavý přístup k práci pro Prahu, účelové prohlášení do médií a snahu TOP09 o dosazování politických trafikantů. 

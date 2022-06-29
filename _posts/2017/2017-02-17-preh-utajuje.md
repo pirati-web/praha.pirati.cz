@@ -1,10 +1,10 @@
 ---
 date:         2017-02-17
 category:     blog
-tags:         [Městské firmy, Transparentnost]
+tags:         praha
 layout:       post
 title:        "Piráti podávají ústavní stížnost: Pražská energetika Holding podle nich musí poskytovat informace." 
-image:        posts/sidlo-pre.jpg
+image:        sidlo-pre.jpg
 author:       Adam Zábranský
 ---
 

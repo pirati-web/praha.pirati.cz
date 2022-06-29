@@ -1,8 +1,8 @@
 ---
 date:         2020-04-03
-tags:         [Krizový štáb, Pandemie Covid-19]
+tags:         koronavirus zdravotnictví
 title:        "Praha žádá, aby v pražských nemocnicích, které zřizuje Ministerstvo zdravotnictví, byla vyčleněna lůžka pro seniory"
-image: 	      posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 
@@ -16,4 +16,4 @@ Krizový štáb dále doporučil, aby ve všech vchodech do magistrátních budo
 
 ### Odkazy 
 
-* [Textový výstup z jednání krizového štábu dne 3. 4. 2020](/assets/pdf/ks-vystup5.pdf)
+* [Textový výstup z jednání krizového štábu dne 3. 4. 2020](https://a.pirati.cz/praha/pdf/ks-vystup5.pdf)

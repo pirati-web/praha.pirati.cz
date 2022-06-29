@@ -1,10 +1,10 @@
 ---
 date:         2017-03-23
 category:     blog
-tags:         [Hnutí ANO, ČSSD, Trafiky]
+tags:         praha
 layout:       post
 title:        "Piráti požadují odvolání Rady kvůli politickým trafikám." 
-image:        posts/michalek2.jpg
+image:        michalek2.jpg
 author:       Jakub Michálek
 ---
 

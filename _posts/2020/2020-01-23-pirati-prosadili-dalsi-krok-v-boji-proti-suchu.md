@@ -1,8 +1,8 @@
 ---
 date:         2020-01-23
-tags:         [Životní prostředí]
+tags:         životní-prostředí
 title:        "Piráti prosadili další krok v boji proti suchu. Praha bude na svých pozemcích realizovat tzv. zasakovací průlehy, které zabrání odtoku vody"
-image: 	      posts/svejly.jpg
+image: 	      svejly.jpg
 author:       Tomáš Murňák
 ---
 

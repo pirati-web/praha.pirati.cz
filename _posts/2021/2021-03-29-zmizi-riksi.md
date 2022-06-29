@@ -1,8 +1,9 @@
 ---
 date:         2021-03-29
-tags:         [Doprava]
+tags:         
+- doprava
 title:        "Z centra města zmizí křiklavé reklamní rikši"
-image: 	      posts/magistrat2.jpg
+image: 	      magistrat2.jpg
 author:       MHMP
 ---
 

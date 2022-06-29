@@ -1,6 +1,6 @@
 ---
 date:         2019-03-29
-tags:         [Bydlení]
+tags:         praha bydlení
 title:        "Zábranský: Jak je to s těmi prázdnými byty? "
 image: 	      posts/adam-zabransky-3.jpg
 author:       Adam Zábranský

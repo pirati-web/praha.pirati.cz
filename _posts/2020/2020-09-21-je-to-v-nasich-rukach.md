@@ -1,8 +1,9 @@
 ---
 date:         2020-09-21
-tags:         [Pandemie Covid-19]
+tags:         
+ - koronavirus
 title:        "Je to v našich (desinfikovaných) rukách"
-image: 	      posts/9hrib.jpg
+image: 	      9hrib.jpg
 author:       MHMP
 ---
 

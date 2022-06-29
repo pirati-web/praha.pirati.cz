@@ -1,8 +1,8 @@
 ---
 date:         2020-03-19
-tags:         [Krizový štáb, Pandemie Covid-19]
+tags:         bezpečnost zdravotnictví koronavirus
 title:        "Krizový štáb hl. m. Prahy řeší nová odběrová místa v Praze a opět nedostatek ochranných prostředků"
-image: 	      posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 

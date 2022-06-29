@@ -1,8 +1,9 @@
 ---
 date:         2020-12-09
-tags:         [Pražský inovační institut, Školství]
+tags:         
+ - vzdělávání
 title:        "Pražský inovační institut zřídí rekvalifikační kurzy pro rozvoj digitálních dovedností a dalších kompetencí. Mají přispět k řešení covidové krize"
-image: 	      posts/vitsimral5.jpg
+image: 	      vitsimral5.jpg
 author:       MHMP
 ---
 

@@ -1,8 +1,9 @@
 ---
 date:         2020-11-12
-tags:         [Náplavka, Životní prostředí]
+tags:         
+ - životní-prostředí
 title:        "Nová vyhláška zakáže na Silvestra pyrotechniku u vody i v přírodním parku"
-image: 	      posts/labute.jpg
+image: 	      labute.jpg
 author:       MHMP
 ---
 

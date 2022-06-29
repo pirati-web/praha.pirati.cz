@@ -1,10 +1,10 @@
 ---
 date:         2017-04-28
 category:     blog
-tags:         [Doprava, Pražský okruh (dálnice D0), Zastupitelstvo]
+tags:         zhmp
 layout:       post
 title:        "Piráti k zasedání pražského zastupitelstva: zbytečná silnice za miliardy" 
-image:        posts/z26.jpg
+image:        z26.jpg
 author:       Adam Zábranský
 ---
 

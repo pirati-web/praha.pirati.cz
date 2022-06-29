@@ -1,10 +1,10 @@
 ---
 date:         2017-01-27
 category:     blog
-tags:         [ČSSD]
+tags:         praha
 layout:       post
 title:        "Hulinského člověk zvolen šéfem finančního výboru" 
-image:        posts/stepan.jpg
+image:        stepan.jpg
 author:       Adam Zábranský
 ---
 

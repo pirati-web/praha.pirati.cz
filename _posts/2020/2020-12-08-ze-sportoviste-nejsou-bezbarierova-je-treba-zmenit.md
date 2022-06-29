@@ -1,9 +1,9 @@
 ---
 date:         2020-12-08
 tags:         
- - Sport
+ - sport
 title:        "Bezbariérovost splňuje asi jen desetina pražských sportovišť. Pomoci zlepšit situaci má nový plán rozvoje sportu"
-image: 	      posts/vitsimral2.jpg
+image: 	      vitsimral2.jpg
 author:       MHMP
 ---
 

@@ -1,8 +1,9 @@
 ---
 date:         2020-10-22
-tags:         [Pandemie Covid-19, Zdeněk Hřib]
+tags:         
+ - bydlení
 title:        "Primátor Hřib: Od úterý budu pomáhat v jedné z pražských nemocnic jako dobrovolník"
-image: 	      posts/hrib-koronavirus.jpg
+image: 	      hrib-koronavirus.jpg
 author:       Zdeněk Hřib
 ---
 

@@ -1,8 +1,10 @@
 ---
 date:         2021-05-18
-tags:         [Městská nájemní agentura, Bydlení, Pandemie Covid-19]
+tags:         
+- bydlení
+- koronavirus
 title:        "Praha má plán podpory a pomoci pro nejzranitelnější osoby bez domova, včetně prodloužení provozu čtyř humanitárních hotelů"
-image: 	      posts/adam-zabransky-7.jpg
+image: 	      adam-zabransky-7.jpg
 author:       MHMP
 ---
 

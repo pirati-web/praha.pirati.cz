@@ -1,10 +1,10 @@
 ---
 date:         2018-03-01
 category:     blog
-tags:         [Volby 2018]
+tags:         volby
 layout:       post
 title:        "Pražským lídrem zvolen Zdeněk Hřib" 
-image:        posts/hrib2.jpg
+image:        hrib2.jpg
 author:       Karolína Sadílková
 ---
 

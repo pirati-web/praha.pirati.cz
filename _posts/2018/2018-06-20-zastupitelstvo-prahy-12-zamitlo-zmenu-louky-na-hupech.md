@@ -1,10 +1,10 @@
 ---
 date:         2018-06-20
 category:     blog
-tags:         [Praha 12]
+tags:         praha-12
 layout:       post
 title:        "Zastupitelstvo Prahy 12 zamítlo změnu územního plánu na louce Na Hupech" 
-image:        posts/nahupech.jpg
+image:        nahupech.jpg
 author:       Eva Tylová
 ---
 

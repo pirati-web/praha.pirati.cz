@@ -1,9 +1,9 @@
 ---
 date:         2020-04-02
-tags:         [Pandemie Covid-19, Praha 8]
+tags:         koronavirus praha-8
 title:        "Primátor Hřib starostovi Prahy 8: Procenta pro radního za dezinfekci škol? Nepřijatelné!"
-image: 	      posts/8hrib.jpg
-authorId:     zdenek.hrib
+image: 	      8hrib.jpg
+author:       Zdeněk Hřib
 ---
 
 **Seznam Zprávy rozkryly podezření z uplácení v době současné krize za účasti radního ODS z Prahy 8. Podobné praktiky nelze tolerovat, a už vůbec ne v době nouzového stavu! Panu starostovi Grosovi z této městské části jsem proto napsal následující dopis s jasnými požadavky k objasnění a vyřešení situace:**

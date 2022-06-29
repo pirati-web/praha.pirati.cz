@@ -3,8 +3,8 @@ title:	Odvolání Stropnického nepodpoříme, odvolání ČSSD ano.
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	posts/zast-3.jpg
-tags:	[ČSSD, Zelení, Zastupitelstvo]
+image:	zast-3.jpg
+tags:	stavební-předpisy koalice kauzy
 date:	2015-09-10
 ---
 

@@ -3,8 +3,8 @@ title:	Březino odstup, vyzývají Piráti
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	posts/karel-mysli.jpg
-tags:	[Karel Březina]
+image:	karel-mysli.jpg
+tags:	magistrát Karel-Březina
 date:	2016-01-27
 ---
 

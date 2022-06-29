@@ -3,8 +3,7 @@ title:	Zveřejňovač Jan Loužek
 layout:	post
 author:	Jakub Michálek
 category:	blog
-image:	posts/louzek-amelia.jpg
-tags:   [Piráti]
+image:	louzek-amelia.jpg
 date:	2014-11-06
 ---
 

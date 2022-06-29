@@ -1,10 +1,10 @@
 ---
 date:         2018-01-19
 category:     blog
-tags:         [Nemocnice Na Františku, Praha 1]
+tags:         praha-1 nemocnice-na-františku
 layout:       post
 title:        "Vyzýváme Prahu 1, aby zrušila koncesi na Nemocnici na Františku." 
-image:        posts/frantisek2.jpg
+image:        frantisek2.jpg
 author:       Zdeněk Hřib
 ---
 
@@ -57,7 +57,7 @@ Zasláno starostovi a členům rady MČ Praha 1, členům správní rady a ředi
 
 ### Příloha č.2 - Vyznačení pozemku 1038/4 v KÚ Staré Město 
 
-![Vyznačení pozemku](/assets/img/posts/frantisek.jpg "Vyznačení pozemku")
+![Vyznačení pozemku](https://a.pirati.cz/praha/img/posts/frantisek.jpg "Vyznačení pozemku")
 
 Vyznačení pozemku uvedeného výše.
 

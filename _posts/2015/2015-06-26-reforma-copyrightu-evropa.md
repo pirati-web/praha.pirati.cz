@@ -3,7 +3,7 @@ title:	Co nám může přinést reforma autorského práva?
 layout:	post
 category:	blog
 author:	Jakub Michálek, Jan Loužek
-image:	posts/cats.jpg
+image:	cats.jpg
 tags:	EU
 date:	2015-06-26
 ---

@@ -1,10 +1,10 @@
 ---
 date:         2018-11-15
 category:     blog
-tags:         [Volby 2018]
+tags:         koalice praha
 layout:       post
 title:        "Zdeněk Hřib byl zvolen pražským primátorem. Piráti slaví"
-image:        posts/retez.jpg
+image:        retez.jpg
 author:       Zdeněk Hřib
 ---
 

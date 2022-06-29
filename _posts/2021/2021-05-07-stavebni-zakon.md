@@ -1,8 +1,10 @@
 ---
 date:         2021-05-07
-tags:         [Legislativa, Stavební zákon]
+tags:         
+- stavební-zákon
+- legislativa
 title:        "Česká města chtějí změnit chystaný stavební zákon podle Čtyř městských artikul. Umožní lepší plánování"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

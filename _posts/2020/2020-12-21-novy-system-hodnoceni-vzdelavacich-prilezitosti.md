@@ -1,9 +1,9 @@
 ---
 date:         2020-12-21
 tags:         
- - Školství
+ - školství
 title:        "Nový systém hodnocení vzdělávacích příležitostí má pomoci k lepší orientaci"
-image: 	      posts/vitsimral5.jpg
+image: 	      vitsimral5.jpg
 author:       MHMP
 ---
  

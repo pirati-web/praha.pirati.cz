@@ -1,10 +1,10 @@
 ---
 date:         2018-02-20
 category:     blog
-tags:         [Praha 6]
+tags:         praha-6
 layout:       post
 title:        "Piráti na Praze 6 protestují proti dalším nevýhodným smlouvám na 30 let" 
-image:        posts/solinova.jpg
+image:        solinova.jpg
 author:       Viktor Mahrik
 ---
 

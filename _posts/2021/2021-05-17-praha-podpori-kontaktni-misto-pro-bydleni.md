@@ -1,9 +1,9 @@
 ---
 date:         2021-05-18
 tags:         
-- Bydlení
+- bydlení
 title:        "Praha finančně podpoří kontaktní místo pro bydlení Prahy 14"
-image: 	      posts/adam-zabransky-6.jpg
+image: 	      adam-zabransky-6.jpg
 author:       MHMP
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2019-11-13
-tags:         Sport
+tags:         životní-prostředí
 title:        "Řízení grantové komise pro sport jsou nyní transparentnější"
-image: 	      posts/simral2.jpg
+image: 	      simral2.jpg
 author:       Vít Šimral
 ---
 

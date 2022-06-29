@@ -1,9 +1,9 @@
 ---
 date:         2019-12-12
-tags:         [Praha 1]
+tags:         praha-1
 title:        "David Bodeček zůstává radním pro majetek na Praze 1"
-image: 	      posts/praha1-bodecek.jpg
-authorId:     david.bodecek
+image: 	      praha1-bodecek.jpg
+author:       David Bodeček
 ---
 
 Praha, 12. prosince 2019 – V reakci na otevřený dopis starostovi Prahy 1 Pavlu Čižinskému od pirátského radního pro majetek Davida Bodečka ze dne 20. listopadu 2019, proběhla tři konstruktivní koaliční jednání, která napomohla ke vzájemnému vyjasnění si stanovisek k jednotlivým tématům a k dohodě na krocích, které přispějí k zefektivnění práce rady i úřadu.

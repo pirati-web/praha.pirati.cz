@@ -1,8 +1,9 @@
 ---
 date:         2020-08-26
-tags:         [IT, Transparentnost]
+tags:         
+ - informatika
 title:        "Pražští radní schválili zásady pro poskytování dotací, rozdělování peněz bude transparentnější"
-image: 	      posts/opendata3.jpg
+image: 	      opendata3.jpg
 author:       MHMP
 ---
 

@@ -3,8 +3,8 @@ title:	Praha přidá městským částem půl miliardy
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	posts/zast-3.jpg
-tags:	[Zastupitelstvo]
+image:	zast-3.jpg
+tags:	městské-části
 date:	2015-11-05
 ---
 

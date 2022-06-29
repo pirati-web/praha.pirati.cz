@@ -1,8 +1,9 @@
 ---
 date:         2020-12-21
-tags:         [Dozorčí rady, Městské firmy]
+tags:         
+ - městské-firmy
 title:        "Radní rozhodli o konci tantiém pro členy představenstev městských společností"
-image: 	      posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
  

@@ -1,10 +1,10 @@
 ---
 date:         2016-11-22
 category:     blog
-tags:         [IT]
+tags:         Praha
 layout:       post
 title:        "Piráti: Praha rezignovala na boj se závislostí na dodavateli účetnictví" 
-image:        posts/gordic.jpg
+image:        gordic.jpg
 author:       Mikuláš Ferjenčík
 ---
 

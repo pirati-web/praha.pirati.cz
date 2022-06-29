@@ -1,10 +1,10 @@
 ---
 date:         2017-03-09
 category:     blog
-tags:         [Sdílená ekonomika]
+tags:         ekonomika
 layout:       post
 title:        "Piráti apelují na vládu, chtějí jasná pravidla pro sdílenou ekonomiku." 
-image:        posts/prapor.jpg
+image:        prapor.jpg
 author:       Jakub Michálek
 ---
 
@@ -14,7 +14,7 @@ Vláda projednávala zákon o silniční přepravě v prosinci a nechala si na s
 
 Z grafu přepravy v zahraničním městě (viz níže) je zjevné, že podíl digitálních platforem na poskytování osobní přepravy po městě za poslední 2 roky dramaticky vzrostl a dá se očekávat jeho další růst:
 
-![Vývoj užívání jednotlivých služeb dopravy v New Yorku - Taxíky vs. platformy](/assets/img/posts/graf-taxisluzby.png "Vývoj užívání jednotlivých služeb dopravy v New Yorku - taxíky vs. platformy")
+![Vývoj užívání jednotlivých služeb dopravy v New Yorku - Taxíky vs. platformy](https://a.pirati.cz/praha/img/posts/graf-taxisluzby.png "Vývoj užívání jednotlivých služeb dopravy v New Yorku - taxíky vs. platformy")
 
 Vláda projednávala zákon o silniční přepravě v prosinci a nechala si na sdílenou ekonomiku zpracovat studii. Ani vláda ani hl. m. Praha však dosud nové služby neřešily. Primátorka Krnáčová se naopak proti Uberu ostře ohradila. Jenom v Praze se odhaduje podíl digitálních platforem v přepravě lidí na 10-15 % a do budoucna poroste. Taxikáři proti Uberu opakovaně protestují troubením kolem Magistrátu. Piráti žádným způsobem neprotežují Uber jako konkrétní platformu, pouze reagují na aktuální kauzy okolo současných snah o jeho zákaz.
 
@@ -58,7 +58,7 @@ Stejně špatná je i situace např. u sdílení kol (bikesharingu), kde Praha c
 * [Evropský program pro ekonomiku sdílení. Sdělení komise EU.](http://ec.europa.eu/DocsRoom/documents/16881/attachments/2/translations/cs/renditions/native)
 * [Sdílená ekonomika a digitální platformy. Analýza úřadu vlády.](https://ulozto.cz/!W5uFmvS2Ncw4/analyza-sdilena-ekonomika-pdf)
 * [Pravomocný rozsudek MS Praha v kauze Uber](https://github.com/pirati-byro/spisy-zk-pha-2016/blob/master/4904-uber-v-praze/02b-rozsudek/rozsudek.PDF)
-* [Analýza vybraných sektorů sdílené ekonomiky v České republice](http://www.mpo.cz/assets/dokumenty/55423/63472/653276/priloha001.pdf)
+* [Analýza vybraných sektorů sdílené ekonomiky v České republice](https://a.pirati.cz/praha/dokumenty/55423/63472/653276/priloha001.pdf)
 * [Usnesení vlády k návrhu zákona o silniční přepravě](https://apps.odok.cz/attachment/-/down/RCIAAGWBX459)
 * [Praha chystá další kroky proti Uberu, stejný problém řeší i Brno. Tisková zpráva MHMP.](http://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_chysta_dalsi_kroky_proti_uberu.html)
 

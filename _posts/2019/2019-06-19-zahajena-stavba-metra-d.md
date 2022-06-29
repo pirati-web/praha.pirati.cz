@@ -4,8 +4,8 @@ category: blog
 title: "V Praze byla zahájena výstavba metra D. Nová linka pomůže do budoucna s cestováním milionům lidí"
 date: 2019-06-19
 author: "Rada hl. m. Prahy"
-image: posts/hrib-metro.jpg
-tags: [Doprava, Metro D]
+image: hrib-metro.jpg
+tags: Praha doprava
 ---
 
 Středa 19. června 2019 se stala milníkem v pražské dopravě. Po mnoha letech vyjednávání a plánování začala výstavba čtvrté trasy pražského metra. Šachty a štoly vybudované v rámci geologického průzkumu v oblasti Pankráce poslouží téměř do posledního metru pro budoucí tunely linky metra D vedoucí ze stanice Náměstí Míru do Depa Písnice.  Práce by měly být dokončeny přibližně za osm let a stát budou okolo 70 miliard korun.

@@ -1,10 +1,10 @@
 ---
 date:         2018-07-03
 category:     blog
-tags:         [Protikorupční strategie, Transparentnost]
+tags:         magistrát
 layout:       post
 title:        "Ředitelka Magistrátu kašlala na boj proti korupci, její odvolání vítáme" 
-image:        posts/magistrat.jpg
+image:        magistrat.jpg
 author:       Adam Zábranský, Zdeněk Hřib
 ---
 

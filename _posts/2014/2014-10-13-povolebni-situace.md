@@ -3,8 +3,8 @@ title:	Povolební aritmetika
 layout:	post
 author:	Jakub Michálek
 category:	blog
-image:	posts/zastupitelstvo.jpg
-tags:	[Volby 2014]
+image:	zastupitelstvo.jpg
+tags:	zhmp
 date:	2014-10-13
 ---
 

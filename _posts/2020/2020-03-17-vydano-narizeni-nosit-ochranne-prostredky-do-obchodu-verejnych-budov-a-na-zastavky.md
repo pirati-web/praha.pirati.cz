@@ -1,8 +1,8 @@
 ---
 date:         2020-03-17
-tags:         [Krizový štáb, Pandemie Covid-19]
+tags:         bezpečnost koronavirus
 title:        "Krizový štáb hl. m. Prahy doporučil rozšířit povinnost občanů nosit ochranné prostředky i do veřejných budov, obchodů a na zastávky MHD"
-image: 	      posts/magistrat2.jpg
+image: 	      magistrat2.jpg
 author:       MHMP
 ---
 
@@ -16,6 +16,6 @@ Podle informace krizového štábu budou v Praze čtyři nová stacionární odb
 
 ### Odkazy
 
-* [Nařízení primátora hl. m. Prahy (povinnost nosit roušky)](/assets/pdf/narizeni2.pdf)
-* [Nařízení primátora hl. m. Prahy (péče o děti)](/assets/pdf/narizeni-skoly.pdf) a [příloha](/assets/xls/skoly.xls)
-* [Výstup z jednání Krizového štábu hl. m. Prahy](/assets/pdf/ks-vystup.pdf)
+* [Nařízení primátora hl. m. Prahy (https://a.pirati.cz/praha/pdf/narizeni2.pdf)
+* [Nařízení primátora hl. m. Prahy (https://a.pirati.cz/praha/xls/skoly.xls)
+* [Výstup z jednání Krizového štábu hl. m. Prahy](https://a.pirati.cz/praha/pdf/ks-vystup.pdf)

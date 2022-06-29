@@ -1,10 +1,10 @@
 ---
 date:         2018-01-19
 category:     blog
-tags:         [Libeňský most, Praha 8]
+tags:         kauzy
 layout:       post
 title:        "Libeňský most se měl opravovat už dva roky" 
-image:        posts/libensky.jpg
+image:        libensky.jpg
 author:       Ondřej Kallasch
 ---
 

@@ -1,6 +1,6 @@
 ---
 date:         2019-03-29
-tags:         [Výběrové řízení]
+tags:         inzerát celostátní
 title:        "Otevřené výběrové řízení: Sekretář/ka poslaneckého klubu"
 image: 	      posts/inzerat.jpg
 author:       Mediální odbor

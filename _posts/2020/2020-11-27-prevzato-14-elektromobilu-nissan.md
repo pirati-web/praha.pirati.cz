@@ -1,8 +1,9 @@
 ---
 date:         2020-11-27
-tags:         [Elektromobilita]
+tags:         
+ - životní-prostředí
 title:        "Praha převzala nové elektromobily Nissan, sloužit budou příspěvkovým organizacím hlavního města"
-image: 	      posts/elektroauta.jpg
+image: 	      elektroauta.jpg
 author:       MHMP
 ---
 

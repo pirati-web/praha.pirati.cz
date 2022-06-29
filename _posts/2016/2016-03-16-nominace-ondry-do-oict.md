@@ -2,8 +2,8 @@
 title:	Piráti chtějí dohlédnout na „vyvedenou“ informatiku, nominují Ondřeje Profanta
 category:	blog
 date:	2016-03-16
-tags:	[Dozorčí rady, Operátor ICT]
-image:	posts/ondrej.jpg
+tags:	Praha informatika open-data
+image:	ondrej.jpg
 layout:	post
 author:	Jan Loužek, Ondřej Profant, Jakub Michálek
 ---

@@ -1,9 +1,9 @@
 ---
 date:         2021-04-12
 tags:         
-- Bydlení
+- bydlení
 title:        "Praha pronajme byty neziskové organizaci Bona. Budou sloužit klientům chráněného bydlení"
-image: 	      posts/adam-zabransky-6.jpg
+image: 	      adam-zabransky-6.jpg
 author:       MHMP
 ---
 

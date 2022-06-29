@@ -1,16 +1,16 @@
 ---
 date:	2016-05-09
 category:	blog
-tags:	[Piráti]
+tags:	piráti
 layout:	post
 title:	"Opět rozdáváme 80 000 Pirátských listů!" 
-image:	posts/plisty.jpg
+image:	plisty.jpg
 author:	Jan Loužek
 ---
 
 Je to přesně tak! Stejně jako v loňském roce jsme i letos připravili vlastní tištěné Pirátské listy. Dobrovolnicky jsme je napsali a dobrovolnicky je také distribuujeme. 
 
-<a href="/assets/pdf/piratstke-listy-2016-V.pdf" class="button large">PDF listů ke stažení!</a>
+<a href="https://a.pirati.cz/praha/pdf/piratstke-listy-2016-V.pdf" class="button large">PDF listů ke stažení!</a>
 
 Na rozdíl od jiných stran nevydáváme noviny jen před volbami. Vycházejí průběžně, aby se občané mohli seznámit s naší činností na pražském magistrátu, v městských částech, nebo ve Středočeském kraji. Informujeme například o tom, jak si stojí pražská informatika, co se stalo s paní Kleslovou, nebo jaké problémy aktuálně trápí Středočeský kraj.
 

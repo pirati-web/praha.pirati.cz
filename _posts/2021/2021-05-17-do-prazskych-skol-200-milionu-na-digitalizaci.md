@@ -1,9 +1,9 @@
 ---
 date:         2021-05-17
 tags:         
-- Školství
+- školství
 title:        "Do pražských škol zamíří 200 milionů na digitalizaci ve vzdělávání a na rozvoj polytechniky"
-image: 	      posts/vitsimral5.jpg
+image: 	      vitsimral5.jpg
 author:       MHMP
 ---
 

@@ -4,8 +4,8 @@ category: blog
 title: "Březen Víta Šimrala: Návštěvy a kontroly pražských škol, technické vzdělávání ale i inovace kosmických technologií"
 date: 2019-04-11
 author: "Vít Šimral"
-image: posts/vitsimral.jpg
-tags: [Školství, Prg.ai]
+image: vitsimral.jpg
+tags: praha školství
 ---
 
 Milí Pražané,

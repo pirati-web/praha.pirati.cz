@@ -1,8 +1,10 @@
 ---
 date:         2020-09-07
-tags:         [Pandemie Covid-19, Školství]
+tags:         
+ - školství
+ - koronavirus
 title:        "Praha chce výuku zachovat i při karanténních opatřeních. Školám v této situaci pomůže"
-image: 	      posts/vitsimral.jpg
+image: 	      vitsimral.jpg
 author:       MHMP
 ---
 

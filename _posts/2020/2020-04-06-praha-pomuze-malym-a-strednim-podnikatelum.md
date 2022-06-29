@@ -1,8 +1,8 @@
 ---
 date:         2020-04-06
-tags:         [Pandemie Covid-19]
+tags:         koronavirus zdravotnictví
 title:        "Praha pomůže malým a středním podnikatelům z vlastního záchranného operačního programu"
-image: 	      posts/tk-koronavirus.jpg
+image: 	      tk-koronavirus.jpg
 author:       MHMP
 ---
 

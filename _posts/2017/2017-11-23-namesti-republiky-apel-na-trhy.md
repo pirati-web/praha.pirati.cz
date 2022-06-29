@@ -1,10 +1,10 @@
 ---
 date:         2017-11-23
 category:     blog
-tags:         [Praha 1]
+tags:         praha-1
 layout:       post
 title:        "Žádáme Prahu 1: Udělejte si pořádek ve farmářských trzích"
-image:        posts/farmarske-trhy2.jpg
+image:        farmarske-trhy2.jpg
 author:       Adam Zábranský, Jan Loužek
 ---
 

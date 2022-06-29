@@ -1,8 +1,9 @@
 ---
 date:         2021-04-19
 tags:         
+- praha
 title:        "Praha věnuje veteránům slavnostní vlajku"
-image: 	      posts/8hrib.jpg
+image: 	      8hrib.jpg
 author:       MHMP
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2020-05-19
-tags:         [Majetkové směny se státem]
+tags:         majetek
 title:        "Praha usiluje o věcnou spolupráci se státem v otázkách majetku, rozvoje a investic"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 
@@ -16,7 +16,7 @@ Primátor hl. m. Prahy Zdeněk Hřib ve spolupráci s členy rady koncem minulé
 
 ### Dokumenty
 
-* [Návrh memoranda](/assets/pdf/navrh-memoranda.pdf)
-* [Dopis primátora hl. m. Prahy](/assets/pdf/dopis-primatora.pdf)
-* [Přehled nemovitostí ve vlastnictví hl. m. Prahy](/assets/xls/majetek-cr.XLSX)
-* [Přehled nemovitostí ve vlastnictví ČR](/assets/xls/majetek-hlm.XLSX)
+* [Návrh memoranda](https://a.pirati.cz/praha/pdf/navrh-memoranda.pdf)
+* [Dopis primátora hl. m. Prahy](https://a.pirati.cz/praha/pdf/dopis-primatora.pdf)
+* [Přehled nemovitostí ve vlastnictví hl. m. Prahy](https://a.pirati.cz/praha/xls/majetek-cr.XLSX)
+* [Přehled nemovitostí ve vlastnictví ČR](https://a.pirati.cz/praha/xls/majetek-hlm.XLSX)

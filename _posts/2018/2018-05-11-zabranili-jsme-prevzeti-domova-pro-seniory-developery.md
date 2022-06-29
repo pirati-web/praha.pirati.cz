@@ -1,10 +1,10 @@
 ---
 date:         2018-05-11
 category:     blog
-tags:         [Praha 6]
+tags:         praha-6
 layout:       post
 title:        "Zabránili jsme převzetí domova pro seniory developery" 
-image:        posts/solinova.jpg
+image:        solinova.jpg
 author:       Viktor Mahrik
 ---
 

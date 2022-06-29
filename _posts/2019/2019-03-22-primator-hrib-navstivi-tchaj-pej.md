@@ -1,6 +1,6 @@
 ---
 date:         2019-03-22
-tags:         [Tchaj-wan]
+tags:         praha zahraničí
 title:        "Primátor Zdeněk Hřib navštíví partnerské město Prahy Tchaj-pej"
 image: 	      posts/taipei.jpg
 author:       MHMP

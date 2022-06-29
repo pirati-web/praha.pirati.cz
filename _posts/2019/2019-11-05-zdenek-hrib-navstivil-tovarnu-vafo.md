@@ -1,8 +1,8 @@
 ---
 date:         2019-11-05
-tags:         [Životní prostředí]
+tags:         životní-prostředí
 title:        "Zdeněk Hřib a místopředseda výboru pro životní prostředí Tomáš Murňák navštívili továrnu Vafo v Chrášťanech"
-image: 	      posts/vafo.jpg
+image: 	      vafo.jpg
 author:       Zdeněk Hřib, Tomáš Murňák
 ---
 

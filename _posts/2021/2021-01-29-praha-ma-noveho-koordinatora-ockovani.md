@@ -1,8 +1,9 @@
 ---
 date:         2021-01-29
-tags:         [Pandemie Covid-19]
+tags:         
+- koronavirus
 title:        "Praha má nového koordinátora očkování"
-image: 	      posts/magistrat3.jpg
+image: 	      magistrat3.jpg
 author:       MHMP
 ---
 

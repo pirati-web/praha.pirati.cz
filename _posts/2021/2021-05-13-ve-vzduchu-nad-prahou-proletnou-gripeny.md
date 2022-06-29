@@ -1,8 +1,9 @@
 ---
 date:         2021-05-14
-tags:         [Akce]
+tags:         
+- praha
 title:        "Nad Karlovým mostem proletí letouny v rámci oslav výročí blahořečení světce"
-image: 	      posts/staromestske.jpg
+image: 	      staromestske.jpg
 author:       MHMP
 ---
 

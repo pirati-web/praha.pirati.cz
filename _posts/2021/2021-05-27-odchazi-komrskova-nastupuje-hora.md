@@ -1,8 +1,9 @@
 ---
 date:         2021-05-27
-tags:         [Piráti]
+tags:         
+- piráti
 title:        "Piráti postupují v souladu se svým kodexem zastupitelů. Slib zastupitele dnes složil Jan Hora, rezignovala Jana Komrsková"
-image: 	      posts/hora.jpg
+image: 	      hora.jpg
 author:       MHMP
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2019-12-05
-tags:         EU
+tags:         kauzy
 title:        "Komentář pirátského radního Adama Zábranského k finální auditní zprávě Evropské komise"
-image: 	      posts/adam-zabransky-5.jpg
+image: 	      adam-zabransky-5.jpg
 author:       Adam Zábranský
 ---
 

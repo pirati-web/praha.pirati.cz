@@ -1,8 +1,8 @@
 ---
 date:         2020-04-21
-tags:         [Pandemie Covid-19]
+tags:         ekonomika koronavirus
 title:        "Kapacita programu COVID PRAHA byla naplněna už za deset minut"
-image: 	      posts/7hrib.jpg
+image: 	      7hrib.jpg
 author:       MHMP
 ---
 

@@ -1,10 +1,10 @@
 ---
 date:         2018-01-10
 category:     blog
-tags:         [Praha 10]
+tags:         praha-10
 layout:       post
 title:        "Čeká Prahu návrat kmotra Tomáše Hrdličky?" 
-image:        posts/praha10a.jpg
+image:        praha10a.jpg
 author:       Olga Richterová
 ---
 

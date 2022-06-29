@@ -1,10 +1,10 @@
 ---
 date:	2016-05-17
 category:	blog
-tags:	[Praha 1]
+tags:	praha-1
 layout:	post
 title:	"Utajené smlouvy Prahy 1. Kdo na nich vydělává?" 
-image:	posts/praha1.jpg
+image:	praha1.jpg
 author:	Adam Zábranský
 ---
 

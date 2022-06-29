@@ -1,9 +1,9 @@
 ---
 date:         2021-01-06
 tags:         
-- Školství
+- školství
 title:        "Průzkum: Největší potíže mají školy v Praze se začleňováním dětí s poruchami chování. Chybí jim i podpora státu"
-image: 	      posts/skola.jpg
+image: 	      skola.jpg
 author:       MHMP
 ---
 

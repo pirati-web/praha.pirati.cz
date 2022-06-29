@@ -1,8 +1,8 @@
 ---
 date:         2020-02-11
-tags:         [Smart Cities]
+tags:         smart-cities
 title:        "Praha podpoří Smart Prague projekty městských částí. Získají z městské kasy téměř 12 milionů korun"
-image: 	      posts/smart-prague.jpg
+image: 	      smart-prague.jpg
 author:       MHMP
 ---
 

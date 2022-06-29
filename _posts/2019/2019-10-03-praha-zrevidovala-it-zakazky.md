@@ -1,6 +1,6 @@
 ---
 date:         2019-10-02
-tags:         [IT]
+tags:         informatika
 title:        "Praha zrevidovala IT zakázky, ušetřila již přes 100 milionů korun"
 image: 	      posts/magistrat2.jpg
 author:       Zdeněk Hřib, MHMP
@@ -18,4 +18,4 @@ V současnosti také vzniká nový městský portál ve spolupráci s Ministerst
 
 ### Odkazy
 
-* [Přehled projektů, které byly zrušeny, pozastaveny nebo upraveny](/assets/pdf/prehled.pdf)
+* [Přehled projektů, které byly zrušeny, pozastaveny nebo upraveny](https://a.pirati.cz/praha/pdf/prehled.pdf)

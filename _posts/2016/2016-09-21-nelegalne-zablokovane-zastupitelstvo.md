@@ -1,10 +1,10 @@
 ---
 date:	2016-09-21
 category:	blog
-tags:	[Hnutí ANO, ODS, Zastupitelstvo]
+tags:	zhmp
 layout:	post
-title:	"Krnáčová s Udženijí zablokovaly Zastupitelstvo nelegálně, potvrzuje dokument" 
-image:	posts/uxh2.jpg
+title:	"Krnáčová s Udženijí zablokovaly Zastupitelstvo nelegálně, potvrzuje dokument." 
+image:	uxh2.jpg
 author:	Mikuláš Ferjenčík
 ---
 

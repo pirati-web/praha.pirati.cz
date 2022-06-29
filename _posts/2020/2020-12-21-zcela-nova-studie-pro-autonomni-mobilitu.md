@@ -1,8 +1,9 @@
 ---
 date:         2020-12-21
-tags:         [Doprava]
+tags:         
+ - doprava
 title:        "Rada hl. m. Prahy schválila studii, která prověří možnosti zavedení autonomní mobility v české metropoli"
-image: 	      posts/lidar.jpg
+image: 	      lidar.jpg
 author:       MHMP
 ---
  

@@ -1,8 +1,8 @@
 ---
 date:         2019-12-01
-tags:         [IPR]
+tags:         informatika
 title:        "Kvalitnější design a kontrola nad reklamou. Praha testuje vlastní zastávku až do jara na Palackého náměstí"
-image: 	      posts/zastavka.jpg
+image: 	      zastavka.jpg
 author:       MHMP
 ---
 

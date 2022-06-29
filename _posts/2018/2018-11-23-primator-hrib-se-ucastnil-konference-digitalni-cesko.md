@@ -1,7 +1,7 @@
 ---
 date:         2018-11-23
 category:     blog
-tags:         [IT]
+tags:         informatika
 layout:       post
 title:        "Primátor hl. m. Prahy Zdeněk Hřib se zúčastnil konference Digitální Česko 2018+"
 image:        hrib3.jpg

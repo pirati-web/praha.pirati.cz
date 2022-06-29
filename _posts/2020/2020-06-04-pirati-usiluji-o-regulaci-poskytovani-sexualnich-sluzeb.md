@@ -1,8 +1,8 @@
 ---
 date:         2020-06-04
-tags:         [Legislativa, Sexbyznys]
+tags:         legislativa
 title:        "Piráti usilují o regulaci poskytování sexuálních služeb v Praze"
-image: 	      posts/eva2.jpg
+image: 	      eva2.jpg
 author:       MHMP
 ---
 

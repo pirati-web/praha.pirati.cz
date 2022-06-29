@@ -1,8 +1,8 @@
 ---
 date:         2020-02-05
-tags:         [Airbnb, Bydlení]
+tags:         bydlení
 title:        "Zdeněk Hřib: Rozumná regulace platforem sdíleného bydlení je jedním z mnoha kroků k řešení krize dostupnosti bydlení v Praze"
-image: 	      posts/airbnb2.jpg
+image: 	      airbnb2.jpg
 author:       Zdeněk Hřib
 ---
 

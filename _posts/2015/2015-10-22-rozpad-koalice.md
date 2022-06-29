@@ -3,8 +3,8 @@ title:	Místo Kleslové se odvolávali radní
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	posts/smatejem.jpg
-tags:	[Hnutí ANO, Trafiky]
+image:	smatejem.jpg
+tags:	trafiky
 date:	2015-10-22
 ---
 

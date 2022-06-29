@@ -1,10 +1,10 @@
 ---
 date:         2018-01-26
 category:     blog
-tags:         [Metro D, Nemocnice Na Františku, Piráti]
+tags:         piráti
 layout:       post
 title:        "Praha schválila záměr na převzetí Nemocnice na Františku. Výměna stráží u Pirátů dokončena" 
-image:        posts/zastupitelstvo-mikolas.jpg
+image:        zastupitelstvo-mikolas.jpg
 author:       Jan Loužek, Adam Zábranský
 ---
 

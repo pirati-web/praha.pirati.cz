@@ -1,9 +1,9 @@
 ---
 date:         2020-10-05
 tags:         
- - Bydlení
+ - bydlení
 title:        "Pražští radní projednali další dotace na výstavbu a opravy bytů v městských částech"
-image: 	      posts/adam-zabransky-5.jpg
+image: 	      adam-zabransky-5.jpg
 author:       MHMP
 ---
 

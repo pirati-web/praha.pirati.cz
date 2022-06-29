@@ -1,9 +1,9 @@
 ---
 date:         2021-04-19
 tags:         
-- Školství
+- školství
 title:        "Pražské školní jídelny budou odebírat jen vejce z bezklecových chovů"
-image: 	      posts/vejce.jpg
+image: 	      vejce.jpg
 author:       MHMP
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2020-04-20
-tags:         [Zastromuj Prahu, Životní prostředí]
+tags:         životní-prostředí
 title:        "I v nouzovém stavu hlavní město intenzivně sází nové stromy. Letos vznikl například nový les Na Musile"
-image: 	      posts/namusile.jpg
+image: 	      namusile.jpg
 author:       MHMP
 ---
 

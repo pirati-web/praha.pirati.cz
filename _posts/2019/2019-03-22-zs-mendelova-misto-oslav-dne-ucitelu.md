@@ -1,6 +1,6 @@
 ---
 date:         2019-03-28
-tags:         [Praha 11, Školství]
+tags:         praha školství
 title:        "Den učitelů představitelé hlavního města Prahy oslavili symbolicky v ZŠ Mendelova"
 image: 	      posts/praha11.jpg
 author:       MHMP

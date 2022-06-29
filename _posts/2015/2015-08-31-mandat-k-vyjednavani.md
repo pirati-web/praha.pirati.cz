@@ -1,10 +1,10 @@
 ---
-title:	Pirátští zastupitelé mají mandát jednat o koalici bez ODS, ČSSD a KSČM. Podmínkou je otevřít kuchyňku
+title:	Pirátští zastupitelé mají mandát jednat o koalici bez ODS, ČSSD a KSČM. Podmínkou je otevřít kuchyňku.
 layout:	post
 category:	blog
 author:	Jakub Michálek, Ivan Bartoš
-image:	posts/zastupko.jpg
-tags:	[Piráti]
+image:	zastupko.jpg
+tags:	koalice
 date:	2015-08-31
 ---
 

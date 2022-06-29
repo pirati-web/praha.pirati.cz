@@ -4,8 +4,8 @@ category: blog
 title: "Volné místo na pirátské palubě: Koordinátor pro radního Víta Šimrala"
 date: 2019-05-23
 author: "Jan Loužek"
-image: posts/vitsimral2.jpg
-tags: [Výběrové řízení]
+image: vitsimral2.jpg
+tags: inzerát
 ---
 
 Žiješ pro školství, vzdělávání, sport, vědu a technický pokrok? Vítek Šimral, náš radní pro tyto oblasti, [hledá](https://forum.pirati.cz/viewtopic.php?f=572&t=47308) parťáka do týmu!

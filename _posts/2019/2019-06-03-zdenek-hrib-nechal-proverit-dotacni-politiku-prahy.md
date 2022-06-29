@@ -4,8 +4,8 @@ category: blog
 title: "Primátor Hřib nechal prověřit dotační politiku Prahy"
 date: 2019-05-23
 author: "MHMP"
-image: posts/8hrib.jpg
-tags: [EU]
+image: 8hrib.jpg
+tags: dotace praha
 ---
 
 3.6.2019 – Praha. Primátor Zdeněk Hřib nechal urychleně prověřit, jestli Praha v minulosti vyplácela, nebo vyplácí dotace některé z firem, které jsou součástí holdingu Agrofert. Praha v předchozích letech ani nyní tyto dotace firmám, které by se nacházely ve střetu zájmů, nevyplatila. Proto v současné době není nutné zastavit proces čerpání dotačních programů řízených Magistrátem hl. m. Prahy. 

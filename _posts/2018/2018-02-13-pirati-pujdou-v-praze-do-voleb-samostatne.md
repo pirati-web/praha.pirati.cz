@@ -1,10 +1,10 @@
 ---
 date:         2018-02-13
 category:     blog
-tags:         [Volby 2018]
+tags:         volby
 layout:       post
 title:        "Piráti půjdou do pražských voleb samostatně" 
-image:        posts/logo.jpg
+image:        logo.jpg
 author:       Adam Zábranský
 ---
 

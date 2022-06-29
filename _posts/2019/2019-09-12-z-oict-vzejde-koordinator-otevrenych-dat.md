@@ -1,6 +1,6 @@
 ---
 date:         2019-09-12
-tags:         [Operátor ICT, Otevřená data, Golemio]
+tags:         praha informatika
 title:        "Operátor ICT se stal koordinátorem otevřených dat pro Prahu"
 image: 	      posts/opendata4.jpg
 author:       MHMP

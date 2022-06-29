@@ -1,8 +1,8 @@
 ---
 date:         2020-03-12
-tags:         [Pandemie Covid-19]
+tags:         zdravotnictví koronavirus
 title:        "Praha zavádí krizovou linku 800 160 166 určenou pro seniory. Do pomoci seniorům zapojuje dobrovolníky i obchodníky"
-image: 	      posts/magistrat2.jpg
+image: 	      magistrat2.jpg
 author:       MHMP
 ---
 

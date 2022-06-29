@@ -3,8 +3,8 @@ title:	Piráti odmítají likvidaci pouličního umění v Praze, předloženou 
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	posts/zakaz-vseho.jpg
-tags:	[Umění ve veřejném prostoru]
+image:	zakaz-vseho.jpg
+tags:	magistrát busking
 date:	2016-01-27
 ---
 

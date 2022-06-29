@@ -1,10 +1,10 @@
 ---
 date:         2018-07-03
 category:     blog
-tags:         [IPR, Životní prostředí]
+tags:         životní-prostředí
 layout:       post
 title:        "Místo klimatizace potřebujeme ve městě stromy" 
-image:        posts/strom.jpg
+image:        strom.jpg
 author:       Eva Tylová
 ---
 

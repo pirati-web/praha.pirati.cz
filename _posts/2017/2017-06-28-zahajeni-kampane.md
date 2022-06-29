@@ -1,10 +1,10 @@
 ---
 date:         2017-06-28
 category:     blog
-tags:         [Volby 2017]
+tags:         praha volby
 layout:       post
 title:        "Piráti startují volební kampaň v Praze"
-image:        posts/kandidati-praha.jpg
+image:        kandidati-praha.jpg
 author:       Jakub Michálek
 ---
 

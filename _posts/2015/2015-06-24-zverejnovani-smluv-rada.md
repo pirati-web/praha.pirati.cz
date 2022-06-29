@@ -3,8 +3,8 @@ title:	Pražská rada schválila východiska lepšího zveřejňování smluv
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	posts/zver-smluv.jpg
-tags:	[Transparentnost]
+image:	zver-smluv.jpg
+tags:	Praha zveřejňování-smluv
 date:	2015-06-24
 ---
 

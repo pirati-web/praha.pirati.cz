@@ -1,8 +1,8 @@
 ---
 date:         2020-05-07
-tags:         Bydlení
+tags:         bydlení
 title:        "Zábranský: Naší prioritou je zajistit dostupné bydlení pro všechny Pražany"
-image: 	      posts/adam-zabransky-5.jpg
+image: 	      adam-zabransky-5.jpg
 author:       Adam Zábranský
 ---
 

@@ -1,8 +1,9 @@
 ---
 date:         2021-01-14
-tags:         [Pandemie Covid-19]
+tags:         
+- koronavirus
 title:        "Praha pomůže seniorům s registrací a případnými dotazy k očkování na lince 800 160 166"
-image: 	      posts/9hrib.jpg
+image: 	      9hrib.jpg
 author:       MHMP
 ---
 

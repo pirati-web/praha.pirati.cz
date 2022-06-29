@@ -1,8 +1,9 @@
 ---
 date:         2021-02-22
-tags:         [Pražský klimatický závazek, Elektromobilita]
+tags:         
+- životní prostředí
 title:        "Praha podnikla další krok směrem k rozvoji elektromobility na svém území"
-image: 	      posts/elektroauta.jpg
+image: 	      elektroauta.jpg
 author:       MHMP
 ---
 

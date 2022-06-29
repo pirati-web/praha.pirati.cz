@@ -1,6 +1,6 @@
 ---
 date:         2019-01-19
-tags:         [Piráti, Zdeněk Hřib]
+tags:         projev
 title:        "Projev Zdeňka Hřiba na Celostátním fóru 2019"
 image: 	      posts/hrib3.jpg
 author:       Zdeněk Hřib

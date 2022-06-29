@@ -1,10 +1,10 @@
 ---
 date:         2016-11-25
 category:     blog
-tags:         [Rozpočet, Hnutí ANO, ČSSD, Zastupitelstvo]
+tags:         Praha
 layout:       post
 title:        "ANO a ČSSD hodily nájemníky písnického sídliště přes palubu" 
-image:        posts/pisnicti.jpg
+image:        pisnicti.jpg
 author:       Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík
 ---
 

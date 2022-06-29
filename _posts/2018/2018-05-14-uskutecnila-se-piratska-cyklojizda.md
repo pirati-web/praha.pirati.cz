@@ -1,7 +1,7 @@
 ---
 date:         2018-05-14
 category:     blog
-tags:         [Cyklodoprava]
+tags:         doprava cyklistika
 layout:       post
 title:        "Piráti vyrazili na velkou jarní cyklojízdu" 
 image:        cyklojizda.jpg

@@ -1,6 +1,6 @@
 ---
 date:         2019-09-17
-tags:         [Praha 5]
+tags:         praha-5
 title:        "Audit dal Pirátům za pravdu u podezřelých zakázek, a proto na Městské části Praha 5 končí"
 image: 	      posts/mazur2.jpg
 author:       Daniel Mazur
@@ -22,11 +22,11 @@ Nejedná se o jediný nedostatek, který Piráti v souvislosti s městskou čás
 
 Upozorňováním na procesní nedostatky a nehospodárnost si Piráti vysloužili odchod do opozice. I přesto se jim za necelý rok řada věcí podařila, jejich přehled můžete najít na webové stránce: [https://praha5.pirati.cz/aktuality/piratske-uspechy-na-Praze-5.html](https://praha5.pirati.cz/aktuality/piratske-uspechy-na-Praze-5.html)
 
-![Grafika 1](/assets/img/posts/grafika-5-1.png "Veřejné zakázky malého rozsahu")
+![Grafika 1](https://a.pirati.cz/praha/img/posts/grafika-5-1.png "Veřejné zakázky malého rozsahu")
 
 Výše uvedený graf ukazuje data Odboru správy veřejných prostranství a zeleně za roky 2017 a 2018. Průzkum se týká výhradně veřejných zakázek malého rozsahu v rámci uvedeného odboru. Výsledná cena zakázek na stavební práce je 96,8 % z předpokládané hodnoty zakázky. Až na naprosté výjimky (jednotky VZ) se jedná o schéma 5 oslovených, 3 obdržené nabídky (nezveřejněno na profilu, tj. nemožnost přihlásit se od úplně jiného uchazeče). Rozdíl mezi nejvyšší a nejnižší nabídnutou cenou je průměrně 1,7 %. Přibližný počet oslovených subjektů v uzavřeném řízení činí 14
 
-![Grafika 2](/assets/img/posts/grafika-5-2.png "Výsledná cena zakázek")
+![Grafika 2](https://a.pirati.cz/praha/img/posts/grafika-5-2.png "Výsledná cena zakázek")
 
 Výsledná cena zakázek na služby/dodávky je 95,5 % z předpokládané hodnoty zakázky
 

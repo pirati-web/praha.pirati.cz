@@ -1,8 +1,10 @@
 ---
 date:         2021-05-12
-tags:         [Legislativa, Stavební zákon]
+tags:         
+- územní-plánování
+- legislativa
 title:        "Hřib: Za Svaz měst a obcí odmítám vládou a ministerstvem zpackaný stavební zákon"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       Zdeněk Hřib
 ---
 

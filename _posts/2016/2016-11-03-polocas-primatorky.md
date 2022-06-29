@@ -1,10 +1,10 @@
 ---
 date:         2016-11-03
 category:     blog
-tags:         [Hnutí ANO, Piráti]
+tags:         Praha
 layout:       post
 title:        "Jakub Michálek k poločasu primátorky Adriany Krnáčové" 
-image:        posts/jakub-tiskovka.jpg
+image:        jakub-tiskovka.jpg
 author:       Jakub Michálek
 ---
 

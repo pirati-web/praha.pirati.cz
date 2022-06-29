@@ -3,8 +3,8 @@ title:	Piráti dolují informace ČKA
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	posts/pirati-vs-kalousek.jpg
-tags:	[Transparentnost]
+image:	pirati-vs-kalousek.jpg
+tags:	informace
 date:	2014-11-19
 ---
 

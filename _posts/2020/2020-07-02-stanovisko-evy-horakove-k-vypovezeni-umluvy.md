@@ -1,8 +1,8 @@
 ---
 date:         2020-07-02
-tags:         [Legislativa, Sexbyznys]
+tags:         prostituce komentář
 title:        "Horáková: Regulaci sexbyznysu chci prosazovat i nadále, zrušení Úmluvy je nutností"
-image: 	      posts/horakova4.jpg
+image: 	      horakova4.jpg
 author:       Eva Horáková
 ---
 

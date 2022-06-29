@@ -1,10 +1,10 @@
 ---
 date:         2017-12-02
 category:     blog
-tags:         [Trojská lávka]
+tags:         doprava
 layout:       post
 title:        "Pád Trojské lávky: TSK dlouhodobě neřešila špatný stav mostů"
-image:        posts/lavka.jpg
+image:        lavka.jpg
 author:       Adam Zábranský
 ---
 
@@ -16,4 +16,4 @@ Piráti v roce 2016 podávali spolu se Zelenými a Nadačním fondem proti korup
 
 ### Odkazy
 
-* [Analýza o stavu pražských mostů, svěřených do správy Technické správy komunikací hl. m. Prahy, kterou Rada hl. m. Prahy "vzala na vědomí"](/assets/pdf/analyza-mostu.pdf) 
+* [Analýza o stavu pražských mostů, svěřených do správy Technické správy komunikací hl. m. Prahy, kterou Rada hl. m. Prahy "vzala na vědomí"](https://a.pirati.cz/praha/pdf/analyza-mostu.pdf) 

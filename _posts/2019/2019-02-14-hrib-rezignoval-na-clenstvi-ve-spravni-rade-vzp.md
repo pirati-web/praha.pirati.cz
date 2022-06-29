@@ -1,6 +1,6 @@
 ---
 date:         2019-02-14
-tags:         [Zdeněk Hřib]
+tags:         praha
 title:        "Zdeněk Hřib rezignoval na členství ve Správní radě VZP"
 image: 	      posts/7hrib.jpg
 author:       Martina Vacková

@@ -1,6 +1,6 @@
 ---
 date:         2019-02-04
-tags:         [Piráti]
+tags:         praha
 title:        "Rada hl. m Prahy představila půlroční plán aktivit"
 image: 	      posts/6hrib.jpg
 author:       Martina Vacková
@@ -10,13 +10,13 @@ Rada hl. m Prahy představila svůj půlroční plán aktivit, pro jehož splně
 
 Náměstek primátora pro dopravu Adam Scheinherr si na půl roku vytyčil úkoly týkající se dokončení diagnostiky Hlávkova mostu a mostu Legií. Po dokončení diagnostiky zahájí práce na plánu oprav obou mostů v krátkodobém i dlouhodobém výhledu. Finalizuje také plán udržitelné mobility Prahy a okolí. Praha získá strategický dokument, který předkládá konkrétní dopravní opatření v horizontu 2020-2030. Pražané konečně budou vědět, jak se bude jejich město rozvíjet. Připraví podmínky pro výkup zelených pásů úseku Pražského okruhu 511 Běchovice – D1. Vypíše výběrové řízení na komisionáře, který začne v koordinaci s Ředitelstvím silnic a dálnic ČR vykupovat pozemky pro zelené pásy podél stavby. Zahájí geologický průzkum metra D, dohodne se s majiteli v okolí plánované stanice metra Nádraží Krč a zajistí nákup jízdních dokladů ve všech tramvajích platební kartou.
 
-![Cedule s odjezdy všech typů spojů](/assets/img/posts/ppp-hrib.jpg "Cíle půlročního plánu primátora Zdeňka Hřiba")
+![Cedule s odjezdy všech typů spojů](https://a.pirati.cz/praha/img/posts/ppp-hrib.jpg "Cíle půlročního plánu primátora Zdeňka Hřiba")
 
 > „Jsem rád, že současná Rada hlavního města Prahy je složená ze skutečných odborníků na své gesce. Kolegové si vytyčili nemalé cíle, ale já jsem pevně přesvědčen, že budou splněny. Již teď je vidět, jak koalice naplno a precizně pracuje, a došlo k vyřešení nejedné problematiky. Zdůraznil bych například dohodu s Ministerstvem dopravy České republiky na zahájení výkupu pozemků vnějšího okruhu i bez nutnosti územního rozhodnutí nebo vyplacení odškodného obětem Trojské lávky,“ uvedl k půlročnímu plánu koalice primátor Zdeněk Hřib.
 
 Náměstek primátora pro územní rozvoj Petr Hlaváček, radní Hana Kordová Marvanová a radní Adam Zábranský budou v rámci půlročního plánu společně nastavovat mechanismy a procesy řešení krize dostupnosti bydlení, odpovědného rozvoje Prahy a vhodné legislativy. Petr Hlaváček se konktrétně zaměří na analýzu podmínek, za kterých by mohl vzniknout odbor územního rozhodování pro nesloučená územní řízení na úrovni hl. m. Prahy. To by mohlo pomoci urychlení rozhodovacích procesů a navýšení jejich kvality. Představí inovativní koncept spolupráce na výstavbě bytů ve městě (družstva, město, soukromý sektor) pro zajištění diverzity typů bytové výstavby a společně s Institutem plánování a rozvoje Prahy magistrát vytipuje pozemky ve vlastnictví města vhodné pro družstevní bytovou výstavbu. Zároveň budou vytipovány pozemky ve vlastnictví města, kde bude možné v kratším časovém horizontu připravit a zahájit bytovou výstavbu. Připraví také personální posílení odborů výstavby a územního rozhodování na Magistrátu hl. m. Prahy, aby se zrychlilo odvolací řízení u stavebních záměrů a byly navýšeny kapacity pro projednání připomínek k Metropolitnímu plánu. Radní Hana Kordová Marvanová, která má v gesci podporu bydlení, legislativu a veřejnou správu, zpracuje koncepci bytové politiky hl. m. Prahy s výhledem do roku 2040. Navrhne pozemky ve vlastnictví města vhodné pro družstevní bytovou výstavbu a vytvoří program podpory dostupného bydlení pro mladé rodiny v Praze. Zapojí se do přípravy nového stavebního zákona a novelizace stavebních předpisů. Bude podporovat změny zákonů, které umožní lépe upravit pravidla pro poskytování služeb krátkodobého ubytování pomocí digitálních platforem. Bude také usilovat o dohodu se zástupci digitálních platforem a připraví legislativní návrh na zavedení předkupního práva pro obce v případě prodeje majetku státu na jejich území.
 
-![Cedule s odjezdy všech typů spojů](/assets/img/posts/ppp-zabransky.jpg "Cíle půlročního plánu radního Adama Zábranského")
+![Cedule s odjezdy všech typů spojů](https://a.pirati.cz/praha/img/posts/ppp-zabransky.jpg "Cíle půlročního plánu radního Adama Zábranského")
 
 Radní Adam Zábranský, který se zaměřuje především na oblast bytového fondu, efektivního a transparentního hospodaření města, plánuje pomoci rodinám a seniorům, kteří se ocitli bez domova. Vyčlení 40 bytů pro rodiny s dětmi z ubytoven a 30 bytů pro seniory, kteří aktuálně bydlí na ubytovnách. S městskými částmi, které projeví zájem o společné řešení bytové politiky, uzavře memorandum a bude spolupracovat na zřízení společných kontaktních míst pro bydlení. Zpracuje přehled prázdných bytů svěřených městským částem a představí plán na jejich opravu. Zavede rozklikávací rozpočet Prahy až na úroveň faktur. Jmenuje koordinátora otevřených dat, který zajistí lepší dostupnost otevřených dat z magistrátu i městských firem a umožní tak rozvoj skutečných Smart City aplikací. A rozšíří portál otevřených dat o seznam nájemních smluv na nebytové prostory.
 
@@ -36,7 +36,7 @@ Jan Čižinský, starosta městské části Praha 7, uvedl:
 
 Milena Johnová, radní pro oblast zdravotnictví a sociální politiku, navrhne způsoby oceňování pravidelných dobrovolných dárců krve v Praze. Poukáže na význam dárcovství krve. Ve spolupráci s městskou částí Praha 1 připraví koncepci rozvoje Nemocnice Na Františku. Ve spolupráci s vedením Nemocnice Na Bulovce identifikuje hlavní priority rekonstrukce areálu nemocnice tak, aby prostředí odpovídalo špičkové pražské klinice. Vytvoří podmínky pro to, aby se Pražané s postižením, kteří byli vystěhováni do zapadlých koutů republiky, mohli vrátit domů. A připraví novou strategii podpory pěstounů pro nejvíce ohrožené skupiny dětí.
 
-![Cedule s odjezdy všech typů spojů](/assets/img/posts/ppp-simral.jpg "Cíle půlročního plánu radního Víta Šimrala")
+![Cedule s odjezdy všech typů spojů](https://a.pirati.cz/praha/img/posts/ppp-simral.jpg "Cíle půlročního plánu radního Víta Šimrala")
 
 Radní pro oblast školství, vzdělávání a sportu Vít Šimral, spustí pilotní ročník žákovské a studentské soutěže “Škola bez plastů”, v níž by týmy studentů měly vymyslet a realizovat projekty ke snížení výskytu plastů ve školách. Nejlepší týmy budou odměněny. Společně s Univerzitou Karlovou a Českým vysokým učením technickým v Praze zahájí projekt PRG.AI - nového pražského mezinárodního hubu zaměřeného na umělou inteligenci. Rozdělí také 1 miliardu Kč z rozpočtu hl. m. Prahy školským zařízením na posílení platů zaměstnanců. Rozpočtová položka bude rozdělena následovně: 400 milionů Kč pro školy a další pedagogická pracoviště, která zřizuje hlavní město Praha, 500 milionů Kč městským částem na zařízení, která zřizují městské části, a 100 milionů Kč školním jídelnám.
 
@@ -44,9 +44,9 @@ Na závěr pak primátor Zdeněk Hřib v rámci efektivní a vstřícné správy
 
 Na co se bude Rada hl. m. Prahy v celém svém funkčním období zaměřovat, již podrobně shrnula ve společném programovém prohlášení Pirátské strany, hnutí Praha sobě a koalice TOP 09 a Starostové a nezávislí ve spolupráci s KDU-ČSL.
 
-![Cedule s odjezdy všech typů spojů](/assets/img/posts/ppp-temata.jpg "Ostatní témata koalice")
+![Cedule s odjezdy všech typů spojů](https://a.pirati.cz/praha/img/posts/ppp-temata.jpg "Ostatní témata koalice")
 
 ### Odkazy
 
-* [Prezentace půlročního plánu](/assets/pdf/prezentace-pulrocniho-planu.PDF)
+* [Prezentace půlročního plánu](https://a.pirati.cz/praha/pdf/prezentace-pulrocniho-planu.PDF)
 * [Videozáznam tiskové konference](https://www.facebook.com/CeskaPiratskaStranaPraha/videos/2269794473254189/)

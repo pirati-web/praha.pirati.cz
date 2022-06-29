@@ -1,8 +1,8 @@
 ---
 date:         2020-05-29
-tags:         [Pandemie Covid-19]
+tags:         finance koronavirus
 title:        "Hlavní město zveřejňuje seznam doposud podpořených žadatelů v programu COVID Praha"
-image: 	      posts/tk-koalice.jpg
+image: 	      tk-koalice.jpg
 author:       MHMP
 ---
 
@@ -22,6 +22,6 @@ Program COVID Praha byl spuštěn jako reakce hlavního města na palčivou pot�
 
 ### Odkazy 
 
-* [Seznam podepsaných smluv](/assets/xlsx/covid.xlsx)
+* [Seznam podepsaných smluv](https://a.pirati.cz/praha/xlsx/covid.xlsx)
 
 

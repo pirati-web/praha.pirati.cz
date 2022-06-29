@@ -1,11 +1,11 @@
 ---
 date:         2018-06-14
 category:     blog
-tags:         [Volby 2018]
+tags:         volby
 layout:       post
 title:        "Piráti odmítli pokřivení volebního systému v Praze, přestože by z něho těžili" 
-image:        posts/rozdeleni-prahy.jpg
-authorId:       adam.zabransky
+image:        rozdeleni-prahy.jpg
+author:       Adam Zábranský
 ---
 
 Praha, 14. června 2018 – Na červnovém zasedání pražského zastupitelstva ad-hoc koalice ODS, ANO a TOP 09 chtěla schválit, že v říjnových komunálních volbách bude Praha rozdělena do 7 volebních obvodů. Návrh nakonec neprošel o jediný hlas.

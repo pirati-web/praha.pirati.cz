@@ -1,9 +1,9 @@
 ---
 date:         2020-11-09
 tags:         
- - Bydlení
+ - praha
 title:        "Praha pokračuje ve finanční podpoře kontaktních míst pro bydlení"
-image: 	      posts/adam-zabransky-8.jpg
+image: 	      adam-zabransky-8.jpg
 author:       MHMP
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2019-10-17
-tags:         [Piráti]
+tags:         praha piráti
 title:        "Krausová: Firmám spojeným s panem Tenzerem jsme neposkytli žádnou výhodu"
-image: 	      posts/krausova.jpg
+image: 	      krausova.jpg
 author:       Michaela Krausová
 ---
 

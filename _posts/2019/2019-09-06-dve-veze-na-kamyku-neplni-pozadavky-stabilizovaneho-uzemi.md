@@ -1,6 +1,6 @@
 ---
 date:         2019-09-06
-tags:         [Praha 12]
+tags:         praha praha-12
 title:        "Dvě věže na Kamýku neplní požadavky stabilizovaného území"
 image: 	      posts/dve-veze.jpg
 author:       Eva Tylová, Tomáš Murňák, Václav Láska

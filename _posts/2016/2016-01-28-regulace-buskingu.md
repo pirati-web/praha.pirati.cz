@@ -3,8 +3,8 @@ title:	Nová vyhláška o buskingu – Praha drasticky omezí pouliční umění
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	posts/busking-schvalen.jpg
-tags:	[Umění ve veřejném prostoru, Zastupitelstvo]
+image:	busking-schvalen.jpg
+tags:	magistrát busking
 date:	2016-01-28
 ---
 

@@ -1,10 +1,10 @@
 ---
 date:         2018-02-05
 category:     blog
-tags:         [Volby 2018]
+tags:         piráti
 layout:       post
 title:        "Piráti vyhlásili primární volby na lídra pražské kandidátky, rozhodnutí padne v únoru" 
-image:        posts/jednani.jpg
+image:        jednani.jpg
 author:       Adam Zábranský
 ---
 

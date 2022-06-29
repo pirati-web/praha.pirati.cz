@@ -4,8 +4,8 @@ category: blog
 title: "Podporujeme účast Tchaj-wanu na Světovém zdravotnickém shromáždění"
 date: 2019-05-16
 author: "Joey Wang, Michaela Krausová"
-image: posts/taiwan.jpg
-tags: [Tchaj-wan]
+image: taiwan.jpg
+tags: zahraničí
 ---
 
 Dnes se na Staroměstském náměstí shromáždili občané, kteří chtějí, aby byl Tchajwan připuštěn na letošní Světové zdravotnické shromáždění (WHA), tedy jednání výkonné rady Světové zdravotnické organizace (WHO). Na akci, které se ostrov pravidelně již od roku 2009 účastnil, nebyl pozván na základě politického nátlaku ze strany pevninské Číny. 

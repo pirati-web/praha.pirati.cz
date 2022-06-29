@@ -1,8 +1,9 @@
 ---
 date:         2020-08-04
-tags:         [Praha 6, Životní prostředí]
+tags:         
+ - životní-prostředí
 title:        "Hlavní město Praha kupuje pozemky u Hvězdy, kde majitel usiloval o bytovou výstavbu"
-image: 	      posts/malybrevnov.jpg
+image: 	      malybrevnov.jpg
 author:       "Piráti Praha 6"
 ---
 

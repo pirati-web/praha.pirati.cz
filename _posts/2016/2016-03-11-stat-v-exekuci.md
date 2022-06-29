@@ -2,8 +2,8 @@
 title:	Kvůli utajování technických norem je stát v exekuci a zaplatí pokutu 100 000 Kč
 category:	blog
 date:	2016-03-11
-tags:	[Transparentnost] 
-image:	posts/obvodnisoud.jpg
+tags:	informace technické-normy
+image:	obvodnisoud.jpg
 layout:	post
 author:	Jakub Michálek
 ---

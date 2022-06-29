@@ -1,8 +1,10 @@
 ---
 date:         2021-03-29
-tags:         [Legislativa, Stavební zákon]
+tags:         
+- územní-plánování
+- legislativa
 title:        "Nový stavební zákon nemůže přinést zrychlení povolování staveb. Česká města bijí na poplach a přichází s receptem na řešení"
-image: 	      posts/0hrib.jpg
+image: 	      0hrib.jpg
 author:       MHMP
 ---
 

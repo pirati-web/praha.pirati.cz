@@ -1,8 +1,10 @@
 ---
 date:         2021-05-25
-tags:         [Pražský inovační institut, Školství]
+tags:         
+- inovace
+- školství
 title:        "Praha připravila klíčový projekt k inovacím v pražském vzdělávání pro příští tři roky"
-image: 	      posts/vitsimral5.jpg
+image: 	      vitsimral5.jpg
 author:       MHMP
 ---
 

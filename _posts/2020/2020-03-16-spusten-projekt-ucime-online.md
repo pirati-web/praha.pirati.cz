@@ -1,8 +1,8 @@
 ---
 date:         2020-03-16
-tags:         [Pandemie Covid-19]
+tags:         bezpečnost školství koronavirus
 title:        "Zahájení provozu portálu „učíme.online“ a internetového Rádia Ámos"
-image: 	      posts/vitsimral2.jpg
+image: 	      vitsimral2.jpg
 author:       MHMP
 ---
 

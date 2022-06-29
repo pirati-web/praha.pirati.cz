@@ -1,10 +1,10 @@
 ---
 date:         2018-09-26
 category:     blog
-tags:         [Praha 1, TOP 09, Volby 2018]
+tags:         praha-1
 layout:       post
 title:        "Vyzýváme TOP 09: Zbavte se Lomeckého"
-image:        posts/hrib3.jpg
+image:        hrib3.jpg
 author:       Zdeněk Hřib
 ---
 
@@ -18,4 +18,4 @@ Zdeněk Hřib se rozhodl Jiřího Pospíšila otevřeným dopisem oslovit proto,
 
 ### Odkazy 
 
-* [Text otevřeného dopisu](https://praha.pirati.cz/assets/pdf/otevreny-dopis-pospisilovi.pdf)
+* [Text otevřeného dopisu](https://a.pirati.cz/praha/pdf/otevreny-dopis-pospisilovi.pdf)

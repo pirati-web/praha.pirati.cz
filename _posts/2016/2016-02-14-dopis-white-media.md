@@ -3,8 +3,8 @@ title:	Otevřený dopis redakci White Media
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík, Ondřej Profant, Jakub Michálek, Adam Zábranský
-image:	posts/demo-n.jpg
-tags:	[Piráti]
+image:	demo-n.jpg
+tags:	otevřené-dopisy
 date:	2016-02-14
 ---
 

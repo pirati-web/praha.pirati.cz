@@ -1,8 +1,8 @@
 ---
 date:         2020-06-23
-tags:         Turismus
+tags:         turistika
 title:        "Startuje kampaň V Praze jako doma"
-image: 	      posts/8hrib.jpg
+image: 	      8hrib.jpg
 author:       MHMP
 ---
 

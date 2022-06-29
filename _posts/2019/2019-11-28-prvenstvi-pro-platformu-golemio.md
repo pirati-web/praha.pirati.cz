@@ -1,8 +1,8 @@
 ---
 date:         2019-11-28
-tags:         [IT, Otevřená data, Operátor ICT, Golemio]
+tags:         informatika
 title:        "Datová platforma Golemio získala další prvenství"
-image: 	      posts/golemio2.jpg
+image: 	      golemio2.jpg
 author:       Operátor ICT
 ---
 

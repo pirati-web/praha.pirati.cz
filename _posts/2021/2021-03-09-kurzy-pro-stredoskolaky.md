@@ -1,9 +1,9 @@
 ---
 date:         2021-03-09
 tags:         
-- Školství
+- školství
 title:        "Městská knihovna v Praze a Pražský inovační institut spustí vzdělávací kurzy pro středoškoláky. S pedagogy budou mít zdarma přístup k informacím"
-image: 	      posts/knihovna.jpg
+image: 	      knihovna.jpg
 author:       MHMP
 ---
 

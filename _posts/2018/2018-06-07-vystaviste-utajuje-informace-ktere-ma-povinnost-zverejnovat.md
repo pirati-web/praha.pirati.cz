@@ -1,10 +1,10 @@
 ---
 date:         2018-06-07
 category:     blog
-tags:         [Městské firmy, Transparentnost, Výstaviště]
+tags:         městské-firmy
 layout:       post
 title:        "Pražské Výstaviště utajuje informace, které má povinnost zveřejňovat" 
-image:        posts/agenti-vystaviste.jpg
+image:        agenti-vystaviste.jpg
 author:       Adam Zábranský
 ---
 

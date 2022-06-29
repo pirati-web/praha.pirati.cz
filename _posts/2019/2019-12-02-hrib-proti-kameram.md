@@ -1,8 +1,8 @@
 ---
 date:         2019-12-02
-tags:	[Městský kamerový systém] 
+tags:         informatika
 title:        "Hřib: Jsem proti použití technologie face recognition pro městské kamery. Je pro městskou policii a k zajištění plynulosti dopravy. Ne Velkému bratrovi v čínském stylu"
-image: 	      posts/8hrib.jpg
+image: 	      8hrib.jpg
 author:       Zdeněk Hřib
 ---
 

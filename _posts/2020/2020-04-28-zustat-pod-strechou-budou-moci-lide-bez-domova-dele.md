@@ -1,8 +1,8 @@
 ---
 date:         2020-04-28
-tags:         [Pandemie Covid-19]
+tags:         bydlení koronavirus
 title:        "Praha pokračuje v bezpečnostních opatřeních, lidé bez domova budou moci dál zůstat pod střechou"
-image: 	      posts/adam-zabransky-3.jpg
+image: 	      adam-zabransky-3.jpg
 author:       MHMP
 ---
 

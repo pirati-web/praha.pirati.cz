@@ -1,6 +1,6 @@
 ---
 date:         2019-08-06
-tags:         [Turismus, Zahraničí]
+tags:         praha
 title:        "Praha chce být zajímavou adresou pro zahraniční podnikatele. Propagovat metropoli pomůže nové video"
 image: 	      posts/spot1.jpg
 author:       Vít Šimral

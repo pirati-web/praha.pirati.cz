@@ -1,11 +1,11 @@
 ---
 date:         2018-11-01
 category:     blog
-tags:         [TOP 09, Praha 1]
+tags:         praha-1
 layout:       post
 title:        "Starosta Lomecký a jeho kolegové z Rady MČ Praha 1 po prohraných volbách poškozují Prahu 1"
-image:        posts/destruct.jpg
-authorId:     david.bodecek
+image:        destruct.jpg
+author:       David Bodeček
 ---
 
 Praha, 1. listopadu 2018 – Představitelé strany TOP 09 na Praze 1 se po neúspěchu v komunálních volbách snaží získat maximum pro své loajální členy a nebo sympatizanty. Přestože strana TOP 09 utrpěla na Praze 1 porážku, její představitelé, kteří jsou stále ještě členy Rady Městské části Praha 1, tuto skutečnost nerespektují a z pozice dosluhujících radních přijímají rozhodnutí, kterými podle Pirátů poškozují Prahu 1.

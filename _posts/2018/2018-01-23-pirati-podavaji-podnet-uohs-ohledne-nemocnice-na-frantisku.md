@@ -1,10 +1,10 @@
 ---
 date:         2018-01-23
 category:     blog
-tags:         [Nemocnice Na Františku, Praha 1]
+tags:         praha-1 nemocnice-na-františku
 layout:       post
 title:        "Podali jsme podnět k ÚOHS ke zrušení koncesního řízení na Nemocnici na Františku" 
-image:        posts/uohs.jpg
+image:        uohs.jpg
 author:       Adam Zábranský
 ---
 
@@ -14,4 +14,4 @@ Piráti pokračují v boji proti koncesi na provoz Nemocnice Na Františku na 35
 
 ## Odkazy
 
-* Podání Pirátů Úřadu pro ochranu hospodářské soutěže z pera Zdeňka Hřiba: [podnet-uohs.pdf](/assets/pdf/podnet-uohs.pdf)
+* Podání Pirátů Úřadu pro ochranu hospodářské soutěže z pera Zdeňka Hřiba: [podnet-uohs.pdf](https://a.pirati.cz/praha/pdf/podnet-uohs.pdf)

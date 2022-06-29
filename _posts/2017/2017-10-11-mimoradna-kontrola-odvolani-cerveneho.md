@@ -1,10 +1,10 @@
 ---
 date:         2017-10-11
 category:     blog
-tags:         [Pražské hřbitovy, Kontrolní výbor]
+tags:         hrbitovy
 layout:       post
 title:        "Kontrolní výbor doporučil mimořádnou kontrolu správy hřbitovů a nesouhlasí s utajením posudku před zastupiteli"
-image:        posts/michalek-mikrofon.jpg
+image:        michalek-mikrofon.jpg
 author:       Jakub Michálek
 ---
 

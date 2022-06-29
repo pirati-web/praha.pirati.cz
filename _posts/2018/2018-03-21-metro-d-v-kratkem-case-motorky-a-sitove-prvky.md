@@ -1,10 +1,10 @@
 ---
 date:         2018-03-21
 category:     blog
-tags:         [Doprava, Metro D]
+tags:         zhmp doprava
 layout:       post
 title:        "Pražská koalice: 200 stránek k metru D si prostudujte za 2 dny. Miliony na motorky a síťové prvky. Březnové zastupitelstvo oplývá bizarnostmi" 
-image:        posts/metrod.jpg
+image:        metrod.jpg
 author:       Adam Zábranský, Ivan Mikoláš, Jan Loužek
 ---
 

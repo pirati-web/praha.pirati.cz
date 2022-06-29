@@ -1,10 +1,10 @@
 ---
 date:         2018-02-22
 category:     blog
-tags:         [Libeňský most, Zastupitelstvo]
+tags:         zhmp doprava
 layout:       post
 title:        "Magistrálu humanizovat, Libeňský most nebourat" 
-image:        posts/hlavkuv-most.jpg
+image:        hlavkuv-most.jpg
 author:       Viktor Mahrik
 ---
 

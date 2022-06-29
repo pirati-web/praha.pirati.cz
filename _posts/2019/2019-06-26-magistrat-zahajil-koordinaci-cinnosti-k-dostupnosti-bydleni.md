@@ -4,8 +4,8 @@ category: blog
 title: "Magistrát zahájil koordinaci aktivit městských částí ohledně dostupnosti bydlení"
 date: 2019-06-19
 author: "Rada hlavního města Prahy"
-image: posts/adam-zabransky-5.jpg
-tags: Bydlení
+image: adam-zabransky-5.jpg
+tags: bydlení
 ---
 
 Zástupci vedení městských částí se v uplynulých dnech setkali s představiteli hl. m. Prahy, aby zahájili spolupráci na řešení krize dostupnosti bydlení. Hlavním cílem magistrátu je sjednotit bytovou politiku a prohloubit spolupráci s jednotlivými městskými částmi.

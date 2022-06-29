@@ -1,10 +1,10 @@
 ---
 date:         2017-03-06
 category:     blog
-tags:         [Výběrové řízení, Trafiky, Zastupitelstvo]
+tags:         praha
 layout:       post
 title:        "Piráti se připojují k návrhu na svolání mimořádného zastupitelstva kvůli ovlivňování výběrových řízení v Praze mafiánskými strukturami." 
-image:        posts/z-sal.jpg
+image:        z-sal.jpg
 author:       Mikuláš Ferjenčík
 ---
 

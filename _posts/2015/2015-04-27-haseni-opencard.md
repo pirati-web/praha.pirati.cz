@@ -3,8 +3,8 @@ title:	Praha dala za Opencard 1,7 mld. Podíl na tom má ODS, TOP09 i ČSSD
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	posts/opencard.png
-tags:	[Opencard]
+image:	opencard.png
+tags:	opencard
 date:	2015-04-27
 ---
 
@@ -27,6 +27,6 @@ Z uvedeného je patrné, že při hašení problému Opencard Praha utratila dal
 
 Konkrétní zjištění Pirátů a auditu ohledně pochybení předchozích radních budou posouzena a budou zváženy další kroky jak v občanskoprávní, tak trestněprávní rovině (včetně politiků z éry Pavla Béma). Já osobně připravuji pro kontrolní výbor zastupitelstva podrobný seznam 13 chybných rozhodnutí v kauze Opencard, který bych měl předložit během následujícího měsíce.
 
-[Prezentace na tiskové konferenci v rezidenci primátorky 27. 4. 2015](/assets/pdf/politicka-pochybeni.pdf)
+[Prezentace na tiskové konferenci v rezidenci primátorky 27. 4. 2015](https://a.pirati.cz/praha/pdf/politicka-pochybeni.pdf)
 
 

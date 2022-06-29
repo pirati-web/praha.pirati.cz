@@ -1,6 +1,6 @@
 ---
 date:         2019-03-11
-tags:         [Bydlení, Otevřená data]
+tags:         praha stavební-řízení
 title:        "Praha začne měřit délky stavebních řízení, chce tak zkrotit rostoucí ceny bytů"
 image: 	      posts/domy-slunce.jpg
 author:       Zdeněk Hřib, Jakub Michálek

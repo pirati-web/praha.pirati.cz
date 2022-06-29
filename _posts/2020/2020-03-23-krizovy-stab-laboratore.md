@@ -1,8 +1,8 @@
 ---
 date:         2020-03-23
-tags:         [Krizový štáb, Pandemie Covid-19]
+tags:         bezpečnost zdravotnictví koronavirus
 title:        "Krizový štáb hl. m. Prahy vyzývá Ministerstvo zdravotnictví ČR, aby umožnilo dlouhodobý provoz a rozšíření kapacit akreditovaných laboratoří "
-image: 	      posts/tk-koronavirus.jpg
+image: 	      tk-koronavirus.jpg
 author:       MHMP
 ---
 
@@ -18,4 +18,4 @@ Krizový štáb hl. m. Prahy také řešil zajištění nouzového ubytování p
 
 ### Odkazy
  
-[Výstup z jednání Krizového štábu hl. m. Prahy 23. 3. 2020](/assets/pdf/ks-vystup4.pdf)
+[Výstup z jednání Krizového štábu hl. m. Prahy 23. 3. 2020](https://a.pirati.cz/praha/pdf/ks-vystup4.pdf)

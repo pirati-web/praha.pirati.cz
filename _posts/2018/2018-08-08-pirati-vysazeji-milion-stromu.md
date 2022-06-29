@@ -1,10 +1,10 @@
 ---
 date:         2018-08-08
 category:     blog
-tags:         [Volby 2018]
+tags:         životní-prostředí
 layout:       post
 title:        Ochladíme Prahu, vysázíme milion stromů
-image:        posts/hrib-mluvi.jpg
+image:        hrib-mluvi.jpg
 author:       Zdeněk Hřib
 ---
 

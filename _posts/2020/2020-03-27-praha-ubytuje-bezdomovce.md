@@ -1,8 +1,8 @@
 ---
 date:         2020-03-27
-tags:         [Krizový štáb, Pandemie Covid-19]
+tags:         bydlení koronavirus
 title:        "Praha zprostředkuje lidem bez domova ubytování, podpoří tak vládní opatření proti šíření nákazy"
-image: 	      posts/adam-zabransky-5.jpg
+image: 	      adam-zabransky-5.jpg
 author:       Adam Zábranský
 ---
 

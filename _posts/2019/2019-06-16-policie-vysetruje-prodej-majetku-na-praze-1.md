@@ -4,8 +4,8 @@ category: blog
 title: "Policie zahájila trestní stíhání na Praze 1 kvůli podezření při prodeji bytů. Upozornil na to Pirát Bodeček"
 date: 2019-06-17
 author: "MHMP"
-image: posts/praha1-2.jpg
-tags: [Praha 1]
+image: praha1-2.jpg
+tags: praha-1 kauzy
 ---
  
 Praha, 17. června 2019 – Policie České republiky zahájila trestní stíhání proti některým bývalým i současným zastupitelům a pracovníkům Městské části Praha 1. Trestní stíhání bylo zahájeno proti více jak třiceti osobám, které se na prodeji podílely.

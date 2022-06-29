@@ -1,9 +1,9 @@
 ---
 date:         2021-04-12
 tags:         
-- Školství
+- školství
 title:        "Pražští radní jednali o Programu podpory sportu a tělovýchovy. Mezi jednotlivé žadatele bude rozděleno více jak 318 milionů korun"
-image: 	      posts/vitsimral3.jpg
+image: 	      vitsimral3.jpg
 author:       MHMP
 ---
 

@@ -3,8 +3,8 @@ title:	Projekt turistika v Praze
 layout:	post
 category:	blog
 author:	Alexandra Herzog
-image:	posts/staromak.jpg
-tags:	Turismus
+image:	staromak.jpg
+tags:	Praha
 date:	2015-07-12
 ---
 
@@ -26,6 +26,6 @@ Weby města, které jsou určeny pro cizince, jsou dobře použitelné. Vyzkouš
 
 Celkově vzato jsem byla ráda, že mi byl přidělen tento úkol. Zjistila jsem toho o systému veřejné dopravy v Praze mnohé; dále jsem se dozvěděla o tom, že různí lidé získávají v tom stejném městě diametrálně odlišné zkušenosti. Věřím tomu, že výsledky, které měla moje činnost, pomohou České pirátské straně navrhnout nová rozhodnutí v oblasti turistiky a veřejné dopravy. Z toho, že jsem se na tomto procesu mohla podílet, pro mně plynulo značné nadšení. Jsem také vděčná za to, že se mi naskytla příležitost úzce spolupracovat s lidmi, kteří chtějí případné změny v Praze uskutečnit. 
 
-*Tento článek byl přeložen z anglického [originálu](/assets/docx/alex.docx) originálu* 
+*Tento článek byl přeložen z anglického [originálu](https://a.pirati.cz/praha/docx/alex.docx) originálu* 
 
 

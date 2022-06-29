@@ -1,10 +1,10 @@
 ---
 date:         2018-07-16
 category:     blog
-tags:         [Doprava, Metro D]
+tags:         doprava kauzy
 layout:       post
 title:        "Piráti varují před společným podnikem Dopravního podniku s Pentou k metru D" 
-image:        posts/pimp2.jpg
+image:        pimp2.jpg
 author:       Zdeněk Hřib
 ---
 

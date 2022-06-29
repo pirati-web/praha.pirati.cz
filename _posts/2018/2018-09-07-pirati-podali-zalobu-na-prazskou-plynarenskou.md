@@ -1,10 +1,10 @@
 ---
 date:         2018-09-07
 category:     blog
-tags:         [Městské firmy, Transparentnost]
+tags:         praha
 layout:       post
 title:        "Piráti žalovali Pražskou plynárenskou, která nerespektuje nález Ústavního soudu a neposkytuje informace"
-image:        posts/pre-bonus.jpg
+image:        pre-bonus.jpg
 author:       Adam Zábranský
 ---
 
@@ -20,6 +20,6 @@ Pražská plynárenská mu ale odmítla informace poskytnout s odůvodněním, �
 
 ### Odkazy 
 
-* [Žádost o informace Pirátů](/assets/pdf/01main.pdf)
-* [Zamítnutí žádosti Pirátů ze strany Pražské plynárenské](/assets/pdf/01zamitnuti.pdf)
-* [Žaloba Pirátů na Pražskou plynárenskou](/assets/pdf/01zaloba.pdf)
+* [Žádost o informace Pirátů](https://a.pirati.cz/praha/pdf/01main.pdf)
+* [Zamítnutí žádosti Pirátů ze strany Pražské plynárenské](https://a.pirati.cz/praha/pdf/01zamitnuti.pdf)
+* [Žaloba Pirátů na Pražskou plynárenskou](https://a.pirati.cz/praha/pdf/01zaloba.pdf)

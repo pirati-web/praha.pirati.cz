@@ -1,11 +1,11 @@
 ---
 date:         2018-08-23
 category:     blog
-tags:         [Praha 1]
+tags:         praha-1
 layout:       post
 title:        Piráti žalují Prahu 1, která jim systematicky odmítá poskytovat informace
-image:        posts/praha-1-ouroboros.jpg
-authorId:     david.bodecek
+image:        praha-1-ouroboros.jpg
+author:       David Bodeček
 ---
 
 Praha, 23. srpna 2018 – Předvolební boj může mít různé podoby. Na Praze 1 se úřad rozhodl, že bude Pirátům odmítat všechny žádosti o informace. To je samozřejmě v rozporu se zákonem, jak už více než 20krát potvrdil pražský Magistrát. Piráti proto na Prahu 1 podali žalobu.
