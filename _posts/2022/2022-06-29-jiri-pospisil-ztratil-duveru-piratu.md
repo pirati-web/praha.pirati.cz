@@ -9,12 +9,12 @@ tags:   [Kauza Dozimetr, TOP 09]
 
 I s ohledem na nadcházející předsednictví ČR v Radě EU, ve které bude hrát Praha významnou roli, jej proto primátor Zdeněk Hřib vyzval k okamžité rezignaci na všechny jeho funkce na Magistrátu hlavního města Prahy.
 
-Pan Pospíšil je nejen zastupitelem HMP, ale i členem těchto orgánů: 
-- Výbor ZHMP pro evropské záležitosti ZHMP (předseda),
-- Komise Rady hl. m. Prahy pro předsednictví České republiky v Radě EU v roce 2022 (předseda),
-- Komise Rady HMP pro výběr ředitele/ředitelky příspěvkové organizace hl. m. Prahy Pražská developerská společnost (člen),
-- Komise Rady hl. m. Prahy pro vznik koncertního sálu hl. m. Prahy (člen),
-- Komise Rady hl. m. Prahy pro umění ve veřejném prostoru (člen).
+Pan Pospíšil je nejen zastupitelem hlavního města Prahy, ale i členem těchto orgánů: 
+- [Výbor ZHMP pro evropské záležitosti ZHMP](https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/archiv_zpravy_z_vyboru_zastupitelstva/volebni_obdobi_2018_2022/vybor_pro_evropske_zalezitosti_zhmp/index.html) (předseda),
+- [Komise Rady hl. m. Prahy pro předsednictví České republiky v Radě EU v roce 2022](https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/komise_rady/index.html?commissionId=35656) (předseda),
+- [Komise Rady HMP pro výběr ředitele/ředitelky příspěvkové organizace hl. m. Prahy Pražská developerská společnost](https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/komise_rady/index.html?commissionId=35634) (člen),
+- [Komise Rady hl. m. Prahy pro vznik koncertního sálu hl. m. Prahy](https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/komise_rady/index.html?commissionId=35290) (člen),
+- [Komise Rady hl. m. Prahy pro umění ve veřejném prostoru](https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/komise_rady/index.html?commissionId=34008) (člen).
 
 **Vysílání pravomocně odsouzeného křivopřísežníka Jiřího Fremra jako svého delegáta na schůzky s mafií nebo jejich společné dovolené v zahraničí, kterých se účastnil i pan Redl, považujeme za nepřípustné.** Věříme, že z toho pan Pospíšil vyvodí vlastní politickou odpovědnost. Vyzýváme také předsednictvo TOP 09, aby zvážilo svůj postup v této závažné situaci. Předsedkyně TOP 09 Markéta Pekarová Adamová sama ve [článku na serveru Seznam Zprávy ze dne 21. 6. 2022](https://www.seznamzpravy.cz/clanek/domaci-ja-se-mu-vyhybala-rika-o-vyloucenem-clenovi-sefka-top-09-pekarova-206945) uvedla: 
 
