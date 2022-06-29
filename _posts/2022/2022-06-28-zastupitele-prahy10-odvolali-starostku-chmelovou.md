@@ -1,5 +1,5 @@
 ---
-title: "PZastupitelstvo Prahy 10 odvolalo kvůli kauze Dozimetr starostku Chmelovou a místostarostu Kašpara"
+title: "Zastupitelstvo Prahy 10 odvolalo kvůli kauze Dozimetr starostku Chmelovou a místostarostu Kašpara"
 authorId: jana.komrskova
 image: 	posts/praha10-kandidatka.jpg
 tags:   [Kauza Dozimetr, Praha 10]
