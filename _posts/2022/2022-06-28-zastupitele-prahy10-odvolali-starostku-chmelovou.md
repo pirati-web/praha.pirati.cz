@@ -17,5 +17,5 @@ David Kašpar je místopředsedou pražského STAN a tím byl pravou rukou Petra
 
 Piráti mají za to, že oba odvolaní politici musí veřejnosti jednoznačně vysvětlit, že jejich konání ve veřejných funkcích nebylo, ať už vědomě či nevědomě, součástí organizované zločinecké skupiny kolem bývalého náměstka a předsedy pražského STAN Petra Hlubučka, a že financování jejich kampaně v blížících se komunálních a senátních volbách není napojené na fungování zločinecké skupiny v kauze Dozimetr.
  
-**bavu z možného napojení Davida Kašpara na Petra Hlubučka v úterý večer potvrdila i  pražská konference STAN, když ho sesadila z první desítky magistrátní kandidátky až na nevolitelné 29. místo.**
+**Obavu z možného napojení Davida Kašpara na Petra Hlubučka v úterý večer potvrdila i  pražská konference STAN, když ho sesadila z první desítky magistrátní kandidátky až na nevolitelné 29. místo.**
 
