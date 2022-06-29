@@ -1,9 +1,9 @@
 ---
 date:         2021-02-22
 tags:         
-- škoslství
+- Školství
 title:        "Praha dá letos na volnočasové granty 41 milionů"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

@@ -1,10 +1,8 @@
 ---
 date:         2020-12-23
-tags:         
- - koronavirus
- - školství
+tags:         [Pandemie Covid-19]
 title:        "Zajištění péče o děti rodičů pracujících ve vybraných profesích v hlavním městě"
-image: 	      vitsimral4.jpg
+image: 	      posts/vitsimral4.jpg
 author:       MHMP
 ---
  
@@ -20,5 +18,5 @@ Rozhodnutí primátora hl. m. Prahy nabývá účinnosti dnem 4. ledna 2021 a je
 
 ### Odkazy 
 
-* [Rozhodnutí primátora](https://a.pirati.cz/praha/pdf/rozhodnuti3.pdf)
-* [Seznam dotčených škol](https://a.pirati.cz/praha/pdf/skoly3.pdf)
+* [Rozhodnutí primátora](/assets/pdf/rozhodnuti3.pdf)
+* [Seznam dotčených škol](/assets/pdf/skoly3.pdf)

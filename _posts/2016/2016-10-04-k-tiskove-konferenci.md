@@ -1,10 +1,10 @@
 ---
 date:	2016-10-04
 category:	blog
-tags:	Praha
+tags:	[Opencard, Pavel Bém]
 layout:	post
 title:	"Krnáčová vymáhání škody za Opencard po Bémovi nenechala ani prověřit" 
-image:	jakub-kamera.jpg
+image:	posts/jakub-kamera.jpg
 author:	Mikuláš Ferjenčík
 ---
 

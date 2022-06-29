@@ -4,8 +4,8 @@ category: blog
 title: "Městská rada vyhlásila klimatický závazek Prahy"
 date: 2019-06-17
 author: "MHMP"
-image: sady.jpg
-tags: praha životní-prostředí
+image: posts/sady.jpg
+tags: [Pražský klimatický závazek, Životní prostředí]
 ---
  
 Rada hl. m. Prahy si uvědomuje, že se naše planeta nachází ve stavu klimatické nouze, a tedy i potřebu co nejrychleji zavádět opatření, která povedou ke stabilizaci množství skleníkových plynů v atmosféře. Proto dnes městská rada schválila klimatický závazek Prahy snížit emise CO2 v hlavním městě o minimálně 45 % do roku 2030 (oproti roku 2010) a dosáhnout nulových emisí CO2 nejpozději do roku 2050. Zároveň schválila základní okruhy opatření nutných k naplnění tohoto cíle. Potvrdila tak, že ochrana klimatu je její politickou prioritou.

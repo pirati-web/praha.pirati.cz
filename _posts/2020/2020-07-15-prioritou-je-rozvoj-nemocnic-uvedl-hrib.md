@@ -1,8 +1,8 @@
 ---
 date:         2020-07-16
-tags:         zdravotnictví
+tags:         [Majetkové směny se státem, Nemocnice Na Bulovce]
 title:        "Prioritou je rozvoj nemocnic na území hlavního města, shodlo se vedení Prahy s premiérem"
-image: 	      6hrib.jpg
+image: 	      posts/6hrib.jpg
 author:       MHMP
 ---
 

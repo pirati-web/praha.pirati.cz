@@ -1,10 +1,10 @@
 ---
 date:         2016-12-19
 category:     blog
-tags:         Praha
+tags:         [Hnutí ANO, Městské firmy]
 layout:       post
 title:        "Superholding: Požadujeme vlastnickou politiku města a transparentnost" 
-image:        superholding.jpg
+image:        posts/superholding.jpg
 author:       Jakub Michálek
 ---
 

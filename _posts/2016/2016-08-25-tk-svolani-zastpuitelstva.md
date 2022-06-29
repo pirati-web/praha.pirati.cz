@@ -1,10 +1,10 @@
 ---
 date:	2016-08-25
 category:	blog
-tags:	Praha zhmp
+tags:	Zastupitelstvo
 layout:	post
 title:	"Piráti, TOP 09 a ODS iniciovali mimořádné zastupitelstvo" 
-image:	tk-opo.jpg
+image:	posts/tk-opo.jpg
 author:	Jakub Michálek, Mikuláš Ferjenčík
 ---
 

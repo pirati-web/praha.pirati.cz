@@ -1,8 +1,8 @@
 ---
 date:         2020-04-02
-tags:         koronavirus finance
+tags:         [Pandemie Covid-19]
 title:        "Program INFIN rozšířil podporu inovativních projektů"
-image: 	      magistrat2.jpg
+image: 	      posts/magistrat2.jpg
 author:       MHMP
 ---
 

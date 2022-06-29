@@ -4,8 +4,8 @@ category: blog
 title: "Červen Adama Zábranského: Čtvrtmilionu smluv zveřejněno, privatizace dokončeny a centrum bydlení na Praze 10 otevřeno"
 date: 2019-07-02
 author: "Adam Zábranský"
-image: adam-zabransky-6.jpg
-tags: bydlení
+image: posts/adam-zabransky-6.jpg
+tags: [Bydlení]
 ---
 
 Červen je už za námi, a tak zde přináším pravidelné shrnutí toho, na čem jsem se v uplynulém měsíci podílel.

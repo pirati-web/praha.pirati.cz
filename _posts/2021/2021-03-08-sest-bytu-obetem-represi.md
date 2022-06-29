@@ -1,9 +1,8 @@
 ---
 date:         2021-03-08
-tags:         
-- bydlení
+tags:         [Bydlení, Zahraničí]
 title:        "Hlavní město pronajme šest bytů obětem represí běloruského režimu"
-image: 	      adam-zabransky-6.jpg
+image: 	      posts/adam-zabransky-6.jpg
 author:       MHMP
 ---
 

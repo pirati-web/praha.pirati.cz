@@ -1,9 +1,8 @@
 ---
 date:         2020-11-04
-tags:         
- - školství
+tags:         [Pandemie Covid-19, Školství]
 title:        "Praha zřídila hotline technickou pomoc pro učitele i žáky k zabezpečení online výuky"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 

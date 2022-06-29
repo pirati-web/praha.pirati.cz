@@ -1,8 +1,8 @@
 ---
 date:         2020-04-23
-tags:         informace transparentnost
+tags:         [Transparentnost]
 title:        "Praha má informačního ombudsmana, je jím Oldřich Kužílek. Pomůže s poskytováním informací i publikací smluv"
-image: 	      adam-zabransky-5.jpg
+image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP
 ---
 

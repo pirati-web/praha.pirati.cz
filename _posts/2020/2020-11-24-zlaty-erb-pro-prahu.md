@@ -1,9 +1,8 @@
 ---
 date:         2020-11-24
-tags:         
- - informatika
+tags:         [IT, Golemio]
 title:        "Datová platforma hlavního města Prahy – Golemio zvítězila v soutěži Zlatý erb"
-image: 	      7hrib.jpg
+image: 	      posts/7hrib.jpg
 author:       MHMP
 ---
 

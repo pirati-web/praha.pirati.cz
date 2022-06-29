@@ -1,10 +1,10 @@
 ---
 date:         2018-05-29
 category:     blog
-tags:         praha-12
+tags:         [Praha 12]
 layout:       post
 title:        "Piráti na Praze 12 vytvořili Mapu developerských projektů" 
-image:        p12.jpg
+image:        posts/p12.jpg
 author:       Jan Adamec
 ---
 

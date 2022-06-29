@@ -1,12 +1,11 @@
 ---
 layout: post
 category: blog
-title: >-  
-  Štěpán Štrébl: Jak je to vlastně s těmi reklamními plochami od JCDecaux?
+title: Jak je to s reklamními plochami od JCDecaux?
 date: '2019-05-03 00:01am'
 author: "Štěpán Štrébl"
-image: magistrat.jpg
-tags: praha 
+image: posts/magistrat.jpg
+tags: [Volby 2018] 
 ---
 
 Včera mi volal někdo z Novy a ptal se mě na náš deal s JCDecaux. Tenhle post doufám bude mít podobný efekt na probíhající debatu, jako Obamův rodný list na debatu o jeho původu. Dohledal jsem v mailech inkriminovanou objednávku a zveřejňuji ji. Můj závěr bude taky stejný jako u Obamy - máme důležitější věci na práci než řešit tyhle hovadiny. Ale než se k tomu závěru dostanu, tak si jdu nejdřív přihřát polívčičku.
@@ -15,7 +14,7 @@ Včera mi volal někdo z Novy a ptal se mě na náš deal s JCDecaux. Tenhle pos
 
 Jenže když mi zavolají, tak mě ani [neocitují](https://tn.nova.cz/clanek/pirati-celi-podezreni-z-korupce-dostali-enormni-slevu-na-kampan.html). Krásně by to totiž zapadalo. Sám ten oslovený expert na Nově říká, že na poslední chvíli jsou slevy v desítkách % běžné. Abych se jen nechválil, ne všechny objednávky měly 75% dolů. To bylo nejvíc, co jsme získali, objednávek bylo více, některé měly 40%, jiné 60% (v každém případě % slevy jsou irelevantní, důležitá je absolutní hodnota a jestli se vám za to vyplatí reklamní zásah koupit). Ta objednávka se slevou 75% byla na kampaň, která začala 25.9. Podepisoval jsem ji 21.9., tedy ČTYŘI dny předem. ČTYŘI DNY PŘEDEM FAKT CHCETE, ABYSTE MĚLI PLOCHY OBSAZENÉ, PROTOŽE NEUZAVŘÍT TÉMĚŘ JAKÝKOLI DEAL SE VÁM FAKT NEVYPLATÍ. Zároveň konkurence už tou dobu nemá peníze na nákupy. Narozdíl od nás chudých volí jinou taktiku, a to mít jistotu, nasmlouvat si dost ploch předem a pak už moc nenakupovat (mají to jisté, kdežto my riskujeme, abychom ušetřili, ale taky nemusíme mít nic). Ale ani tak to není žádný zázrak. Podle výroční zprávy BigBoard za 2018 byla průměrná sleva poskytnutá klientům 64%.
 
-![Objednávka](https://a.pirati.cz/praha/img/posts/objednavka.jpg "Objednávka")
+![Objednávka](/assets/img/posts/objednavka.jpg "Objednávka")
 
 Samozřejmě je jednoduše možné, že s námi lidé v JCD sympatizují více než třeba v BigBoardu, ale i o sympatiích je obchod. Skutečně tam ale není co vysvětlovat kromě toho, že jsme měli schopný tým, na který mohu být hrdý. Sleva není důkazem korupce. Naopak, nevyjednat slevu je důkazem neschopnosti! Jiří Pospíšil dokázal zaplatit za marketingového poradce 2M na ruku (bez success fee, mimochodem půlka našeho rozpočtu na pražskou kampaň). A světácky tvrdí novinářům, že 30% je v outdoor reklamě normální sleva. To spíš ukazuje na to, jaký je to hospodář a jak se nechá hezky a nevědomky prodejci obalamutit.
 

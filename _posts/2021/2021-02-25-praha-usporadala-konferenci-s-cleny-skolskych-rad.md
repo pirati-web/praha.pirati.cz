@@ -1,9 +1,9 @@
 ---
 date:         2021-02-25
 tags:         
-- školství
+- Školství
 title:        "Členové školských rad si vyměnili zkušenosti. Praha s nimi uspořádala videokonferenci"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

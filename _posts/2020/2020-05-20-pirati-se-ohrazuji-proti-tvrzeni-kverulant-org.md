@@ -1,8 +1,8 @@
 ---
 date:         2020-05-20
-tags:         doprava
+tags:         [Piráti, Dozorčí rady]
 title:        "Kategoricky odmítáme možnost vyvádění peněz z dopravního podniku ze strany Pirátů. Záležitost bude řešit dozorčí rada"
-image: 	      8hrib.jpg
+image: 	      posts/8hrib.jpg
 author:       Piráti Praha
 ---
 

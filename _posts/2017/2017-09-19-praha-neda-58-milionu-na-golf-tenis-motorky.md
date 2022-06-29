@@ -4,8 +4,8 @@ category: CLANKY
 title: "Praha nedá 58 milionů dotaci na golf, tenis a motorky"
 date: 2017-09-19T15:20:00+02:00
 author: Jakub Michálek
-image: golf.jpg
-tags: sport
+image: posts/golf.jpg
+tags: [Sport, Akce]
 ---
 
 Rada hlavního města Prahy dnes couvla ze svého původního záměru zaplatit 58 milionů korun za propagaci města na lukrativních sportovních akcích. Jednalo se o propagaci loga Prahy na tenisových šampionátech, jako je např. Davis Cup, FED Cup nebo Laver Cup, mistrovství světa na ploché dráze a některých golfových turnajích. 

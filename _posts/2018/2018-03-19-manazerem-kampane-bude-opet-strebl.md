@@ -1,10 +1,10 @@
 ---
 date:         2018-03-19
 category:     blog
-tags:         volby
+tags:         [Volby 2018]
 layout:       post
 title:        "Pro kampaň v Praze jsme najali staronového manažera a míříme vysoko" 
-image:        strebl.jpg
+image:        posts/strebl.jpg
 author:       Adam Zábranský
 ---
 

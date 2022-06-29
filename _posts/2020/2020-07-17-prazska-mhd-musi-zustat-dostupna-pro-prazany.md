@@ -1,10 +1,8 @@
 ---
 date:         2020-07-17
-tags:         
- - stanovisko
- - doprava
+tags:         [Doprava]
 title:        "Pražská MHD musí zůstat dostupná pro Pražany "
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

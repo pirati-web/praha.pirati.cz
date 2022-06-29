@@ -1,10 +1,10 @@
 ---
 date:         2018-05-02
 category:     blog
-tags:         praha-12
+tags:         [Praha 12]
 layout:       post
 title:        "Sbíráme na Praze 12 podpisy pod petici za záchranu louky u Modřanské rokle" 
-image:        nahupech.jpg
+image:        posts/nahupech.jpg
 author:       Eva Tylová
 ---
 

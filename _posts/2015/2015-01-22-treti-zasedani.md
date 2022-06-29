@@ -3,8 +3,8 @@ title:	Koalice schválila superzakázku na odpad
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	ondra-i-miki.jpg
-tags:	zhmp
+image:	posts/ondra-i-miki.jpg
+tags:	[Zastupitelstvo]
 date:	2015-01-22
 ---
 

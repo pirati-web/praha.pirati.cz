@@ -1,9 +1,8 @@
 ---
 date:         2021-03-02
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Hlavní město spustilo provoz nových očkovacích míst, očkuje se už vakcínou od Moderny"
-image: 	      magistrat2.jpg
+image: 	      posts/magistrat2.jpg
 author:       MHMP
 ---
 

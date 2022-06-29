@@ -1,9 +1,9 @@
 ---
 date:         2021-04-19
 tags:         
-- školství
+- Školství
 title:        "Praha žádá ministra Arenbergera o co nejdřívější otevření dětských skupin"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 

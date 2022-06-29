@@ -1,9 +1,8 @@
 ---
 date:         2021-03-19
-tags:         
-- doprava
+tags:         [Václavské náměstí, Tramvajové tratě]
 title:        "Tramvaje vyjedou i k Hlavnímu nádraží"
-image: 	      trat.jpg
+image: 	      posts/trat.jpg
 author:       MHMP
 ---
 

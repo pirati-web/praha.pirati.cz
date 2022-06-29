@@ -1,9 +1,9 @@
 ---
 date:         2021-02-01
 tags:         
-- školství
+- Školství
 title:        "Školy chtějí energetické úspory. Praha jejich snahu podpoří"
-image: 	      skola.jpg
+image: 	      posts/skola.jpg
 author:       MHMP
 ---
 

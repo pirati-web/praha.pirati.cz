@@ -3,8 +3,8 @@ title:	Jednotný systém parkování
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	modra-zona.jpg
-tags:	doprava
+image:	posts/modra-zona.jpg
+tags:	[Doprava, Parkování]
 date:	2014-09-05
 ---
 

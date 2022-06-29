@@ -1,9 +1,8 @@
 ---
 date:         2021-04-14
-tags:         
-- bydlení
+tags:         [Bydlení, Praha 3, Praha 10]
 title:        "Praha poskytne dotace na výstavbu bytového domu a rekonstrukce bytového fondu městských částí"
-image: 	      adam-zabransky-7.jpg
+image: 	      posts/adam-zabransky-7.jpg
 author:       MHMP
 ---
 

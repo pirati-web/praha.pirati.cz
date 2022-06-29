@@ -3,8 +3,8 @@ title:	Den otevřených dveří
 layout:	post
 category:	blog
 author:	Jan Loužek
-image:	dvere.jpg
-tags:	magistrát piráti
+image:	posts/dvere.jpg
+tags:	[Piráti]
 date:	2014-11-19
 ---
 

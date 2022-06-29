@@ -1,9 +1,8 @@
 ---
 date:         2021-05-31
-tags:         
-- zdravotnictví
+tags:         [Drop In]
 title:        "Nová mobilní ošetřovna Drop In bude k dispozici drogově závislým. Zároveň zajistí bezpečnější prostředí v okolí Hlavního nádraží"
-image: 	      magistrat2.jpg
+image: 	      posts/magistrat2.jpg
 author:       MHMP
 ---
 

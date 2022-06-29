@@ -1,6 +1,6 @@
 ---
 date:         2019-08-06
-tags:         informatika
+tags:         [Akce, IT]
 title:        "Praha se bude ucházet o hostitelství konference International Congress for the Governance of AI"
 image: 	      posts/vitsimral2.jpg
 author:       Vít Šimral

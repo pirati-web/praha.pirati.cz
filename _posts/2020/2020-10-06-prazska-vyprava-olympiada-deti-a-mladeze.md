@@ -1,9 +1,9 @@
 ---
 date:         2020-10-06
 tags:         
- - sport
+ - Sport
 title:        "Pražská výprava bude reprezentovat na Letní olympiádě dětí a mládeže 2021"
-image: 	      vitsimral.jpg
+image: 	      posts/vitsimral.jpg
 author:       MHMP
 ---
 

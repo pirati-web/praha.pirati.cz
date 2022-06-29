@@ -3,8 +3,8 @@ title:	Kleslová bere v pražských firmách 360 000 Kč měsíčně, musí odej
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	kleslova-chobotnice.jpg
-tags:	trafiky
+image:	posts/kleslova-chobotnice.jpg
+tags:	[Hnutí ANO, Radmila Kleslová, Trafiky]
 date:	2015-10-21
 ---
 

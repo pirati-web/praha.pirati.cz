@@ -1,9 +1,9 @@
 ---
 date:         2021-02-02
 tags:         
-- školství
+- Školství
 title:        "Rada schválila zakázku vybudování haly pro praktickou výuku pro školu na Smíchově. Po dokončení pomůže i studentským startupům"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

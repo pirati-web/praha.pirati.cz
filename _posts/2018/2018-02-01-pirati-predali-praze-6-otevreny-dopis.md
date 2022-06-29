@@ -1,10 +1,10 @@
 ---
 date:         2018-02-01
 category:     blog
-tags:         praha-6
+tags:         [Praha 6, CityVizor, Transparentnost]
 layout:       post
 title:        "Chceme transparentnost na radnici Prahy 6. Piráti předali otevřený dopis starostovi" 
-image:        praha-6-dopis.jpg
+image:        posts/praha-6-dopis.jpg
 author:       Viktor Mahrik
 ---
 

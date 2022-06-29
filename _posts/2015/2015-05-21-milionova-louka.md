@@ -3,8 +3,8 @@ title: "Stamilionová louka v Komořanech"
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	cenova-mapa.png
-tags:	praha-12 majetek kauzy
+image:	posts/cenova-mapa.png
+tags:	[Praha 12]
 date:	2015-05-21
 ---
 

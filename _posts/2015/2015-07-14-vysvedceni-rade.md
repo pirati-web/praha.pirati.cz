@@ -3,8 +3,8 @@ title:	Piráti dali vysvědčení radním
 layout:	post
 category:	blog
 author:	Jakub Michálek, Mikuláš Ferjenčík
-image:	adriana-krnacova.jpg
-tags:	Praha
+image:	posts/adriana-krnacova.jpg
+tags:	[Piráti, ČSSD, Hnutí ANO]
 date:	2015-07-14
 ---
 
@@ -38,6 +38,6 @@ _Trojkoalice_
 
 **Jana Plamínková** (radní pro infrastrukturu) - dobře mluví a vysvětluje na zastupitelstvu, dochází na výbor pro životní prostředí, řádně informuje o tiscích, které předkládá na radu. Na druhou stranu prosadila odůvodnění zakázky na svoz pražského odpadu za 13 miliard korun, které považujeme za nedomyšlené. Věříme, že tuto zakázku ještě přehodnotí, zjevně je jednáním o parametrech zakázky otevřená. Nepovažujeme za šťastný souběh funkcí radní a starostky městské části. **Známka: 3**
 
-![vysvědčení pražské rady](https://a.pirati.cz/praha/img/posts/vysvedceni.jpg "vysvědčení pražské rady")
+![vysvědčení pražské rady](/assets/img/posts/vysvedceni.jpg "vysvědčení pražské rady")
 
 

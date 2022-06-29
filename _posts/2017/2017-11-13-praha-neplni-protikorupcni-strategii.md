@@ -1,14 +1,14 @@
 ---
 date:         2017-11-13
 category:     blog
-tags:         magistrát
+tags:         [Protikorupční strategie]
 layout:       post
 title:        "Sliby chyby. Koalice neplní vlastní protikorupční strategii"
-image:        ruka.jpg
+image:        posts/ruka.jpg
 author:       Adam Zábranský
 ---
  
-V únoru roku 2017 pražské zastupitelstvo schválilo [protikorupční strategii](https://a.pirati.cz/praha/pdf/protikorupcni-strategie.pdf), jejíž součástí byly termíny plnění jednotlivých opatření. Magistrát je ale neplní, ačkoliv se často jedná o významné kroky vedoucí k vyšší transparentnosti města.
+V únoru roku 2017 pražské zastupitelstvo schválilo [protikorupční strategii](/assets/pdf/protikorupcni-strategie.pdf), jejíž součástí byly termíny plnění jednotlivých opatření. Magistrát je ale neplní, ačkoliv se často jedná o významné kroky vedoucí k vyšší transparentnosti města.
 
 Protikorupční strategie měla být původně schválena už v roce 2015, primátorka Krnáčová ale s její přípravou otálela a zastupitelstvo ji schválilo až na začátku roku 2017. Nakonec se do ní i díky Pirátům dostalo několik významných návrhů. Jenže zatím zůstaly jen na papíře. „Podle schváleného usnesení zastupitelstva už měly být zveřejňovány faktury Magistrátu, nájemní smlouvy na nebytové prostory či autoři podnětů na změnu územního plánu, pražská evidence smluv měla umožňovat jednodušší vyhledávání, portál otevřených dat měl rozrůst o další datové sety a tak dále. Nic z toho není. Hnutí ANO kandidovalo se silnou protikorupční rétorikou a takhle to dopadlo,“ kritizuje pražský zastupitel za Piráty Adam Zábranský, který se věnuje oblasti transparence.
 
@@ -17,6 +17,6 @@ Realizace některých navrhovaných opatření přitom není tak složitá. „V
 
 ### Odkazy 
 
-* [Protikorupční strategie hlavního města Prahy](https://a.pirati.cz/praha/pdf/protikorupcni-strategie.pdf)
+* [Protikorupční strategie hlavního města Prahy](/assets/pdf/protikorupcni-strategie.pdf)
 * [Portál Otevřených dat Prahy](http://opendata.praha.eu/)
 * [Koaliční válec, Pirátské návrhy v protikorupční strategii a senátor Kos zůstává ve finančním výboru.](https://praha.pirati.cz/protikorupcni-strategie-schvalena.html)

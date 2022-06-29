@@ -3,8 +3,8 @@ title:	Stážista si zkusil týden na magistrátu
 layout:	post
 category:	blog
 author:	Petr Běhounek
-image:	dvere.jpg
-tags:	stáže
+image:	posts/dvere.jpg
+tags:	[Piráti]
 date:	2015-06-02
 ---
 

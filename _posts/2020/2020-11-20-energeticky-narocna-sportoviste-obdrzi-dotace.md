@@ -1,9 +1,9 @@
 ---
 date:         2020-11-23
 tags:         
- - školství
+ - Školství
 title:        "Energeticky náročná sportoviště obdrží dotace"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2019-10-09
-tags:         praha zahraničí
+tags:         [Zahraničí]
 title:        "Krausová: Chceme odpolitizovat smlouvu s Pekingem, výhružky ale odmítáme"
-image: 	      tk-krausova.jpg
+image: 	      posts/tk-krausova.jpg
 author:       Michaela Krausová
 ---
 

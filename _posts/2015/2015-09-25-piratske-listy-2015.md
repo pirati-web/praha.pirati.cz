@@ -3,7 +3,8 @@ title:	Pomozte nám rozdat 80 000 Pirátských listů!
 layout:	post
 author:	Jakub Michálek
 category:	blog
-image:	noviny2015.jpg
+image:	posts/noviny2015.jpg
+tags: [Piráti]
 date:	2015-09-25
 ---
 

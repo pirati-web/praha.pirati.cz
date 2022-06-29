@@ -3,8 +3,8 @@ title:	Jakub Michálek ke zvratu ve vyjednávání pražské koalice
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	hudecek2.jpg
-tags:	zhmp koalice
+image:	posts/hudecek2.jpg
+tags:	[Zastupitelstvo]
 date:	2016-01-13
 ---
 

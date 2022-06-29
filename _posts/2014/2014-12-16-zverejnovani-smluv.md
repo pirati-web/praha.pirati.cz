@@ -3,12 +3,12 @@ title:	Zveřejňujme smlouvy lépe
 layout:	post
 category:	blog
 author:	Jan Loužek
-image:	dotaz-michalek.jpg
-tags:	zveřejňování-smluv
+image:	posts/dotaz-michalek.jpg
+tags:	[Transparentnost]
 date:	2014-12-16
 ---
 
-Zastupitelský klub Pirátů navrhuje zařadit na program jednání zastupitelstva Prahy dne 18. prosince 2014 **[nové zásady zveřejňování smluv](https://a.pirati.cz/praha/pdf/3110.pdf)**. Hlavním cílem Pirátů je, aby zveřejňování smluv skutečně sloužilo svému účelu a umožnilo občanům, neziskovým organizacím i politikům kontrolovat nakládání s veřejnými prostředky. To se v současnosti bohužel neděje. 
+Zastupitelský klub Pirátů navrhuje zařadit na program jednání zastupitelstva Prahy dne 18. prosince 2014 **[nové zásady zveřejňování smluv](/assets/pdf/3110.pdf)**. Hlavním cílem Pirátů je, aby zveřejňování smluv skutečně sloužilo svému účelu a umožnilo občanům, neziskovým organizacím i politikům kontrolovat nakládání s veřejnými prostředky. To se v současnosti bohužel neděje. 
 
 Zveřejňování smluv, které uzavírají veřejné instituce, slouží jako účinný protikorupční nástroj v různých zemích světa (např. na Slovensku, v Gruzii, Kolumbii či ve Spojeném království). Umožňuje totiž občanské společnosti kontrolovat hospodárnost výdajů veřejné správy. Zveřejňování smluv má prokazatelné výhody v předcházení nehospodárnosti a korupci. Praha sice již smlouvy prostřednictvím svého webu [praha.eu](http://www.praha.eu) uveřejňuje, nicméně nedostatečně. Často se setkáváme s údaji neúplnými, těžko dohledatelnými a přiloženými dokumenty, které navíc nejsou strojově zpracovatelné. Lze se setkat často i s dodatky smluv, které mění text předchozího kontraktu, čímž opět roste nesrozumitelnost celého záznamu. 
 

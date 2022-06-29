@@ -1,9 +1,8 @@
 ---
 date:         2021-05-19
-tags:         
-- životní-prostředí
+tags:         [Pražský klimatický závazek, Zastromuj Prahu, Životní prostředí]
 title:        "Praha se stala evropským městem lesa. Obdržela cenu European Forest City Award 2021"
-image: 	      oceneni.jpg
+image: 	      posts/oceneni.jpg
 author:       MHMP
 ---
 

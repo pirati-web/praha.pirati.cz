@@ -1,9 +1,9 @@
 ---
 date:         2019-09-24
-tags:         praha-1
+tags:         [Praha 1]
 title:        "Nová dohoda Prahy 1 s nájemcem butiku Rolex v Pařížské přinese do obecní kasy desítky milionů korun navíc"
 image: 	      posts/parizska.jpg
-author:       Praha 1
+author:       Piráti Praha 1
 ---
 
 Rada městské části Praha 1 dnes rozhodla o nové nájemní smlouvě k sousednímu prostoru již existujícího butiku společnosti Rolex na adrese Pařížská 14. V obou případech je nájemcem společnost Carollinum, nová smlouva bude uzavřena na dobu určitou do konce srpna 2026 a přinese Praze 1 už od letošního roku podstatně vyšší příjmy z nájemného. Minulé vedení radnice uzavřelo smlouvu na jednu část spojeného prostoru na dobu neurčitou a druhou s platností do roku 2021, současné vedení teď vyjednalo lepší podmínky pro obecní kasu.

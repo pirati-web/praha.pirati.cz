@@ -1,10 +1,10 @@
 ---
 date:         2018-03-28
 category:     blog
-tags:         volby kampaň
+tags:         [Volby 2018]
 layout:       post
 title:        "V Praze budou do Senátu kandidovat Michálek, Tylová a Wagenknecht" 
-image:        senatori.jpg
+image:        posts/senatori.jpg
 author:       Adam Zábranský
 ---
 

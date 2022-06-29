@@ -1,8 +1,8 @@
 ---
 date:         2020-07-14
-tags:         informatika
+tags:         [Digitalizace, IT, Golemio]
 title:        "Praha osvobozuje svá data, urychlí se tím spouštění nových aplikací"
-image: 	      hrib-kamera2.jpg
+image: 	      posts/hrib-kamera2.jpg
 author:       MHMP
 ---
 

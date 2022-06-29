@@ -1,9 +1,8 @@
 ---
 date:         2020-11-03
-tags:         
- - školství
+tags:         [Pandemie Covid-19, Školství]
 title:        "Praha pomůže rodinám s nedostatkem výpočetní techniky, školáci se nebudou muset o počítač dělit s rodiči"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

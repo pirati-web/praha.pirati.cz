@@ -1,9 +1,8 @@
 ---
 date:         2021-03-29
-tags:         
-- bydlení
+tags:         [Bydlení, Sociální politika]
 title:        "Praha pronajme městské byty organizaci Centrum služeb pro rodinu a dětský domov Charlotty Masarykové"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

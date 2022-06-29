@@ -1,10 +1,10 @@
 ---
 date:         2016-12-22
 category:     blog
-tags:         informace kauzy městské-firmy 
+tags:         [Transparentnost] 
 layout:       post
 title:        "Pirát uspěl ve sporu o informace, dceřiné firmy městských firem je musejí poskytovat" 
-image:        kladivko.jpg
+image:        posts/kladivko.jpg
 author:       Adam Zábranský
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2020-03-25
-tags:         zdravotnictví bezpečnost koronavirus
+tags:         [Krizový štáb, Pandemie Covid-19]
 title:        "Krizový štáb hl. m. Prahy jednal o odběrových místech, o dětských skupinách, ochranných prostředcích a také o pomoci osobám bez domova"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 
@@ -18,4 +18,4 @@ Krizový štáb hl. m. Prahy opakovaně apeluje na předsedkyni Krizového štá
 
 ### Odkazy
 
-* [Výstup z jednání krizového štábu](https://a.pirati.cz/praha/pdf/ks-vystup3.pdf)
+* [Výstup z jednání krizového štábu](/assets/pdf/ks-vystup3.pdf)

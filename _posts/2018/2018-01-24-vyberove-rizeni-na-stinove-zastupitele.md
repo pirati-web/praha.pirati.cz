@@ -1,10 +1,10 @@
 ---
 date:         2018-01-24
 category:     blog
-tags:         piráti
+tags:         [Piráti, Výběrové řízení]
 layout:       post
 title:        "Staň se stínovým pirátským zastupitelem" 
-image:        zastupitele.jpg
+image:        posts/zastupitele.jpg
 author:       Jan Loužek
 ---
 

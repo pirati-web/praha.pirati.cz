@@ -3,8 +3,8 @@ title:	Zkuste si pirátskou stáž
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	louzek-amelia.jpg
-tags:	magistrát stáže
+image:	posts/louzek-amelia.jpg
+tags:	[Výběrové řízení]
 date:	2015-03-02
 ---
 

@@ -3,8 +3,8 @@ title:	"Analýza smlouvy na SMS jízdenky: Praha má právo jednat o slevě"
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	revize.jpg
-tags:	kauzy sms-jízdenky
+image:	posts/revize.jpg
+tags:	[SMS jízdenky]
 date:	2015-04-23
 ---
 
@@ -53,4 +53,4 @@ Piráti doporučují Radě hl. m. Prahy, aby
 
 
 [srovnani]: /sms-jizdenky.html
-[analyza]: https://a.pirati.cz/praha/pdf/analyza_marze.pdf
+[analyza]: /assets/pdf/analyza_marze.pdf

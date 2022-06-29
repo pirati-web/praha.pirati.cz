@@ -1,6 +1,6 @@
 ---
 date:         2019-04-16
-tags:         praha
+tags:         [Dozorčí rady]
 title:        "Pražská koalice se shodla na dalších krocích v pražských plynárnách"
 image: 	      posts/tk-koalice.jpg
 author:       MHMP

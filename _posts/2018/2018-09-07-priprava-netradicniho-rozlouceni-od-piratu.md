@@ -1,11 +1,11 @@
 ---
 date:         2018-09-07
 category:     blog
-tags:         praha-1
+tags:         [Praha 1]
 layout:       post
 title:        "Chystáme netradiční rozloučení s vládnoucí garniturou na Praze 1. Lidem rozdáme přes sto melounů"
-image:        zofin.jpg
-author:       David Bodeček
+image:        posts/zofin.jpg
+authorId:     david.bodecek
 ---
 
 Praha, 7. září 2018 – V úterý 11. září 2018 proběhne na Žofíně poslední zasedání Zastupitelstva MČ Praha 1, kterého se zúčastní i Piráti. Při této příležitosti chystají také happening namířený proti nekalým praktikám radnice na Praze 1. Při akci plánují rozdat přesně 104 melounů, které mají symbolizovat jednak finanční ztrátu 52 milionů při prodeji městských bytů během čtyřletého vládnutí na Praze 1 a dále ve stejné hodnotě nadhodnocenou veřejnou zakázku na rekonstrukci jednoho z  objektů v majetku Prahy 1.

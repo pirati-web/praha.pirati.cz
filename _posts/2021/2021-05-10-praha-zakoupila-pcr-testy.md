@@ -1,10 +1,8 @@
 ---
 date:         2021-05-11
-tags:         
-- školství
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Praha na vlastní náklady nakoupila školám PCR testy a zajistila tak dětem bezpečné pokračování v jejich výuce "
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

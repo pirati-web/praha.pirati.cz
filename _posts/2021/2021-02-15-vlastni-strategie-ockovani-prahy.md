@@ -1,13 +1,12 @@
 ---
 date:         2021-02-15
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Praha má vlastní strategii očkování, pomůže lépe zvládat zmatky a časté změny vládní kampaně"
-image: 	      9hrib.jpg
+image: 	      posts/9hrib.jpg
 author:       MHMP
 ---
 
-Rada hlavního města Prahy dne 15. února [schválila vlastní očkovací strategii](https://a.pirati.cz/praha/pdf/covid/strat-ocko.pdf). Ta má pomoci aplikovat celostátní metodiku na specifickou situaci v Praze, ale také umožnit hlavnímu městu lépe zvládat nejistoty a změny, které kolem očkování panují. Pražská strategie proto klade důraz zejména na principy a plánovací procesy, dostupnost očkovacích míst, komunikaci s veřejností a řízení pomocí dat. 
+Rada hlavního města Prahy dne 15. února [schválila vlastní očkovací strategii](/assets/pdf/covid/strat-ocko.pdf). Ta má pomoci aplikovat celostátní metodiku na specifickou situaci v Praze, ale také umožnit hlavnímu městu lépe zvládat nejistoty a změny, které kolem očkování panují. Pražská strategie proto klade důraz zejména na principy a plánovací procesy, dostupnost očkovacích míst, komunikaci s veřejností a řízení pomocí dat. 
 
 Radní se dnes shodli, že základem úspěšného a rychlého očkování je dostatek vakcín, jejich dodávky jsou ale v režii vlády, přicházejí se zpožděním, v menších objemech, než je potřeba, a jejich distribuce je mimo kontrolu hlavního města. Přesto chce být Praha maximálně připravena, nicméně k tomu potřebuje ukotvit svou vizi a svou roli.
 

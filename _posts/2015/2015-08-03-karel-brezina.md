@@ -3,8 +3,8 @@ title:	Březino, odstup!
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	brezina.jpg
-tags:	kauzy Karel-Březina
+image:	posts/brezina.jpg
+tags:	[ČSSD, Karel Březina]
 date:	2015-08-03
 ---
 

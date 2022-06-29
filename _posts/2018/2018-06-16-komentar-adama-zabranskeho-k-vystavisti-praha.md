@@ -1,10 +1,10 @@
 ---
 date:         2018-06-18
 category:     blog
-tags:         komentář
+tags:         [Výstaviště]
 layout:       post
 title:        "Transparence v podání Výstaviště Praha – příklad špatné praxe" 
-image:        adam-zabransky-2.jpg
+image:        posts/adam-zabransky-2.jpg
 author:       Adam Zábranský
 ---
 

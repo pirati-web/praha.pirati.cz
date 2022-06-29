@@ -1,10 +1,10 @@
 ---
 date:	2016-09-16
 category:	blog
-tags:	Praha
+tags:	[Trafiky, Pavel Bém]
 layout:	post
 title:	"Koalice: Trafiky neřešíme, Béma nežalujeme, peníze neinvestujeme." 
-image:	komorany-mikulas.jpg
+image:	posts/komorany-mikulas.jpg
 author:	Jan Loužek, Mikuláš Ferjenčík
 ---
 

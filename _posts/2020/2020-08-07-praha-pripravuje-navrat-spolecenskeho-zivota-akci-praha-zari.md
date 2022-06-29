@@ -1,9 +1,8 @@
 ---
 date:         2020-08-07
-tags:         
- - kultura
+tags:         [Kultura, Pandemie Covid-19, Výstaviště]
 title:        "V Praze se připravuje oslava návratu kulturního a společenského života"
-image: 	      vystaviste.jpg
+image: 	      posts/vystaviste.jpg
 author:       MHMP
 ---
 

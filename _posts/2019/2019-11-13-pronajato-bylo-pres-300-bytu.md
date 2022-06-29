@@ -1,8 +1,8 @@
 ---
 date:         2019-11-13
-tags:         životní-prostředí
+tags:         [Bydlení]
 title:        "Za rok fungování koalice pronajala Praha 300 městských bytů"
-image: 	      adam-zabransky-5.jpg
+image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP
 ---
 

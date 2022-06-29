@@ -3,8 +3,8 @@ title:	Zastupitelé schválili opravu Libeňského mostu
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	libensky-most-podzim.png
-tags:	zhmp doprava
+image:	posts/libensky-most-podzim.png
+tags:	[Libeňský most, Praha 8, IPR, Zastupitelstvo]
 date:	2016-02-25
 ---
 
@@ -27,7 +27,7 @@ Na únorovém zastupitelstvu se ODS vybarvila, když naprosto nepochopitelně pr
 
 ### Praha se podbízí Pekingu, v partnerství uznává jednotnou Čínu
 
-![Alexandra Udženija z ODS](https://a.pirati.cz/praha/img/posts/uxh.png "Kdo všechno chce jednotnou Čínu?")
+![Alexandra Udženija z ODS](/assets/img/posts/uxh.png "Kdo všechno chce jednotnou Čínu?")
 
 * Hlasy ČSSD, ANO, KSČM a ODS (!) Zastupitelstvo schválilo **dohodu o partnerství s Pekingem** jako sesterským městěm. 
 * Praha v něm uznává **politiku jedné Číny** a **uznává Taiwan jako nedílnou součást čínského území**. Jde sice o oficiální formulaci, ale ze tří jiných partnerských měst Pekingu tohle ve smlouvě žádná jiná západní metropole nemá.

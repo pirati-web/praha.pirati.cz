@@ -1,10 +1,10 @@
 ---
 date:         2016-11-24
 category:     blog
-tags:         Praha
+tags:         [Trafiky]
 layout:       post
 title:        "Piráti: Pražská koalice se rozhodla zachovat politické trafiky" 
-image:        trafiky-banner.jpg
+image:        posts/trafiky-banner.jpg
 author:       Adam Zábranský
 ---
 

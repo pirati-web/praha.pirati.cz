@@ -1,10 +1,10 @@
 ---
 date:	2016-06-22
 category:	blog
-tags:	Praha trafiky
+tags:	[ČSSD, Trafiky]
 layout:	post
 title:	"ČSSD porušila slib nebrat přeběhlíky. Legalizuje tím politickou korupci" 
-image:	transformace.jpg
+image:	posts/transformace.jpg
 author:	Jakub Michálek
 ---
 

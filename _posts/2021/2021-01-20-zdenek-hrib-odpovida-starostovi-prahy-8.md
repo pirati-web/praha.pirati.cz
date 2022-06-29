@@ -1,9 +1,8 @@
 ---
 date:         2021-01-20
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Hřib starostovi Prahy 8: Vakcíny nejsou rozdělovány podle politického klíče, chaos v tom udělala vláda"
-image: 	      9hrib.jpg
+image: 	      posts/9hrib.jpg
 author:       Zdeněk Hřib
 ---
 

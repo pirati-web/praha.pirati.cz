@@ -1,9 +1,8 @@
 ---
 date:         2020-11-13
-tags:         
- - majetek
+tags:         [Majetkové směny se státem]
 title:        "Praha smění pozemky se státem. Umožní výstavbu traumacentra a získá základnu pro záchranku i tenisové kurty na Letné"
-image: 	      zhmp-shora.jpg
+image: 	      posts/zhmp-shora.jpg
 author:       MHMP
 ---
 

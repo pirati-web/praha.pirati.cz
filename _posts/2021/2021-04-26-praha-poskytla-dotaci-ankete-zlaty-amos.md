@@ -1,9 +1,9 @@
 ---
 date:         2021-04-26
 tags:         
-- školství
+- Školství
 title:        "Praha poskytla dotaci anketě Zlatý Ámos"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

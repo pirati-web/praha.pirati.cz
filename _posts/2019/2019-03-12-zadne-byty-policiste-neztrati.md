@@ -1,6 +1,6 @@
 ---
 date:         2019-03-12
-tags:         praha bydlení
+tags:         [Bydlení]
 title:        "Policisté a městští strážníci o byty nepřijdou"
 image: 	      posts/panelaky.jpg
 author:       Adam Zábranský

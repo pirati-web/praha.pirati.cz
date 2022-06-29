@@ -4,13 +4,11 @@ category: blog
 title: "Březen Evy Horákové: Návštěvy sociálních zařízení, výběr nového ředitele a nemálo dalšího"
 date: 2019-04-09
 author: "Eva Horáková"
-image: evahorakova.jpg
-tags: praha sociální-péče
+image: posts/evahorakova.jpg
+tags: [Sociální politika]
 ---
 
-Milí Pražané,
-
-můj březen byl především v podobě kontrolních návštěv jednotlivých sociálních zařízení hlavního města. 
+Milí Pražané, můj březen byl především v podobě kontrolních návštěv jednotlivých sociálních zařízení hlavního města. 
 
 Účastnila jsem se týdenního hodnocení ředitelů jednotlivých domů pro seniory a domů se zvláštním režimem, které probíhá v rámci sociálního odboru Magistrátu. Toto každoroční hodnocení má velký význam pro poskytovatele, neboť si udělají přehled ve svém majetku a do budoucna mohou řešit jednotlivé problémy daného zařízení. Zde se ukazuje přínos centrálních nákupů v sociálních službách. Magistrát jako zřizovatel zde může ušetřit spousty peněz. V současné době dvě zařízení zvažují nákup minibusů nebo praček. Všechna zařízení nakupují prací prášky a aviváže od stejných subjektů. Lůžkoviny, lůžka, vozíky, ledničky, auta a další vybavení by bylo možné pořídit prostřednictvím centrálního nákupu a získat tak množstevní slevu. 
 

@@ -1,9 +1,9 @@
 ---
 date:         2020-10-20
 tags:         
- - školství
+ - Školství
 title:        "Praha dětské skupiny rušit nechce a žádá města o podporu"
-image: 	      vitsimral.jpg
+image: 	      posts/vitsimral.jpg
 author:       MHMP
 ---
 

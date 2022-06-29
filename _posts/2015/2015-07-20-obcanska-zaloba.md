@@ -3,8 +3,8 @@ title:	Praha by měla umožnit občanům, aby zlodějiny žalovali sami
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	soud.jpg
-tags:	korupce
+image:	posts/soud.jpg
+tags:	[Protikorupční strategie]
 date:	2015-07-20
 ---
 

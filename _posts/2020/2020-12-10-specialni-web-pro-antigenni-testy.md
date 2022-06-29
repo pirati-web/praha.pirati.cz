@@ -1,9 +1,8 @@
 ---
 date:         2020-12-10
-tags:         
- - koronavirus
+tags:         [Pandemie Covid-19, Golemio]
 title:        "Speciální web nabídne přehled odběrných míst s antigenními testy v Praze"
-image: 	      0hrib.jpg
+image: 	      posts/0hrib.jpg
 author:       MHMP
 ---
  

@@ -1,10 +1,10 @@
 ---
 date:	2016-09-13
 category:	blog
-tags:	Praha
+tags:	IT
 layout:	post
 title:	"Piráti zjistili, že radiový systém Prahy za 680 milionů dokáže odposlouchávat i laik." 
-image:	policie.jpg
+image:	posts/policie.jpg
 author:	Mikuláš Ferjenčík
 ---
 

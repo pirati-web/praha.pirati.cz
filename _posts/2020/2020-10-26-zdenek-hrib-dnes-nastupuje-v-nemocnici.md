@@ -1,9 +1,8 @@
 ---
 date:         2020-10-27
-tags:         
- - koronavirus
+tags:         [Pandemie Covid-19, Zdeněk Hřib]
 title:        "Primátor Hřib: Od dnešního odpoledne budu jako dobrovolník pomáhat zkušenějším lékařům ve Fakultní nemocnici Královské Vinohrady"
-image: 	      hrib-nemocnice.jpg
+image: 	      posts/hrib-nemocnice.jpg
 author:       Zdeněk Hřib
 ---
 

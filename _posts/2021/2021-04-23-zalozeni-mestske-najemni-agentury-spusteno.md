@@ -1,9 +1,8 @@
 ---
 date:         2021-04-23
-tags:         
-- bydlení
+tags:         [Městská nájemní agentura, Bydlení]
 title:        "Praha udělala první krok k založení Městské nájemní agentury"
-image: 	      adam-zabransky-5.jpg
+image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP
 ---
 

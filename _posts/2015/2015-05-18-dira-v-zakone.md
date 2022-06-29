@@ -3,8 +3,8 @@ title:	Piráti chtěli zalepit díru v zákoně, pražskou Radu ale zachvátila 
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	escher.jpg
-tags:	kauzy
+image:	posts/escher.jpg
+tags:	[Škodův palác]
 date:	2015-05-18
 ---
 

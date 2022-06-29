@@ -1,10 +1,10 @@
 ---
 date:         2016-12-20
 category:     blog
-tags:         Praha
+tags:         [Praha 1]
 layout:       post
 title:        "Dvě restaurace na jednom náměstíčku mají nájem od Prahy. Výše nájemného se liší o řád" 
-image:        restaurace.jpg
+image:        posts/restaurace.jpg
 author:       Adam Zábranský
 ---
 

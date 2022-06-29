@@ -1,10 +1,10 @@
 ---
 date:         2017-12-12
 category:     blog
-tags:         zdravotnictví praha-1 nemocnice-na-františku
+tags:         [Nemocnice Na Františku, Praha 1]
 layout:       post
 title:        "Nemocnici na Františku je možné provozovat efektivně"
-image:        nemocnice-na-frantisku.jpg
+image:        posts/nemocnice-na-frantisku.jpg
 author:       Zdeněk Hřib
 ---
 

@@ -1,10 +1,10 @@
 ---
 date:         2017-10-12
 category:     blog
-tags:         legislativa
+tags:         [Legislativa, Směnárny]
 layout:       post
 title:        "Pražští zastupitelé začali projednávat novelu, aby směnárny neokrádaly turisty"
-image:        smenarna.jpg
+image:        posts/smenarna.jpg
 author:       Jakub Michálek
 ---
 
@@ -14,7 +14,7 @@ Předseda zastupitelského klubu Pirátů v pražském zastupitelstvu Jakub Mich
 
 Praha by si tak například mohla zvolit, že v centru Prahy se směnný kurz eura a amerického dolaru od kurzu vyhlašovaného Českou národní bankou nesmí lišit o více než 10 %. To by neměl být problém, ostatně mnohé směnárny na Praze 1 se v tomto rozmezí pohybují. Jen několik málo jich turisty podvádí,“ vysvětluje pražský lídr Pirátů do sněmovních voleb Jakub Michálek. Problémové směnárny vyvěsí kurz ČNB na viditelném místě a svůj nevýhodný kurz umístí tak, aby si toho méně pozorný turista nevšiml. Ten je pak nepříjemně překvapen, když si vyměněné peníze přepočítá. 
 
-![Hodnocení jedné z problematických směnáren turisty](https://a.pirati.cz/praha/img/posts/recenzesmenarny.jpg "Hodnocení problematické směnárny ze strany jednoho z turistů")
+![Hodnocení jedné z problematických směnáren turisty](/assets/img/posts/recenzesmenarny.jpg "Hodnocení problematické směnárny ze strany jednoho z turistů")
 
 > „Praha se všemožnými způsoby snaží nalákat turisty a utrácí za to nemalé prostředky. K čemu to ale je, když si turisté z Prahy odnesou nepříjemné zážitky s některými nepoctivými taxikáři a směnárníky? Pak se sem už nebudou chtít vrátit a cestu nedoporučí ani svým známým. To nedává smysl,“ dodává Jakub Michálek. 
 
@@ -22,4 +22,4 @@ Pravomoc předkládat Poslanecké sněmovně návrhy zákonů dává Zastupitels
 
 ### Odkazy
 
-* [Novela zákona o směnárnách z pera Pirátů](https://a.pirati.cz/praha/pdf/novela-smenarny.pdf)
+* [Novela zákona o směnárnách z pera Pirátů](/assets/pdf/novela-smenarny.pdf)

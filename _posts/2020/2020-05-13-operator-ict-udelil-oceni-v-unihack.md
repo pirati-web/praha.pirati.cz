@@ -1,8 +1,8 @@
 ---
 date:         2020-05-13
-tags:         bydlení
+tags:         [Operátor ICT, Prg.ai]
 title:        "Operátor ICT předal speciální cenu jednomu z vítězných týmů prvního ročníku online hackathonu UniHack"
-image: 	      unihack.jpg
+image: 	      posts/unihack.jpg
 author:       MHMP
 ---
 

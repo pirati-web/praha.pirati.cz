@@ -4,8 +4,8 @@ category: CLANKY
 title: "Pirátská solární loď v Praze"
 date: 2017-09-03
 author: Ondřej Profant
-image: solarni-lod.jpg
-tags: kampaň
+image: posts/solarni-lod.jpg
+tags: [Volby 2021]
 ---
 
 Po úspěšné [HitHit kampani][HitHit] jsme se vydali na naší solární lodi napříč Českou republikou. Už **5. září** přistaneme v Praze a u zdejších břehů se budeme pohybovat až do **10. září**. Přijďte si na některou z akcí popovídat s pirátskými kandidáty do Poslanecké sněmovny a prohlédněte si při té příležitosti naše unikátní plavidlo.

@@ -1,8 +1,8 @@
 ---
 date:         2020-03-26
-tags:         doprava koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Pražský magistrát žádá občany, aby registr vozidel využívali jen v nejnutnějších případech a dodržovali hygienické požadavky"
-image: 	      revo.jpg
+image: 	      posts/revo.jpg
 author:       MHMP
 ---
 

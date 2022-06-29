@@ -1,6 +1,6 @@
 ---
 date:         2019-04-15
-tags:         praha
+tags:         [Sdílená ekonomika]
 title:        "Březen Viktora Mahrika: Dozorčí rady, taxislužba a koncepce městských firem"
 image: 	      posts/mahrik3.jpg
 author:       Viktor Mahrik

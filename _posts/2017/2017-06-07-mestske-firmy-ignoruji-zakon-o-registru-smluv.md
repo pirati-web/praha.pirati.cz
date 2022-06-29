@@ -1,10 +1,10 @@
 ---
 date:         2017-06-07
 category:     blog
-tags:         praha registr-smluv korupce
+tags:         [Transparentnost]
 layout:       post
 title:        "Pražské městské firmy ignorují zákon o registru smluv, zastupitelům se to nelíbí" 
-image:        prisnetajne.jpg
+image:        posts/prisnetajne.jpg
 author:       Jakub Michálek
 ---
 
@@ -20,5 +20,5 @@ Od 1. července 2017 přitom začnou platit nová ustanovení zákona o registru
 
 ### Přílohy
 
-* [Přehled městských firem a zveřejňování smluv](https://a.pirati.cz/praha/img/posts/2-dopis.jpg)
-* [Předložení analýzy zveřejněných smluv městskými firmami](https://a.pirati.cz/praha/img/posts/1-zverejnovane-smlouvy.jpg)
+* [Přehled městských firem a zveřejňování smluv](/assets/img/posts/2-dopis.jpg)
+* [Předložení analýzy zveřejněných smluv městskými firmami](/assets/img/posts/1-zverejnovane-smlouvy.jpg)

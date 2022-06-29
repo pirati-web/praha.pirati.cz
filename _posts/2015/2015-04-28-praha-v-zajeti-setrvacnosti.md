@@ -3,8 +3,8 @@ title:	Praha v zajetí setrvačnosti
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	magistrat.jpg
-tags:	informatika rhmp majetek
+image:	posts/magistrat.jpg
+tags:	[IT]
 date:	2015-04-28
 ---
 

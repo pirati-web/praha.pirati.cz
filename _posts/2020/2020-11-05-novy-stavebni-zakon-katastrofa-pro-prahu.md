@@ -1,9 +1,8 @@
 ---
 date:         2020-11-05
-tags:         
- - územní-plánování
+tags:         [Stavební zákon]
 title:        "Nový stavební zákon znamená pro Česko ekonomickou katastrofu, ignoruje potřeby velkých českých měst"
-image: 	      magistrat2.jpg
+image: 	      posts/magistrat2.jpg
 author:       MHMP
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2019-12-03
-tags:         informatika
+tags:         [Akce, IT]
 title:        "V Praze se sešly světové špičky herního průmyslu"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

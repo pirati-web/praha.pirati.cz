@@ -3,8 +3,8 @@ title:	Piráti k mimořádnému zastupitelstvu
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	zastupitelstvo.jpg
-tags:	zhmp
+image:	posts/zastupitelstvo.jpg
+tags:	[Zastupitelstvo]
 date:	2015-04-14
 ---
 

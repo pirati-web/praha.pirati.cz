@@ -1,9 +1,8 @@
 ---
 date:         2020-08-06
-tags:         
- - opendata
+tags:         [Otevřená data]
 title:        "Kde se řidiči v Praze nejčastěji dopouštějí přestupků? Prozkoumejte statistiky. Město zveřejňuje nová data"
-image: 	      adam-zabransky-6.jpg
+image: 	      posts/adam-zabransky-6.jpg
 author:       Adam Zábranský
 ---
 

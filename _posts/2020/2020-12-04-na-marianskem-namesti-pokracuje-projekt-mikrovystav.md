@@ -1,9 +1,8 @@
 ---
 date:         2020-12-04
-tags:         
- - kultura
+tags:         [Kultura, Umění ve veřejném prostoru, Mariánské náměstí]
 title:        "Na Mariánském náměstí pokračuje projekt exteriérových mikrovýstav současného umění"
-image: 	      socha.jpg
+image: 	      posts/socha.jpg
 author:       MHMP
 ---
 

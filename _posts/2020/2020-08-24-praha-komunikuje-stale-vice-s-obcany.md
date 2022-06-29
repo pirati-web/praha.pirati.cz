@@ -1,9 +1,8 @@
 ---
 date:         2020-08-24
-tags:         
- - informatika
+tags:         [IT, Transparentnost, Operátor ICT, Pragozor, Golemio]
 title:        "Praha dále zlepšuje komunikaci s občany, a to pomocí webu Pragozor.cz a mobilní aplikace Změnte.to"
-image: 	      8hrib.jpg
+image: 	      posts/8hrib.jpg
 author:       MHMP
 ---
 

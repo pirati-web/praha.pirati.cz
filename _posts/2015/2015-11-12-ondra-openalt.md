@@ -3,8 +3,8 @@ title:	Ondřej Profant na brněnském OpenAltu
 layout:	post
 category:	blog
 author:	Jan Loužek, Ondřej Profant
-image:	ondra-openalt.jpg
-tags:	akce
+image:	posts/ondra-openalt.jpg
+tags:	[Akce]
 date:	2015-11-12
 ---
 

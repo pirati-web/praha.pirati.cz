@@ -1,9 +1,9 @@
 ---
 date:         2019-07-23
-tags:         praha-1 kauzy stanovisko
+tags:         [Praha 1]
 title:        "Oficiální stanovisko Pirátů Prahy 1 k mediálním útokům na pirátského radního pro majetek Davida Bodečka: "
 image: 	      posts/bodecek-blesk.jpg
-author:       Mediální odbor
+author:       Piráti Praha 1
 ---
 
 V Radě Prahy 1 máme pouze 2 hlasy z 8. Náš radní David Bodeček je neprávem zatahován do kauzy o jeho údajném střetu zájmů. Jedná se však o rozhodnutí celé Rady města Prahy 1 a souzní se stávajícím nastavením celé koalice.
@@ -15,7 +15,7 @@ Fakta jsou taková, že v posledních měsících rozkryl kauzy pochybného rozp
 
 #### Reakce Davida Bodečka na [článek](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/612818/piratsky-radni-prahy-1-bodecek-sedi-na-dvou-zidlich-sefuje-bytaku-i-realitni-kancelari-politolog-jednoznacny-stret-zajmu.html) v deníku Blesk z pondělí 15. 7. 2019
 
-![Ukázka z článku Blesk](https://a.pirati.cz/praha/img/posts/bodecek-blesk1.jpg)
+![Ukázka z článku Blesk](/assets/img/posts/bodecek-blesk1.jpg)
 
 Bohužel jsem nucen reagovat na fabulace ve zveřejněném článku pro web blesk.cz, které se týkají mého údajného střetu zájmů.
 Fakta jsou taková, že jsem v posledních měsících rozkryl kauzy pochybného rozprodávání městských bytů pod cenou, které proběhly za vlády bývalého starosty Prahy 1 Oldřicha Lomeckého, a to v hodnotě několika desítek milionů korun. 
@@ -23,15 +23,15 @@ Fakta jsou taková, že jsem v posledních měsících rozkryl kauzy pochybného
 
 “Skandální” článek z Blesku považuji za snahu delegitimizovat mé aktivity, které vyústily v zájem policie o někdejší vedení městské části Praha 1. Můj údajný střet zájmů spočívá pouze v tom, že jsem vlastníkem společnosti Gastone. Ani já ani zmíněná společnost však nevykonává podnikatelskou činnost, dokonce nemá ani platné živnostenské oprávnění. Společnost jsem zakoupil pouze za účelem nákupu jednoho osobního bytu. V žádném případě se nedá říct, že by byla činná jako realitní společnost a rozhodně tak nejsem ve střetu zájmů.
 
-![Ukázka z článku Blesk](https://a.pirati.cz/praha/img/posts/bodecek-blesk2.jpg)
+![Ukázka z článku Blesk](/assets/img/posts/bodecek-blesk2.jpg)
 
-Kompletní [majetkové přiznání](https://a.pirati.cz/praha/pdf/Bodecek_David_Pirati_Cestne_prohlaseni_kandidata_29_4_2018.pdf) a finanční poměry jsem zveřejnil před vstupem do politiky. Veškerý svůj nemovitý majetek jsem nakoupil ze svých naspořených prostředků a z rodinných příjmů, s částečným dofinancováním osobním úvěrem.
+Kompletní [majetkové přiznání](/assets/pdf/Bodecek_David_Pirati_Cestne_prohlaseni_kandidata_29_4_2018.pdf) a finanční poměry jsem zveřejnil před vstupem do politiky. Veškerý svůj nemovitý majetek jsem nakoupil ze svých naspořených prostředků a z rodinných příjmů, s částečným dofinancováním osobním úvěrem.
 Pana redaktora jsem na fakta upozornil, jakož i na to, že jeho článek je s nimi v přímém rozporu. Jsem si vědom, že jako politik Pirátů musím počítat se snahou očernit mě za upozornění na kriminální aktivity někdejší radnice, stejně tak však musím upozornit, že se jí nezaleknu a útoky na moji osobou mě neodradí od další práce.
 V současné době je jednáno s Bleskem o omluvě za lživé informace.
 
 #### Reakce Davida Bodečka na [článek uveřejněný v deníku Blesk](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/613497/sachy-s-bytem-v-parizske-stacil-dopis-radnimu-a-jeho-kolegyne-vyhrala-prohranou-obalkovou-soutez.html) 22. 7. 2019.
 
-![Ukázka z článku Blesk](https://a.pirati.cz/praha/img/posts/bodecek-blesk3.jpg)
+![Ukázka z článku Blesk](/assets/img/posts/bodecek-blesk3.jpg)
 
 Rád bych se rád ohradil proti dalším několika nepravdám, které jsou v článku uvedeny:
 
@@ -45,6 +45,6 @@ Rád bych se rád ohradil proti dalším několika nepravdám, které jsou v čl
 Záměr pronajmout bytovou jednotku 131/9 v domě č. p. 131 byl za řádných podmínek transparentně zveřejněn na webových stránkách Prahy 1 i na portálu hl. m. Prahy po dobu 30 dnů. Jedná se o část bytové jednotky velikosti 2+0 o výměře 58 m2, se společnou chodbou, WC s nájemcem druhé části bytu. Nabídku podalo šest zájemců. S ohledem na technické podmínky bytu a sociální důvody byla Radou vybrána nájemkyně, se spolubydlící dcerou, která je zároveň spolubydlící druhé části administrativně rozdělené bytové jednotky.  Nejvyšší cena není jediným hodnotícím kritériem výběru nájemců. Bez ohledu na tuto skutečnost výherkyně dodatečně navýšila nabídku na 17.500 Kč, na což měla právo a to bylo Radou akceptováno.
 
 #### Reakce Davida Bodečka na článek uveřejněný v deníku Blesk ze dne 23.7. 2019
-![Ukázka z článku Blesk](https://a.pirati.cz/praha/img/posts/bodecek-blesk4.jpg)
+![Ukázka z článku Blesk](/assets/img/posts/bodecek-blesk4.jpg)
 
 V žádných 20 soukromých firmám jsem se neangažoval a žádné miliony jsem nezískal. Byl jsem zaměstnancem pouze jedné společnosti a byla mi udělena prokura, jakožto druh plné moci. Z pozice zaměstnance jsem neměl žádné benefity z obchodů mého zaměstnavatele, proto je také na stránkách Hlídače státu uvedeno, že mám nepřímou vazbu. Činnost prokuristy byla po mém vstupu do politiky ukončena. V žádných smlouvách, které můj bývalý zaměstnavatel uzavřel, jsem nefiguroval, smlouvy jsem nesjednával, ani se jakkoli jinak nepodílel. Jedná se opět o zavádějící informace a smyšlené konstrukce ve vztahu k mé osobě.

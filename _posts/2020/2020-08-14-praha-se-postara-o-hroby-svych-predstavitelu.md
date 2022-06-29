@@ -1,9 +1,8 @@
 ---
 date:         2020-08-14
-tags:         
- - pohřebnictví
+tags:         [Pražské hřbitovy]
 title:        "Město se postará o chátrající hroby svých slavných představitelů"
-image: 	      hrob.jpg
+image: 	      posts/hrob.jpg
 author:       MHMP
 ---
 

@@ -3,8 +3,8 @@ title:	"Piráti: s podvodníky se nevyjednává"
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	brezina-nabidka.jpg
-tags:	zhmp
+image:	posts/brezina-nabidka.jpg
+tags:	[Karel Březina, ČSSD, Piráti, Zastupitelstvo]
 date:	2015-12-16
 ---
 

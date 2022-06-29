@@ -1,10 +1,8 @@
 ---
 date:         2020-11-10
-tags:         
- - informatika
- - školství
+tags:         [IT, Pandemie Covid-19, Školství]
 title:        "Modemy, stravování, technická pomoc i poradenství. Praha pomáhá s distanční výukou"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

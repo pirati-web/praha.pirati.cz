@@ -1,8 +1,8 @@
 ---
 date:         2020-04-28
-tags:         doprava
+tags:         [Pandemie Covid-19, Parkování]
 title:        "Praha obnoví zóny placeného stání od 11. května"
-image: 	      8hrib.jpg
+image: 	      posts/8hrib.jpg
 author:       MHMP
 ---
 

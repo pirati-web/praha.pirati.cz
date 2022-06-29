@@ -1,10 +1,10 @@
 ---
 date:         2018-06-11
 category:     blog
-tags:         doprava
+tags:         [Pražský okruh (dálnice D0), Životní prostředí]
 layout:       post
 title:        "Petice bojuje za snížení hluku z dálničního okruhu" 
-image:        petice-hluk.jpg
+image:        posts/petice-hluk.jpg
 author:       Adam Zábranský
 ---
 

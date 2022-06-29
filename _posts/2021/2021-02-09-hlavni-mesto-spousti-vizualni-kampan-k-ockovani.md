@@ -1,9 +1,8 @@
 ---
 date:         2021-02-09
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Hlavní město spouští vizuální kampaň k očkování proti nemoci covid-19"
-image: 	      ustolu.jpg
+image: 	      posts/ustolu.jpg
 author:       MHMP
 ---
 

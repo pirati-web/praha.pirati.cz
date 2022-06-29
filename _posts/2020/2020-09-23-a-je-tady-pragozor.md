@@ -1,9 +1,8 @@
 ---
 date:         2020-09-23
-tags:         
- - Praha
+tags:         [Otevřená data, IT, Pragozor, Golemio]
 title:        "Web Pragozor představuje Prahu v číslech. Nabízí ověřená data o zdraví, koronaviru, bydlení či dopravě"
-image: 	      pragozor.jpg
+image: 	      posts/pragozor.jpg
 author:       MHMP
 ---
 

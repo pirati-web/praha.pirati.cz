@@ -1,8 +1,8 @@
 ---
 date:         2019-10-24
-tags:         piráti
+tags:         Piráti
 title:        "Zastupitelský klub Pirátů se ohrazuje proti nařčením Jaroslava Němce"
-image: 	      logo.jpg
+image: 	      posts/logo.jpg
 author:       MHMP
 ---
 

@@ -1,10 +1,8 @@
 ---
 date:         2020-08-14
-tags:         
- - koronavirus
- - bezpečnost
+tags:         [Pandemie Covid-19]
 title:        "Praha zřídila odběrové místo na testování COVID-19"
-image: 	      vn2.jpg
+image: 	      posts/vn2.jpg
 author:       MHMP
 ---
 

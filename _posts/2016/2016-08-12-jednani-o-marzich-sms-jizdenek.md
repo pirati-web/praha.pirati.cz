@@ -1,10 +1,10 @@
 ---
 date:	2016-08-12
 category:	blog
-tags:	Praha sms-jízdenky
+tags:	[SMS jízdenky]
 layout:	post
 title:	"SMS jízdenky: Praha za poslední rok prodělala 40 milionů, může přijít o dalších 80" 
-image:	glob.jpg
+image:	posts/glob.jpg
 author:	Jakub Michálek
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2020-01-09
-tags:         praha-1
+tags:         [Praha 1]
 title:        "Prahou 1 zmítá zrada na voličích od tří koaličních zastupitelů z My co tady žijeme"
-image: 	      praha1-2.jpg
+image: 	      posts/praha1-2.jpg
 author:       Piráti Praha 1
 ---
 

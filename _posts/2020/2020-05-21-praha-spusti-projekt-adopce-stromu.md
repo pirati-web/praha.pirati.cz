@@ -1,8 +1,8 @@
 ---
 date:         2020-05-21
-tags:         životní-prostředí
+tags:         [Zastromuj Prahu, Životní prostředí]
 title:        "Praha spustí projekt adopce stromů"
-image: 	      zalevani.jpg
+image: 	      posts/zalevani.jpg
 author:       Michaela Beránková
 ---
 

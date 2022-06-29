@@ -4,8 +4,8 @@ category: blog
 title: "Festival svobody zamíří do škol"
 date: 2019-06-19
 author: "Rada hlavního města Prahy"
-image: vitsimral2.jpg
-tags: školství akce
+image: posts/vitsimral2.jpg
+tags: [Školství, Zastupitelstvo]
 ---
 
 Pražské zastupitelstvo schválilo dotaci pro Festival svobody na školách připomínající výročí 17. listopadu. Studenty čekají nejen vzdělávací aktivity vztahující se k výročí 30 let od pádu minulého režimu, ale také se budou moci aktivně zapojit do jeho příprav a pořádat vlastní akce. Koordinátorem festivalu je spolek Post Bellum.

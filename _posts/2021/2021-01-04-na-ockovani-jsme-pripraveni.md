@@ -1,9 +1,8 @@
 ---
 date:         2021-01-04
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Na očkování jsme připraveni!"
-image: 	      hrib-koronavirus2.jpg
+image: 	      posts/hrib-koronavirus2.jpg
 author:       Zdeněk Hřib
 ---
 

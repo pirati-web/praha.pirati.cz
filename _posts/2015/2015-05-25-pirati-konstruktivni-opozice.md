@@ -3,8 +3,8 @@ title:	Prosazujeme Pirátský program z konstruktivní opozice
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	klub-zastupko.jpg
-tags:	opencard
+image:	posts/klub-zastupko.jpg
+tags:	[Piráti]
 date:	2015-05-25
 ---
 

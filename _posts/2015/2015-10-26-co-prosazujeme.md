@@ -3,8 +3,8 @@ title:	Priority Pirátů v Praze
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	klub-zastupko.jpg
-tags:	piráti
+image:	posts/klub-zastupko.jpg
+tags:	[Piráti]
 date:	2015-10-26
 ---
 

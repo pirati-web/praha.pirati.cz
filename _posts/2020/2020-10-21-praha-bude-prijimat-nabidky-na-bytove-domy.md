@@ -1,9 +1,9 @@
 ---
 date:         2020-10-21
 tags:         
- - bydlení
+ - Bydlení
 title:        "Praha bude do půlky listopadu přijímat nabídky na prodej ubytovacích zařízení a bytových domů"
-image: 	      prahakupuje.jpg
+image: 	      posts/prahakupuje.jpg
 author:       MHMP
 ---
 

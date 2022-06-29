@@ -1,10 +1,10 @@
 ---
 date:         2017-05-02
 category:     blog
-tags:         praha-9
+tags:         [Praha 9]
 layout:       post
 title:        "Bleskové rozhodnutí radnice Prahy 9 o směně pozemků" 
-image:        garazekrocinka.jpg
+image:        posts/garazekrocinka.jpg
 author:       Jakub Dušánek
 ---
 

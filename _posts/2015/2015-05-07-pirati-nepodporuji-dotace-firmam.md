@@ -3,8 +3,8 @@ title:	Piráti nepodporují dotace soukromým firmám
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	tycinky.jpg
-tags:	dotace EU Praha
+image:	posts/tycinky.jpg
+tags:	[EU]
 date:	2015-05-07
 ---
 

@@ -1,10 +1,8 @@
 ---
 date:         2021-02-19
-tags:         
-- školství
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Praha požaduje větší autonomii pro zřizovatele škol při testování žáků a studentů na koronavirus"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

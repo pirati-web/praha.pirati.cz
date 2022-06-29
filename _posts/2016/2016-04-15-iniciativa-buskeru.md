@@ -1,10 +1,10 @@
 ---
 date:	2016-04-15
 category:	blog
-tags:	Praha busking
+tags:	[Umění ve veřejném prostoru]
 layout:	post
 title:	Výzva pouličním umělcům postiženým pražskou vyhláškou
-image:	kytarista.jpg
+image:	posts/kytarista.jpg
 author:	Mikuláš Ferjenčík
 ---
 

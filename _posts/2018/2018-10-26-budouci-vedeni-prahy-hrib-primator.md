@@ -1,10 +1,10 @@
 ---
 date:         2018-10-26
 category:     blog
-tags:         koaliční-vyjednávání
+tags:         [Volby 2018]
 layout:       post
 title:        "Budoucí vedení Prahy: Zdeněk Hřib primátorem"
-image:        tk-hrib2.jpg
+image:        posts/tk-hrib2.jpg
 author:       Zdeněk Hřib
 ---
 

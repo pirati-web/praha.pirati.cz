@@ -1,10 +1,10 @@
 ---
 date:         2017-02-01
 category:     blog
-tags:         praha-12
+tags:         [Praha 12]
 layout:       post
 title:        "Je město Praha řádný hospodář? Aneb jak Písničtí přišli o sídliště."
-image:        kennial-1.png
+image:        posts/kennial-1.png
 author:       Ondřej Profant
 ---
 

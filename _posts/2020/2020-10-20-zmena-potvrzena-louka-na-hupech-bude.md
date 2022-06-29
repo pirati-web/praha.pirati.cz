@@ -1,9 +1,8 @@
 ---
 date:         2020-10-20
-tags:         
- - životní-prostředí
+tags:         [Metropolitní plán, Životní prostředí]
 title:        "Potvrzeno! Změna územního plánu louky Na Hupech nebude"
-image: 	      murnak-podzim.jpg
+image: 	      posts/murnak-podzim.jpg
 author:       MHMP
 ---
 

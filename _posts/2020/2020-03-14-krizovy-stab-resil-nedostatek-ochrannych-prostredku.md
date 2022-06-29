@@ -1,8 +1,8 @@
 ---
 date:         2020-03-14
-tags:         bezpečnost zdravotnictví koronavirus
+tags:         [Krizový štáb, Pandemie Covid-19]
 title:        "Krizový štáb hl. m. Prahy řešil zejména nedostatek osobních ochranných prostředků"
-image: 	      krizovystab.jpg
+image: 	      posts/krizovystab.jpg
 author:       MHMP
 ---
 

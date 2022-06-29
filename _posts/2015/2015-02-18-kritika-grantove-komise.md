@@ -3,8 +3,8 @@ title:	Březina s Kleslovou rozdělí 360 milionů na sport
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	navrh.jpg
-tags:	granty
+image:	posts/navrh.jpg
+tags:	[Karel Březina, Radmila Kleslová]
 date:	2015-02-18
 ---
 

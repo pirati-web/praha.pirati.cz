@@ -1,8 +1,8 @@
 ---
 date:         2020-06-23
-tags:         praha
+tags:         [Kultura]
 title:        "Projev Milady Horákové přenesou sirény i hlášení v metru. Praha si připomíná její památku u příležitosti 70. výročí justiční vraždy"
-image: 	      metro-musek.jpg
+image: 	      posts/metro-musek.jpg
 author:       MHMP
 ---
 

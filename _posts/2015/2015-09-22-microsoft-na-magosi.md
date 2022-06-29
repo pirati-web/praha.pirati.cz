@@ -3,8 +3,8 @@ title:	Praha zbytečně utrácí 17 milionů za produkty Microsoftu.
 layout:	post
 category:	blog
 author:	Ondřej Profant
-image:	office.png
-tags:	magistrát
+image:	posts/office.png
+tags:	[IT]
 date:	2015-09-22
 ---
 

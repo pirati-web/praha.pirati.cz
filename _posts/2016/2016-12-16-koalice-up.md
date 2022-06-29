@@ -1,10 +1,10 @@
 ---
 date:         2016-12-16
 category:     blog
-tags:         Praha
+tags:         [Zastupitelstvo, Hnutí ANO, ODS]
 layout:       post
 title:        "V Praze vzniká nová koalice pro změny územního plánu" 
-image:        koalicnici.jpg
+image:        posts/koalicnici.jpg
 author:       Jan Loužek, Mikuláš Ferjenčík
 ---
 

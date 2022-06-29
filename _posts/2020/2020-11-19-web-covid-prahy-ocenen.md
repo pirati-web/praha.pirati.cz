@@ -1,10 +1,8 @@
 ---
 date:         2020-11-19
-tags:         
- - informatika
- - koronavirus
+tags:         [IT, Pandemie Covid-19, Golemio]
 title:        "Web s přehledem odběrových míst na COVID-19 získal ocenění"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

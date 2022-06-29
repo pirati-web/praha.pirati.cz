@@ -1,7 +1,7 @@
 ---
 date:         2018-02-07
 category:     blog
-tags:         transparentnost
+tags:         [Petr Dolínek, Transparentnost]
 layout:       post
 title:        "Kauza miliardové zakázky v TSK je absurdní, je potřeba změnit pravidla pro hospodaření příspěvkových organizací" 
 image:        zabransky-2.jpg

@@ -1,9 +1,9 @@
 ---
 date:         2021-02-08
 tags:         
-- školství
+- Školství
 title:        "Praha zahajuje projekt na podporu nadaných dětí"
-image: 	      vitsimral2.jpg
+image: 	      posts/vitsimral2.jpg
 author:       MHMP
 ---
 

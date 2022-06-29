@@ -3,8 +3,8 @@ title:	Stavební předpisy napsané sekretářkami a projednané v kuchyňce?
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	kuchynka.jpg
-tags:	stavební-předpisy zhmp
+image:	posts/kuchynka.jpg
+tags:	[Pražské stavební předpisy, Zastupitelstvo]
 date:	2015-08-13
 ---
 

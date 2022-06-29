@@ -4,8 +4,8 @@ category: blog
 title: "Radnice Prahy 11 udělala první krůček k otevřenosti"
 date: 2019-06-13
 author: "Praha 11"
-image: dohnal.jpg
-tags: transparentnost praha-11
+image: posts/dohnal.jpg
+tags: [Praha 11, Transparentnost]
 ---
  
 Dne 13. 6. 2019 byl na jednání zastupitelstva městské části Praha 11 schválen materiál, který mění jednací řád zastupitelstva a stanovuje pevný čas interpelací. Jedná se o první část změny jednacích řádů iniciovaných Piráty směrem k otevření volené samosprávy občanům. Tyto změny jsou i součástí ujednání koaliční smlouvy „Společně pro Jižní Město“ současné koalice (Piráti, ANO, TOP/STAN, ODS).

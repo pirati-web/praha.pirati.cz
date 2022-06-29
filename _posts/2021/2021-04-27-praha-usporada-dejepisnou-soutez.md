@@ -1,9 +1,9 @@
 ---
 date:         2021-04-27
 tags:         
-- školství
+- Školství
 title:        "Praha podpoří uspořádání dějepisné soutěže, v níž se utkají gymnazisté z celého Česka i Slovenska"
-image: 	      skola.jpg
+image: 	      posts/skola.jpg
 author:       MHMP
 ---
 

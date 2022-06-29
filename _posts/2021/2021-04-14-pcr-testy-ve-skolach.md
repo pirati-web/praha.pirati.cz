@@ -1,10 +1,8 @@
 ---
 date:         2021-04-14
-tags:         
-- koronavirus
-- školství
+tags:         [Pandemie Covid-19, Školství]
 title:        "Zajistit do škol PCR testy a více termínů přijímaček na vysoké školy. Zástupci školské komise jednali o možných změnách"
-image: 	      skola.jpg
+image: 	      posts/skola.jpg
 author:       MHMP
 ---
 

@@ -3,8 +3,8 @@ title:	Kontrolní výbor kritizuje utajování odměn a platů
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	kv.jpg
-tags:	kontrolní-výbor transparentnost
+image:	posts/kv.jpg
+tags:	[Kontrolní výbor, Transparentnost]
 date:	2015-05-27
 ---
 

@@ -1,8 +1,8 @@
 ---
 date:         2020-04-15
-tags:         koronavirus zdravotnictví
+tags:         [Pandemie Covid-19]
 title:        "Praha pomohla lidem bez domova. Ubytovala je v prázdných hotelech a hostelech"
-image: 	      zabransky4.jpg
+image: 	      posts/zabransky4.jpg
 author:       Adam Zábranský
 ---
 

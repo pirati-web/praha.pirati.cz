@@ -1,8 +1,8 @@
 ---
 date:         2020-04-15
-tags:         doprava
+tags:         [Václavské náměstí, Tramvajové tratě]
 title:        "Na Václavském náměstí začala dlouho očekávaná celková rekonstrukce. Dokončena bude v roce 2025"
-image: 	      vn-01.jpg
+image: 	      posts/vn-01.jpg
 author:       MHMP
 ---
 

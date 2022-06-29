@@ -1,9 +1,8 @@
 ---
 date:         2021-03-19
-tags:         
-- inzerát
+tags:         [Výběrové řízení, Dozorčí rady]
 title:        "Piráti hledají schopného člověka do dozorčí rady Dopravního podniku hl. m. Prahy"
-image: 	      hrib-tramvaj.jpg
+image: 	      posts/hrib-tramvaj.jpg
 author:       MHMP
 ---
 

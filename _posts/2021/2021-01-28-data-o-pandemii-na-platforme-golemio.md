@@ -1,10 +1,8 @@
 ---
 date:         2021-01-28
-tags:         
-- informatika
-- koronavirus
+tags:         [Pandemie Covid-19, IT, Pragozor, Golemio]
 title:        "Datová platforma Golemio nabízí detailní informace o vývoji pandemie covid-19"
-image: 	      golemio.jpg
+image: 	      posts/golemio.jpg
 author:       MHMP
 ---
 

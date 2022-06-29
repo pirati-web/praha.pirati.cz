@@ -1,8 +1,8 @@
 ---
 date:         2019-10-23
-tags:         bydlení
+tags:         [Bydlení]
 title:        "Praha motivuje městské části k opravám bytů, vyčlenila na ně 500 milionů"
-image: 	      adam-zabransky-5.jpg
+image: 	      posts/adam-zabransky-5.jpg
 author:       MHMP
 ---
 

@@ -1,9 +1,8 @@
 ---
 date:         2020-09-10
-tags:         
- - kultura
+tags:         [Praha 3, Zahraničí]
 title:        "Ministr zahraničí odmítl zaručit čínskému disidentovi, že nebude v ČR zatčen. Doporučil mu do ČR necestovat"
-image: 	      disident.jpg
+image: 	      posts/disident.jpg
 author:       MHMP
 ---
 

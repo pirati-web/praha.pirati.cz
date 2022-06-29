@@ -3,8 +3,8 @@ title:	Praha kupuje zbytečně drahé počítače
 layout:	post
 category:	blog
 author:	Ondřej Profant, Adam Zábranský
-image:	pocitace.jpg
-tags:	informatika magistrát
+image:	posts/pocitace.jpg
+tags:	[IT]
 date:	2015-04-21
 ---
 

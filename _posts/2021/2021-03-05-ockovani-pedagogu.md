@@ -1,10 +1,8 @@
 ---
 date:         2021-03-05
-tags:         
-- koronavirus
-- školství
+tags:         [Pandemie Covid-19]
 title:        "Praha: dodružujme opatření k testování ve školách a k očkování pedagogických pracovníků s ohledem na limitované dodávky vakcín"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 
@@ -12,4 +10,4 @@ Radní pro oblast zdravotnictví Milena Johnová a radní pro školství Vít Š
 
 ### Odkazy 
 
-* [Stanovisko hl. m. Prahy k očkování pedagogických pracovníků](https://a.pirati.cz/praha/pdf/covid/stanovisko.pdf)
+* [Stanovisko hl. m. Prahy k očkování pedagogických pracovníků](/assets/pdf/covid/stanovisko.pdf)

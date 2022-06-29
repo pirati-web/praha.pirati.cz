@@ -1,6 +1,6 @@
 ---
 date:         2019-10-03
-tags:         magistrát praha plánování
+tags:         [Piráti]
 title:        "Pražská koalice představila plány na nadcházející půlrok. Společnými prioritami je doprava a dostupnost bydlení"
 image: 	      posts/tk-koalice.jpg
 author:       Zdeněk Hřib, Jiří Pospíšil, Jan Čižinský, MHMP

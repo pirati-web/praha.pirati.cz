@@ -1,8 +1,8 @@
 ---
 date:         2019-10-30
-tags:         transparentnost
+tags:         [Školství]
 title:        "Praha podepsala memorandum o podpoře volnočasových aktivit mladých"
-image: 	      memorandum.jpg
+image: 	      posts/memorandum.jpg
 author:       MHMP
 ---
 

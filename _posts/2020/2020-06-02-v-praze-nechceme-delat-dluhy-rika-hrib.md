@@ -1,8 +1,8 @@
 ---
 date:         2020-06-02
-tags:         finance
+tags:         [Metro D, Městský okruh, Piráti, Zdeněk Hřib]
 title:        "V Praze dluhy dělat nechceme, na účtu žádné nepotřebné miliardy nemáme"
-image: 	      8hrib.jpg
+image: 	      posts/8hrib.jpg
 author:       Zdeněk Hřib
 ---
 

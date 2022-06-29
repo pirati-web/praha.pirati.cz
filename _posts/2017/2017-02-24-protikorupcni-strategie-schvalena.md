@@ -1,10 +1,10 @@
 ---
 date:         2017-02-24
 category:     blog
-tags:         praha
+tags:         [Protikorupční strategie, Transparentnost, Zastupitelstvo]
 layout:       post
 title:        "Koaliční válec, Pirátské návrhy v protikorupční strategii a senátor Kos zůstává ve finančním výboru." 
-image:        jakub-ruce.jpg
+image:        posts/jakub-ruce.jpg
 author:       Jan Loužek, Mikuláš Ferjenčík
 ---
 
@@ -14,7 +14,7 @@ Podařilo se nám prosadit několik dobrých návrhů do nově vzniklé protikor
 
 #### Registr smluv nebyl na programu
 
-Ve středu 22. února jsme se zděšením pozorovali, jak Poslanecká sněmovna vykuchala zákon o registru smluv. Nově v něm nebudou státní firmy, krajské firmy, nebo městské firmy. Ty tedy své smlouvy zveřejňovat nemusí. V roce 2014 jsme na zasedání pražského zastupitelstva [navrhli komplexní materiál](https://a.pirati.cz/praha/pdf/3110.pdf), na základě něhož by pražské firmy zveřejňovaly své smlouvy – v podstatě stejným způsobem, jaký předpokládal původní návrh zákona. Koaliční zastupitelé nás ale odmítli s tím, že to není potřeba, protože to „přeci bude v Registru smluv“.
+Ve středu 22. února jsme se zděšením pozorovali, jak Poslanecká sněmovna vykuchala zákon o registru smluv. Nově v něm nebudou státní firmy, krajské firmy, nebo městské firmy. Ty tedy své smlouvy zveřejňovat nemusí. V roce 2014 jsme na zasedání pražského zastupitelstva [navrhli komplexní materiál](https://praha.pirati.cz/assets/pdf/3110.pdf), na základě něhož by pražské firmy zveřejňovaly své smlouvy – v podstatě stejným způsobem, jaký předpokládal původní návrh zákona. Koaliční zastupitelé nás ale odmítli s tím, že to není potřeba, protože to „přeci bude v Registru smluv“.
 
 V městských, krajských a státních firmách jsou velmi často rozdělovány astronomické odměny loajálním politikům. Nebudou-li smlouvy o těchto odměnách veřejné, bude dále kvést systém politických trafik.
 
@@ -32,7 +32,7 @@ Připadá nám směšné, že by měl být člen finančního výboru odvolán z
 
 #### Bude mít Slivenec jezdeckou sochu?
 
-![Bude mít Slivenec takovouto sochu?](https://a.pirati.cz/praha/img/posts/za-slivenec.jpg "Socha radní Jany Plamínkové ve Slivenci")
+![Bude mít Slivenec takovouto sochu?](/assets/img/posts/za-slivenec.jpg "Socha radní Jany Plamínkové ve Slivenci")
 
 Je již tradiční, že každé zasedání pražského zastupitelstva máme na programu nějakou dotaci pro městskou část Praha-Slivenec. Díky paní radní Plamínkové, která je starostkou Slivence, získá tato městská část novou tramvajovou trať, kompostárnu, nebo kotel. Nyní byl schvalován nákup pozemku pro Slivenec za šestnáct milionů korun. 
 

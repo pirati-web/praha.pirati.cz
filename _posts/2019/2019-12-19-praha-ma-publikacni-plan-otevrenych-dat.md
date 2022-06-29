@@ -1,8 +1,8 @@
 ---
 date:         2019-12-19
-tags:         open-data
+tags:         [Otevřená data, Golemio]
 title:        "Praha má první publikační plán otevřených dat"
-image: 	      opendata5.jpg
+image: 	      posts/opendata5.jpg
 author:       MHMP
 ---
 

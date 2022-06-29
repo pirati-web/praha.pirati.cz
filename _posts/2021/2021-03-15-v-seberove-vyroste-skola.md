@@ -1,9 +1,9 @@
 ---
 date:         2021-03-15
 tags:         
-- školství
+- Školství
 title:        "V Šeberově vyroste škola se 14 třídami. Rozhodli o tom pražští radní"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

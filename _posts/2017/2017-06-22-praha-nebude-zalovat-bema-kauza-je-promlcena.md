@@ -1,10 +1,10 @@
 ---
 date:         2017-06-23
 category:     blog
-tags:         praha
+tags:         [Pavel Bém]
 layout:       post
 title:        "Promlčeno! Krnáčová nepodala žalobu na Béma včas, i když jí Piráti opakovaně varovali."
-image:        nepovedlo.jpg
+image:        posts/nepovedlo.jpg
 author:       Jakub Michálek
 ---
 

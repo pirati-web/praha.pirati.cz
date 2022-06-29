@@ -3,8 +3,8 @@ title:	Strany v pražském zastupitelstvu odmítly zveřejňovat příjmy svých
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	zastupitelstvo.jpg
-tags:	informace piráti
+image:	posts/zastupitelstvo.jpg
+tags:	[Piráti, Transparentnost]
 date:	2015-03-27
 ---
 

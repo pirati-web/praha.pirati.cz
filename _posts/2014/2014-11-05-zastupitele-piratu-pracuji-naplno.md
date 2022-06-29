@@ -3,8 +3,8 @@ title:	Opozici se věnujeme naplno
 layout:	post
 author:	Mikuláš Ferjenčík
 category: blog
-image:	krajske-forum.jpg
-tags: zhmp
+image:	posts/krajske-forum.jpg
+tags:   [Volby 2014]
 date:	2014-11-05
 ---
 

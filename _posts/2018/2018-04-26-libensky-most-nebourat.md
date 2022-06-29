@@ -1,10 +1,10 @@
 ---
 date:         2018-04-26
 category:     blog
-tags:         praha libeňský-most
+tags:         [Libeňský most, Praha 8]
 layout:       post
 title:        "Libeňský most je třeba zachovat, nikoli zdemolovat" 
-image:        mahrik-zhmp.jpg
+image:        posts/mahrik-zhmp.jpg
 author:       Viktor Mahrik
 ---
 

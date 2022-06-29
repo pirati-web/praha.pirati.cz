@@ -3,8 +3,8 @@ title:	10 bodů pro novou Radu
 layout:	post
 author:	Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík, Adam Zábranský
 category:	blog
-image:	rada.jpg
-tags:	rhmp
+image:	posts/rada.jpg
+tags:	[Volby 2014]
 date:	2014-10-12
 ---
 

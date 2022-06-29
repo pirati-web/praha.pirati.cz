@@ -1,10 +1,10 @@
 ---
 date:         2017-10-10
 category:     blog
-tags:         informatika smart-cities
+tags:         [IT, Smart Cities]
 layout:       post
-title:        "Předražený internet na Petříne"
-image:        petrin-wifi.jpg
+title:        "Předražený internet na Petříně"
+image:        posts/petrin-wifi.jpg
 author:       Ondřej Profant
 ---
 

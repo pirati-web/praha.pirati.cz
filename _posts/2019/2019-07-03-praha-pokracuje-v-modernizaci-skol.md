@@ -5,7 +5,7 @@ title: "Praha pokračuje v modernizaci škol. Studenti se dočkají nových spec
 date: 2019-07-03
 author: "Vít Šimral"
 image: vitsimral2.jpg
-tags: školství
+tags: Školství
 ---
 
 Praha, 3. 7. 2019 – Magistrát hl. m. Prahy se rozhodl za pomoci finančních zdrojů Evropské unie vybavit školy novými učebnami za 29,5 milionu korun. Studenti stavebních oborů si například budou moci své návrhy ověřit na virtuálním 3D prototypu. V jazykových učebnách budou moci nově žáci komunikovat on-line se zahraničními kolegy, vytvářet videa a používat i vizuální materiály. A nová laboratoř jim pak umožní vyzkoušet si některé experimenty.

@@ -1,10 +1,8 @@
 ---
 date:         2020-12-10
-tags:         
- - informatika
- - akce
+tags:         [Nakopni Prahu]
 title:        "Praha startuje druhý ročník inovačního maratonu #NakopniPrahu"
-image: 	      nakopniprahu.jpg
+image: 	      posts/nakopniprahu.jpg
 author:       MHMP
 ---
  

@@ -1,6 +1,6 @@
 ---
 date:         2019-09-17
-tags:         praha koalice plánování
+tags:         [Piráti]
 title:        "Pražští radní se ohlédli za půlročním plánem. V metropoli začalo vznikat metro D, centrum umělé inteligence a rekonstruují se pražské mosty"
 image: 	      posts/tk-koalice.jpg
 author:       MHMP

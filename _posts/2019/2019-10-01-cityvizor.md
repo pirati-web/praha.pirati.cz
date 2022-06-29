@@ -1,6 +1,6 @@
 ---
 date:         2019-10-01
-tags:         informatika magistrát
+tags:         [CityVizor, Otevřená data, IT]
 title:        "Praha spouští aplikaci CityVizor, do hospodaření města bude moci jednoduše nahlížet každý"
 image: 	      posts/cityvizor.jpg
 author:       MHMP, Adam Zábranský

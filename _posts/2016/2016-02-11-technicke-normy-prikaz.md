@@ -3,8 +3,8 @@ title:	Piráti dali stát do soudní exekuce kvůli poplatkům za technické nor
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
-image:	rozsudek.png
-tags:	Praha technické-normy
+image:	posts/rozsudek.png
+tags:	[Transparentnost]
 date:	2016-02-11
 ---
 

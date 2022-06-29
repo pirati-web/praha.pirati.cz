@@ -3,8 +3,8 @@ title:	Piráti doporučují otevřít pražské firmy lepší kontrole
 layout:	post
 category:	blog
 author:	Adam Zábranský
-image:	prazskefirmy.png
-tags:	městské-firmy transparentnost
+image:	posts/prazskefirmy.png
+tags:	[Městské firmy, Transparentnost]
 date:	2015-05-15
 ---
 
@@ -20,7 +20,7 @@ Doporučení Pirátů jsou adresována hlavně radnímu pro majetek Michalu Haš
 
 [Podnět pirátských zastupitelů pro Radu hl. m. Prahy ve věci vlastnické politiky městských společností](https://github.com/pirati-cz/KlubPraha/blob/420449fb00e9a50be1dbfeb625c2fbc471f4e4d3/spisy/2015/52-doporuceni-k-mestskym-firmam/1-doporuceni/main.pdf)
 
-[Přehled akciového portfolia hl. m. Prahy](https://a.pirati.cz/praha/img/posts/prazskefirmy-prehled.png)
+[Přehled akciového portfolia hl. m. Prahy](/assets/img/posts/prazskefirmy-prehled.png)
 
 
 

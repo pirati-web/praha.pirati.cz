@@ -1,9 +1,8 @@
 ---
 date:         2020-07-22
-tags:         
- - informatika
+tags:         [IT, Portál Pražana]
 title:        "Hlavní město podepsalo memorandum s ministerstvem vnitra. Propojí Portál Pražana s Portálem občana"
-image: 	      0hrib.jpg
+image: 	      posts/0hrib.jpg
 author:       MHMP
 ---
 
@@ -29,4 +28,4 @@ Portál občana je bránou k elektronickým službám státu, ke které je možn
 
 ### Odkazy 
 
-* [Podepsané memorandum](https://a.pirati.cz/praha/pdf/memorandum.pdf)
+* [Podepsané memorandum](/assets/pdf/memorandum.pdf)

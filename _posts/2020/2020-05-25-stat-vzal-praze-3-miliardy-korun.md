@@ -1,8 +1,8 @@
 ---
 date:         2020-05-25
-tags:         finance
+tags:         [Pandemie Covid-19]
 title:        "Stát vzal Praze 3 miliardy korun bez jediného upozornění"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

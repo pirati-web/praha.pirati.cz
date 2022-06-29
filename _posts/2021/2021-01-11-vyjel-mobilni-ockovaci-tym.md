@@ -1,9 +1,8 @@
 ---
 date:         2021-01-11
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Ráno vyjel do pražských domovů pro seniory první mobilní očkovací tým"
-image: 	      mobilni.jpg
+image: 	      posts/mobilni.jpg
 author:       MHMP
 ---
 

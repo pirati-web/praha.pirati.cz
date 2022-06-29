@@ -3,8 +3,8 @@ title:	Doporučení Pirátů Radě hl. m. Prahy pro oblast ICT
 layout:	post
 category:	blog
 author:	Ondřej Profant
-image:	itfail.jpg
-tags:	informatika zhmp
+image:	posts/itfail.jpg
+tags:	[IT]
 date:	2015-08-27
 ---
 

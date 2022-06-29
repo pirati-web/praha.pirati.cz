@@ -1,10 +1,10 @@
 ---
 date:         2018-07-10
 category:     blog
-tags:         městské-firmy
+tags:         [Výstaviště]
 layout:       post
 title:        "Pražské Výstaviště nechce poskytnout podezřelé smlouvy, Piráti firmu zažalovali" 
-image:        agenti-vystaviste.jpg
+image:        posts/agenti-vystaviste.jpg
 author:       Adam Zábranský
 ---
 

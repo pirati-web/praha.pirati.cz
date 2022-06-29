@@ -1,9 +1,8 @@
 ---
 date:         2021-05-04
-tags:         
-- životní-prostředí
+tags:         [Zastromuj Prahu, Životní prostředí]
 title:        "Hlavnímu městu se daří naplňovat plán vysadit milionu stromů za osm let"
-image: 	      magistrat3.jpg
+image: 	      posts/magistrat3.jpg
 author:       MHMP
 ---
 

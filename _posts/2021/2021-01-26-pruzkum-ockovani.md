@@ -1,9 +1,8 @@
 ---
 date:         2021-01-26
-tags:         
-- koronavirus
+tags:         [Pandemie Covid-19]
 title:        "Podle průzkumu se chce 65 procent Pražanů nechat očkovat. Motivací je pro ně ochrana zdraví a svých blízkých"
-image: 	      9hrib.jpg
+image: 	      posts/9hrib.jpg
 author:       MHMP
 ---
 

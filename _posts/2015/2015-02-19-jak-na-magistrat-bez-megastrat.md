@@ -3,8 +3,8 @@ title:	Piráti radí, jak na magistrát bez megaztrát
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	tym.jpg
-tags:	magistrát
+image:	posts/tym.jpg
+tags:	[Otevřená data, Transparentnost]
 date:	2015-02-19
 ---
 

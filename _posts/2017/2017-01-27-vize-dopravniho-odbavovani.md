@@ -1,10 +1,10 @@
 ---
 date:         2017-01-27
 category:     blog
-tags:         praha doprava
+tags:         [Lítačka, Smart Cities]
 layout:       post
 title:        "Jízdné v kuponu, na kartě nebo v mobilu. Piráti představují vizi odbavování v pražské dopravě." 
-image:        automaty.jpg
+image:        posts/automaty.jpg
 author:       Jan Loužek
 ---
 

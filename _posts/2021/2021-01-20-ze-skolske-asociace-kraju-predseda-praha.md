@@ -1,9 +1,9 @@
 ---
 date:         2021-01-20
 tags:         
-- školství
+- Školství
 title:        "Praha předsedá školské komisi Asociace krajů ČR. Její první jednání se uskutečnilo přes videokonferenci"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

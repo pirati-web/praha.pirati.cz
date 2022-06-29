@@ -1,10 +1,10 @@
 ---
 date:	2016-06-18
 category:	blog
-tags:	Praha zhmp
+tags:	[Pavel Bém, Zastupitelstvo]
 layout:	post
 title:	"Zastupitelstvo 16. 6. nepřineslo změnu"
-image:	navrh-ondra.jpg
+image:	posts/navrh-ondra.jpg
 author: Ondřej Profant, Jakub Michálek
 ---
 

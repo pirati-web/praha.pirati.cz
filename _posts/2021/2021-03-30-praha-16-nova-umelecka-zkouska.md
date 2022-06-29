@@ -1,9 +1,8 @@
 ---
 date:         2021-03-30
-tags:         
-- školství
+tags:         [Praha 16, Školství]
 title:        "V Praze 16 vznikne nová umělecká škola"
-image: 	      vitsimral5.jpg
+image: 	      posts/vitsimral5.jpg
 author:       MHMP
 ---
 

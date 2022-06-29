@@ -1,10 +1,10 @@
 ---
 date:         2018-01-09
 category:     blog
-tags:         zdravotnictví nemocnice-na-františku
+tags:         [Nemocnice Na Františku]
 layout:       post
 title:        "Vítáme záměr pražské Rady převzít provozování Nemocnice na Františku" 
-image:        ruce-pryc.jpg
+image:        posts/ruce-pryc.jpg
 author:       Adam Zábranský
 ---
 

@@ -1,9 +1,8 @@
 ---
 date:         2020-10-28
-tags:         
- - projev
+tags:         [Pandemie Covid-19, Zdeněk Hřib]
 title:        "Projev primátora MUDr. Zdeňka Hřiba k oslavám 28. října"
-image: 	      0hrib.jpg
+image: 	      posts/0hrib.jpg
 author:       Zdeněk Hřib
 ---
 

@@ -1,16 +1,16 @@
 ---
-title:	České Budějovice poskytly Pirátům smlouvu na SMS jízdenky.
+title:	České Budějovice poskytly Pirátům smlouvu na SMS jízdenky
 layout:	post
 category:	blog
 author:	Jan Loužek
-image:	budejovice.jpg
-tags:	sms-jízdenky doprava
+image:	posts/budejovice.jpg
+tags:	[SMS jízdenky]
 date:	2015-06-22
 ---
 
 Pomocí žádosti podle zákona o svobodném přístupu k informacím jsme získali již téměř poslední smlouvu na SMS jízdenky, a to tentokrát z Českých Budějovic. Proč téměř poslední? Protože před časem nám odmítl část smlouvy vydat Dopravní podnik měst Liberce a Jablonce, s odůvodněním, že se jedná o ochranu obchodního tajemství. 
 
-Během dubna jsme připravili [rozsáhlý přehled](https://a.pirati.cz/praha/pdf/reserse.pdf) na téma SMS jízdenek v českých krajských městech. Porovnávali jsme smluvní podmínky všude, kde to šlo, abychom zjistili, kde jsou pro města méně a kde více výhodné. 
+Během dubna jsme připravili [rozsáhlý přehled](http://praha.pirati.cz/assets/pdf/reserse.pdf) na téma SMS jízdenek v českých krajských městech. Porovnávali jsme smluvní podmínky všude, kde to šlo, abychom zjistili, kde jsou pro města méně a kde více výhodné. 
 
 Zajímavým závěrem z celého procesu studia textů jednotlivých smluv je fakt, že čím je smlouva pro město nevýhodnější, tím více si ji dopravní podnik střeží. V případě Liberce nám smlouva po několika kolečkách žádostí, odvolání a stížností nakonec částečně poskytnuta byla. Jenže pouhá její část. Dopravní podnik i nadále tvrdí, že kontrakt obsahuje informace týkající se obchodního tajemství a že jej poskytne jen při "slibu odškodnění", nebo nějaké specifické podmínce. Jak je tomu ale v případě Českých Budějovic?
 

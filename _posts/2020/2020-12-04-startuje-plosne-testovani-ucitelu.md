@@ -1,9 +1,9 @@
 ---
 date:         2020-12-04
 tags:         
- - školství
+ - Školství
 title:        "Startuje plošné dobrovolné testování učitelů. Praha zajistila odběrová centra"
-image: 	      vitsimral3.jpg
+image: 	      posts/vitsimral3.jpg
 author:       MHMP
 ---
 

@@ -1,9 +1,8 @@
 ---
 date:         2020-09-17
-tags:         
- - zahraničí
+tags:         [Airbnb]
 title:        "Služby krátkodobého ubytování: významná evropská města chtějí spolupracovat s EU"
-image: 	      8hrib.jpg
+image: 	      posts/8hrib.jpg
 author:       MHMP
 ---
 

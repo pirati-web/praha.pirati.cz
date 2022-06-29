@@ -3,8 +3,8 @@ title:	Koalice na desítce cenzuruje informace zastupitelům
 layout:	post
 category:	blog
 author:	Jakub Michálek
-image:	kleslova-chobotnice.jpg
-tags:	praha-10
+image:	posts/kleslova-chobotnice.jpg
+tags:	[Praha 10, Radmila Kleslová]
 date:	2015-02-18
 ---
 
