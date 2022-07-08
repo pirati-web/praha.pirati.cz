@@ -11,7 +11,7 @@ tags:   [Volby 2022, Zahraničí]
 >**I am a citizen of non-European union country. Can I vote?**
 No. There is currently no agreement with any third country for its citizens to vote.
 
-**I am a citizen of another EU Member State. Can I vote?**
+>**I am a citizen of another EU Member State. Can I vote?**
 Yes, in the elections to the European Parliament and in the municipal assembly elections. However, the conditions for registration in the electoral roll and the consequences of registration are different.
 
 If you are a non-national / a foreigner and you are interested in running as a candidate, [you can find more information here](https://www.mvcr.cz/volby/clanek/jsem-cizinec-for-foreigners.aspx).
