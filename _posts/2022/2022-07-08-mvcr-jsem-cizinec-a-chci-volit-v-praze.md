@@ -66,8 +66,8 @@ Ne. V ČR není povinná volební účast.
 Informace k aktuálním volbám jsou průběžně uveřejňovány v sekci [Aktuální volby](https://www.mvcr.cz/volby/vyhlasene-volby.aspx). S individuálními dotazy se můžete obracet na Váš obecní úřad, příslušný krajský úřad nebo odbor voleb Ministerstva vnitra.
 
 ### Související dokumenty
-[VZOR - žádost o zápis do dodatku stálého seznamu voličů](https://www.mvcr.cz/volby/soubor/vzor-zadost-o-zapis-do-dodatku-staleho-seznamu-volicu.aspx)
-[VZOR - žádost o zápis do seznamu voličů EP nebo přenesení údajů do seznamu voličů EP (CZ)](https://www.mvcr.cz/volby/soubor/vzor-zadost-o-zapis-do-seznamu-volicu-ep-nebo-preneseni-udaju-do-seznamu-volicu-ep-cz.aspx)
-[VZOR - žádost o zápis do seznamu voličů EP nebo přenesení údajů do seznamu voličů EP (DE)](https://www.mvcr.cz/volby/soubor/vzor-zadost-o-zapis-do-seznamu-volicu-ep-nebo-preneseni-udaju-do-seznamu-volicu-ep-de.aspx)
-[VZOR - žádost o zápis do seznamu voličů EP nebo přenesení údajů do seznamu voličů EP (EN)](https://www.mvcr.cz/volby/soubor/vzor-zadost-o-zapis-do-seznamu-volicu-ep-nebo-preneseni-udaju-do-seznamu-volicu-ep-en.aspx)
-[VZOR - žádost o zápis do seznamu voličů EP nebo přenesení údajů do seznamu voličů EP (FR)](https://www.mvcr.cz/volby/soubor/vzor-zadost-o-zapis-do-seznamu-volicu-ep-nebo-preneseni-udaju-do-seznamu-volicu-ep-fr.aspx)
+- [VZOR - žádost o zápis do dodatku stálého seznamu voličů](https://www.mvcr.cz/volby/soubor/vzor-zadost-o-zapis-do-dodatku-staleho-seznamu-volicu.aspx)
+- [VZOR - žádost o zápis do seznamu voličů EP nebo přenesení údajů do seznamu voličů EP (CZ)](https://www.mvcr.cz/volby/soubor/vzor-zadost-o-zapis-do-seznamu-volicu-ep-nebo-preneseni-udaju-do-seznamu-volicu-ep-cz.aspx)
+- [VZOR - žádost o zápis do seznamu voličů EP nebo přenesení údajů do seznamu voličů EP (DE)](https://www.mvcr.cz/volby/soubor/vzor-zadost-o-zapis-do-seznamu-volicu-ep-nebo-preneseni-udaju-do-seznamu-volicu-ep-de.aspx)
+- [VZOR - žádost o zápis do seznamu voličů EP nebo přenesení údajů do seznamu voličů EP (EN)](https://www.mvcr.cz/volby/soubor/vzor-zadost-o-zapis-do-seznamu-volicu-ep-nebo-preneseni-udaju-do-seznamu-volicu-ep-en.aspx)
+- [VZOR - žádost o zápis do seznamu voličů EP nebo přenesení údajů do seznamu voličů EP (FR)](https://www.mvcr.cz/volby/soubor/vzor-zadost-o-zapis-do-seznamu-volicu-ep-nebo-preneseni-udaju-do-seznamu-volicu-ep-fr.aspx)
