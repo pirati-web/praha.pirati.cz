@@ -2,7 +2,7 @@
 title: "Část Pražského okruhu mezi dálnicí D1 a Běchovicemi má územní rozhodnutí"
 authorId: zdenek.hrib
 image: 	posts/hrib-okruh.jpg
-tags:   [Pražský okruh (dálnice D0)]
+tags:   [Doprava, Pražský okruh (dálnice D0)]
 ---
 
 **Konečně. Pražský okruh v úseku do Běchovic získal pravomocné územní rozhodnutí!**
