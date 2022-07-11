@@ -2,7 +2,7 @@
 title: "Praha z evropských fondů zajistí obědy pro děti rodičů v tíživé životní situaci i pro následující školní rok"
 author: MHMP
 image: 	posts/vitsimral2.jpg
-tags:   [školství]
+tags:   [Školství]
 ---
 
 I pro následující školní rok zajistí z evropských fondů metropole obědy pro děti rodičů v tíživé životní situaci. V březnu loňského roku vyhlásilo Ministerstvo práce a sociálních věcí výzvu Potravinová pomoc dětem ve vážné sociální nouzi, a to v rámci Operačního programu potravinové a materiální pomoci. Ta je nyní prodloužena i na školní rok 2022/2023. Hlavní město se do tohoto programu zapojuje pravidelně již od roku 2016, konkrétně s projekty pod názvem Školní obědy dostupné pro každé dítě. Zájem o pokračování projevilo stávajících 87 škol a dalších 8 nových se do projektu chce zapojit. Podpora je předběžně odhadována na 4,5 milionu korun.

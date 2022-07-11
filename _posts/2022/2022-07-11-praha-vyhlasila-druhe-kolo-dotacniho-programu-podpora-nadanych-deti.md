@@ -2,7 +2,7 @@
 title: "Spuštěno druhé kolo dotačního programu na podporu nadaných dětí"
 author: MHMP
 image: 	posts/vitsimral5.jpg
-tags:   [školství]
+tags:   [Školství]
 ---
 
 Hl. m. Praha ve spolupráci s Pražským inovačním institutem (Pii) vyhlašuje druhé kolo dotačního programu Pilotní ověření systému péče o talenty na pražských základních a středních školách. Získané finanční prostředky pomohou dvěma úspěšným žadatelům zlepšit školní systémy podpory nadání nebo změnit a rozšířit stávající systémy.
