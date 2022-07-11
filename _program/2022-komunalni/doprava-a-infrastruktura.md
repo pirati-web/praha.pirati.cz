@@ -8,7 +8,7 @@ garant: gabriela.lnenickova
 redmine: 23492
 img: program/program2022-nahledy/doprava.png
 intro: >
-  Doprava ve městě musí být rychlá a moderní. Proto je tak důležitý třeba promyšlený systém parkování. Posílíme a zrychlíme hromadnou dopravu a budeme zavádět nízkoemisní spoje, třeba elektrobusy. Chceme totiž, aby lidé MHD rádi a častěji využívali. A samozřejmě budeme stále krok za krokem zlepšovat podmínky pro chodce i cyklisty.
+  Doprava ve městě musí efektivní, moderní a udržitelná. Proto je tak důležitý třeba promyšlený systém parkování. Posílíme a zrychlíme hromadnou dopravu a budeme zavádět nízkoemisní spoje, třeba elektrobusy. Chceme totiž, aby lidé MHD rádi a častěji využívali. A samozřejmě budeme stále krok za krokem zlepšovat podmínky pro chodce i cyklisty.
 
 ---
 
