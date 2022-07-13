@@ -7,8 +7,7 @@ order: 1
 garant: david.bodecek
 redmine: 23492
 img: program/program2022-nahledy/bezpecnost.png
-intro: >
-  Na bezpečí v Praze se zaměříme hned z několika úhlů. Například zavedeme systém včasné intervence, který pomůže v místě bydliště každému, kdo se setká s kriminálním jednáním. Také se postaráme, aby neodcházeli ze služby záchranáři, hasiči a policisti. A posílit chceme i programy prevence kriminality. To všechno přispěje k tomu, že se budete v Praze cítit bezpečně. Ve dne v noci.
+intro: Na bezpečí v Praze se zaměříme hned z několika úhlů. Například zavedeme systém včasné intervence, který pomůže v místě bydliště každému, kdo se setká s kriminálním jednáním. Také se postaráme, aby neodcházeli ze služby záchranáři, hasiči a policisti. A posílit chceme i programy prevence kriminality. To všechno přispěje k tomu, že se budete v Praze cítit bezpečně. Ve dne v noci.
 
 ---
 
