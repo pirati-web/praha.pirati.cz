@@ -2,12 +2,10 @@
 title: "Praha má „datového Oscara“. IPR získal světové ocenění, stejně jako New York či Philadelphie"
 author: MHMP
 image: 	posts/ESRI6.jpg
-tags:   [IT]
+tags:   [IT, IPR]
 ---
 
- 
-
-Institut plánování a rozvoje hl. m. Prahy (IPR) získal jedno z nejprestižnějších světových ocenění na poli dat a geografie. Společnost Esri ocenila Prahu za dlouhodobou práci s daty a jejich využití pro městské plánování a zmírnění dopadů na klimatickou změnu. Konkrétně tak na konferenci v americkém San Diegu, kterou sledovalo přes 30 000 diváků, vyzdvihli schopnost Prahy efektivně transformovat data v ekologická a ekonomická řešení, která zlepšují kvalitu života ve městě.
+**Institut plánování a rozvoje hl. m. Prahy (IPR) získal jedno z nejprestižnějších světových ocenění na poli dat a geografie. Společnost Esri ocenila Prahu za dlouhodobou práci s daty a jejich využití pro městské plánování a zmírnění dopadů na klimatickou změnu. Konkrétně tak na konferenci v americkém San Diegu, kterou sledovalo přes 30 000 diváků, vyzdvihli schopnost Prahy efektivně transformovat data v ekologická a ekonomická řešení, která zlepšují kvalitu života ve městě.**
 
 IPR získal nejvyšší prezidentskou cenu od společnosti Esri za práci s geoinformačními systémy. IPR byl oceněn především za využití geografického informačního systému (GIS) pro městské plánování. Díky provozování tzv. geoportálu a veškerých aplikací jako je digitální územní plán, tepelná mapa Prahy, výkresy technické infrastruktury a další, se Praha může rozvíjet systematicky a efektivně. Právě tato data slouží k jejímu plánování, ale například i pro Integrovaný záchranný systém.
 
