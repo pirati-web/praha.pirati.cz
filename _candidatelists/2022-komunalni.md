@@ -5,56 +5,56 @@ uid: 2022-komunalni
 leader:
   uid: zdenek.hrib
   age: 41
-  profession: primátor hlavního města Prahy
+  profession: primátor Prahy, manažer, odborník v oblasti kvality zdravotní péče a bezpečnosti pacientů
   city: Praha 11
   partyUid: pirati
 head:
 # 2.
   - uid: jana.komrskova
     age: 44
-    profession: 1. místostarostka MČ Praha 10
+    profession: místostarostka Prahy 10
     city: Praha 10
     partyUid: pirati
 # 3.
   - uid: adam.zabransky
     age: 28
-    profession: radní hlavního města Prahy pro bydlení a transparentnost
+    profession: pražský radní pro bydlení a transparentnost, právník
     city: Praha 10
     partyUid: pirati
 # 4.
   - uid: magdalena.valdmanova
     age: 41
-    profession: zastupitelka MČ Praha 2 a manažerka
+    profession: zastupitelka Prahy 2 a propagátorka Prahy bez šmelin
     city: Praha 2
     partyUid: pirati
 # 5.
   - uid: daniel.mazur
     age: 44
-    profession: projektový manažer v oblasti vědy, výzkumu, vzdělávání a inovací
+    profession: zastupitel Prahy 5, vědec a projektový manažer
     city: Praha 5
     partyUid: pirati
 # 6.
   - uid: viktor.mahrik
     age: 40
-    profession: předseda výboru pro správu majetku ZHMP a specialista výzkumů
+    profession: předseda výboru pro správu majetku hl. m. Prahy a specialista internetových výzkumů
     city: Praha 6
     partyUid: pirati
 # 7.
   - uid: eva.tylova
     age: 62
-    profession: místostarostka MČ Praha 12 a ekoložka
+    profession: místostarostka Prahy 12 a ekoložka
     city: Praha 12
     partyUid: bezpp
 # 8.
   - uid: bara.soukupova
     age: 33
-    profession: specialistka na eGovernment
+    profession: geoinformatička a specialistka na eGovernment
     city: Praha 11
     partyUid: pirati
 # 9.
   - uid: jiri.bruzek
     age: 45
-    profession: radní MČ Praha 12 a konzultant
+    profession: radní Prahy 12 a konzultant informačních systémů
     city: Praha 12
     partyUid: pirati
 # 10.
@@ -66,25 +66,25 @@ head:
 # 11.
   - uid: gabriela.lnenickova
     age: 42
-    profession: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
+    profession: radní Prahy–Suchdol, projektová manažerka, ekonomka a šachistka
     city: Praha–Suchdol
     partyUid: pirati
 # 12.
   - uid: jaromir.beranek
     age: 36
-    profession: předseda Výboru pro IT a Smart City ZHMP a finanční manažer
+    profession: předseda Výboru pro IT a Smart City hl. m. Prahy, finanční manažer
     city: Praha 6
     partyUid: pirati
 # 13.
   - uid: david.bodecek
     age: 42
-    profession: předseda kontrolního výboru MČ Praha 1 a pedagog
+    profession: předseda kontrolního výboru Prahy 1, pedagog a procesní analytik
     city: Praha 1
     partyUid: pirati
 # 14.
   - uid: jan.hora
     age: 38
-    profession: zastupitel MČ Praha 4 a informatik
+    profession: IT analytik a programátor
     city: Praha 4
     party: člen Pirátské strany
     partyUid: pirati
@@ -111,7 +111,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 18.
   - uid: zuzana.ujhelyiova
     age: 39
-    profession: zastupitelka MČ Praha 11
+    profession: projektová manažerka v kabinetu místopředsedy vlády pro digitalizaci a zastupitelka Prahy 11
     city: Praha 11
     partyUid: pirati
 # 19.
@@ -123,19 +123,19 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 20.
   - uid: jana.kabelova
     age: 63
-    profession: stavební projektantka a rozpočtářka
+    profession: zastupitelka Prahy 6, stavební projektantka, rozpočtářka a specialistka veřejných zakázek
     city: Praha 6
     partyUid: pirati
 # 21.
   - uid: zuzana.bohmova
     age: 32
-    profession: učitelka na střední škole
+    profession: středoškolská pedagožka
     city: Praha 11
     partyUid: pirati
 # 22.
   - name: Ing. Štěpán Rattay
     age: 45
-    profession: ekonom a předseda kontrolního výboru
+    profession: ekonom se specializací na nakládání s veřejnými prostředky a předseda kontrolního výboru Prahy 5
     city: Praha 5
     partyUid: pirati
 # 23.
@@ -153,7 +153,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 25.
   - uid: robert.veverka
     age: 45
-    profession: novinář a zastupitel MČ Praha 2
+    profession: novinář, podnikatel a zastupitel Prahy 2
     city: Praha 2
     partyUid: pirati
 # 26.
@@ -165,13 +165,13 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 27.
   - uid: frantisek.dosedel
     age: 35
-    profession: radní MČ Praha 3
+    profession: advokát a radní Prahy 3
     city: Praha 3
     partyUid: pirati
 # 28.
   - uid: jan.bartko
     age: 32
-    profession: radní MČ Praha 3
+    profession: finanční analytik a radní Prahy 3
     city: Praha 3
     partyUid: pirati
 # 29.
@@ -183,7 +183,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 30.
   - name: Mgr. Michal Kočí
     age: 45
-    profession: radní MČ Praha 10
+    profession: radní Prahy 10
     city: Praha 10
     partyUid: pirati
 # 31.
@@ -195,7 +195,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 32.
   - uid: jaroslav.nemec
     age: 44
-    profession: výtvarník a kurátor architektonických výstav
+    profession: výtvarník, kurátor architektonických výstav a zastupitel Prahy 2
     city: Praha 2
     partyUid: pirati
 # 33.
@@ -207,7 +207,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 34.
   - name: Albert Štěrba
     age: 28
-    profession: lékař na Neurochirurgické klinice v Nemocnici Královské Vinohrady
+    profession: neurochirurg ve Fakultní nemocnici Královské Vinohrady a doktorand v oblasti neurověd
     city: Praha 10
     partyUid: bezpp
 # 35.
@@ -219,7 +219,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 36.
   - uid: michaela.berankova
     age: 31
-    profession: asistentka Výboru pro životní prostředí ZHMP
+    profession: asistentka zastupitele hl. m. Prahy
     city: Praha 5
     partyUid: pirati       
 # 37.
@@ -267,13 +267,13 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 44.
   - name: Ing. Eva Tichá
     age: 60
-    profession: ekonomka a zastupitelka MČ Praha 6
+    profession: ekonomka a zastupitelka Prahy 6
     city: Praha 6
     partyUid: pirati         
 # 45.
   - name: Mgr. Jan Mejsnar
     age: 37
-    profession: meteorolog a zastupitel MČ Praha 11
+    profession: meteorolog a zastupitel Prahy 11
     city: Praha 11
     partyUid: pirati       
 # 46.
@@ -285,7 +285,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 47.
   - name: Mgr. Jana Raiterová
     age: 51
-    profession: hudebnice
+    profession: klavíristka, korepetitorka a pedagožka na konzervatoři
     city: Praha 1
     partyUid: pirati    
 # 48.
@@ -297,13 +297,13 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 49.
   - name: Mgr. Jitka Novotná
     age: 32
-    profession: programátorka a šéfka vývojářského týmu dálkového ovládání 3D tiskáren
+    profession: programátorka a šéfka vývojářského týmu
     city: Praha 8
     partyUid: pirati       
 # 50.
   - name: Karel Bauer
     age: 61
-    profession: ekonom a majitel účetní firmy
+    profession: ekonom, majitel účetní firmy
     city: Praha 5
     partyUid: pirati     
 # 51.
@@ -321,7 +321,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 53.
   - uid: vaclav.vislous
     age: 34
-    profession: projektový manažer a zastupitel MČ Praha 9
+    profession: projektový manažer a zastupitel Prahy 9
     city: Praha 9
     partyUid: pirati        
 # 54.
@@ -333,7 +333,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 55.
   - name: Jiří Gebert
     age: 80
-    profession: architekt a publicista
+    profession: architekt, výtvarník a publicista
     city: Praha 6
     partyUid: bezpp       
 # 56.
@@ -363,7 +363,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 60.
   - name: Mgr. Helena Buchtová
     age: 32
-    profession: asistentka technického odboru Pirátů
+    profession: OSVČ
     city: Praha 4
     partyUid: pirati     
 # 61.
@@ -385,15 +385,15 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     city: Praha 7
     partyUid: pirati      
 # 64.
-  - name: Ing. Jan Žák
-    age: 40
-    profession: informatik
-    city: Praha 11
-    partyUid: pirati    
+  - name: Michal Petlach
+    age: 38
+    profession: odborník v oboru farmacie – klinické hodnocení léčiv
+    city: Praha 15
+    partyUid: bezpp    
 # 65.
   - uid: jaroslav.verner
     age: 22
-    profession: paralegal a zastupitel MČ Prraha 14
+    profession: paralegal a zastupitel Prahy 14
     city: Praha 14
     partyUid: pirati        
 
