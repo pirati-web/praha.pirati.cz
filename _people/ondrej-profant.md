@@ -29,7 +29,7 @@ profiles:
 ordvlada: 4
 ---
 
-Jsem informatik a specialista na svobodný software. Od června do října 2009 jsem byl místopředsedou Pirátů, řadu let jsem vedl pražské krajské sdružení, v letech 2014 až 2017 jsem zastupitelem hlavního města Prahy a od roku 2017 do října roku 2022 jsem byl poslancem Poslanecké sněmovny PČR. **Od ledna 2022 je náměstkem ministra pro místní rozvoj ČR Ivana Bartoše.**
+Jsem informatik a specialista na svobodný software. Od června do října 2009 jsem byl místopředsedou Pirátů, řadu let jsem vedl pražské krajské sdružení, v letech 2014 až 2017 jsem zastupitelem hlavního města Prahy a od roku 2017 do října roku 2022 jsem byl poslancem Poslanecké sněmovny PČR. **Od ledna 2022 jsem náměstkem vicepremiéra a ministra pro místní rozvoj ČR Ivana Bartoše.**
 
 **Moje srdce bije pro nové technologie a inovace.** I když jsem v mládí tíhl k humanitnímu vzdělání, nakonec jsem se rozhodl studovat na matematicko-fyzikální fakultě. To pro mě bylo určující. Seznámil jsem se tam totiž s tématem open source, otevřeného softwaru, které mi dál otevíralo cestu k digitalizaci státní správy. Vše začalo otázkou, proč by open source nemohl být využitelný a užitečný pro stát. Viděl jsem velký potenciál. A i přesto, že na nás zpočátku ve veřejné správě koukali nevěřícně, dnes je to relevantní téma v patrech nejvyšší politiky.
 
