@@ -3,7 +3,7 @@ title: Od písničky po operu. Kultura má být pro všechny
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: kultura
-order: 1
+order: 6
 garant: magdalena.valdmanova
 redmine: 23492
 img: program/program2022-nahledy/kultura.png

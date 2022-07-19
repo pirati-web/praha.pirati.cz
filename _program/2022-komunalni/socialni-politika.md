@@ -3,7 +3,7 @@ title: Podpoříme všechny rodiny
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: socialni-politika
-order: 1
+order: 8
 garant: zuzana.freitas
 redmine: 23492
 img: program/program2022-nahledy/socialni-politika.png

@@ -3,7 +3,7 @@ title: V centru nebo na sídlišti musí být bezpečně
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: bezpecnost
-order: 1
+order: 7
 garant: david.bodecek
 redmine: 23492
 img: program/program2022-nahledy/bezpecnost.png

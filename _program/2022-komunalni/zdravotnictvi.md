@@ -3,7 +3,7 @@ title: Každý ví, že prevence je levnější než léčba
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: zdravotnictvi
-order: 1
+order: 10
 garant: zdenek.hrib
 redmine: 23492
 img: program/program2022-nahledy/zdravotnictvi.png

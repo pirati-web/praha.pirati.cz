@@ -3,7 +3,7 @@ title: Digitalizujeme, abyste na úřady nemuseli
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: verejna-sprava
-order: 1
+order: 5
 garant: bara.soukupova
 redmine: 23492
 img: program/program2022-nahledy/verejna-sprava.png

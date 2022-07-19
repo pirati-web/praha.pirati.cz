@@ -3,7 +3,7 @@ title: V moderním městě byste měli mít všechno po ruce
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: uzemni-rozvoj-a-planovani
-order: 1
+order: 4
 garant: viktor.mahrik
 redmine: 23492
 img: program/program2022-nahledy/uzemni-rozvoj.png

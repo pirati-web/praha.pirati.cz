@@ -3,7 +3,7 @@ title: Sportoviště pro všechny. Od ping-pongu po stadiony
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: sport-a-volny-cas
-order: 1
+order: 11
 garant: jana.komrskova
 redmine: 23492
 img: program/program2022-nahledy/sport2.png

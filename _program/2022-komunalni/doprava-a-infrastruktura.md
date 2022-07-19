@@ -3,7 +3,7 @@ title: Doprava má městu pomáhat. Ne ho zatěžovat
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: doprava-a-insfrastruktura
-order: 1
+order: 3
 garant: gabriela.lnenickova
 redmine: 23492
 img: program/program2022-nahledy/doprava.png

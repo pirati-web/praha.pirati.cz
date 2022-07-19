@@ -3,7 +3,7 @@ title: Cestovní ruch bude výhodný pro turisty i místní
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: cestovni-ruch
-order: 1
+order: 12
 garant: zdenek.hrib
 redmine: 23492
 img: program/program2022-nahledy/cestovni-ruch.png

@@ -3,7 +3,7 @@ title: Připravíme Prahu na klimatickou změnu
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: zivotni-prostredi
-order: 1
+order: 2
 description: Tohle je pro Prahu jedno z nejdůležitějších témat. Musíme ji co nejrychleji připravit na změny klimatu. Chceme aby byla nejzelenějším městem Evropy, kde bude i v létě příjemně. A budeme řešit také znečištěné ovzduší, podporovat udržitelnou energetiku a starat se o přírodu našeho města.
 garant: eva.tylova
 redmine: 23492
