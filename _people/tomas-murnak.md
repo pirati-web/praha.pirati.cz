@@ -29,11 +29,11 @@ profiles:
   twitter:  https://twitter.com/TomasMurnak	  
   flickr:   https://www.flickr.com/search/?text=Tom%C3%A1%C5%A1%20Mur%C5%88%C3%A1k
 ordmhmp: 10
-redmine: 55
 calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 ---
 
-Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes.</p>
+Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes.
+
 <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v roce 2010.</p>
 <p>Zastupitelem jsem se stal v roce 2014, kdy Piráti pod mým vedením, v koalici se Stranou Zelených pod názvem <a href="http://zeleniapiratipro13.cz/">Zelení a piráti pro 13</a>, získali ve volbách 11,19 % hlasů, což nám přineslo 5 mandátů (2 Piráti a 3 Zelení) z celkových 35.</p>
 <p>I přesto, že jsme nakonec skončili v opozici a koalice nám nedovolila zasednout v žádném výboru ani komisi, podařilo se nám prosadit část pirátského programu jako je rozklikávací rozpočet, zveřejňování rozpočtu ve strojově čitelném formátu, pozastavit neefektivní projekt <a href="http://praha.idnes.cz/praha-13-chce-nakoupit-nove-kamery-za-sto-milionu-korun-pfy-/praha-zpravy.aspx?c=A150316_2147657_praha-zpravy_nuba">kamerového systému</a> a vrátit autorská práva k pořadům TV Praha 13 do vlastnictví Městské části.</p>
