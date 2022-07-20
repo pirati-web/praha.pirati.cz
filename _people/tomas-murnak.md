@@ -3,7 +3,7 @@ uid:  tomas.murnak
 name: Tomáš Murňák  	
 category:   
    - mhmp
-img: people/tomas-murnak.jpg   # 165 x 220
+img: people/tomas-murnak-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
