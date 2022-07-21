@@ -1,6 +1,6 @@
 ---
 title: "Hlavní město Praha a Středočeský kraj deklarují spolupráci při dostavbě Pražského okruhu"
-author: Piráti Praha
+author: MHMP
 image: 	posts/hrib-okruh.jpg
 tags:   [Doprava, Pražský okruh (dálnice D0), Středočeský kraj]
 ---
