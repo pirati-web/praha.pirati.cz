@@ -1,11 +1,11 @@
 ---
-title: "Piráti vyzývají k podpisu petice proti nesmyslné prohibiční vyhlášce"
+title: "Letošní rekonstrukce Barrandovského mostu míří úspěšně do své druhé poloviny"
 authorId: zdenek.hrib
 image: 	posts/hrib-barrandovskymost.jpg
 tags:   [Barrandovský most, Doprava]
 ---
 
-Letošní rekonstrukce Barrandovského mostu míří úspěšně do své druhé poloviny. A to bez jakýchkoliv větších komplikací! Dnes jsme se o tom byli přesvědčit na kontrolním dnu.
+**Letošní rekonstrukce Barrandovského mostu míří úspěšně do své druhé poloviny. A to bez jakýchkoliv větších komplikací! Dnes jsme se o tom byli přesvědčit na kontrolním dnu.**
 
 Divím se, kam se poděli naši kritici z řad politických oponentů, kteří před rekonstrukcí zvěstovali Pražanům dopravní apokalypsu nebývalých rozměrů. Možná to bude tím, že žádná taková katastrofa nenastala.
 
