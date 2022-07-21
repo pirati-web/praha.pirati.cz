@@ -19,4 +19,4 @@ Dohromady s dalšími omezeními okolo vybraných staveb a jmenným seznamem uli
 
 ### Odkazy
 - web, kde je možné podepsat petici – [www.prohibice.pirati.cz](http://www.prohibice.pirati.cz)
-– web, na mapové vizualizace prohibiční vyhlášky ve vybraných parcích a centru města –[https://pi2.cz/mapy](https://pi2.cz/mapy)
+- web, na mapové vizualizace prohibiční vyhlášky ve vybraných parcích a centru města –[https://pi2.cz/mapy](https://pi2.cz/mapy)
