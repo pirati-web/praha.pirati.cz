@@ -1,5 +1,5 @@
 ---
-title: "Podali jsme podzimních voleb. Všichni naši kandidáti totiž mají odvahu řídit Prahu správně"
+title: "Podali jsme kandidátku do podzimních voleb. Všichni naši kandidáti totiž mají odvahu řídit Prahu správně"
 author: Piráti Praha
 image: 	posts/volby2022-kandidatkapodana.jpg
 tags:   [Piráti, Volby 2022]
