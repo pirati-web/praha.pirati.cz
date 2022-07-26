@@ -1,7 +1,7 @@
 ---
 title: "Není na co čekat. Piráti představili své priority v oblasti udržitelné energetiky a boje s klimatickou změnou "
 author: Piráti Praha
-image: 	posts/hrib-okruh.jpg
+image: 	posts/hrib-publikum-pice.jpg
 tags:   [Volby 2022, Energetická krize, Pražský klimatický závazek, Životní prostředí]
 ---
 
