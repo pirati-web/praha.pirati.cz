@@ -11,11 +11,13 @@ tags:   [Volby 2022, Energetická krize, Pražský klimatický závazek, Životn
 
 >“Praha musí jít příkladem na poli udržitelné energetiky nejenom Česku, ale měla by se stát vzorem i dalším evropským metropolím. Budeme rozvíjet a realizovat cíle klimatického plánu Prahy. Začneme přesně počítat a zveřejňovat naše emise. Zároveň najdeme další opatření nad rámec stávajících plánů pro snížení emisí, která budou znamenat čistší vzduch ve městě a zdravější životní prostředí,” říká primátor hlavního města Prahy Zdeněk Hřib s tím, že Piráti budou pokračovat v podpoře opatření pro urychlení konce závislosti na fosilních palivech a surovinách z Ruska a případně i z dalších zemí porušujících lidská práva a nedodržujících mezinárodní konvence.
 
-Miliarda korun na fotovoltaiku na střechách parkovišť i vlastní úsporná opatření magistrátu
+### Miliarda korun na fotovoltaiku na střechách parkovišť i vlastní úsporná opatření magistrátu
 
 Jedním z kroků, který budou Piráti na magistátu v následujícím volebním období prosazovat, je instalace fotovoltaických panelů na P+R, ale i další parkoviště ve městě. Cílem je takto pokrýt celkem 5000 parkovacích míst, kde by fotovoltaické panely zároveň poskytovaly stín. Odhadované náklady jsou zhruba 1 miliarda korun a podobný přístup zvolili například v jaderné elektrárně Dukovany. 
 
 >“Zatímco premiér v době energetické krize vyzývá k šetření občany, my začínáme u sebe na magistrátu. V červnu jsme odsouhlasili, že se v budovách v majetku města sníží průměrná vnitřní teplota v období topné sezóny na maximálně 22 °C. Můžeme jít ale ještě dál a přijmout další kroky, díky nimž město uspoří značné množství peněz,” doplňuje primátor Zdeněk Hřib.
+
+![Kulatý stůl - energetika a životní prostředí](https://a.pirati.cz/praha/img/posts/mahrik-tiskovka-pice.jpg)
 
 ### Není na co čekat. Klimaplán jako odrazový můstek pro čistější město i úspory peněz Pražanů
 
@@ -23,11 +25,15 @@ Zásadním krokem směrem k zelenější Praze je Klimatický plán schválený 
 
 >“Klimaplán, jehož přijetí bohužel nepodpořila opozice, mj. pomůže zvýšení energetické soběstačnosti města a už nyní se mohou Pražané připojit do projektu solární elektrárny na střechách jejich domů na webu pripojdum.cz. Město postaví také stanici pro výrobu bioplynu z tříděného odpadu nebo bude využívat odpadní teplo z čističky odpadních vod,” říká Viktor Mahrik, předseda zastupitelského klubu Pirátů na magistrátu.
 
+![Kulatý stůl - energetika a životní prostředí](https://a.pirati.cz/praha/img/posts/tylova-tiskovka-pice.jpg)
+
 ### Druhá miliarda korun na fotovoltaiku pro veřejné budovy
 
 >“Řešením, které může v současné chvíli pomoci zejména školám, školkám a radnicím městských částí, je okamžité vyhrazení 1 miliardy korun z magistrátu na instalaci fotovoltaických panelů na střechy jejich budov. Pokud toto kofinancování městským částem umožníme, pomůže ji to se  nastalé situaci  sebevědomě postavit,” říká Eva Tylová, místostarostka Prahy 12 a ekoložka. Dodává pak: “Již nyní se v Praze projevují dopady klimatické změny a výrazně negativně ovlivňují životní komfort každého z nás. Přitom tyto projevy se budou bez opravdové snahy o změnu výrazně prohlubovat až do té míry, že bude pro mnoho občanů život v metropoli nekomfortní. Chceme, aby byla Praha nejzelenějším městem Evropy, kde bude i v létě příjemně. A budeme řešit také znečištěné ovzduší, podporovat udržitelnou energetiku a starat se o přírodu našeho města,” říká Eva Tylová, místostarostka Prahy 12 a ekoložka.
 
 Kromě schválení klimaplánu a zahájení příprav bioplynové stanice Piráti definovali role městských společností u vybraných projektů, vytvořili projektové konsorcium a podali přihlášku do výzvy programu Horizon na řešení pozitivních energetických čtvrtí. Na tuto práci v oblasti boje proti klimatické krizi a udržitelné energetiky by rádi navázali i v dalším volebním období.
+
+![Kulatý stůl - energetika a životní prostředí](https://a.pirati.cz/praha/img/posts/mazur-tiskovka-pice.jpg)
 
 ### Nové i historické budovy ve městě by měly být energeticky nenáročné
 
