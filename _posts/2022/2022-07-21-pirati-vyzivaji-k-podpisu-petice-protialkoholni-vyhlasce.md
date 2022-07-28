@@ -18,5 +18,5 @@ Vyhláška sama je navíc velmi nepřehledná, protože otevřené nádoby s ná
 Dohromady s dalšími omezeními okolo vybraných staveb a jmenným seznamem ulic v příloze vyhlášky se tak zákaz otevřených lahví vína, plechovek piva i kelímků s burčákem či svařákem vztahuje prakticky na celý veřejný prostor v zastavěném území města (s pár výjimkami typu restauračních zahrádek bezprostředním okolím prodejních stánků). 
 
 ### Odkazy
-- web, kde je možné podepsat petici – [www.prohibice.pirati.cz](http://www.prohibice.pirati.cz)
+- web, kde je možné podepsat petici – [prohibice.pirati.cz](http://prohibice.pirati.cz)
 - web, na mapové vizualizace prohibiční vyhlášky ve vybraných parcích a centru města –[https://pi2.cz/mapy](https://pi2.cz/mapy)
