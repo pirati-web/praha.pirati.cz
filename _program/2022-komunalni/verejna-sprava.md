@@ -4,7 +4,7 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: verejna-sprava
 order: 5
-garant: bara.soukupova
+garant: zdenek.hrib
 redmine: 23492
 img: program/program2022-nahledy/verejna-sprava.png
 intro: >

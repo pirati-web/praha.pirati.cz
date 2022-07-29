@@ -4,7 +4,7 @@ campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: uzemni-rozvoj-a-planovani
 order: 4
-garant: viktor.mahrik
+garant: bara.soukupova
 redmine: 23492
 img: program/program2022-nahledy/uzemni-rozvoj.png
 intro: >
