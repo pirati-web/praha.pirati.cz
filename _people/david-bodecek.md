@@ -18,6 +18,7 @@ funkce:
 profiles:
   facebook:  https://www.facebook.com/dajdanos
   instagram: https://www.instagram.com/dajdanos
+  twitter:   http://www.twitter.com/DavidBodecek
 ---
 
 **David Bodeček** (* 1980) je kandidátem č. 13 do Zastupitelstva hl. m. Prahy, lídrem kandidátní listiny do Zastupitelstva Prahy 1 a 1. místopředsedou Pirátů v Praze 1. Narodil se v roce 1980 na Moravě, absolvoval Pedagogickou fakultu Masarykovy univerzity v Brně, obor dějepis – občanská výchova pro základní školu, s navazující aprobací pro školu střední. Po pětileté pedagogické praxi se 12 let v komerční sféře zabýval metodikou a nastavováním procesů. Na dobrovolnické bázi spolupracoval s nadacemi, které se ve své aktivitě zaměřují na děti, které prodělaly onkologickou léčbu a také na děti z dětských domovů.
