@@ -15,8 +15,8 @@ mail:
 mob:			 
 profiles:
   github:       
-  facebook:     
-  twitter: 		  
+  facebook:  https://www.facebook.com/jiri.bruzek.9   
+  twitter:   https://twitter.com/jiribruzek 		  
   flickr:		  
 funkce:
   - radní MČ Praha 12
