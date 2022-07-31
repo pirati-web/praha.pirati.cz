@@ -5,7 +5,7 @@ campaignGroupUid: volby-2014
 order: 1
 garant: jakub.michalek
 uid: kostlivci-ze-skrine
-img: img/modra-zona.jpg
+img: program/centrum.jpg
 intro: Praha je silně zadlužená a splácení předchozích závazků zatíží rozpočet města na mnoho let. Tunel Blanka, Opencard, nákupy tramvají za desítky miliard korun, prodlužování metra do polí, pronájem budovy magistrátu, podezřelá privatizace vodovodů a celá řada dalších kauz podlamuje důvěru občanů v poctivost politiků.
 
 ---
