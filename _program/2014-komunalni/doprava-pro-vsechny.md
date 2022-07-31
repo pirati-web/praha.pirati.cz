@@ -3,8 +3,9 @@ title: Doprava pro všechny
 campaignCategoryUid: 2014-komunalni
 campaignGroupUid: volby-2014
 order: 6
+garant: viktor.mahrik
 uid: svobodomyslna-praha
-img: program/barrandovsky-most.jpg
+img: img/barrandovsky-most.jpg
 intro: Dopravní podnik uzavřel korupční smlouvy na jízdenky a na reklamu, přenechává pohledávky z pokut černých pasažerů soukromým vymahačům a metro rozšiřuje k pozemkům spekulantů (Letňany, Motol). Praha již dnes platí dvě třetiny MHD ze svého rozpočtu a kvůli špatnému hospodaření musí zvyšovat jízdné. Praha staví předražené stavby jako tunel Blanka, které mají sporný užitek a násobně překračují plánované náklady. Otevření tunelu Blanka navíc může dlouhodobě zvýšit počet aut.
 
 ---

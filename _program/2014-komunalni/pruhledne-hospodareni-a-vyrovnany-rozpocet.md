@@ -3,8 +3,9 @@ title: Průhledné hospodaření a vyrovnaný rozpočet
 campaignCategoryUid: 2014-komunalni
 campaignGroupUid: volby-2014
 order: 2
+garant: mikulas.ferjencik
 uid: pruhledne-hospodareni-a-vyrovnany-rozpocet
-img: program/magistrat.jpg
+img: img/magistrat.jpg
 intro: Město financuje nebo řídí dopravní podnik, technické služby, městskou policii, střední školy a stovky dalších organizací, kde může docházet ke korupci. Např. v dozorčích radách městských společností jsou pouze zástupci vládnoucích stran a opozice ani občané nemají k informacím přístup. Financování je neprůhledné a zastupitelé nemohou uhlídat všechny výdaje. Rozpočet města navržený TOP 09 na rok 2014 je schodkový a město ho dorovnává ze svého majetku.
 
 ---

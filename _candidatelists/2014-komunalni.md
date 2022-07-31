@@ -119,7 +119,7 @@ tail: # zbytek kandidatky
     profession: softwarový operátor
     partyUid: pirati
 # 21.
-  - uid: PhDr. Lenka Wagnerová
+  - name: PhDr. Lenka Wagnerová
     age: 53
     profession: pedagog
     partyUid: pirati
@@ -224,7 +224,7 @@ tail: # zbytek kandidatky
     profession: živnostník 
     partyUid: pirati
 # 42.
-  - name: dana.balcarova 
+  - uid: dana.balcarova 
     age: 54
     profession: VŠE informatika, aktivistka Praha 9
     partyUid: bezpp
@@ -279,7 +279,7 @@ tail: # zbytek kandidatky
     profession: podnikatel v IT 
     partyUid: bezpp
 # 53.
-  - name: zdenek.hrib
+  - uid: zdenek.hrib
     age: 33
     profession: ředitel neziskovky
     partyUid: bezpp

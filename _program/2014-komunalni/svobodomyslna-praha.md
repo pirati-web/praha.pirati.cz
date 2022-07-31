@@ -3,6 +3,7 @@ title: Svobodomyslná Praha
 campaignCategoryUid: 2014-komunalni
 campaignGroupUid: volby-2014
 order: 5
+garant: mikulas.ferjencik
 uid: svobodomyslna-praha
 img: program/praha-zelena.jpg
 intro: Praha je vyhledávanou turistickou destinací, mimo jiné i pro svoji svobodomyslnost. To určuje její příjemnou atmosféru, kterou kazí různá nesmyslná omezení, jako např. zákaz pití alkoholu na Petříně, zákaz focení se stativem na Karlově mostě, snahy o zákaz nezávislých pouličních umělců, nesmyslné odtahy aut, pokuty chodcům za přecházení kolejí či mimo přechod, na každém rohu kamery a agresivní reklama. Město svůj veřejný prostor přes reklamní agentury neprůhledně prodává politickým stranám.
