@@ -5,3 +5,6 @@
   name: bez politické příslušnosti
 - uid: podpora
   name: s podporou Pirátské strany
+- uid: les
+  name: Liberálně ekologická strana
+  logoImg: koalicni-strany/les.png

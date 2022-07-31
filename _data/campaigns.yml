@@ -1,13 +1,18 @@
 # Campaigns are grouped, this usually reperesents situation when multiple
 # election campaings are held at the same time (which saves $$$ for the country).
 
-- groupUid: volby-2018  # identifier of the group, to be used in program point
-  title: Volby 2018     # title of the campaign group
+- groupUid: volby-2014  # identifier of the group, to be used in program point
+  title: Volby 2014     # title of the campaign group
   campaigns:
-    - title: Komunální volby  # individual campaigns within the group
+    - title: Komunální volby 2014  # individual campaigns within the group
+      categoryUid: 2014-komunalni
+- groupUid: volby-2018 
+  title: Volby 2018 
+  campaigns:
+    - title: Komunální volby
       categoryUid: 2018-komunalni
-- groupUid: volby-2022  # identifier of the group, to be used in program point
-  title: Pirátský program pro Prahu     # title of the campaign group
+- groupUid: volby-2022
+  title: Pirátský program pro Prahu
   campaigns:
-    - title: Komunální volby 2022 # individual campaigns within the group
+    - title: Komunální volby 2022
       categoryUid: 2022-komunalni
