@@ -28,6 +28,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: protikorupční aktivista, lektor kurzů zábavné log.
     city: Praha 3
     partyUid: pirati
+tail: # zbytek kandidatky
 # 5.
   - uid: viktor.mahrik
     age: 32
@@ -46,7 +47,6 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: technik a analytik
     city: Praha 10
     partyUid: pirati
-tail: # zbytek kandidatky
 # 8.
   - uid: michaela.krausova
     age: 22

@@ -1,6 +1,8 @@
 ---
 title: Komunální volby 2014
-layout: "program-post"
+campaignCategoryUid: 2014-komunalni
+campaignGroupUid: volby-2014
+uid: program2014
 ---
 
 # Program pro Prahu
