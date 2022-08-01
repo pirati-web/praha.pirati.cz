@@ -60,7 +60,7 @@ tail: # zbytek kandidatky
     city: Praha 2
     partyUid: pirati
 # 10.
-  - name: Maiello Giuseppe Ph.D.
+  - name: Giuseppe Maiello, Ph.D.
     age: 52
     profession: učitel na základní škole a předseda SVJ
     city: Praha–Klánovice
@@ -78,7 +78,7 @@ tail: # zbytek kandidatky
     city: Praha 2
     partyUid: bezpp
 # 13.
-  - name: Esner Vladislav Tobias
+  - name: Vladislav Tobias Esner
     age: 32
     profession: správce Pirátského centra, asistent předsednictva
     city: Praha 18
