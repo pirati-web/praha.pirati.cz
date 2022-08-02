@@ -1,7 +1,7 @@
 ---
 title: "Praha upraví projekt dostavby Radlické radiály, aby byl v souladu se schválenými koncepčními dokumenty"
 author: MHMP
-image: 	posts/nradlicka-radiala.jpg
+image: 	posts/radlicka-radiala.jpg
 tags:   [Doprava, Městský okruh, Praha 5]
 ---
 
