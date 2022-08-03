@@ -2,10 +2,10 @@
 title: "V září se znovu otevře dotační program na podporu volného času dětí a mládeže s alokací 42 milionů korun"
 author: MHMP
 image: 	posts/vitsimral5.jpg
-tags:   [Sport. Školství]
+tags:   [Školství]
 ---
 
-**Rada hl. m. Prahy dnes schválila návrh na vyhlášení Programu podpory využití volného času dětí a mládeže na rok 2023. Předpokládaný objem finančních prostředků ve výši 42 milionů korun bude využit například pro zajištění volnočasových aktivit, podporu příměstských táborů či víkendových akcí.**
+**Rada hl. m. Prahy v pondělí schválila návrh na vyhlášení Programu podpory využití volného času dětí a mládeže na rok 2023. Předpokládaný objem finančních prostředků ve výši 42 milionů korun bude využit například pro zajištění volnočasových aktivit, podporu příměstských táborů či víkendových akcí.**
 
 >"Dotace na podporu volnočasových aktivit plní v Praze velmi důležitou roli nejen při zajištění finančně náročného chodu jednotlivých dětských a mládežnických oddílů a kroužků, ale také se tím snaží o potlačení negativních jevů a kriminality, se kterou se značná část dětí v dnešní době potýká. Finanční prostředky jsou poskytovány na základě jednoletých smluv, ale ve většině případů se jedná o každoroční žadatele a dlouhodobé partnery hlavního města jako jsou skautské oddíly, mládežnické skupiny dobrovolných hasičů či Tomíci,” uvedl radní hl. m. Prahy pro oblast školství Vít Šimral.
 
