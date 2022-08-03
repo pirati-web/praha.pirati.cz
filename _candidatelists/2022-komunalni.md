@@ -133,7 +133,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     city: Praha 11
     partyUid: pirati
 # 22.
-  - name: Ing. Štěpán Rattay
+  - uid: stepan.rattay
     age: 45
     profession: ekonom se specializací na nakládání s veřejnými prostředky a předseda kontrolního výboru Prahy 5
     city: Praha 5
