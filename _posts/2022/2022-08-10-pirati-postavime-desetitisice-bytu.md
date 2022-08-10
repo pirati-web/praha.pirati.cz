@@ -1,7 +1,7 @@
 ---
 title: "Piráti: V Praze postavíme byty pro desetitisíce Pražanů"
 author: Piráti Praha
-image: 	posts/hrib-pice-bydleni.jpg
+image: 	posts/hrib-tiskovka-pice-bydleni.jpeg
 tags:   [Bydlení, Volby 2022]
 ---
 
@@ -12,7 +12,7 @@ tags:   [Bydlení, Volby 2022]
 ### Postavíme byty pro desetitisíce Pražanů
 Praha má málo obecních bytů, a nemůže tak dostatečně reagovat na kritický nedostatek dostupného bydlení. Až v tomto volebním období i díky Pirátům město ukončilo privatizace obecních bytů a založilo Pražskou developerskou společnost, která začala připravovat novou obecní bytovou výstavbu. V rozpracovaných projektech k dnešnímu datu se počítá s více jak 7 tisíci novými byty a další projekty budou postupně přibývat. “Dotáhneme naši strategii rozvoje obecního bydlení do konce a v následujícím volebním období začneme stavět nové městské byty podle připravených projektů. Do roku 2030 se dostaneme do stavu, kdy Praha každý rok postaví alespoň 500 obecních bytů, které bude pronajímat v režimu dostupného či sociálního bydlení. Část svých pozemků město bude uvolňovat pro družstevní a spolkovou výstavbu, aby vznikla alternativa ke komerční výstavbě,” říká Adam Zábranský, radní pro bydlení a transparentnost.
 
-![Kulatý stůl - bydlení](https://a.pirati.cz/praha/img/posts/zabransky-pice-bydleni.jpg)
+![Kulatý stůl - bydlení](https://a.pirati.cz/praha/img/posts/zabransky-tiskovka-pice-bydleni.jpeg)
 
 ### Zajistíme ještě vyšší odpovědnost developerů vůči občanům města a udržitelnému veřejnému prostoru
 >“Aby to vše fungovalo, je nutné zajistit ještě vyšší odpovědnost developerů vůči městu i občanům. Piráti proto naváží na schválenou metodiku spoluúčasti investorů na rozvoji Prahy a budou po developerech požadovat, aby se adekvátně podíleli na nákladech, které nová výstavba přináší v souvislosti s budováním veřejné vybavenosti a infrastruktury,” dodává Zábranský. 
@@ -24,7 +24,7 @@ Služby krátkodobého ubytování v jinak neobydlených bytech vedou ke zdražo
 
 >“Na novele zákona o platformách pro krátkodobé ubytování intenzivně spolupracujeme s ministrem pro místní rozvoj a digitalizaci Ivanem Bartošem. Airbnb a podobné platformy nemohou dále vytěžovat město  na úkor obyvatel, kteří v něm žijí,” říká Zdeněk Hřib, primátor Prahy.
 
-![Kulatý stůl - bydlení](https://a.pirati.cz/praha/img/posts/freitas-pice-bydleni.jpg)
+![Kulatý stůl - bydlení](https://a.pirati.cz/praha/img/posts/freitas-tiskovka-pice-bydleni.jpeg)
 
 ### Zajistíme nové sociální bydlení s využitím stávajícího obecního bytového fondu 
 Piráti bude nadále intenzivně řešit bytovou nouzi Pražanů, a to prostřednictvím prevence i podpory v bydlení. 
