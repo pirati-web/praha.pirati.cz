@@ -2,7 +2,7 @@
 title: "První městská společnost zveřejnila data o zakázkách. Operátor ICT umožňuje veřejnou kontrolu hospodaření"
 author: MHMP
 image: 	posts/0hrib.jpg
-tags:   [Transparentnost]
+tags:   [Operátor ICT, Otevřená data, Transparentnost]
 ---
 
 Operátor ICT se stal první městskou společností, která zveřejnila data o zadávaných zakázkách v interaktivní aplikaci na platformě Golemio i ve formátu otevřených dat. Ukazuje tak, že otevřené hospodaření se nemusí týkat pouze města a jeho příspěvkových organizací. V budoucnu se mohou přidat další městské společnosti.
