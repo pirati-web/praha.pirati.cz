@@ -69,7 +69,8 @@ Z hlediska města je takto možné snížit míru vyprodukovaného odpadu, a sn�
 
 Z hlediska politiky je úskalím fakt, že největší přínosy jsou závislé na míře přijetí principů cirkulární ekonomiky společností jako celkem a projevují se až v dlouhodobém rámci, navíc obvykle implicitně. Je tak nutné spoléhat na relativně krátkodobé uchopitelné cíle a na nich stavět.
 
-Současná výroba a spotřeba není dlouhodobě udržitelná. V Česku vyčerpáme dostupné roční zdroje již 17. 4. (Overshoot Day) [1] a na skládce přitom skončí polovina směsného komunálního odpadu, ačkoliv až 80 procent tohoto odpadu by bylo možné ještě materiálně využít [2]. Nyní končí bez užitku a je finanční i ekologickou zátěží.
+Současná výroba a spotřeba není dlouhodobě udržitelná. V Česku vyčerpáme dostupné roční zdroje již 17. 4. (Overshoot Day) a na skládce přitom skončí polovina směsného komunálního odpadu, ačkoliv až 80 procent tohoto odpadu by bylo možné ještě materiálně využít. Nyní končí bez užitku a je finanční i ekologickou zátěží.
+
 V současnosti nadužíváme přírodní zdroje a nedostatek surovin se již projevuje v některých oblastech, například ve stavebnictví i při výrobě řady výrobků. Do budoucna se bude problém nadále prohlubovat. Vyprodukovaný odpad je potřeba uložit a zpracovat. To vše město nadměrně zatěžuje a také například generuje nákladní dopravu.
 
 ### Ideál

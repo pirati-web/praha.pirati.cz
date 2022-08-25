@@ -125,7 +125,7 @@ domů.
 - Po vzoru zahraničních měst jsme založili [Městskou nájemní agenturu (MNA)](https://najemniagentura.praha.eu/), která nabízí majitelům bytů stabilní příjmy bez rizika a na oplátku jejich byty pronajímá potřebným. MNA zabydlela již 17 domácností.
 - Založili jsme [Sociální nadační fond hl. m. Prahy určený na pomoc Pražanům v nouzi](http://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=042080139147142103093080157147142103090080154147142103090080151147142103090&id=603056) v případech, které nejsou schopny řešit současné systémy státní pomoci.
 - Schválili jsme ambiciózní [Strategii rozvoje dostupného bydlení v hl. m. Praze](https://iprpraha.cz/uploads/assets/dokumenty/strategie_rozvoje_bydleni.pdf.). 
-- Schválili jsme [Strategii prevence a řešení zadlužování nájemníků](http://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=112150209217212173163150227217), díky níž se nám daří snižovat zadlužení nájemníků městských bytů. 212173160150224217212173160150221217212173160&id=613602.
+- Schválili jsme [Strategii prevence a řešení zadlužování nájemníků](http://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=112150209217212173163150227217), díky níž se nám daří snižovat zadlužení nájemníků městských bytů. 
 - Otevřeli jsme [městskou nábytkovou banku](https://nabytkovka.cz/).Podílíme se na reformě péče o duševní zdraví a transformujeme ústavní zařízení zřizované Prahou, aby lidé mohli žít v přirozeném prostředí a ne v ústavech; za tímto účelem jsme pronajalijiž více než 60 bytů.
 
 

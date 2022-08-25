@@ -31,9 +31,9 @@ Občan nachází informace i potřebné služby přirozeně, do několika minut 
 
 ### Co jsme už udělali
 - Vytvořili jsme Portál Pražana.
-● Modernizovali jsme některé městské aplikace, například PID Lítačka a Změňte.to.
-● Připravili jsme plán rozvoje dalších klíčových aplikací, jejichž provoz bude zachován.
-● Integrovali jsme do PIDLítačky množství užitečných služeb souvisejících s pohybem po městě.
+- Modernizovali jsme některé městské aplikace, například PID Lítačka a Změňte.to.
+- Připravili jsme plán rozvoje dalších klíčových aplikací, jejichž provoz bude zachován.
+- Integrovali jsme do PIDLítačky množství užitečných služeb souvisejících s pohybem po městě.
 
 # Efektivní úřad
 >V uplynulém volebním období jsme snížili počet pracovníků magistrátu o 7 %. Plánujeme digitalizovat a zautomatizovat další agendu úřadu. Město tak nejen ušetří náklady na zaměstnance, ale hladší bude i spolupráce mezi MHMP a městskými částmi. Sníží se i riziko chyb z přepisování údajů mezi softwarovými systémy. Budeme nadále podporovat využívání moderních a osvědčených metod vzdálené komunikace. Podpoříme další sjednocování informačních systémů, jejich centralizaci do městského datového centra a snižování závislosti na externích dodavatelích v základním provozu. Budeme podporovat využití open-source softwaru.

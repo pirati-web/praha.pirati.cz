@@ -83,7 +83,7 @@ Všechny rodiny mají v Praze dostatečnou podporu. Podpora a pomoc jsou dostupn
 	- poradenství pro rodiny,
 	- preventivní programy do škol.
 
-Co jsme už udělali
+### Co jsme už udělali
 - Naformulovali jsme základní směry prorodinné politiky MHMP 2021–2022.
 - Zahájili jsme proces komunitního plánování sociálních a návazných služeb na jednotlivých MČ a MHMP.
 - Zpracováváme sociodemografické studie jednotlivých MČ.
