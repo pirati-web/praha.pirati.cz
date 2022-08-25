@@ -47,9 +47,8 @@ main:
   - name: Kontakt
     link: /kontakt/
   - name: ENGLISH
-    link: /volby-english/2022-elections-english.html
+    link: /volby/2022-komunalni-program-english.html
     
-
 bottom:
   - class: small-12 medium-4
     title: Připoj se
