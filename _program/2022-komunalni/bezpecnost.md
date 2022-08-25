@@ -101,6 +101,3 @@ Politika Prahy pro oblast návykového chování a s ním spojených jevů využ
 - Podporujeme neziskovky pracující v terénu.
 - Podporujeme granty a dotacemi primární prevenci.
 - Podpořili jsme usnesení ZHMP k rozšíření sítě kontaktních center.
-
-# Krizová připravenost
->Nedávné i současné události typu koronavirové pandemie a uprchlické krize související s válkou na Ukrajině nám jasně ukázaly, jak bezprostředně důležitá je připravenost města a jeho jednotlivých složek na náhle vzniklé a různorodé krizové situace. Připravíme nový a aktuální krizový plán metropole, podle něhož budou v případě nouze postupovat jak vedení města a jeho městských části, tak složky integrovaného záchranného systému a další činitelé, a to vždy specificky podle charakteru dané krizové události.
