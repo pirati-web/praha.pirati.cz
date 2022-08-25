@@ -28,8 +28,8 @@ ordpks: 4
 ordvlada: 3
 profiles:
   github:       
-  facebook:    
-  twitter: 		  
+  facebook: https://www.facebook.com/FreitasLopesova   
+  twitter: 	https://twitter.com/FreitasZuzana	  
   flickr:		  
 ---
 
