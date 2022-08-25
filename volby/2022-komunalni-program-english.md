@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: program-post
 title: "2022 Municipal Elections "
-description: "2022 Municipal Elections - Pirate Party"
-keywords: Pirate Party, Municipal Elections, Elections, 2022
+customizeHeader: true
 ---
 
 # 2022 Municipal Elections 
