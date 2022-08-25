@@ -4,12 +4,10 @@ title: "2022 Municipal Elections "
 customizeHeader: true
 ---
 
-# 2022 Municipal Elections 
-
 ### We have the courage to run Prague the right way!
 *Thanks to the trust of the citizens of Prague and the stable environment of the coalition, we have been able to lead our city for four years, changing it for the better, and navigate it through two unprecedented crises. Under our leadership, Prague has experienced record development. We launched the construction of the Metro D line, the first new line in 40 years. Last year, the construction of 9,700 new flats was approved, which is a record number since 1989. Tram lines are being extended at an unprecedented pace. We have built a record number of new P+R parking places. Under the leadership of our predecessors, bridges were falling apart and crumbling away. We have the courage to undertake major reconstructions, without which other bridges would follow.  On top of that, we are building new river bridges. We are following the plan to plant a million new trees exactly as we promised.*
 
-# Election Programme
+# Our Election Programme
 
 ### We Will Ready Prague for Climate Change 
 *This is one of the most important topics for Prague. We need to prepare the city for climate change as quickly as possible. We want it to become the greenest city in Europe, where life will be pleasant even in summer. We will also deal with air pollution, support sustainable energy, and take care of the city’s outdoor areas.*
@@ -201,5 +199,6 @@ Sports enjoyment should be available to everyone, regardless of age and fitness.
 ### Tourism Beneficial for Both Tourists and Locals
 *After the Covid-19 restrictions, we want to revive tourism in Prague. It will help to start economic growth again, from which we locals will also benefit. However, we also want to support tourist-attractive places outside the historic city centre, so that tourism spreads to other parts of Prague.*
 
-**Tourism support**
+**Tourism support*
+
 Tourism support has become a pressing issue of the Covid political agenda. Our goal is to effectively help the resurrection of this industry in Prague, with regard to economic growth in line with the public space cultivation. Our priorities include the development of a network of attractive tourist destinations outside the historic city centre and the optimisation of tools to stimulate congress tourism. We will develop the offer under the Prague Tourist Card product. The strategy will also include communication between the city and private entities – for example, hotel owners or congress organizers.
