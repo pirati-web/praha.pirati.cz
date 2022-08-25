@@ -42,12 +42,12 @@ main:
         link: /volby/2018-komunalni.html
       - name: Komunální volby 2014   
         link: /volby/2014-komunalni.html
-  - name: Pirátské listy 2022
-    link: https://a.pirati.cz/praha/plisty2022-podzim/
   - name: Pirátské centrum
     link: /pice/
   - name: Kontakt
     link: /kontakt/
+  - name: ENGLISH
+    link: /volby-english/2022-elections-english.html
     
 
 bottom:
