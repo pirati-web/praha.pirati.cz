@@ -1,0 +1,20 @@
+---
+title: "Hlavní město dostaví budovu Nová Palmovka. Do budoucna by zde mohla sídlit Agentura Evropské unie pro kosmický program"
+author: MHMP
+image: posts/novapalmovka.jpg
+tags:   [Praha 8, Agentura EUSPA, Nová Palmovka]
+---
+ 
+**Hlavní město plánuje v co nejbližší době dostavět budovu Nová Palmovka v Praze 8. Do budoucna by mohl právě tento objekt sloužit Agentuře Evropské unie pro kosmický program (EUSPA), a to jako její sídlo. Vzhledem k vyjednávání s agenturou ze strany státu byla proto dnes podepsána mezi hlavním městem a ministerstvem financí smlouva o budoucí nájemní smlouvě. Ministerstvo by následně mohlo prostory podnajmout přímo agentuře.**
+
+Primátor hl. m. Prahy Zdeněk Hřib dnes podepsal s ministrem financí Zbyňkem Stanjurou smlouvu o budoucím využití budovy Nová Palmovka. Smlouva byla uzavřena mezi hlavním městem jako budoucím pronajímatelem a Českou republikou – ministerstvem financí – jako budoucím nájemcem. Samotná nájemní smlouva bude uzavřena jako dlouhodobý nájem na dobu 25 let. Česká republika prostory v budově Nová Palmovka v případě úspěšných jednání podnajme ve prospěch Agentury Evropské unie pro kosmický program, která bude prostory využívat jako svoje sídlo.
+
+Do té doby plánuje hlavní město dostavět budovu Nová Palmovka a následně upravit vnitřní prostory tak, aby byly vhodné pro provoz agentury. Díky tomu by se mohla stát dostavba impulsem nejen pro rozvoj celé lokality Palmovka, ale i pro rozvoj vědy a výzkumu a pracovní příležitosti pro odborníky z celého světa. Sídlo Agentury Evropské unie pro kosmický program by Praze také pomohlo ke zvýšení atraktivity i pro další mezinárodní organizace v oblasti vědy a výzkumu a moderních technologií. Z předložených odborných studií by mělo umístění sídla agentury v Praze i významné pozitivní multiplikační ekonomické dopady. 
+
+>„Moc si vážím toho, že EUSPA už nyní působí právě na území Prahy. Aktivity v oblasti kosmického průmyslu a vesmírného výzkumu patří mezi priority vedení hlavního města v rámci technologicky vyspělých oborů. EUSPA navíc dalece přesahuje hranice našeho města, ale i jednotlivých států. Význam a rozsah aktivit této agentury neustále roste, a proto je dobře, že by v tom mohla pokračovat v nové městské budově na Palmovce. Věřím, že tento krok přiláká do Prahy další talenty v tomto oboru a zároveň přispěje k celkovému rozvoji lokality a zlepšení kvality života místních obyvatel,“ říká Zdeněk Hřib, primátor hl. m. Prahy.
+
+>„Dnešní podpis smlouvy je výsledkem tříleté práce. Máme za sebou křehká jednání o převedení nedostavěné budovy na Prahu, mnoho debat o jejím využití a jednání s ministerstvem dopravy a financí o pronájmu právě pro EUSPA. Díky tomu bude naše Palmovka jedním z center vědy. Kosmické aktivity byly vždy primárně spojovány s kosmickým výzkumem, dnes je to ale především o aplikacích, které využíváme na zemi. Více než deset procent evropského hospodářství je navázáno na družicovou infrastrukturu a je úžasné, že centrum kosmických aktivit EU je v Praze. Pro veřejnost navíc vedle EUSPA vytvoříme interaktivní centrum vesmírného výzkumu. Sídlo, kam by se agentura mohla přestěhovat během tří let, bude součástí nové městské čtvrti, v jejímž rámci vyrostou v okolí Palmovky nové školy, školky, náměstí a více než dva tisíce dostupných nájemních bytů,“ doplňuje náměstek primátora hl. m. Prahy pro oblast územního rozvoje Petr Hlaváček.
+
+Ze strany hlavní města by měla být nejdříve dokončena dostavba budovy bez vnitřních finálních úprav interiéru. Následně budou uskutečněny další zařizovací práce přímo k plánovanému využití budovy.
+
+Veškeré hlavní provozní náklady by do budoucna napřímo hradila Česká republika nebo případně EUSPA. S ohledem na dlouhodobý nájem bude nájemné každoročně zvyšováno o inflaci a zároveň bude docházet k tzv. revizi nájemného, a to opakovaně vždy po uplynutí doby trvání 5 let nájmu. V tuto chvíli ještě není určena přesná výše budoucího nájemného.
