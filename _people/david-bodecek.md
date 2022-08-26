@@ -5,7 +5,7 @@ titles:
   before: Mgr. 
   after: MBA
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-img: people/david-bodecek-2022.jpg
+img: people/david-bodecek-2022-2.jpg
 heroImg: Prague_panorama.jpeg
 description: předseda kontrolního výboru MČ Praha 1
 mail:
