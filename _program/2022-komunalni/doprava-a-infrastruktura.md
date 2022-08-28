@@ -71,9 +71,8 @@ zvýhodněním elektrických dodávek).
 - Zahájili jsme stavbu prvního úseku metra D Pankrác–Olbrachtova.
 - Připravujeme stavbu Dvoreckého mostu, vybrali jsme zhotovitele.
 - Postavili jsme novou Trojskou lávku, zahájili jsme stavbu lávky mezi Holešovicemi a Karlínem.
-- Zahájili jsme stavbu tramvajové trati z Barrandova do Holyně a trati na Hlavní nádraží.
-- Dokončili jsme tramvajovou smyčku Zahradní Město a novou trať Pankrác–Pražského povstání.
-- Vysoutěžili jsme zhotovitele pro tramvajovou trať Modřany–Libuš, připravujeme tramvaj na Dědinu (zahájení stavby 2023).
+- Zahájili jsme stavbu tramvajové trati na Dědinu a trati Modřany–Libuš.
+- Dokončili jsme novou tramajavou trať z Pražského povstání na Pankrác, z Barrandova do Holyně, trať na Hlavní nádraží a novou tramvajovou smyčku Zahradní Město.
 - Ve spolupráci se Středočeským krajem jsme posílili spoje a navýšili kapacitu u příměstské železnice, připravujeme nové železniční linky S61 a S71.
 - Schválili jsme nezbytnou změnu územního plánu pro železnici na letiště.
 - Odbouráváme bariéry v MHD. Všechny autobusy DPP jsou nízkopodlažní..
