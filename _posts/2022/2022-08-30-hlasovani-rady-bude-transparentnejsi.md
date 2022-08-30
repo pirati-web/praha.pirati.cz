@@ -5,7 +5,7 @@ image:  posts/novaradnice.jpg
 tags:   [Transparentnost]
 ---
  
-Rada hlavního města Prahy dnes schválila novelu svého jednacího řádu zavádějící jmenovité hlasování s cílem zvýšit transparentnost jednání a posílit možnost veřejné kontroly a přímé odpovědnosti volených funkcionářů hlavního města Prahy. 
+Rada hlavního města Prahy schválila novelu svého jednacího řádu zavádějící jmenovité hlasování s cílem zvýšit transparentnost jednání a posílit možnost veřejné kontroly a přímé odpovědnosti volených funkcionářů hlavního města Prahy. 
 
 > „Pokud chceme předcházet kauzám jako Dozimetr a jím podobným, jsem přesvědčená, že Rada hlavního města Prahy musí přijmout změnu svého jednacího řadu a opatření, která přinesou efektivní a hospodárné fungování města. Zvýšením transparentnosti a veřejné kontroly se zmenšuje prostor pro korupční jednání a zvyšuje se politická odpovědnost volených zástupců za přijatá rozhodnutí,“ říká radní hl. m. Prahy Hana Kordová Marvanová.
 
