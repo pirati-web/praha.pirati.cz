@@ -13,4 +13,6 @@ Výstupem pilotního projektu je vybudování, otestování a provozování syst
 
 V praxi to bude fungovat tak, že uživatel provede jednotnou registraci, naplánuje si trasu, vybere si dopravní prostředek a zaplatí přímo za všechny využívané služby od zapojených poskytovatelů v jedné mobilní aplikaci. Současná situace je taková, že uživatelé musí pro každý způsob dopravy využívat aplikace jednotlivých poskytovatelů služeb nebo jiné standardní prostředky za platbu jízdného a u služeb carsharingu musí například u každého poskytovatele samostatně registrovat svůj řidičský průkaz.
 
-Pilotní projekt bude mít 4 etapy a potrvá 28 měsíců. „První etapa se zaměří na detailní zpracování architektury systému, které bude vycházet ze vzájemných funkčních a provozních požadavků. Vývoj software pro jednotnou registraci a platbu pro služby mobility a následná integrace do aplikace PID Lítačky je součástí druhé etapy. Vlastnímu testování se bude věnovat třetí etapa a závěrečná etapa je určená pro zkušební provoz,“ doplňuje projektový manažer OICT Vojtěch Štěch.  
+Pilotní projekt bude mít 4 etapy a potrvá 28 měsíců. 
+
+> „První etapa se zaměří na detailní zpracování architektury systému, které bude vycházet ze vzájemných funkčních a provozních požadavků. Vývoj software pro jednotnou registraci a platbu pro služby mobility a následná integrace do aplikace PID Lítačky je součástí druhé etapy. Vlastnímu testování se bude věnovat třetí etapa a závěrečná etapa je určená pro zkušební provoz,“ doplňuje projektový manažer OICT Vojtěch Štěch.  
