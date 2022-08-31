@@ -196,13 +196,13 @@ Politika Prahy pro oblast návykového chování a s ním spojených jevů využ
 <li> Navážeme aktivní komunikaci s odpovědnými osobami na úrovni státu a budeme aktivně pracovat na provazbě všech důležitých aktérů.</li>
 <li> V souladu s nejlepší praxí se zasadíme o větší podporu harm reduction programů a přidružených sociálních a zdravotních služeb, například tam, kde je to potřeba, podpoříme vznik či zachování.</li>
 	<ul>
-        <li> kontaktních center,</li>
-	<li> center substituční léčby (např. i wet centra pro uživatele alkoholu),</li>
-	<li> výměnných programů pro injekční uživatele,</li>
-	<li> ambulantních adiktologických služeb,</li>
-	<li> boxů na použité stříkačky,</li>
-	<li> systémů bydlení s podporou,</li>
-	<li> programů pro snazší návrat do společnosti.</li>
+        	<li> kontaktních center,</li>
+		<li> center substituční léčby (např. i wet centra pro uživatele alkoholu),</li>
+		<li> výměnných programů pro injekční uživatele,</li>
+		<li> ambulantních adiktologických služeb,</li>
+		<li> boxů na použité stříkačky,</li>
+		<li> systémů bydlení s podporou,</li>
+		<li> programů pro snazší návrat do společnosti.</li>
         </ul>
 <li> Zasadíme se o podporu a revizi školské primární prevence. Na obcemi zřizovaných školách podpoříme posílení a revizi programů primární prevence a také podporu školních metodiků prevence. Budeme dbát na zvýšení informovanosti před prvním kontaktem s potenciálně rizikovými faktory a vytváření stabilního prostředí s dostatkem plnohodnotných podnětů a mezilidských vztahů. Zejména se jedná o podporu zdravého životního stylu, atraktivních volnočasových aktivit a vytváření zdravých vztahů v rodině i komunitě.</li>
 </ul>
