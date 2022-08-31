@@ -27,6 +27,7 @@ Pro mnoho lidí je kultura z různých důvodů (zdravotních, sociálních...) 
 </blockquote>
 </div>
 </div>
+
 <div class="resenicko">
 <button class="hide"><h4>- Ideál</h4></button>
 <button class="show"><h4>+ Ideál</h4></button>
@@ -38,14 +39,27 @@ Praha je kulturním centrem Evropy.
 </div>
 </div>
 
-### Opatření
+<div class="resenicko">
+<button class="hide"><h4>- Opatření</h4></button>
+<button class="show"><h4>+ Opatření </h4></button>
+
+<div class="text">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
 - Zaměříme se vznik a rozšíření bezbariérových přístupů na kulturní akce.
 - Budeme pokračovat v projektech typu divadelní generálky pro seniory zdarma nebo klub mladého diváka a budeme Pražany o těchto možnostech informovat
 - Podpoříme komunitní (sousedská) setkávání při různorodých aktivitách (workshopy apod.).
 - Vedoucí pracovníci příspěvkových organizací města budou vybíráni prostřednictvím otevřených výběrových řízení.
 - Podporujeme projekt Vltavské filharmonie za podmínky, že tento projekt získá státní podporu.
+</blockquote>
+</div>
+</div>
 
-### Co jsme už udělali
+<div class="resenicko">
+<button class="hide"><h4>- Co jsme už udělali</h4></button>
+<button class="show"><h4>+ Co jsme už udělali</h4></button>
+
+<div class="text">
+<blockquote style="border:margin:1em;1px solid black;padding:1em">  
 - Je hotová inventarizace a pasportizace uměleckých děl ve veřejném prostoru.
 - Vyhlásili jsme urbanisticko-architektonickou soutěž na obnovu Průmyslového paláce v Holešovicích.
 - Kultivujeme Holešovickou tržnici. Stává se z ní sociální, kulturní a gastronomické centrum, zmizel nevěstinec.
@@ -53,6 +67,9 @@ Praha je kulturním centrem Evropy.
 - Vzniklo Muzeum nesvobody, Praha zajistila prostory.
 - Spustili jsme architektonickoou soutěž na přestavbu Florence a na Vltavskou filharmonii.
 - Zavedli jsme podporu podnikatelů v turistickém průmyslu a ubytování formou voucherů.
+</blockquote>
+</div>
+</div>
 
 # Transparentní financování
 >Přineseme větší názorovou pestrost do rozhodování o podpoře kultury ze strany města. Hodnotící komise budou jmenovány na návrhy široké skupiny stakeholderů. Zvýšíme počet hodnotitelů, aby nebyli při hodnocení přetížení. Zavedeme půlroční periodicitu dotačního systému pro menší projekty, ale zaměříme se také na adekvátní víceleté financování těch nejvýznamnějších. Podpoříme samotný tvůrčí proces a donátorství, vytvoříme odpovídající systém iniciativ u příspěvkových organizací. Zajistíme vyšší míru participace občanů v kultuře. Omezíme podporu ryze komerčních akcí.
