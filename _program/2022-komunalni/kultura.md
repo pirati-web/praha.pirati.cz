@@ -70,7 +70,7 @@ Praha je kulturním centrem Evropy.
 <il> Vzniklo Muzeum nesvobody, Praha zajistila prostory.</li>
 <il> Spustili jsme architektonickoou soutěž na přestavbu Florence a na Vltavskou filharmonii.</li>
 <il> Zavedli jsme podporu podnikatelů v turistickém průmyslu a ubytování formou voucherů.</li>
-<ul>
+</ul>
 </blockquote>
 </div>
 </div>
