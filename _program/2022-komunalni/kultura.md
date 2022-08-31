@@ -15,13 +15,17 @@ intro: >
 # Kultura pro všechny
 >Kultura je tady pro všechny, i pro znevýhodněné. Naším cílem je co největší pestrost a dostupnost tvorby. Budeme podporovat nejen klasické, ale i alternativní umění po celé Praze, a to nejen v centru. Zúčastníme se světových projektů v kultuře a v rámci EU budeme aktivním partnerem. Zajistíme příznivé podmínky pro tvůrčí proces. V rámci rozvoje kultury budeme trvat na co nejširší participaci občanů pod vedením odborníků. Zaměříme se na zpřístupnění kultury všem generacím a menšinám. Podporujeme projekt Vltavské filharmonie za podmínky, že tento projekt získá státní podporu.
 
-<div class="reseni">
-<b>Kontext:</b>
+<div class="resenicko">
+<button class="hide">- Kontext</button>
+<button class="show">+ Kontext</button>
+
+<div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
-<ol>
+<ul>
 Pro mnoho lidí je kultura z různých důvodů (zdravotních, sociálních...) obtížně přístupná. Komunity, které mají nápady a energii, často nemají možnosti uplatnění. Vedení příspěvkových organizací je někdy dost zkostnatělé. Praha nemá adekvátní koncertní sál. Nevzniká tu žádná hodnotná moderní architektura.
-</ol>
+</ul>
 </blockquote>
+</div>
 </div>
 
 ### Kontext
