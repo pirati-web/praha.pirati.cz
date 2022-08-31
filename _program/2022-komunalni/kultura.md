@@ -15,7 +15,7 @@ intro: >
 # Kultura pro všechny
 >Kultura je tady pro všechny, i pro znevýhodněné. Naším cílem je co největší pestrost a dostupnost tvorby. Budeme podporovat nejen klasické, ale i alternativní umění po celé Praze, a to nejen v centru. Zúčastníme se světových projektů v kultuře a v rámci EU budeme aktivním partnerem. Zajistíme příznivé podmínky pro tvůrčí proces. V rámci rozvoje kultury budeme trvat na co nejširší participaci občanů pod vedením odborníků. Zaměříme se na zpřístupnění kultury všem generacím a menšinám. Podporujeme projekt Vltavské filharmonie za podmínky, že tento projekt získá státní podporu.
 
-<div class="reseni">
+<div class="resenicko">
 <button class="hide">- Kontext</button>
 <button class="show">+ Kontext</button>
 
@@ -71,3 +71,29 @@ Financování kultury je v hlavním městě srozumitelné a transparentní. Fina
 - Na Magistrátu dlouhodobě prosazujeme transparentní, srozumitelná a spravedlivá grantová řízení a dotační programy.
 - Pracovali jsme na dlouhodobé koncepci rozvoje kultury, pravidelně jsme se scházeli a budovali expertní tým odborníků a prognostiků v kultuře. Zapojili jsme do procesu i odborníky ve vzdělávání.
 - Schválili jsme změny v Dotačním systému hlavního města Prahy v oblasti kultury a umění na léta 2022–2027.
+
+<style>
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
+</style>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>
+
