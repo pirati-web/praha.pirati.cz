@@ -251,7 +251,7 @@ Pražané, kteří se ocitnou v bytové nouzi, neupadnou do bezdomovectví díky
 <li> Založili jsme <a href="http://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=042080139147142103093080157147142103090080154147142103090080151147142103090&id=603056">Sociální nadační fond hl. m. Prahy určený na pomoc Pražanům v nouzi</a> v případech, které nejsou schopny řešit současné systémy státní pomoci.
 <li> Schválili jsme ambiciózní <a href="https://iprpraha.cz/uploads/assets/dokumenty/strategie_rozvoje_bydleni.pdf">Strategii rozvoje dostupného bydlení v hl. m. Praze</a>.
 <li> Schválili jsme <a href="http://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=112150209217212173163150227217">Strategii prevence a řešení zadlužování nájemníků](), díky níž se nám daří snižovat zadlužení nájemníků městských bytů</a>.
-<li> Otevřeli jsme <a href="https://nabytkovka.cz">městskou nábytkovou banku</a>.<li>Podílíme se na reformě péče o duševní zdraví a transformujeme ústavní zařízení zřizované Prahou, aby lidé mohli žít v přirozeném prostředí a ne v ústavech; za tímto účelem jsme pronajali již více než 60 bytů.
+<li> Otevřeli jsme <a href="https://nabytkovka.cz">městskou nábytkovou banku</a>.<li>Podílíme se na reformě péče o duševní zdraví a transformujeme ústavní zařízení zřizované Prahou, aby lidé mohli žít v přirozeném prostředí a ne v ústavech; za tímto účelem jsme pronajali již více než 60 bytů.</li>
 </ul>
 </blockquote>
 </div>
