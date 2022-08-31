@@ -13,7 +13,7 @@ intro: >
 ---
 
 # Lepší a dostupnější sportoviště pro širokou veřejnost, podpora sportovních aktivit dětí
-Sportovní vyžití má být dostupné pro každého bez ohledu na věk a kondici. Podpoříme vylepšování a rozšiřování sportovní infrastruktury pro širokou veřejnost, včetně přístupnosti pro děti, seniory nebo osoby s postižením. Vedle sportovišť pro kondiční sportování nezapomeneme ani na hřiště pro společenské sporty typu pétanque nebo ping-pong. Ve spolupráci s majiteli a provozovateli sportovišť se budeme snažit o co nejširší zpřístupnění pro veřejnost. Potenciál vidíme hlavně u malých sportovních hřišť a areálů v městských částech, primárně u škol a komunitních center. Podpoříme zapojování kvalifikovaných trenérů do výuky tělesné výchovy ve školách. V rámci projektu Praha sportovní rozšíříme programy Měsíc náborů a Týden sportu zdarma.
+>Sportovní vyžití má být dostupné pro každého bez ohledu na věk a kondici. Podpoříme vylepšování a rozšiřování sportovní infrastruktury pro širokou veřejnost, včetně přístupnosti pro děti, seniory nebo osoby s postižením. Vedle sportovišť pro kondiční sportování nezapomeneme ani na hřiště pro společenské sporty typu pétanque nebo ping-pong. Ve spolupráci s majiteli a provozovateli sportovišť se budeme snažit o co nejširší zpřístupnění pro veřejnost. Potenciál vidíme hlavně u malých sportovních hřišť a areálů v městských částech, primárně u škol a komunitních center. Podpoříme zapojování kvalifikovaných trenérů do výuky tělesné výchovy ve školách. V rámci projektu Praha sportovní rozšíříme programy Měsíc náborů a Týden sportu zdarma.
 
 <div class="resenicko">
 <button class="hide"><h4>- Kontext</h4></button>
@@ -60,7 +60,7 @@ Zpřístupníme veřejnosti zdarma existující sportovní areály, včetně spo
 <ul>
 <li> Nově jsme nastavili systém přidělování sportovních grantů - je nyní transparentnější, férovější, předvídatelnější.</li>  
 <li> Zpracovali jsme Plán rozvoje sportu do roku 2032 a novou koncepci investic do páteřní infrastruktury.</li>
-<li> Zahájili jsme spolupráci se soukromými investory do pražského sportu v rámco projektu [prahasportovní.eu](http://prahasportovni.cz).</li>
+<li> Zahájili jsme spolupráci se soukromými investory do pražského sportu v rámco projektu <a href="http://prahasportovni.cz">prahasportovní.eu</a>.</li>
 <li> Uzavřeli jsme Memorandum s IPR a PTU, díky kterému máme aktuální data o sportovištích a oddílech v Praze.</li>
 <li> Podpořili jsme otevírání školních hřišť pro veřejnost, zaměřili jsme se rovněž na urbánní sporty (skateparky, workoutová hřiště).</li>
 <li> Pracujeme na přípravě výstavby vlastní sportovní infrastruktury (bazén Šutka, multifunkční hala Přípotoční).</li>
