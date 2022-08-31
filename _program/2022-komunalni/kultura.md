@@ -16,8 +16,8 @@ intro: >
 >Kultura je tady pro všechny, i pro znevýhodněné. Naším cílem je co největší pestrost a dostupnost tvorby. Budeme podporovat nejen klasické, ale i alternativní umění po celé Praze, a to nejen v centru. Zúčastníme se světových projektů v kultuře a v rámci EU budeme aktivním partnerem. Zajistíme příznivé podmínky pro tvůrčí proces. V rámci rozvoje kultury budeme trvat na co nejširší participaci občanů pod vedením odborníků. Zaměříme se na zpřístupnění kultury všem generacím a menšinám. Podporujeme projekt Vltavské filharmonie za podmínky, že tento projekt získá státní podporu.
 
 <div class="resenicko">
-<button class="hide"><h3>+ Kontext</h3></button>
-<button class="show"><h3>- Kontext</h3></button>
+<button class="hide"><h4>- Kontext</h4></button>
+<button class="show"><h4>+ Kontext</h4></button>
 
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
@@ -27,10 +27,9 @@ Pro mnoho lidí je kultura z různých důvodů (zdravotních, sociálních...) 
 </blockquote>
 </div>
 </div>
-
 <div class="resenicko">
-<button class="hide"><h3>+ Ideál</h3></button>
-<button class="show"><h3>- Ideál</h3></button>
+<button class="hide"><h4>- Ideál</h4></button>
+<button class="show"><h4>+ Ideál</h4></button>
 
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
