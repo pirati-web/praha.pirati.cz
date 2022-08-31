@@ -128,7 +128,7 @@ Financování kultury je v hlavním městě srozumitelné a transparentní. Fina
 <li> Na Magistrátu dlouhodobě prosazujeme transparentní, srozumitelná a spravedlivá grantová řízení a dotační programy.</li>
 <li> Pracovali jsme na dlouhodobé koncepci rozvoje kultury, pravidelně jsme se scházeli a budovali expertní tým odborníků a prognostiků v kultuře. Zapojili jsme do procesu i odborníky ve vzdělávání.</li>
 <li> Schválili jsme změny v Dotačním systému hlavního města Prahy v oblasti kultury a umění na léta 2022–2027.</li>
-<ul>
+</ul>
 </blockquote>
 </div>
 </div>
