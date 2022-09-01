@@ -114,3 +114,28 @@ Praha potřebuje jasný, koncepční, trvale udržitelný a opravdu „metropoli
 - Podávali jsme připomínky k návrhu Metropolitního plánu.
 - Dlouhodobě podporujeme vznik regulačních plánů. Regulační plány byly prioritou Pirátů při jednání o Stavebním zákoně ve Sněmovně v letech 2019–2021, kdy jsme na to téma zorganizovali 10.2019 mezinárodní [seminář Rekodifikace stavebního práva cestou regulačních plánů](https://www.frantisekelfmark.cz/prace-seminar-stavebni-pravo-a-regulacni-plany/).
 - Na MMR i díky naší iniciativě vznikl v roce 2020 [metodický materiál osvětlující praktickou funkci regulačních plánů v praxi](http://www.uur.cz/images/8-stanoviska-a-metodiky/od-01-01-2018/40-regulacni-plan-otazky-a-odpovedi-mmr-20715-2020-07-01.pdf).
+
+<style>
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
+</style>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>

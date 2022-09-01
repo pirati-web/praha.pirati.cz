@@ -33,6 +33,7 @@ Pro zvládání krizí má Praha systém a výborně fungující tým. Potřebuj
 <button class="show"><h4>+ Kontext</h4></button>
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
 Problémy s duševním zdravím trápí za normálního stavu každého pátého člověka, během epidemie dokonce každého třetího. Duševní hygiena a péče o duševní zdraví se nicméně týká každého bez rozdílu. Proto je nutné, aby stát i obce k této problematice přistupovaly komplexně.
 
 Ve společnosti převládá nízké povědomí o problematice duševního zdraví a možnostech péče o něj. Situaci také nepomáhá, že péče o duševní zdraví a lidé s duševním onemocněním jsou stigmatizováni. Tito lidé čelí problémům při zotavování a zapojování do plnohodnotného života, například se zaměstnáním a bydlením, se sociální interakcí, v partnerském a rodinném životě a často čelí diskriminaci.<p>
@@ -43,7 +44,8 @@ Mimo to má Česká republika dlouhodobý problém s dodržováním lidských pr
 
 V souvislosti s epidemií Covid-19 stoupl počet duševních poruch z 20 na 30 %, což současný systém péče dostatečně nereflektuje a k péči hrazené z veřejného zdravotní pojištění nemá část pacientů přístup (péče je i hůře dostupná v konkrétních regionech).<p>
 
-Problémem je také malá dostupnost psychoterapie, která je navíc často nedostupná pro hrazení z veřejného zdravotního pojištění. U psychoterapie také chybí dostatečné legislativní ohraničení, což dále zhoršuje její dostupnost a schopnost odborníků ji poskytovat a adekvátně reagovat na krizové situace.
+Problémem je také malá dostupnost psychoterapie, která je navíc často nedostupná pro hrazení z veřejného zdravotního pojištění. U psychoterapie také chybí dostatečné legislativní ohraničení, což dále zhoršuje její dostupnost a schopnost odborníků ji poskytovat a adekvátně reagovat na krizové situace.</p>
+</ul>
 </blockquote>
 </div>
 </div>
@@ -101,6 +103,7 @@ Kvalitní prevence, včasná intervence, komunitní multidisciplinární týmy, 
 <button class="show"><h4>+ Kontext </h4></button>
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
 Pohotovostní služba, její nedostatek a velké čekací lhůty, byl velký problém pražského zdravotnictví v uplynulých letech. Příchod Covidové pandemie ukázal, že lze občany efektivně naučit pečovat o své zdraví v domácím prostředí ve spolupráci s lékaři. Během této doby se však odkládaly preventivní programy. Výkazy z pojišťoven, návštěvy pohotovostí a počty dní strávených během hospitalizace v nemocnici jasně ukazují, že prevence je nejlevnější, nejrychlejší a nejefektivnější nástroj v péči o zdraví.<p>
 
 Je třeba opět obyvatele Prahy motivovat pečovat o své zdraví. Data ze SZÚ za rok 2020 ukazují čtyři nejčastější příčiny úmrtí v hlavním městě:
@@ -115,7 +118,9 @@ Dochází zde po dlouhé době k výměně onemocnění na prvním místě a vzn
 
 V seniorském věku potom narůstá incidence pádů. Pády jsou nejčastější příčinou úrazů seniorů. Nevhodné rozmístění předměty v domácnosti, stejně jako vyvýšená dlažební kostka v centru Prahy může způsobit pád s následnou hospitalizací a imobilizací na lůžku. To může být pro křehkého seniora i fatální. Praha by měla být bezbariér.<p>
 
-V neposlední řadě je třeba věnovat pozornost tématům jako je reprodukční zdraví, omezování spotřeby alkoholu, optimalizace pohybové aktivity, omezování a zvládání stresu.
+V neposlední řadě je třeba věnovat pozornost tématům jako je reprodukční zdraví, omezování spotřeby alkoholu, optimalizace pohybové aktivity, omezování a zvládání stresu.</p>
+</ul>
+</blockquote>
 </div>
 </div>
 

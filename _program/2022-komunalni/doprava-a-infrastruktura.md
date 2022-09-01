@@ -157,3 +157,29 @@ Od roku 2026 budeme pořizovat 80 procent nových autobusů (včetně hybridníc
 - Od ledna 2022 Praha prostřednictvím DPP provozuje první čistě elektrické autobusy na pravidelných linkách, vybrala dodavatele parciálních trolejbusů pro linku č. 14O, soutěží dodavatele vozů pro pilotní linku na letiště a připravuje projekt automatizace provozu metra na linkách D a C.
 - Operátor ICT v úzké spolupráci s Regionálním organizátorem pražské integrované dopravy (ROPID) a jednotlivými dopravci připravuje ke spuštění intermodální plánovač trasy jako rozšíření stávající mobilní aplikace PID Lítačka.
 - V návaznosti na schválení Klimatického plánu hl. m. Prahy do roku 2030 jsme připravili metodiku monitoringu a počítání uspořených emisí CO2.
+
+<style>
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
+</style>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>
+

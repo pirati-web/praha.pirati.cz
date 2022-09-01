@@ -78,3 +78,28 @@ Každý žák bude mít MŠ a ZŠ 15 minut chůze od svého domova, každý stř
 ### Co jsme už udělali
 - V letech 2018–2022 jsme vytvořili Strategický rámec rozvoje vzdělávací soustavy v hl. m. Praze a započali s intenzivními investicemi do vzdělávací soustavy.
 - Vybudovali jsme celkem 2500 míst v MŠ, 3000 míst v ZŠ a 400 v SŠ, do školské infrastruktury jsme investovali celkem 3,8 miliardy korun.
+
+<style>
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
+</style>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>

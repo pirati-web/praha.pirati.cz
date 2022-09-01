@@ -87,3 +87,28 @@ Všechny rodiny mají v Praze dostatečnou podporu. Podpora a pomoc jsou dostupn
 - Naformulovali jsme základní směry prorodinné politiky MHMP 2021–2022.
 - Zahájili jsme proces komunitního plánování sociálních a návazných služeb na jednotlivých MČ a MHMP.
 - Zpracováváme sociodemografické studie jednotlivých MČ.
+
+<style>
+  .resenicko  button.hide { color: red; }
+  .resenicko  button.show { color: gren; }  
+  .resenicko { padding:1em; }  
+</style>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+ $('.resenicko .hide').hide();
+ $('.resenicko .text').hide();
+  $(".resenicko .hide").click(function(){
+    $(this).parent().children('.hide').hide();
+    $(this).parent().children('.show').show();
+    $(this).parent().children('.text').slideUp('normal;');;
+  });
+  $(".resenicko .show").click(function(){
+    $(this).parent().children('.hide').show();
+    $(this).parent().children('.show').hide();
+    $(this).parent().children('.text').slideDown('normal;');;
+  });
+});
+</script>
