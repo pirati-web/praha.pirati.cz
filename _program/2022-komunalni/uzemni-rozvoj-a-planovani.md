@@ -6,7 +6,7 @@ uid: uzemni-rozvoj-a-planovani
 order: 4
 garant: bara.soukupova
 redmine: 23492
-img: program/program2022-nahledy/uzemni-rozvoj.png
+img: program/program2022-nahledy/uzemni-rozvoj2.jpg
 intro: >
   Velké město neznamená, že musíte být všechno daleko. My se naopak postaráme, aby většina občanské vybavenosti byla co nejblíže vašeho bydliště. Ideálně v docházkové vzdálenosti. Pomůže to nejen problémům s dopravou a znečištěním, ale život ve městě tak bude pohodlnější. Protože Praha by měla být nejen krásná, ale i krásně promyšlená.
 
