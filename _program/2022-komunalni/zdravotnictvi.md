@@ -103,21 +103,14 @@ Kvalitní prevence, včasná intervence, komunitní multidisciplinární týmy, 
 <button class="show"><h4>+ Kontext </h4></button>
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
-Pohotovostní služba, její nedostatek a velké čekací lhůty, byl velký problém pražského zdravotnictví v uplynulých letech. Příchod Covidové pandemie ukázal, že lze občany efektivně naučit pečovat o své zdraví v domácím prostředí ve spolupráci s lékaři. Během této doby se však odkládaly preventivní programy. Výkazy z pojišťoven, návštěvy pohotovostí a počty dní strávených během hospitalizace v nemocnici jasně ukazují, že prevence je nejlevnější, nejrychlejší a nejefektivnější nástroj v péči o zdraví.<br />
-
-Je třeba opět obyvatele Prahy motivovat pečovat o své zdraví. Data ze SZÚ za rok 2020 ukazují čtyři nejčastější příčiny úmrtí v hlavním městě:
+Pohotovostní služba, její nedostatek a velké čekací lhůty, byl velký problém pražského zdravotnictví v uplynulých letech. Příchod Covidové pandemie ukázal, že lze občany efektivně naučit pečovat o své zdraví v domácím prostředí ve spolupráci s lékaři. Během této doby se však odkládaly preventivní programy. Výkazy z pojišťoven, návštěvy pohotovostí a počty dní strávených během hospitalizace v nemocnici jasně ukazují, že prevence je nejlevnější, nejrychlejší a nejefektivnější nástroj v péči o zdraví. Je třeba opět obyvatele Prahy motivovat pečovat o své zdraví. Data ze SZÚ za rok 2020 ukazují čtyři nejčastější příčiny úmrtí v hlavním městě:
 <ul>
-<li> novotvary, </li>
-<li> ICHS (ischemická porucha srdeční), </li>
+<li> novotvary,</li>
+<li> ICHS (ischemická porucha srdeční),</li>
 <li> Covid-19, </li>
 <li> nemoci nervové soustavy.</li> 
-<ul><br />
-
-Dochází zde po dlouhé době k výměně onemocnění na prvním místě a vzniku nových onemocnění, na které musíme reagovat. Covid-19 byl dokonce druhou nejčastější příčinou úmrtí v hlavním městě v roce 2021. Civilizační onemocnění (diabetes mellitus 2. typu, obezita, vysoký krevní tlak) jsou dlouhodobě problémem, který pramení z nízké aktivizace jednotlivých složek společnosti ke spoluúčasti na řešení problémů ovlivňujících zdraví lidí. S tím je spojen pokles zdravotnické odbornosti, komerčně motivované a vědecky nepodložené přístupy v podpoře zdraví. Infekční onemocnění, nejvíce HIV a žloutenka typu A zaznamenávají každoroční nárůst. Dle SZÚ byl do dubna 2022 celkový počet lidí žijících v hlavním městě s HIV 1970.<br />
-
-V seniorském věku potom narůstá incidence pádů. Pády jsou nejčastější příčinou úrazů seniorů. Nevhodné rozmístění předměty v domácnosti, stejně jako vyvýšená dlažební kostka v centru Prahy může způsobit pád s následnou hospitalizací a imobilizací na lůžku. To může být pro křehkého seniora i fatální. Praha by měla být bezbariér.<br />
-
-V neposlední řadě je třeba věnovat pozornost tématům jako je reprodukční zdraví, omezování spotřeby alkoholu, optimalizace pohybové aktivity, omezování a zvládání stresu.
+</ul>
+Dochází zde po dlouhé době k výměně onemocnění na prvním místě a vzniku nových onemocnění, na které musíme reagovat. Covid-19 byl dokonce druhou nejčastější příčinou úmrtí v hlavním městě v roce 2021. Civilizační onemocnění (diabetes mellitus 2. typu, obezita, vysoký krevní tlak) jsou dlouhodobě problémem, který pramení z nízké aktivizace jednotlivých složek společnosti ke spoluúčasti na řešení problémů ovlivňujících zdraví lidí. S tím je spojen pokles zdravotnické odbornosti, komerčně motivované a vědecky nepodložené přístupy v podpoře zdraví. Infekční onemocnění, nejvíce HIV a žloutenka typu A zaznamenávají každoroční nárůst. Dle SZÚ byl do dubna 2022 celkový počet lidí žijících v hlavním městě s HIV 1970. V seniorském věku potom narůstá incidence pádů. Pády jsou nejčastější příčinou úrazů seniorů. Nevhodné rozmístění předměty v domácnosti, stejně jako vyvýšená dlažební kostka v centru Prahy může způsobit pád s následnou hospitalizací a imobilizací na lůžku. To může být pro křehkého seniora i fatální. Praha by měla být bezbariér. V neposlední řadě je třeba věnovat pozornost tématům jako je reprodukční zdraví, omezování spotřeby alkoholu, optimalizace pohybové aktivity, omezování a zvládání stresu.
 </blockquote>
 </div>
 </div>
