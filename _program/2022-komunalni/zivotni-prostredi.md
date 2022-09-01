@@ -17,16 +17,16 @@ intro: >
 >Uvědomujeme si zásadní roli Prahy v adaptaci na klimatickou změnu. Rozvineme zpracovanou koncepci a zajistíme její důsledné a odpovědné dodržování. Při řešení citlivých otázek počítáme s participací občanů. Praha musí být zelenější a odolnější – výhody z toho budou mít všichni. Ochladíme Prahu a zlepšíme klima rozšířením zelených i vodních ploch. Zmírníme sucho využitím dešťové vody pro závlahu i rekreaci. Obnovíme pražské lesy poškozené kůrovcovou kalamitou a budeme pokračovat ve výsadbě stromů, které mají ve městech prokazatelně významný vliv na ochlazování mikroklimatu. Praha, nejzelenější město a oáza Evropy, plné parků a vodních ploch, bude i v létě příjemným a vlahým místem k životu.
 
 <div class="resenicko">
-<button class="hide"><h4>- Ideál</h4></button>
-<button class="show"><h4>+ Ideál</h4></button>
+<button class="hide"><h4>- Kontext</h4></button>
+<button class="show"><h4>+ Kontext </h4></button>
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
-Klimatická změna se projevuje i na území České republiky. Naše území se za posledních 60 let ohřálo o 2 °C a v létě o 3 °C. Na našem území je doložen nárůst teploty vzduchu a počtu tropických a letních dnů a větší výskyt extrémních projevů počasí, jako je sucho nebo přívalový déšť. V Praze se klimatická změna projevuje vytvořením tepelného ostrova v centru. Sucho a vedro jsou v létě často i na okraji Prahy. Zvýšená teplota má negativní vliv na zdraví a pohodu lidí, zvláště malých dětí a seniorů. Situaci umocňuje střídající se sucho a přívalové deště, kdy se voda nestačí vsáknout do půdy a odteče do kanalizace.
-
-Dešťová voda bez využití odtéká v lepším případě do Vltavy v horším do spojené splaškové a dešťové kanalizace. Při přívalovém dešti čistírna odpadních vod nestačí příval splaškové vody zpracovat a jsou vypouštěny rovnou bez čištění do Vltavy. Většina budov dešťovou vodu ze střech nezachycuje a i nové budovy mají často jen retenční nádrže jako předepsanou ochranu před povodněmi. Akumulovaná dešťová voda přitom může být využita na zalévání místo vody pitné. Zelené střechy naopak vodu zachytí a odpaří, a tím se zlepší mikroklima.
-
+<ul>
+Klimatická změna se projevuje i na území České republiky. Naše území se za posledních 60 let ohřálo o 2 °C a v létě o 3 °C. Na našem území je doložen nárůst teploty vzduchu a počtu tropických a letních dnů a větší výskyt extrémních projevů počasí, jako je sucho nebo přívalový déšť. V Praze se klimatická změna projevuje vytvořením tepelného ostrova v centru. Sucho a vedro jsou v létě často i na okraji Prahy. Zvýšená teplota má negativní vliv na zdraví a pohodu lidí, zvláště malých dětí a seniorů. Situaci umocňuje střídající se sucho a přívalové deště, kdy se voda nestačí vsáknout do půdy a odteče do kanalizace.<br />
+Dešťová voda bez využití odtéká v lepším případě do Vltavy v horším do spojené splaškové a dešťové kanalizace. Při přívalovém dešti čistírna odpadních vod nestačí příval splaškové vody zpracovat a jsou vypouštěny rovnou bez čištění do Vltavy. Většina budov dešťovou vodu ze střech nezachycuje a i nové budovy mají často jen retenční nádrže jako předepsanou ochranu před povodněmi. Akumulovaná dešťová voda přitom může být využita na zalévání místo vody pitné. Zelené střechy naopak vodu zachytí a odpaří, a tím se zlepší mikroklima.<br />
 Péče o zeleň je často nedostatečná, takže zeleň neprosperuje. Stromy nerostou, trávníky vysychají.
 Mnoho budov a prostranství nenaplňuje svůj klimatický potenciál a chybí v nich modrozelená infrastruktura. Dopady jsou pak nejen zdravotní, ale často i finanční.
+</ul>
 </blockquote>
 </div>
 </div>
@@ -43,7 +43,7 @@ V Praze bude i v létě příjemně. Stromy, keře, trávníky a zelené střech
 
 <div class="resenicko">
 <button class="hide"><h4>- Opatření</h4></button>
-<button class="show"><h4>+ OPatření</h4></button>
+<button class="show"><h4>+ Opatření</h4></button>
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em"> 
 <ul>
@@ -181,7 +181,7 @@ Znečištění prostředí je spolehlivě pod úrovní, která by ohrožovala zd
 
 <div class="resenicko">
 <button class="hide"><h4>- Opatření</h4></button>
-<button class="show"><h4>+ OPatření</h4></button>
+<button class="show"><h4>+ Opatření</h4></button>
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em"> 
 <ul>
