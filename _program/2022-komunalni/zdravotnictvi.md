@@ -112,6 +112,7 @@ Pohotovostní služba, její nedostatek a velké čekací lhůty, byl velký pro
 <li> nemoci nervové soustavy.</li> 
 </ul>
 Dochází zde po dlouhé době k výměně onemocnění na prvním místě a vzniku nových onemocnění, na které musíme reagovat. Covid-19 byl dokonce druhou nejčastější příčinou úmrtí v hlavním městě v roce 2021. Civilizační onemocnění (diabetes mellitus 2. typu, obezita, vysoký krevní tlak) jsou dlouhodobě problémem, který pramení z nízké aktivizace jednotlivých složek společnosti ke spoluúčasti na řešení problémů ovlivňujících zdraví lidí. S tím je spojen pokles zdravotnické odbornosti, komerčně motivované a vědecky nepodložené přístupy v podpoře zdraví. Infekční onemocnění, nejvíce HIV a žloutenka typu A zaznamenávají každoroční nárůst. Dle SZÚ byl do dubna 2022 celkový počet lidí žijících v hlavním městě s HIV 1970. V seniorském věku potom narůstá incidence pádů. Pády jsou nejčastější příčinou úrazů seniorů. Nevhodné rozmístění předměty v domácnosti, stejně jako vyvýšená dlažební kostka v centru Prahy může způsobit pád s následnou hospitalizací a imobilizací na lůžku. To může být pro křehkého seniora i fatální. Praha by měla být bezbariér. V neposlední řadě je třeba věnovat pozornost tématům jako je reprodukční zdraví, omezování spotřeby alkoholu, optimalizace pohybové aktivity, omezování a zvládání stresu.
+</ul>
 </blockquote>
 </div>
 </div>
