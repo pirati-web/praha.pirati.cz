@@ -83,16 +83,8 @@ Město sousedů, kteří si pomáhají, kde sousedské a komunitní vztahy nepř
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
 Dobře nastavená, koordinovaná a dostupná podpora rodinám (v jakékoliv fázi životního cyklu) významně šetří náklady, které jinak nese celá společnost. Poskytnutí prostředků například na zajištění dostupného bydlení může pomoci předejít problémům se školní úspěšnosti dětí nebo s jejich zdravím a budoucím, někdy i násobně vyšším nákladům na jiné sociální programy. Díky dostatečné podpoře mohou lidé se zdravotním postižením žít ve svých domovech, podpora pečujících osob je prevencí jejich vyhoření či narušení rodinných vztahů.<br />
-Programy na podporu rodičovských kompetencí, jako je třeba [Program pozitivního rodičovství](https://www.triplep.net/glo-en/home/), dokládají už 35 let ve třiceti státech světa, že podpora rodičovství – jako součást služeb obcí/státu – je jednou z nejefektivnějších forem prevence.<br />
-Praha, i přes své dobré zasíťování službami, stále postrádá dostatečnou kapacitu služeb v řadě klíčových oblastí:
-<ul>
-<li> poradenské terapeutické aktivity pro rodiny v krizi,
-<li> prevence patologických vztahů v rodině, prevence násilí (dlouhé čekací doby, malá kapacita),</li>
-<li> dostatečné kapacity pro předškolní děti - dětské skupiny, mateřské školky, jesle (v roce 2020 bylo odmítnuto 9681 žádostí v mateřských školkách),</li>
-<li> odlehčovací služby, zejména pro rodiny s dětmi se zdravotním postižením či seniory (v Praze je 156 000 pečujících),</li>
-<li> dostatečné kapacity i provozní dobu družin (tak aby pokrývaly pracovní dobu rodičů),</li>
-<li> prázdninové programy pro děti (cenově dostupné příměstské tábory, letní družiny).</li>
-</ul>
+Programy na podporu rodičovských kompetencí, jako je třeba <a href="https://www.triplep.net/glo-en/home">Program pozitivního rodičovství</a>, dokládají už 35 let ve třiceti státech světa, že podpora rodičovství – jako součást služeb obcí/státu – je jednou z nejefektivnějších forem prevence.<br />
+Praha, i přes své dobré zasíťování službami, stále postrádá dostatečnou kapacitu služeb v řadě klíčových oblastí jako jsou poradenské terapeutické aktivity pro rodiny v krizi, prevence patologických vztahů v rodině, prevence násilí (dlouhé čekací doby, malá kapacita), dostatečné kapacity pro předškolní děti - dětské skupiny, mateřské školky, jesle (v roce 2020 bylo odmítnuto 9681 žádostí v mateřských školkách), odlehčovací služby, zejména pro rodiny s dětmi se zdravotním postižením či seniory (v Praze je 156 000 pečujících), dostatečné kapacity i provozní dobu družin (tak aby pokrývaly pracovní dobu rodičů) či prázdninové programy pro děti (cenově dostupné příměstské tábory, letní družiny).<br />
 Současně platí, že kvalitní a <a href="https://www.paqresearch.cz/post/nerovnosti-vevzd%C4%9Bl%C3%A1v%C3%A1n%C3%AD-jakozdroj-neefektivity">dlouhodobé předškolní</a> vzdělávání významně zvyšuje školní úspěšnost. Na území Prahy ale kapacity dlouhodobě zaostávají za poptávkou. Rodiny, které by předškolní vzdělávání potřebovaly nejvíce, tak často přicházejí až v povinném předškolním roce, což nestačí a vede to k odkladům školní docházky či ke školní neúspěšnosti. Celkově lze tedy říci, že investice do včasné podpory rodičů a dětí se vrátí státu <a href="https://www.nadacecs.cz/data/documents/76/ncs-shrnuti-studie-nerovnosti-fin.pdf"> čtyřnásobně</a> (podle mezinárodních dlouhodobých studií až <a href="https://www.impact.upenn.edu/early-childhood-toolkit/why-invest/what-is-the-return-on-investment">devítinásobně</a>. V neposlední řadě stojí za zmínku, že umístění dětí v předškolním zařízení snižuje sociální izolaci rodičů, <a href="https://zivotbehempandemie.cz/dusevni-zdravi">viz dopady na duševní zdraví během pandemie</a>. To vše a mnohé další vyžaduje koordinaci na úrovni MHMP s využitím dostupných dat a sledováním demografického vývoje.
 </ul>
 </blockquote>
@@ -121,19 +113,7 @@ Všechny rodiny mají v Praze dostatečnou podporu. Podpora a pomoc jsou dostupn
 <li> Zasadíme se o transformaci služeb pro ohrožené rodiny a děti, posílíme kapacity sociálně aktivizačních služeb pro rodiny a zlepšíme systém výběru a přípravy pěstounů a zprostředkování náhradní rodinné péče tak, aby maximálně reflektoval potřeby dětí a rodin a současně minimalizoval administrativu.</li>
 <li> Zajistíme systém kvalitních služeb péče o děti s dostatečnou kapacitou; veřejný systém mateřských škol a jeslí bude doplněný o alternativní formy jako dětské skupiny, lesní školky apod.</li>
 <li> Podpoříme kurzy pozitivního rodičovství, pomůžeme rodičům překonat nevhodné zvyky v oblasti používání fyzických trestů.</li>
-<li> Rodinná politika na území hl. m. Prahy vyžaduje cílenou koordinaci, kterou je myšleno:</li>
-<ul>
-	<li> spolupráce s jednotlivými městskými částmi,
-	<li> spolupráce resortů a různých aktérů (městské části, policie, úřady práce, lékaři, sociální služby, školství) – viz příklad projektu Signály na Mostecku,</li>
-	<li> využití a zpětně i učení se z dat a analýz, které mají jednotlivé MČ i Praha k dispozici a úprava dotačních programů,</li>
-	<li> spolupráce s akademickou sférou – zavádění přístupů založených na faktech, využití společenskovědních poznatků,</li>
-	<li> metodická podpora,</li>
-	<li> zavádění metod, které jsou funkční a levné a jejich následné šíření na městské části, např. Rodinné konference, které v zahraničí a v pilotních projektech i u nás realizují poučení laici,</li>
-	<li> zajištění péče o mladší školní děti v době prázdnin,</li>
-	<li> finančně dostupné aktivity pro rodiny a děti,</li>
-	<li> poradenství pro rodiny,</li>
-	<li> preventivní programy do škol.</li> 
-</ul>
+<li> Rodinná politika na území hl. m. Prahy vyžaduje cílenou koordinaci, kterou je myšleno – spolupráce s jednotlivými městskými částmi, spolupráce resortů a různých aktérů (městské části, policie, úřady práce, lékaři, sociální služby, školství) – viz příklad projektu Signály na Mostecku, využití a zpětně i učení se z dat a analýz, které mají jednotlivé MČ i Praha k dispozici a úprava dotačních programů, spolupráce s akademickou sférou – zavádění přístupů založených na faktech, využití společenskovědních poznatků, metodická podpora, zavádění metod, které jsou funkční a levné a jejich následné šíření na městské části, např. Rodinné konference, které v zahraničí a v pilotních projektech i u nás realizují poučení laici, zajištění péče o mladší školní děti v době prázdnin, finančně dostupné aktivity pro rodiny a děti, poradenství pro rodiny a preventivní programy do škol.</li> 
 </ul>
 </blockquote>
 </div>
