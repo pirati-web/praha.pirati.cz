@@ -103,6 +103,7 @@ Kvalitní prevence, včasná intervence, komunitní multidisciplinární týmy, 
 <button class="show"><h4>+ Kontext </h4></button>
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
+<ul>
 Pohotovostní služba, její nedostatek a velké čekací lhůty, byl velký problém pražského zdravotnictví v uplynulých letech. Příchod Covidové pandemie ukázal, že lze občany efektivně naučit pečovat o své zdraví v domácím prostředí ve spolupráci s lékaři. Během této doby se však odkládaly preventivní programy. Výkazy z pojišťoven, návštěvy pohotovostí a počty dní strávených během hospitalizace v nemocnici jasně ukazují, že prevence je nejlevnější, nejrychlejší a nejefektivnější nástroj v péči o zdraví. Je třeba opět obyvatele Prahy motivovat pečovat o své zdraví. Data ze SZÚ za rok 2020 ukazují čtyři nejčastější příčiny úmrtí v hlavním městě:
 <ul>
 <li> novotvary,</li>
@@ -117,7 +118,7 @@ Dochází zde po dlouhé době k výměně onemocnění na prvním místě a vzn
 
 <div class="resenicko">
 <button class="hide"><h4>- Ideál</h4></button>
-<button class="show"><h4>+ Ideál </h4></button>
+<button class="show"><h4>+ Ideál</h4></button>
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 Zdraví je dle WHO definováno jako stav plné, tělesné, duševní a sociální pohody a nikoliv jen jako nepřítomnost nemoci či vady. Cílem kraje je mít občany schopné vést sociální a ekonomicky produktivní život. Kraj by měl vést své občany ke zdraví za pomocí projektů a prevence nemocí. V seniorském věku umožnit občanům "zdravé stárnutí".
@@ -133,9 +134,10 @@ Zdraví je dle WHO definováno jako stav plné, tělesné, duševní a sociáln�
 <ul>
 <li> Vrátit důvěru veřejnosti v opatření prevence nemocí a možnosti posilování zdraví. Povedeme kampaně zaměřené na jednotlivá témata, např. na civilizační a onkologická onemocnění. Kampaně propojíme i s jinými obory jako je sociální, kulturní, školství. Nabídneme cílené týdny prevence, např. v dubnu týden zdravého úsměvu, v říjnu týden silné imunity, v listopadu Movember.</li>
 <li>  Ve školách se zaměříme na programy prevence kouření, včetně odvykacích programů. V roce 2021 bylo v populaci České republiky celkem 24,4 % kuřáků tabákových výrobků starších 15 let. V porovnání s rokem 2020 (23,1 %) jde o nárůst 1,3%. Kouření může zvýšit vážný průběh onemocnění Covid 19, proto oslovíme s nabídkou spolupráce lékařské fakulty.</li>
-<li>  U infekčních onemocnění typu koronavirus, HIV a žloutenka zajistime občanům dostatek pravdivých informací. Zajistíme opatření proti jejich šíření jako jsou anonymní programy testování, mobilní vyšetřovny a to vše na základě evidence-based medicine informací.
+<li>  U infekčních onemocnění typu koronavirus, HIV a žloutenka zajistime občanům dostatek pravdivých informací. Zajistíme opatření proti jejich šíření jako jsou anonymní programy testování, mobilní vyšetřovny a to vše na základě evidence-based medicine informací.</li>  
 <li>  Magistrát hlavního města Prahy se zapojí jako zaměstnavatel do programu Workingpositively-podpora zaměstnanců žijících s HIV.</li>
-<li>  U pádů a úrazů se zaměříme na multifaktoriální intervenci což zahrnuje léčbu chorob zvyšujících riziko pádu, řešení podiatrické problematiky, korekci zrakového deficitu, optimalizaci medikace, používání kompenzačních pomůcek, úpravu domácího prostředí a edukaci seniorů i jejich rodinných příslušníků a to vše za podpory praktických lékařů a agentur domácí péče. Oslovíme seniorské spolky s nabídkou edukačních přednášek mladých lékařů z lékařských fakult. U všech programů prevence je ideální stav spojit se s komerčními i neziskovými organizacemi, včetně farmaceutického a lékařského oboru. Společně dokážeme efektivně a cíleně vést kampaň, za pomoci jejich odborníků a také finančních prostředků, edukačních materiálů a pomůcek.</li> 
+<li>  U pádů a úrazů se zaměříme na multifaktoriální intervenci což zahrnuje léčbu chorob zvyšujících riziko pádu, řešení podiatrické problematiky, korekci zrakového deficitu, optimalizaci medikace, používání kompenzačních pomůcek, úpravu domácího prostředí a edukaci seniorů i jejich rodinných příslušníků a to vše za podpory praktických lékařů a agentur domácí péče. Oslovíme seniorské spolky s nabídkou edukačních přednášek mladých lékařů z lékařských fakult.</li>
+<li> U všech programů prevence je ideální stav spojit se s komerčními i neziskovými organizacemi, včetně farmaceutického a lékařského oboru. Společně dokážeme efektivně a cíleně vést kampaň, za pomoci jejich odborníků a také finančních prostředků, edukačních materiálů a pomůcek.</li> 
 </ul>
 </blockquote>
 </div>
