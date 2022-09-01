@@ -58,6 +58,7 @@ Díky správně nastaveným poplatkům lidé, kteří skutečně potřebují zap
 </ul>
 </blockquote>
 </div>
+</div>
 
 <div class="resenicko">
 <button class="hide"><h4>- Co jsme už udělali</h4></button>
@@ -70,6 +71,7 @@ Díky správně nastaveným poplatkům lidé, kteří skutečně potřebují zap
 <li> Připravuje se vylepšení parametrů parkovacího systému tak, aby byl uživatelsky příjemnější a ekonomicky motivující.</li> 
 </ul>
 </blockquote>
+</div>
 </div>
 
 # Energeticky a prostorově efektivní doprava
@@ -121,6 +123,7 @@ Bude zajištěna kvalitní a dobře fungující veřejná hromadná doprava, bud
 </ul>
 </blockquote>
 </div>
+</div>
 
 <div class="resenicko">
 <button class="hide"><h4>- Co jsme už udělali</h4></button>
@@ -145,6 +148,7 @@ Bude zajištěna kvalitní a dobře fungující veřejná hromadná doprava, bud
 <li> Vykupujeme pozemky pro zelené pásy pro stavbu D0 511.</li>
 </ul>
 </blockquote>
+</div>
 </div>
 
 # Koncepční přístup ke stavbám i k řízení dopravy
@@ -201,7 +205,6 @@ Dopravní stavby budeme prioritizovat a realizovat tak, aby jejich přínos pro 
 </blockquote>
 </div>
 </div>
-
 
 # Kvalitnější a efektivnější doprava díky otevřeným soutěžím
 >Zkvalitníme systém řízení kvality dopravních služeb, aby co nejvíce reflektoval potřeby cestujících a aby plně zajistil komfort, rychlost a spolehlivost MHD. Budeme otevřeně soutěžit zakázky, ať už jde o dodavatele vozidel, energií či pohonných hmot, zhotovitele staveb a další dodávky, které si město nezajistí z vlastních zdrojů. Budeme zvyšovat podíl otevřeně soutěžených autobusových linek. Budeme nadále zvyšovat transparentnost dopravního podniku a zajistíme, aby byl schopen obstát ve výběrových řízeních.
