@@ -2,7 +2,7 @@
 title:  "Pokračování Městské nájemní agentury od Prahy dostalo zelenou. Bude rozšiřovat své služby majitelům bytů i lidem v bytové nouzi"
 author: MHMP
 image:  posts/zabransky-okno.jpg
-tags:   [Bydlení]
+tags:   [Bydlení, Městská nájemní agentura]
 ---
  
 Rada hlavního města Prahy schválila pokračování Městské nájemní agentury na další tři roky. Zájem o její služby během prvních 14 měsíců zkušebního fungování předčil očekávání a agentura se stává systémovým prvkem v zajištění bydlení pro nízkopříjmové domácnosti v Praze. Do roku 2030 plánuje spravovat 500 bytů.
