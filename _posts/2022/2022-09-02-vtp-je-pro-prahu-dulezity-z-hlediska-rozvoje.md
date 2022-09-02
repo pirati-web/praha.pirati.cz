@@ -1,6 +1,6 @@
 ---
 title:  "Piráti: Vědeckotechnický park je pro Prahu důležitý z hlediska rozvoje inovací ve městě"
-author: MHMP
+author: Piráti Praha
 image:  posts/hrib-beranek-tiskovka.jpg
 tags:   [Volby 2022, Pražský inovační institut]
 ---
