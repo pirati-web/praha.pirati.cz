@@ -23,7 +23,7 @@ Kromě celostátních návrhů, které Piráti předložili pro zvládnutí sou�
 
 >„Stejně tak se podílíme na dotažení zákona, který obcím, městským částem i SVJ či družstvům umožní sdílení energií. To v praxi znamená, že máte například soláry na střeše školy, ta z nich v létě kvůli prázdninám nepotřebuje čerpat energii, a tak ji může obec okamžitě využít třeba na chod domova pro seniory,” doplnila Šípová. Návrh by měl jít brzy do meziresortního připomínkového řízení.
 
-![Tisková konference](https://a.pirati.cz/praha/img/posts/rib-bartos-sipova-3.jpg)
+![Tisková konference](https://a.pirati.cz/praha/img/posts/hrib-bartos-sipova-3.jpg)
 
 Kromě energetiky mají Piráti plány i pro zlepšení dalších oblastí důležitých pro kvalitu života místních lidí. Jde například o otevřené a moderní radnice i zapojení občanů do rozhodování. Či utnutí radničních kamarádšoftů a šmelin s granty a dotacemi.
 
@@ -37,7 +37,7 @@ Dobrým příkladem z praxe, kde se daří věci měnit k lepšímu, je hlavní 
 
 „Řešíme i další aktuální výzvy, například dostupnost bydlení, což je ale běh na dlouhou trať. Povolila se za nás výstavba nejvíce nových bytů od roku 1989, ale přesto ceny bytů stále stoupají. Je zjevné, že město musí zahájit vlastní masivní výstavbu městského nájemního bydlení. Proto finalizujeme se státem směnu pozemků, na kterých chceme postavit desítky tisíc nových městských bytů pro Pražany. Chceme se věnovat i okrajovým částem města, na které předchozí primátoři zapomínali. Vyjednal jsem proto dotace z EU na revitalizaci veřejných prostranství a 6 miliard korun investujeme do rozvoje zanedbaných sídlišť, na kterých bydlí celé generace Pražanů. Vnější části města také propojíme po jeho obvodu tramvajovým okruhem,” upřesnil Zdeněk Hřib, primátor hl. m. Prahy.
 
-![Tisková konference](https://a.pirati.cz/praha/img/posts/rib-bartos-sipova-1.jpg)
+![Tisková konference](https://a.pirati.cz/praha/img/posts/hrib-bartos-sipova-1.jpg)
 
 Zlepšení života nejen v regionech, ale i v celé zemi je také prioritou pro osmičku pirátských kandidátů a kandidátek na senátory. 
 
