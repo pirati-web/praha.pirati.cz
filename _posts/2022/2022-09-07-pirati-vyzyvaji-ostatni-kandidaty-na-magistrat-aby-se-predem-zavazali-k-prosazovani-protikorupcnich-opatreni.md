@@ -5,7 +5,7 @@ image: 	posts/hrib-zabransky-pice2.jpg
 tags:   [Piráti, Protikorupční strategie, Volby 2022]
 ---
 
-**Pražští Piráti dnes zveřejnili výzvu všem subjektům kandidujícím do Zastupitelstva hlavního města Prahy, která se týká transparentního řízení města. Podpisem protikorupčního závazku by se lídři stran otevřeně přihlásili k prosazení čtyř zásadních opatření. Prvním signatářem se stal lídr kandidátky pražských Pirátů a stávající primátor Zdeněk Hřib.**
+**Pražští Piráti zveřejnili výzvu všem subjektům kandidujícím do Zastupitelstva hlavního města Prahy, která se týká transparentního řízení města. Podpisem protikorupčního závazku by se lídři stran otevřeně přihlásili k prosazení čtyř zásadních opatření. Prvním signatářem se stal lídr kandidátky pražských Pirátů a stávající primátor Zdeněk Hřib.**
 
 Podepsáním protikorupčního závazku by další kandidáti dali najevo, že bez ohledu na svůj program a výsledek voleb berou boj proti korupci vážně a budou v dalším funkčním období prosazovat níže uvedené preventivní kroky proti korupci:
 
