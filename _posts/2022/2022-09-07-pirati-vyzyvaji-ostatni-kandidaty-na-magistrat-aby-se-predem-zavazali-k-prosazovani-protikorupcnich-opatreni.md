@@ -21,3 +21,5 @@ Podepsáním protikorupčního závazku by další kandidáti dali najevo, že b
 ![Tisková konference](https://a.pirati.cz/praha/img/posts/hrib-podpis-korupce.jpg)
 
 Spuštěn byl také dashboard pro kontrolu veřejných zakázek magistrátu a příspěvkových organizací, což v českém kontextu přináší unikátní data a statistické sestavy. Praha otevřeně  soutěží zakázky už od 500 tisíc Kč. Zveřejňují se roční plány veřejných zakázek nad 20 milionů korun, čímž se zvyšuje informovanost dodavatelů o plánech hlavního města zadávat velké zakázky. Díky tomu se mohou lépe připravit a město má zase možnost lepšího řízení a kontroly těchto zakázek. Piráti prosadili také projekt centrálních nákupů pro magistrát a příspěvkové organizace, díky čemuž budou nákupy potřebného zboží pro úřad efektivnější a také výhodnější. Město má také rozklikávací rozpočet Cityvizor až na úroveň faktur a šetří miliony díky zrušení tantiém pro členy představenstev a dozorčích rad městských firem.
+
+### [Protikorupční závazek ke stažení](https://a.pirati.cz/praha/pdf/pirati-protikorupcni-zavazek-2022.pdf)
