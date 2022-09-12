@@ -11,7 +11,7 @@ heroImg: Prague_panorama.jpeg
 partyUid: pirati
 profession: PR manažer, kouč
 teamDescription:
-  stab22: stratég
+  stab22: supervize kampaně
 funkce:
 mail:
 - ondrej.petr@pirati.cz
