@@ -7,6 +7,7 @@ titles:
 category:
  - pks
  - vlada
+ - stab22
 img: people/ondrej-chrast-2022.jpg
 heroImg: Prague_panorama.jpeg
 description: 1. místopředseda krajského sdružení
@@ -24,6 +25,7 @@ mail:
 mob: +420 606 914 916
 ordpks: 2
 ordvlada: 2
+ordstab22: 2
 profiles:         
   facebook:  https://www.facebook.com/ondrejchrast.pirati/
   twitter:   https://twitter.com/chrast_o

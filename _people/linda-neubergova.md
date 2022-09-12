@@ -22,6 +22,7 @@ profiles:
   facebook: 
   twitter: 
   flickr:
+ordstab22: 1
 ---
 
 **Vzdělání/práce:** Senior account manager v reklamní agentuře
