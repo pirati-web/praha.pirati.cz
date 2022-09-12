@@ -10,12 +10,13 @@ category:
  - stab22
 img: people/ondrej-chrast-2022.jpg
 heroImg: Prague_panorama.jpeg
-description: 1. místopředseda krajského sdružení
+description: náměstek ministra kultury ČR
 profession: projektový manažer v kultuře a vzdělávání
 partyUid: pirati
 teamDescription:
   pks: 1. místopředseda KS Praha
   vlada: náměstek ministra kultury ČR
+  stab22: 1. místopředseda KS Praha
 funkce:
   - 1. místopředseda KS Praha
   - náměstek ministra kultury ČR
