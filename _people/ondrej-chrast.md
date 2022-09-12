@@ -16,6 +16,7 @@ partyUid: pirati
 teamDescription:
   pks: 1. místopředseda KS Praha
   vlada: náměstek ministra kultury ČR
+  stab22: 1. místopředseda KS Praha
 funkce:
   - 1. místopředseda KS Praha
   - náměstek ministra kultury ČR
