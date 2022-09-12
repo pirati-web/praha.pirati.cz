@@ -8,7 +8,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - praha
 - pks
-- stab22
 ordpks: 3
 img: people/jan-hora-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
@@ -33,7 +32,6 @@ profiles:
   twitter:   https://twitter.com/jan_hora  
   flickr:		  
 ordmhmp: 6
-ordstab22: 3
 ---
 
 **Jan Hora** je členem výboru pro bezpečnost ZHMP, členem komise pro IT RHMP a zastupitel hl. města Prahy za Piráty. Je rovněž členem výboru pro bezpečnost, vedoucím komise rady pro IT a zastupitelem na městské části Praha 4. Pochází z Prahy 4.
