@@ -6,6 +6,7 @@ titles:
   after:
 category: 
   - kontaktni_osoba
+  - stab22
 ordpak: 1
 img: people/jiri-belsan.jpg
 heroImg: Prague_panorama.jpeg

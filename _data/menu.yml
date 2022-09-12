@@ -30,6 +30,9 @@ main:
       - name:  Pirátské pražské expertní týmy
         link:  /lide/krajske-expertni-tymy/
         match: /lide/krajske-expertni-tymy/
+      - name:  Volební štáb 2022
+        link:  /lide/stab22
+        match: /lide/stab22 
   - name: Volby 
     submenu:
       - name: Komunální volby 2022

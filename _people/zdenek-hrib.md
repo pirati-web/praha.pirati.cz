@@ -6,13 +6,15 @@ titles:
   after:
 category:                 
   - mhmp-rhmp
+  - stab22
 img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 profession: primátor hlavního města Prahy
 description: primátor hlavního města Prahy
 TeamDescription:
-  - mhmp-radni: primátor<br />hlavního města Prahy
+  mhmp-radni: primátor<br />hlavního města Prahy
+  stab22: primátor hlavního města Prahy
 funkce: 
   - primátor hlavního města Prahy 
 asistenti:
