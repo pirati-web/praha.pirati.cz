@@ -1,6 +1,6 @@
 ---
 title:  "Konference Nad skleněným stropem i potřetí ukáže, jak překonat bariéru, která brání rovným šancím žen"
-author: Piráti Praha
+author: MHMP
 image:  posts/nadstropem.jpg
 tags:   [Akce]
 ---
