@@ -16,7 +16,7 @@ funkce:
   - zastupitelka MČ Praha 5
 mail:
 - linda.neubergova@pirati.cz
-mob:			  
+mob: +420 724 886 571			  
 profiles:
   github:     
   facebook: 
