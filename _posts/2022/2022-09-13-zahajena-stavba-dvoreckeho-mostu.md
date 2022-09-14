@@ -2,7 +2,7 @@
 title:  "Praha zahájila stavbu Dvoreckého mostu"
 author: MHMP
 image:  posts/dvorecky.jpg
-tags:   [Doprava]
+tags:   [Doprava, Dvorecký most]
 ---
  
 Podolí a Zlíchov spojí nový most. Hlavní město oficiálně zahájilo stavbu Dvoreckého mostu přes Vltavu. Postaví jej sdružení Metrostav TBR Firesta STRABAG – Dvorecký most. Práce potrvají 810 dní a stát budou 1 075 000 000 korun bez DPH. Most bude sloužit městské hromadné dopravě, cyklistům a pěším.
