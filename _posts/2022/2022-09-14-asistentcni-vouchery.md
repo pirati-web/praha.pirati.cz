@@ -2,7 +2,7 @@
 title:  "Asistenční vouchery pro podporu inovací dostane prvních 16 projektů"
 author: MHMP
 image:  posts/0hrib.jpg
-tags:   [Inovace]
+tags:   [Pražský inovační institut]
 ---
  
 Prvních 16 projektů dostalo „zelenou“ v dotačním programu Asistenční vouchery hlavního města Prahy. Schválilo je minulý týden pražské zastupitelstvo. Jedná se například o sdílené datové úložiště, podporu podnikavosti, rozvoj startupového systému, řešení dlouhověkosti, vybudování centra pro vývoj a výrobu léčiv, umělou inteligenci v dopravě, robotizaci ve stavebnictví nebo mobilní 3D tiskovou sestavu. Na svou přípravu budou čerpat 7 milionů korun. Skutečná hodnota realizace těchto projektů činí 8,4 miliardy korun.
