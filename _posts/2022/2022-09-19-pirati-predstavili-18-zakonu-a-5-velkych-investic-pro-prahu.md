@@ -27,20 +27,17 @@ Definitivně se také město musí umět vypořádat s  nerovnými podmínkami p
 
 >“Podobně by pak Praha měla mít možnost vymáhat zákaz prodeje sovětských symbolů. V historickém centru je možné na každém rohu koupit beranici nebo matrjošku se symbolem okupantů ze Sovětského svazu. Komunistický režim byl nelegitimní a zločinný, jak říká zákon o protiprávnosti komunistického režimu,” dodává na závěr Zdeněk Hřib.
 
-### Piráti představili také 5 velkých investic pro Prahu na kterých se musí podílet stát
-1. Metro D. Metro D obsluhuje sídliště Novodvorská a Krč. Podporujeme spolufinancování výstavby metra státem, případně z evropských peněz, tak aby stát uhradil nejméně jednu třetinu celkových nákladů. Stát na výstavbu metra přispívá i v Mnichově, Vídni či Budapešti. Navíc jde o zásadní stavbu národního významu, která pomůže výrazně snížit emise v dopravě. 
+### Piráti představili také 5 velkých investic pro Prahu, na kterých se musí podílet stát
+1. **Metro D.** Metro D obsluhuje sídliště Novodvorská a Krč. Podporujeme spolufinancování výstavby metra státem, případně z evropských peněz, tak aby stát uhradil nejméně jednu třetinu celkových nákladů. Stát na výstavbu metra přispívá i v Mnichově, Vídni či Budapešti. Navíc jde o zásadní stavbu národního významu, která pomůže výrazně snížit emise v dopravě. 
 
-2. Vnitřní městský okruh. Podporujeme spolufinancování výstavby městského okruhu státem, podobně jako je tomu v Brně. Jde o zásadní stavbu národního významu, která bude využívána nejen obyvateli hlavního města, ale i návštěvníky z ostatních regionů. Bez spolufinancování státem nebude mít hlavní město na tuto klíčovou dopravní stavbu dostatek financí.
+2. **Vnitřní městský okruh.** Podporujeme spolufinancování výstavby městského okruhu státem, podobně jako je tomu v Brně. Jde o zásadní stavbu národního významu, která bude využívána nejen obyvateli hlavního města, ale i návštěvníky z ostatních regionů. Bez spolufinancování státem nebude mít hlavní město na tuto klíčovou dopravní stavbu dostatek financí.
 
-3. Vnější silniční okruh kolem Prahy. Apelujeme na ministerstvo dopravy, aby urychlilo výkup pozemků pro pražský okruh a stavbu zbývajících úseků Pražského okruhu. 
+3. **Vnější silniční okruh kolem Prahy.** Apelujeme na ministerstvo dopravy, aby urychlilo výkup pozemků pro pražský okruh a stavbu zbývajících úseků Pražského okruhu. 
 
-4. Rozvoj železnice v Praze i navazujících tratí. Podporujeme, aby byly všechny úseky železnice z Prahy na letiště v Ruzyni co nejdříve dokončené. Stejně tak podpoříme dostavbu Vyšehradského mostu, stavbu Libeňského přesmyku, zkapacitnění trati do Běchovic, modernizaci trati do Berouna či výstavbu vysokorychlostních tratí a Nového spojení 2. 
+4. **Rozvoj železnice v Praze i navazujících tratí.** Podporujeme, aby byly všechny úseky železnice z Prahy na letiště v Ruzyni co nejdříve dokončené. Stejně tak podpoříme dostavbu Vyšehradského mostu, stavbu Libeňského přesmyku, zkapacitnění trati do Běchovic, modernizaci trati do Berouna či výstavbu vysokorychlostních tratí a Nového spojení 2. 
 
-5. Vltavská filharmonie. Prosazujeme, aby financování této stavby, která bude sloužit i pro státní Českou filharmonii, bylo u části hrazené z veřejných zdrojů sdíleno na půl mezi státem a hlavním městem Prahou. Jde o kulturní instituci celostátního významu. 
+5. **Vltavská filharmonie.** Prosazujeme, aby financování této stavby, která bude sloužit i pro státní Českou filharmonii, bylo u části hrazené z veřejných zdrojů sdíleno na půl mezi státem a hlavním městem Prahou. Jde o kulturní instituci celostátního významu. 
 
-[Kompletní sadu zákonů a investic pro Prahu naleznete ke stažení](https://drive.google.com/file/d/1x4zMSZhTmMhcvZBmCuCM7UuGi61Gq36b/view?usp=sharing)
-[Záznam tiskové konference naleznete na online streamu](https://www.youtube.com/watch?v=qEw7aaRYf2g)
-
-
- 
- 
+### Ke stažení
+- [Kompletní sadu zákonů a investic pro Prahu naleznete ke stažení](https://drive.google.com/file/d/1x4zMSZhTmMhcvZBmCuCM7UuGi61Gq36b/view?usp=sharing)
+- [Záznam tiskové konference naleznete na online streamu](https://www.youtube.com/watch?v=qEw7aaRYf2g)
