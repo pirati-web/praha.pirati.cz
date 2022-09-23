@@ -2,7 +2,6 @@
 uid: renata.chmelova
 name:     Renata Chmelová	  	# běžně používáné jméno
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- senat
 img: people/renata-chmelova.jpg          # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: podpora
