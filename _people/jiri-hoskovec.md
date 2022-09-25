@@ -5,7 +5,6 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 img: people/jiri-hoskovec.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: ředitel odboru Kancelář primátora MHMP

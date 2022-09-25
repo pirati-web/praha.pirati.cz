@@ -5,25 +5,13 @@ titles:
   before: Mgr. 
   after:
 category:
-- mhmp
 img: people/eva-horakova.jpg   # 165 x 220
-category:
-  - mhmp
 img: people/eva-horakova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: předsedkyně Výboru pro sociální politiku ZHMP
+description: 
 teamDescription:
-  mhmp: místopředsedkyně zastup. klubu
 funkce: 
-  - místopředsedkyně zastupitelského klubu Pirátů
-  - předsedkyně <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">Výboru pro sociální politiku ZHMP</a>  
-asistenti:
-  - name: Eva Filipová
-    uid: 
-    position: asistentka
-    mail: eva.filipova@praha.eu
-    tel:
 mail:
 - eva.horakova@pirati.cz
 mob: +420 727 870 828

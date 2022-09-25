@@ -2,24 +2,14 @@
 uid:  tomas.murnak
 name: Tomáš Murňák  	
 category:   
-   - mhmp
 img: people/tomas-murnak-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy 
 funkce:
-  - zastupitel hl. m. Prahy za Piráty
   - předseda místního sdružení Praha 13 
-  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33600">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
-  - místopředseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33576">Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP</a>
-  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33590">místopředseda Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP</a>
-asistenti:
-  - name: <a href="/lide/michaela-berankova.html">Michaela Beránková</a></p>
-    uid: michaela.berankova
-    position: asistentka
-    mail: michaela.berankova@pirati.cz
-    tel:
+  - zastupitel MČ Praha 13
 mail:
 - tomas.murnak@pirati.cz
 mob: 

@@ -5,7 +5,6 @@ titles:
   before: RNDr. 
   after:  Ph.D.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- vybor
 - pks
 img: people/daniel-mazur-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
@@ -18,8 +17,6 @@ teamDescription:
 funkce:
   - předseda KS Praha
   - garant programového bodu Vzdělávání a věda
-  - zastupitel MČ Praha 5
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594">Výboru pro bezpečnost ZHMP</a>
 mail:
 - daniel.mazur@pirati.cz
 mob: +420 602 439 639

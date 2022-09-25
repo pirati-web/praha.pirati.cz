@@ -5,7 +5,6 @@ img: 		people/jiri-dohnal.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 category: 
 - dr
-- vybor
 - starostove
 partyUid: pirati
 description: starosta MČ Praha 11
@@ -15,8 +14,6 @@ teamDescription:
   starostove: starosta MČ Praha 11
 funkce: 
   - starosta MČ Praha 11
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=35744">Výboru pro sport a volný čas ZHMP</a>
-  - člen dozorčí rady společností Výstaviště Praha, a.s.
 mail:
 - jiri.dohnal@pirati.cz
 mob: +420 778 421 040

@@ -6,6 +6,7 @@ titles:
   after:
 category:                 
   - mhmp-rhmp
+  - zastupitele
   - stab22
 img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
@@ -15,8 +16,10 @@ description: primátor hlavního města Prahy
 TeamDescription:
   mhmp-radni: primátor<br />hlavního města Prahy
   stab22: primátor hlavního města Prahy
+  mhmp: zastupitel hl. města Prahy
 funkce: 
   - primátor hlavního města Prahy 
+  - zastupitel hlavního města Prahy
 asistenti:
   - name: <a href="/lide/jiri-hoskovec.html">Ing. Jiří Hoskovec</a></p>
     uid: jiri.hoskovec

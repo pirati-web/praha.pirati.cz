@@ -4,19 +4,14 @@ name:     Aneta Heidlová  	# běžně používáné jméno
 titles:
   before: Bc.
   after:
-category:   
-- mhmp       	        			# kratký popis, max 160 znaků
+category:      	        			# kratký popis, max 160 znaků
 img: people/aneta-heidlova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/10-heidlova.jpg
-description: zastupitelka hl. města Prahy
+description: 
 partyUid: pirati
 teamDescription:
-  mhmp: zastupitelka hl. města Prahy
 funkce: 
-  - zastupitelka hl. města Prahy
-  - zastupitelka MČ Praha 9
-  - členka Výboru pro kulturu, výstavnictví, cestovní ruch a zahraniční vztahy ZHMP
 mail:
 - aneta.heidlova@pirati.cz
 mob: +420 723 857 246		 

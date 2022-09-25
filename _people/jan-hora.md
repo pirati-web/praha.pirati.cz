@@ -5,7 +5,6 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- mhmp
 - praha
 - pks
 ordpks: 3
@@ -15,13 +14,9 @@ partyUid: pirati
 description: místopředseda KS Praha
 teamDescription:
   pks: místopředseda KS Praha
-  mhmp: zastupitel hl. města Prahy
 funkce:
   - místopředseda KS Praha
-  - zastupitel hl. města Prahy
   - zastupitel MČ Praha 4
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594">Výboru pro bezpečnost ZHMP</a>
-  - člen komise pro IT RHMP
 mail:
 - jan.hora@pirati.cz
 mob: "+420 775 608 734"

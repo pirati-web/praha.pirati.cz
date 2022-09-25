@@ -11,11 +11,8 @@ heroImg: Prague_panorama.jpeg
 description: předseda Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP
 partyUid: pirati
 teamDescription:
-  mhmp: předseda zastupitelského klubu
+  mhmp: zastupitel hl. města Prahy
 funkce: 
-  - předseda zastupitelského klubu Pirátů
-  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33584">Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP</a>
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33570">výboru pro dopravu ZHMP</a>
 asistenti:
   - name: Josef Kubát
     uid: josef.kubat

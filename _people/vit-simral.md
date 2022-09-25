@@ -9,13 +9,12 @@ category:
 img: people/vit-simral.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profession: radní hlavního města Prahy
-description: radní pro oblast školství, sportu, vědy a podpory podnikání 
+description: člen KS Praha
 teamDescription:
   mhmp-radni: radní pro oblast školství, sportu, vědy a podpory podnikání 
 partyUid: pirati
 funkce: 
   - radní hl. města pro oblast školství, sportu, vědy a podpory podnikání
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33596">výboru pro evropské záležitosti ZHMP</a>
 asistenti:
   - name: Kristýna Nouzáková
     position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->

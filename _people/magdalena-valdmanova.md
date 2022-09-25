@@ -5,17 +5,16 @@ titles:
   before:
   after:
 category:
- - vybor
+ - mhmp
 img: people/magdalena-valdmanova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
-  vybor: členka Výboru pro sociální politiku ZHMP
+  mhmp: zastupitelka hl. města prahy
 funkce: 
   - předsedkyně MS Praha 2
   - zastupitelka MČ Praha 2
-  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">členka Výboru pro sociální politiku ZHMP</a>
-  - asistentka předsedy hospodářského výboru Viktora Mahrika
+  - zastupitelka hl. města prahy
 mail:
 - magdalena.valdmanova@pirati.cz
 mob:			  

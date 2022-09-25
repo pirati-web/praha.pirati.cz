@@ -5,8 +5,6 @@ titles:
   before:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- mhmp
 - kontaktni_osoba
 img: people/martin-arden.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
@@ -14,15 +12,9 @@ profilebadge: people/badge/07-arden.jpg
 partyUid: pirati
 description: kontakt pro pražskou veřejnost
 teamDescription:
-  mhmp: zastupitel hl. města Prahy
   contact: kontakt pro pražskou veřejnost 
 funkce: 
-  - zastupitel hl. města Prahy
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33574">Výboru pro bydlení ZHMP</a>
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33572">Výboru pro kulturu, výstavnictví, cestovní ruch a zahraniční vztahy ZHMP</a>
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33598">Výboru pro národnostní menšiny ZHMP</a>
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">Výboru pro sociální politiku ZHMP</a>
-
+  - zastupitel MČ Praha 1
 mail:
 - martin.arden@pirati.cz
 mob: +420 728 368 831
@@ -31,7 +23,6 @@ profiles:
   facebook: https://www.facebook.com/ArdenTheo
   twitter: 		  
   flickr:		  
-ordmhmp: 4
 ordpak: 2
 calendar: pirat.arden@gmail.com
 ---
