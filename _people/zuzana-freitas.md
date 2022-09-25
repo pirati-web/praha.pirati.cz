@@ -5,22 +5,21 @@ titles:
   before: Mgr.
   after:
 category: 
-  - vybor
   - pks
   - vlada
+  - mhmp
 img: people/zuzana-freitas-2022-3.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
   pks: místopředsedkyně KS Praha
-  vybor: členka Výboru pro bydlení ZHMP
   vlada: náměstkyně ministra práce a sociálních věcí ČR
+  mhmp: zastupitelka hl. města Prahy
 funkce:
   - místopředsedkyně KS Praha
   - náměstkyně ministra práce a sociálních věcí ČR
   - zastupitelka MČ Praha 10
-  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33574">Výboru pro bydlení ZHMP</a>
-  - členka komise RHMP pro družstevní bytovou výstavbu
+  - zastupitelka hl. města Prahy
 mail:
 - zuzana.freitas@pirati.cz
 mob: "+420 776 278 860"

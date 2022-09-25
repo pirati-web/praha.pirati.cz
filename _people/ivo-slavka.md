@@ -4,19 +4,15 @@ name: Ivo Slávka
 titles:
   before: Mgr.
 category: 
-- praha
-- vybor
 img: people/ivo-slavka.jpg
 heroImg: Prague_panorama.jpeg
 profession: právník
 partyUid: pirati
-teamDescription:
-  vybor: člen výboru pro legislativu, veř. správu a transparentnost ZHMP
+description: zastupitel MČ Praha 8
 mail:
   - ivo.slavka@pirati.cz
 funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33600">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
 profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/ivo.slavka
 ---

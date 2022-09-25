@@ -5,15 +5,12 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- vybor
 img: people/pavel-hajek.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
-  vybor: člen výboru pro výchovu a vzdělávání ZHMP
 funkce: 
   - zastupitel MČ Praha 10
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33578">výboru pro výchovu a vzdělávání ZHMP</a>
 mail:
 - pavel.hajek@pirati.cz
 mob: +420 604 579 018

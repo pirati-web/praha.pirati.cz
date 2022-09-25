@@ -6,7 +6,6 @@ img: people/tomas-murnak-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
-  mhmp: zastupitel hl. města Prahy 
 funkce:
   - předseda místního sdružení Praha 13 
   - zastupitel MČ Praha 13

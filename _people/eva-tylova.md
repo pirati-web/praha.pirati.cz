@@ -5,8 +5,7 @@ titles:
   before: Ing. 
   after:
 category:               	# kategorie: rp, praha, vary, hradec, jmk,
-- praha
-- vybor
+- mhmp
 img: people/eva-tylova-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: bezpp
@@ -15,7 +14,7 @@ teamDescription:
   vybor: členka Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP
 funkce: 
   - místostarostka MČ Praha 12
-  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33590">Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP</a>
+  - zastupitelka hl. města Prahy
 mail:
 - eva.tylova@pirati.cz
 mob:			 

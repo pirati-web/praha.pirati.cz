@@ -9,13 +9,11 @@ img: people/milan-kryl.png
 heroImg: Prague_panorama.jpeg
 profession: manažer
 partyUid: bezpp
-description: člen Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP
+description: zastupitel MČ Praha 5
 teamDescription:
-  vybor: člen Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP
 mail: milan.kryl@post.cz
 profiles:
 funkce:
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33576">Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP</a>
   - zastupitel MČ Praha 5
 ---
 
