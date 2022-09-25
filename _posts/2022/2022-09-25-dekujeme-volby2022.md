@@ -1,5 +1,5 @@
 ---
-title:  "Děkujeme,Volby 2022 skončily"
+title:  "Děkujeme, Volby 2022 skončily"
 authorId: ivan.bartos
 image:  posts/volby2022-volebnistab.jpg
 tags:   [Piráti, Volby 2022]
