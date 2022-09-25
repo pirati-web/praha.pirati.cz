@@ -11,7 +11,7 @@ heroImg: Prague_panorama.jpeg
 partyUid: pirati
 profession: radní MČ Praha 12 a konzultant
 description: radní MČ Praha 12
-teamDescripiton:
+teamDescription:
   mhmp: zastupitel hl. města Prahy
 mail:
 - jiri.bruzek@pirati.cz

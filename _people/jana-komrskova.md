@@ -12,7 +12,7 @@ heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: 1. místostarostka MČ Praha 10
 teamDescription:
-  mhmp: zastupitelka hl. města Pragy
+  mhmp: zastupitelka hl. města Prahy
   stab22: dvojka kandidátky
 funkce: 
   - 1. místostarostka MČ Praha 10

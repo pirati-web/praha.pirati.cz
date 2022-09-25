@@ -20,11 +20,6 @@ profiles:
   facebook:  https://www.facebook.com/kallasch
   twitter:   https://twitter.com/OndrejKallasch
   flickr:    https://www.flickr.com/search/?text=ond%C5%99ej%20kallasch
-ordmhmp: 7
-carousel:
-  img: ondrej-kallasch.jpg
-  text: |
-    <p><strong>Zastupitel<strong/> za Piráty se specializací na oblast informatiky, člen předsednictva krajského sdružení Pirátů v Praze. </p>
 redmine: 180
 calendar: okallasch%40gmail.com
 ---

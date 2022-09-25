@@ -21,8 +21,6 @@ profiles:
   facebook: https://www.facebook.com/pirat.kosak/
   twitter: 		  
   flickr:		  
-ordmhmp: 8
-ordvyb: 16
 ---
 
 **Ladislav Kos** (* 1986) je členem Pirátské strany na Praze 11, kde je zároveň zastupitelem. Od dubna 2019 je zastupitelem hl. města Prahy. Zastává pozici předsedy komise Rady hlavního města Prahy pro otázky sportu, je členem výboru pro zdravotnictví a sport a volný čas a výboru pro dopravu. V domovské Praze 11 je členem dopravní komise.

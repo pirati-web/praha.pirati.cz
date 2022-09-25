@@ -21,7 +21,6 @@ profiles:
   twitter:   https://twitter.com/scintie
   instagram: https://instagram.com/eva_danis_horakova
   flickr:		  
-ordmhmp: 2
 calendar: ewa.horakowa@gmail.com
 ---
 
