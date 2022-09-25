@@ -5,6 +5,7 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+  - senat
 img: people/ladislav-kos.jpg # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: podpora

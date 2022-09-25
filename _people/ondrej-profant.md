@@ -5,27 +5,25 @@ titles:
   before: 
   after:
 category:
-  - vlada
 img: people/ondrej-profant.jpg
 heroImg: Prague_panorama.jpeg
-profession: náměstek ministra pro místní rozvoj ČR
-description: náměstek ministra pro místní rozvoj ČR
+profession: poradce vicepremiéra Vlády ČR pro digitalizaci
+description: poradce vicepremiéra Vlády ČR pro digitalizaci
 partyUid: pirati
 TeamDescription:
-  - vlada: náměstek ministra pro místní rozvoj ČR
 mail:
   - ondrej.profant@pirati.cz
 mob: +420 607 580 015
 funkce:
-  - náměstek ministra pro místní rozvoj ČR
+  - poradce vicepremiéra Vlády ČR pro digitalizaci
 profiles:
   facebook:  https://www.facebook.com/ondrej.pirat.profant
-  twitter: 	 https://twitter.com/ondrej_profant
+  twitter:   https://twitter.com/ondrej_profant
   instagram: https://www.instagram.com/ondrej_profant
   github:    https://github.com/kedrigern/
   web:       https://www.profant.eu/
   wikipedia: https://cs.wikipedia.org/wiki/Ond%C5%99ej_Profant
-  flickr:	   https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant  
+  flickr:    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant  
 ordvlada: 4
 ---
 

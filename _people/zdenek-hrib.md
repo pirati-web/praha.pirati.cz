@@ -13,8 +13,8 @@ heroImg: Prague_panorama.jpeg
 partyUid: pirati
 profession: primátor hlavního města Prahy
 description: primátor hlavního města Prahy
-TeamDescription:
-  mhmp-radni: primátor<br />hlavního města Prahy
+teamDescription:
+  mhmp-radni: primátor hlavního města Prahy
   stab22: primátor hlavního města Prahy
   mhmp: zastupitel hl. města Prahy
 funkce: 
