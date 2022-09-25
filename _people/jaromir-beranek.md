@@ -13,6 +13,7 @@ partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy
 funkce: 
+- zastupitel hl. města Prahy
 mail:
 - jaromir.beranek@pirati.cz
 mob: +420 775 890 490

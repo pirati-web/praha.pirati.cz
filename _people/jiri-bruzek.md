@@ -5,11 +5,14 @@ titles:
   before: 
   after:
 category: 
+- mhmp
 img: people/jiri-bruzek-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 profession: radní MČ Praha 12 a konzultant
 description: radní MČ Praha 12
+teamDescripiton:
+  mhmp: zastupitel hl. města Prahy
 mail:
 - jiri.bruzek@pirati.cz
 mob:			 
@@ -20,6 +23,7 @@ profiles:
   flickr:		  
 funkce:
   - radní MČ Praha 12
+  - zastupitel hl. města Prahy
 ---
 
 **Jiří Brůžek** (* 1977, Klatovy) je kandidát č. 9 do Zastupitelstva hl. m. Prahy.

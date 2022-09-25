@@ -5,16 +5,20 @@ titles:
   before: Mgr. 
   after: MBA
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- mhmp
 img: people/david-bodecek-2022-2.jpg
 heroImg: Prague_panorama.jpeg
 description: předseda kontrolního výboru MČ Praha 1
+teamDescription:
+  mhmp: zastupitel hl. města Prahy
 mail:
 - david.bodecek@pirati.cz
 mob:
 funkce: 
   - zastupitel MČ Praha 1
-  - předseda konstrolního výboru MČ Praha 1
+  - předseda kontrolního výboru MČ Praha 1
   - místopředseda MS Praha 1
+  - zastupitel hl. města Prahy
 profiles:
   facebook:  https://www.facebook.com/dajdanos
   instagram: https://www.instagram.com/dajdanos

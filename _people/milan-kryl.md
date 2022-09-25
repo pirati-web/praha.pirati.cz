@@ -4,7 +4,6 @@ name: Milan Kryl
 titles:
   before: Mgr.
 category:
-  - vybor
 img: people/milan-kryl.png
 heroImg: Prague_panorama.jpeg
 profession: manažer

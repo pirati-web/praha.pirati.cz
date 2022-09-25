@@ -5,10 +5,13 @@ titles:
   before: Ing.
   after: MBA
 category: 
+- mhmp
 img: people/gabriela-lnenickova-2022-3.jpg
 heroImg: Prague_panorama.jpeg
 profession: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
 description: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
+teamDescription:
+  mhmp: zastupitelka hl. města Prahy
 mail:
   - gabriela.lnenickova@pirati.cz
 mob:	
@@ -19,6 +22,7 @@ profiles:
 funkce:
   - radní MČ Praha–Suchdol
   - vedoucí pražského expertního týmu <a href="https://forum.pirati.cz/viewforum.php?f=1262">Doprava a infrastruktura</a>
+  - zastupitelka hl. města Prahy
 ---
 
 **Gabriela Lněničková** pochází z Třeboně a v Praze žije od roku 1997. Vystudovala obor mezinárodní obchod na Vysoké škole ekonomické v Praze. Zúčastnila se také zahraničních studijních pobytů na Wirstchaftsuniversität Wien v Rakousku a Stockholm School of Economics ve Švédsku. Poté absolvovala MBA program na Anglo-American University, který zaštiťuje Chapman University v Kalifornii, USA.

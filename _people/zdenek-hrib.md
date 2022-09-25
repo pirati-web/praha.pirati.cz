@@ -6,7 +6,7 @@ titles:
   after:
 category:                 
   - mhmp-rhmp
-  - zastupitele
+  - mhmp
   - stab22
 img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg

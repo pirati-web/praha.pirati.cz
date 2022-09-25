@@ -7,9 +7,12 @@ titles:
 name: Adam Zábranský  
 category: 
    - mhmp-rhmp
+   - mhmp
 img: people/adam-zabransky.jpg
 heroImg: Prague_panorama.jpeg
 description: radní pro bydlení a transparentnost
+teamDescription: 
+  mhmp: zastupitel hl. města Prahy
 profession: radní hl. města Prahy pro bydlení a transparentnost 
 partyUid: pirati
 funkce: 

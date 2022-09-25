@@ -12,6 +12,7 @@ partyUid: bezpp
 profession: místostarostka Prahy 12, ekoložka
 teamDescription:
   vybor: členka Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP
+  mhmp: zastupitelka hl. města Prahy
 funkce: 
   - místostarostka MČ Praha 12
   - zastupitelka hl. města Prahy

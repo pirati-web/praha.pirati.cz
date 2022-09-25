@@ -6,12 +6,14 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
+- mhmp
 img: people/bara-soukupova-2022-2.jpg
 heroImg: Prague_panorama.jpeg
 profession: specialistka na eGovernment, asistentka výboru pro Smart Cities ZHMP
 partyUid: pirati
 teamDescription:
   pks: místopředsedkyně KS Praha
+  mhmp: zastupitelka hl. města Prahy
 funkce:
   - místopředsedkyně KS Praha
 mail:

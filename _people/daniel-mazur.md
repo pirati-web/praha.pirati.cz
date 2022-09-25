@@ -6,6 +6,7 @@ titles:
   after:  Ph.D.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
+- mhmp
 img: people/daniel-mazur-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profession: projektový manažer v oblasti vědy, výzkumu, vzdělávání a inovací
@@ -13,10 +14,11 @@ description: předseda KS Praha
 partyUid: pirati
 teamDescription:
   pks: předseda KS Praha
-  vybor: člen Výboru pro bezpečnost ZHMP
+  mhmp: zastupitel hl. města Prahy
 funkce:
   - předseda KS Praha
   - garant programového bodu Vzdělávání a věda
+  - zastupitel hl. města Prahy
 mail:
 - daniel.mazur@pirati.cz
 mob: +420 602 439 639
