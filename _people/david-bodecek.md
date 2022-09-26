@@ -1,24 +1,23 @@
 ---
 uid: david.bodecek
-name:     David Bodeček  	# běžně používáné jméno
+name: David Bodeček
 titles:
   before: Mgr. 
   after: MBA
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category:
 - mhmp
 img: people/david-bodecek-2022-2.jpg
 heroImg: Prague_panorama.jpeg
-description: předseda kontrolního výboru MČ Praha 1
+description: zastupitel hl. města Prahy
 teamDescription:
   mhmp: zastupitel hl. města Prahy
 mail:
 - david.bodecek@pirati.cz
-mob:
+mob: +420 775 595 183
 funkce: 
   - zastupitel MČ Praha 1
-  - předseda kontrolního výboru MČ Praha 1
-  - místopředseda MS Praha 1
   - zastupitel hl. města Prahy
+  - místopředseda MS Praha 1
 profiles:
   facebook:  https://www.facebook.com/dajdanos
   instagram: https://www.instagram.com/dajdanos
@@ -39,4 +38,3 @@ Mezi svá negativa zahrnuje Bodeček tvrdohlavost a někdy ne zcela zdravou sout
 V říjnu 2021 dokončil individuální dálkové vzdělání Managementu ve veřejné správě, které se rozhodl studovat na základě snahy získat větší přehled a rozhled v dané oblasti. Mezi absolvovanými předměty, jejichž znalosti využil v praxi ve veřejném působení v Městské části Praha 1, patří základy managementu a řízení, organizace a činnost územní samosprávy, strategický management, ekonomika veřejné správy, základy práva životního prostředí, právo na informace, ochrana osobních údajů, řízení lidských zdrojů v organizaci, finanční hospodaření územně samosprávných celků, trestní odpovědnost právnických osob, psychologie vedení a řízení lidí.
 
 Jeho politickým cílem, který aktuálně před sebou vidí a vnímá, je pokračování v komunální politice.
-
