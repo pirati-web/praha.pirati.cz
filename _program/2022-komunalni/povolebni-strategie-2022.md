@@ -17,7 +17,7 @@ Na úvod deklarujeme, že každý pirátský zastupitel se bude především ř�
 - [pirátským kodexem zastupitele](https://wiki.pirati.cz/program/kodex_zastupitele)
 - [pirátským demokratickým minimem](https://wiki.pirati.cz/program/minimum)
  
-## 2. Hlavní cíle Pirátů v Praze 8 a podmínky účasti na Radě města
+## 2. Hlavní cíle Pirátů v Praze a podmínky účasti na Radě města
 Naším cílem je vyjednávat samostatně o koalici z takové pozice, abychom mohli navázat na pozitivní práci pro Pražany, kterou jsme v Praze v koalici 4 roky vykonali.
 
 Chceme se podílet na správě města s kompetentními lidmi a s demokratickými stranami. Za 4 roky v koalici jsme prokázali, že známe řešení problémů Prahy, Prahu řídíme s čistým štítem a máme především máme odvahu řídit Prahu správně.
@@ -74,7 +74,8 @@ Do koaliční smlouvy budeme prosazovat mechanismus pro odmítnutí kandidátů,
 Klub zastupitelů Pirátů tvoří všichni zvolení zastupitelé. Každý zastupitel se řídí schváleným kodexem, volebním programem a jedná v souladu s touto strategií. Klub usiluje o maximální možnou míru vnitřního konsenzu a jednotu navenek, tedy i při hlasování na Zastupitelstvu.
 
 Po sestavení rady si členové klubu rozdělí agendy do své působnosti tak, aby byly pokryty všechny oblasti. Klub schválí způsob společného plánování priorit, projektového vedení, pravidelného vyhodnocení a zveřejňování dosahovaných výsledků zastupitelů a dalších funkcionářů a požadavky na předjednání návrhů v gesčních týmech.
-Nelze-li rozhodnout podle programu či jiných schválených dokumentů, klub konzultuje otázky s Krajskými expertními týmy (KETy), Krajským předsednictvem, Krajským fórem nebo konkrétním místním sdružením, pokud jde o problém týkající se určitého místa. Stejně tak tyto orgány se mohou obrátit na klub a ten je povinen s nimi věc projednat.
+
+Nelze-li rozhodnout podle programu či jiných schválených dokumentů, klub konzultuje otázky s Krajskými expertními týmy (KETy), Krajským předsednictvem, Krajským fórem nebo konkrétním místním sdružením, pokud jde o problém týkající se určitého místa. Stejně tak tyto orgány se mohou obrátit na klub a ten je povinen s nimi věc projednat.
 
 Pro nominace kandidátů do různých funkcí zřídí klub zvláštní nominační tým s účastí expertů a stanoví tomuto týmu průhledný postup. Každý pracovník, kterého vybírá klub nebo zastupitel, musí projít společnou částí výběrového řízení, kterou organizuje klub a kde se ověřují základní předpoklady. Zastupitel Pirátů z principu nevybírá své rodinné příslušníky a partnery.
 
