@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 img: people/jaromir-beranek-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: předseda výboru pro IT a Smart City ZHMP
+description: zastupitel hl. m. Prahy za Piráty
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy
@@ -28,7 +28,7 @@ calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
 ordmhmp: 12
 ---
 
-Mgr. Ing. Jaromír Beránek, CEMS MIM (* 14. května 1986) je uvolněným zastupitelem hl. m. Prahy za Piráty a předsedou Výboru pro IT a Smart City ZHMP. Je rovněž členem Výboru pro evropské záležitosti a Výboru finančního. Členem České pirátské strany je od listopadu 2016, v minulosti byl vedoucím finančního odboru strany a předsedou pražských Pirátů.
+Mgr. Ing. Jaromír Beránek, CEMS MIM (* 14. května 1986) je zastupitelem hl. m. Prahy za Piráty. Členem České pirátské strany je od listopadu 2016, v minulosti byl vedoucím finančního odboru strany a předsedou pražských Pirátů.
 
 Jaromír se narodil a vyrůstal v Praze. Po maturitě na Gymnáziu Jana Nerudy vystudoval obory CEMS – Mezinárodní management na VŠE v Praze a Právo na Univerzitě Karlově. Během studií absolvoval studijní stáže na univerzitách v Kolíně nad Rýnem v Německu a ve Fort Lauderdale ve Spojených státech a také pracovní stáž ve společnosti Bosch v holandském Eindhovenu. Několik let spolupracoval jako ekonomický komentátor a moderátor s Českým rozhlasem (stanice ČRo 6, v současnosti ČRo Plus).
 
@@ -38,7 +38,7 @@ Ve volném čase hraje na saxofon a klarinet v kapele Mizmar a je spoluautorem b
 
 Jaromír je svobodný a bezdětný, hovoří plynně anglicky a německy a dorozumí se francouzsky. U Pirátů zastával od ledna 2017 do prosince 2018 roli vedoucího finančního odboru, od prosince 2017 je též členem předsednictva krajského sdružení v Praze, kde zodpovídá za finance a strategii. Vedle digitálních technologií a inovací se zajímá o otázky dopravy, udržitelnosti a volnočasových aktivit dětí a mládeže.
 
-V roce 2018 byl zvolen z 11. místa kandidátní listiny Pirátů do zastupitelstva hl. m. Prahy, od října 2019 je místopředsedou zastupitelského klubu. Jako předseda Výboru pro IT a Smart City ZHMP se věnuje primárně Smart City a inovačním projektům a podpoře podnikání. Dále se zabývá hospodařením hlavního města, evropskými záležitostmi a spolupracuje rovněž na rozvoji integrovaného dopravního systému a podpoře bezemisní mobility.
+V roce 2018 byl zvolen z 11. místa kandidátní listiny Pirátů do zastupitelstva hl. m. Prahy, od října 2019 je místopředsedou zastupitelského klubu. Jako předseda Výboru pro IT a Smart City ZHMP se věnoval primárně Smart City a inovačním projektům a podpoře podnikání. Dále se zabýval hospodařením hlavního města, evropskými záležitostmi a spolupracuje rovněž na rozvoji integrovaného dopravního systému a podpoře bezemisní mobility. V roce 2022 byl opět zvolen do pražského zastupitelstva.
 
 ***
 

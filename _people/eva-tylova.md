@@ -29,8 +29,8 @@ profiles:
 ordmhmp: 8
 ---
 
-**Eva Tylová** (* 12. prosince 1959) je místostarostkou městské části Praha 12 pro územní rozvoj a životní prostředí. Je rovněž členkou výboru pro životní prostředí, infrastrukturu a vybavenost Zastupitelstva hl. města Prahy.
+**Eva Tylová** (* 12. prosince 1959) je zastupitelka hlavního města Prahy za Piráty a dále místostarostka městské části Praha 12 pro územní rozvoj a životní prostředí.
 
 Vystudovala Fakultu jadernou a fyzikálně inženýrskou ČVÚT. Záhy se začala věnovat ochraně životního prostředí. Působila na Ministerstvu životního prostředí od pozice referentky a mezi lety 1998 až 2002 byla náměstkyní ministra životního prostředí. Právě jako náměstkyně ministra se angažovala proti těžbě zlata v Mokrsku, kontroverzní dálnicí D3 přes Posázaví, požadovala VŘ na sanaci dioxinových baráků ve Spolaně.
 
-V letech 2002–2003 a 2008–2010 byla ředitelkou České inspekce životního prostředí. Mezi roky 2006–2010 byla členkou Zastupitelstva hlavního města Prahy, zvolenou za Stranu zelených. V roce 2010 až 2014 působila na Praze 12 jako místostarostka pro ochranu životního prostředí a územní rozvoj. Prosazovala otevřenou a transparentní radnici (např. občané se mohou stát členy komisí rady), zveřejnění nejen smluv, ale i objednávek úřadu atd. Zavedla řadu komunitních a ekologicky zaměřených akcí. Vystupovala proti předimenzovaným developerským projektům.
+V letech 2002–2003 a 2008–2010 byla ředitelkou České inspekce životního prostředí. Mezi roky 2006–2010 byla členkou Zastupitelstva hlavního města Prahy, zvolenou za Stranu zelených. V roce 2010 až 2014 působila na Praze 12 jako místostarostka pro ochranu životního prostředí a územní rozvoj. Prosazovala otevřenou a transparentní radnici (např. občané se mohou stát členy komisí rady), zveřejnění nejen smluv, ale i objednávek úřadu atd. Zavedla řadu komunitních a ekologicky zaměřených akcí. Vystupovala proti předimenzovaným developerským projektům. V roce 2022 byla zvolena na kandidátní listině Pirátů do celopražského zastupitelstva.

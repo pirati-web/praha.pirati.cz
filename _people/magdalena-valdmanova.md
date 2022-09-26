@@ -26,9 +26,11 @@ profiles:
 ordmhmp: 7
 ---
 
-Celý život žiji v Praze. Po maturitě v oboru management a podnikání v umění a reklamě jsem nastoupila na mateřskou dovolenou. Poté jsem pracovala v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětských domovů. Právě pro ně jsem pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti jsem získala ve startupu zaměřeném na e-learning, v kanceláři pražského primátora Zdeňka Hřiba, kde jsem pracovala jako jeho poradkyně a v současnosti tuto pozici zastávám u pirátského zastupitele hlavního města Viktora Mahrika. 
+**Magdalena Valdmanová** je pirátskou zastupitelkou v zastupitelstvu hlavního města Prahy. 
 
-Zároveň jsem od roku 2018 zastupitelkou na Praze 2. Zajímají mě sociální a kulturní témata, hudba, film, přátele. Mám moc ráda Prahu, ale i výlety na venkov. Žiji se svými dvěma dospělými syny, třemi kočkami a jedním partnerem na Vinohradech.
+Celý život žije v Praze. Po maturitě v oboru management a podnikání v umění a reklamě nastoupila na mateřskou dovolenou. Poté pracovala v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětských domovů. Právě pro ně pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti získala ve startupu zaměřeném na e-learning, v kanceláři pražského primátora Zdeňka Hřiba, kde pracovala jako jeho poradkyně. Asistentskou pozici později vykonávala u zastupitele Viktora Mahrika, který byl předsedou výboru ZHMP pro správu majetku. V roce 2022 byla zvolena do celopražského zastupitelstva.
+
+Zároveň je od roku 2018 zastupitelkou na Praze 2. Zajímají jí sociální a kulturní témata, hudba, film, přátele. Má moc ráda Prahu, ale i výlety na venkov. Žijes se svými dvěma dospělými syny, třemi kočkami a jedním partnerem na Vinohradech.
 
 ### Další informace
 
