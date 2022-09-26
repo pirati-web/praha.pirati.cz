@@ -8,7 +8,7 @@ category:
 - mhmp
 img: people/gabriela-lnenickova-2022-3.jpg
 heroImg: Prague_panorama.jpeg
-profession: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
+profession: zastupitelka hl. města Prahy, projektová manažerka a šachová mistryně
 description: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
@@ -20,9 +20,9 @@ profiles:
   facebook: https://www.facebook.com/ing.gabriela.lnenickova    
   twitter:  https://twitter.com/glnenickova		  
 funkce:
-  - radní MČ Praha–Suchdol
-  - vedoucí pražského expertního týmu <a href="https://forum.pirati.cz/viewforum.php?f=1262">Doprava a infrastruktura</a>
   - zastupitelka hl. města Prahy
+  - zastupitelka MČ Praha–Suchdol
+  - vedoucí pražského expertního týmu <a href="https://forum.pirati.cz/viewforum.php?f=1262">Doprava a infrastruktura</a>
 ordmhmp: 11
 ---
 
