@@ -14,19 +14,21 @@ description: předseda KS Praha
 partyUid: pirati
 teamDescription:
   pks: předseda KS Praha
-  mhmp: zastupitel hl. města Prahy
+  mhmp: předseda zastupitelského klubu
 funkce:
   - předseda KS Praha
-  - garant programového bodu Vzdělávání a věda
+  - předseda zastupitelského klubu v ZHMP
   - zastupitel hl. města Prahy
+  - garant programového bodu Vzdělávání a věda
 mail:
 - daniel.mazur@pirati.cz
 mob: +420 602 439 639
 profiles:
   github:     https://github.com/daniel-mazur
-  facebook: 	https://www.facebook.com/daniel.mazur.5268
-  twitter: 		https://twitter.com/DanielMazurP5
+  facebook:   https://www.facebook.com/daniel.mazur.5268
+  twitter:    https://twitter.com/DanielMazurP5
   flickr:
+ordmhmp: 1
 ordpks: 1
 calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
 ---

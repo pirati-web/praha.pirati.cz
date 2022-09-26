@@ -8,11 +8,13 @@ category:
   - mhmp
 img: people/viktor-mahrik-2022.jpg
 heroImg: Prague_panorama.jpeg
-description: předseda Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP
+description: 
 partyUid: pirati
 teamDescription:
-  mhmp: zastupitel hl. města Prahy
+  mhmp: 1. místopředseda zast. klubu
 funkce: 
+  - zastupitel hl. města Prahy
+  - 1. místopředseda zastupitelského klubu v ZHMP
 asistenti:
   - name: Josef Kubát
     uid: josef.kubat
@@ -26,10 +28,11 @@ asistenti:
     tel: 
 mail:
 - viktor.mahrik@pirati.cz
-mob: 				+420 602 767 298
+mob: +420 602 767 298
 profiles:
   facebook: https://www.facebook.com/viktor.mahrik
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=viktor%20mahrik&view_all=1
+ordmhmp: 2
 redmine: 5
 calendar: 2l6sfsk9eeb3qfkuhtfuu44od4%40group.calendar.google.com
 ---

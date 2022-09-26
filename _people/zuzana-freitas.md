@@ -14,21 +14,23 @@ partyUid: pirati
 teamDescription:
   pks: místopředsedkyně KS Praha
   vlada: náměstkyně ministra práce a sociálních věcí ČR
-  mhmp: zastupitelka hl. města Prahy
+  mhmp: 2. místopředsedkyně zast. klubu
 funkce:
   - místopředsedkyně KS Praha
   - náměstkyně ministra práce a sociálních věcí ČR
   - zastupitelka MČ Praha 10
   - zastupitelka hl. města Prahy
+  - 2. místopředsedkyně zastupitelského klubu v ZHMP
 mail:
 - zuzana.freitas@pirati.cz
 mob: "+420 776 278 860"
+ordmhmp: 3
 ordpks: 4
 ordvlada: 3
 profiles:
   github:       
   facebook: https://www.facebook.com/FreitasLopesova   
-  twitter: 	https://twitter.com/FreitasZuzana	  
+  twitter:  https://twitter.com/FreitasZuzana	  
   flickr:		  
 ---
 
