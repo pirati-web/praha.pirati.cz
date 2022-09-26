@@ -27,6 +27,7 @@ profiles:
   linkedin:  https://www.linkedin.com/in/jana-komrskov%C3%A1-ab621157/
 mob: +420 605 205 770
 ordstab22: 4
+ordmhmp: 5
 ---
 
 **Jana Komrsková** byla do května 2021 zastupitelského klubu Pirátů v ZHMP, členkou finančního výboru ZHMP a výboru ZHMP pro zdravotnictví, sport a volný čas.

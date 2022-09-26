@@ -26,6 +26,7 @@ profiles:
   twitter: 		  
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=tylov%C3%A1
   wikipedia: https://cs.wikipedia.org/wiki/Eva_Tylov%C3%A1 
+ordmhmp: 8
 ---
 
 **Eva Tylová** (* 12. prosince 1959) je místostarostkou městské části Praha 12 pro územní rozvoj a životní prostředí. Je rovněž členkou výboru pro životní prostředí, infrastrukturu a vybavenost Zastupitelstva hl. města Prahy.

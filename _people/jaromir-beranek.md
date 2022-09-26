@@ -25,6 +25,7 @@ profiles:
   flickr:
 redmine: 223
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
+ordmhmp: 12
 ---
 
 Mgr. Ing. Jaromír Beránek, CEMS MIM (* 14. května 1986) je uvolněným zastupitelem hl. m. Prahy za Piráty a předsedou Výboru pro IT a Smart City ZHMP. Je rovněž členem Výboru pro evropské záležitosti a Výboru finančního. Členem České pirátské strany je od listopadu 2016, v minulosti byl vedoucím finančního odboru strany a předsedou pražských Pirátů.

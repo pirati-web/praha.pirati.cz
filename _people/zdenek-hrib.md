@@ -74,6 +74,7 @@ profiles:
   wikipedia: https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib
   blog:      https://blog.aktualne.cz/blogy/zdenek-hrib.php
 ordrhmp: 1
+ordmhmp: 4
 ordstab22: 3
 
 ---

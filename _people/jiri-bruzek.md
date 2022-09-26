@@ -24,6 +24,7 @@ profiles:
 funkce:
   - radní MČ Praha 12
   - zastupitel hl. města Prahy
+ordmhmp: 10
 ---
 
 **Jiří Brůžek** (* 1977, Klatovy) je kandidát č. 9 do Zastupitelstva hl. m. Prahy.

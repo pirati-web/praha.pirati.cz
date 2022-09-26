@@ -23,6 +23,7 @@ profiles:
   facebook: https://www.facebook.com/valdmanova.pirati	
   twitter:  https://mobile.twitter.com/magvaldmanova	
   flickr:
+ordmhmp: 7
 ---
 
 Celý život žiji v Praze. Po maturitě v oboru management a podnikání v umění a reklamě jsem nastoupila na mateřskou dovolenou. Poté jsem pracovala v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětských domovů. Právě pro ně jsem pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti jsem získala ve startupu zaměřeném na e-learning, v kanceláři pražského primátora Zdeňka Hřiba, kde jsem pracovala jako jeho poradkyně a v současnosti tuto pozici zastávám u pirátského zastupitele hlavního města Viktora Mahrika. 
