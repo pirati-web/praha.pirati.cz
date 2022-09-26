@@ -21,13 +21,6 @@ asistenti:
     position: sekretář <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Viktora Mahrika-->
     mail: josef.kubat@pirati.cz
     tel: +420 606 242 152
-    <!--
-  - name: Magdalena Valdmanová
-    uid: magdalena.valdmanova
-    position: asistentka
-    mail: magdalena.valdmanova@praha.eu
-    tel: 
-    -->
 mail:
 - viktor.mahrik@pirati.cz
 mob: +420 602 767 298
