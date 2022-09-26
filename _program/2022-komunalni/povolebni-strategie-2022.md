@@ -28,7 +28,7 @@ Budeme jednat se všemi ostatními politickými stranami. Naše podpora libovoln
 
 Výběr radních a jakákoliv smlouva o povolební spolupráci (uzavření koaliční smlouvy, tolerance menšinové rady, ...) podléhají souhlasu Krajského fóra Pirátů v Praze, které má poslední slovo.
 
-### 3. Jak se chováme, co děláme před volbami, po nich a po schválení strategie
+## 3. Jak se chováme, co děláme před volbami, po nich a po schválení strategie
 Po schválení této strategie ustanovíme oficiálně vyjednávací tým ve složení lídra kandidátky, dvojky kandidátky a nominanta PKS (Předsednictvo krajského sdružení). Tento tým může po konzultaci s Klubem a PKS do svých řad jmenovat dočasně i další vyjednavače dle uvážení. Vyjednávací tým se při svém jednání řídí tradičními pirátskými [zásadami týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys).
 
 Tento vyjednávací tým, v úzké spolupráci s PKS a s čelem kandidátky (čelo je definováno jako místa 1-13 kandidujících) (a po volbách již se zvoleným Zastupitelským klubem) určí strategii vyjednávání, resp. analyzuje programové priority kandidujících stran ve snaze najít společné předběžné programové shody, může se také sejít s ostatními politickými subjekty před volbami, za účelem předběžného zjištění jejich programových priorit a koaličních preferencí.
