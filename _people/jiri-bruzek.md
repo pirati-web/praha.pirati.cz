@@ -15,7 +15,7 @@ teamDescription:
   mhmp: zastupitel hl. města Prahy
 mail:
 - jiri.bruzek@pirati.cz
-mob:			 
+mob: +420 602 406 504 			 
 profiles:
   github:       
   facebook:  https://www.facebook.com/jiri.bruzek.9   
