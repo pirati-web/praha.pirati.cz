@@ -11,7 +11,7 @@ heroImg: Prague_panorama.jpeg
 profession: radní hlavního města Prahy
 description: člen KS Praha
 teamDescription:
-  mhmp-radni: radní pro oblast školství, sportu, vědy a podpory podnikání 
+  mhmp-rhmp: radní pro oblast školství, sportu, vědy a podpory podnikání 
 partyUid: pirati
 funkce: 
   - radní hl. města pro oblast školství, sportu, vědy a podpory podnikání
