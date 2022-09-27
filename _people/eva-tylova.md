@@ -17,7 +17,7 @@ funkce:
   - místostarostka MČ Praha 12
   - zastupitelka hl. města Prahy
 mail:
-- eva.tylova@pirati.cz
+- eva.tylova@ecn.cz
 mob:			 
 ordvyb: 27
 profiles:
