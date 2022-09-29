@@ -9,5 +9,5 @@ Vážení příznivci a podporovatelé Pirátů, Pirátky a Piráti. Díky za va
 
 Dnes jste rozhodli o dalším složení nových zastupitelstev po celém Česku. Možnost volit vám připadla v dost dobře nejzávažnějším období naší republiky. Vaši noví zastupitelé se budou muset poprat s výzvami, které si před pár lety sotva někdo dovedl představit. Pečlivě jejich práci hlídejte, koukejte jim pod prsty a nikdy se nenechte svést nějakými podezřele jednoduchými řešeními. Volbami politika a starost o svoje okolí nekončí. Naopak.
 
-Pokud ale nechcete čekat na to, co s aktuální situací udělají politici, zapojte se sami! Pirátská strana funguje na principu dobrovolnosti a neustále hledáme nové členky a. členy, kteří nám v našem boji za lepší budoucnost pomohou. Všechny informace naleznete na: https://nalodeni.pirati.cz/
+Pokud ale nechcete čekat na to, co s aktuální situací udělají politici, zapojte se sami! Pirátská strana funguje na principu dobrovolnosti a neustále hledáme nové členky a. členy, kteří nám v našem boji za lepší budoucnost pomohou. Všechny informace naleznete na: [https://nalodeni.pirati.cz/](https://nalodeni.pirati.cz/)
  
