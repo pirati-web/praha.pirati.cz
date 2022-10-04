@@ -16,10 +16,10 @@ residences:
 # mapLink: "https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203"
    address: |
      zastupitelský klub Pirátů
-     místnost č. 38, přízemí
+     místnost č. 143, 1. patro
      Mariánské náměstí 2 
      110 00 Praha 1
-addressNote: Pirátské centrum je v budově na rohu Palackého náměstí s velkým displejem, v oknech je grafika Pirátů. Na Magistrátu sídlíme v přízemí. 
+addressNote: Pirátské centrum je v budově na rohu Palackého náměstí s velkým displejem, v oknech je grafika Pirátů. Na Magistrátu sídlíme v 1. patře
    
 contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
 
