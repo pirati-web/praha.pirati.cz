@@ -26,15 +26,15 @@ profiles:
 funkce:
   - zastupitel MČ Praha 8
   - předseda MS Praha 8
-  - předseda zastupitelského klubu
+  - předseda zast. klubu Pirátů v Praze 8
   - vedoucí mediálního týmu Piráti Praha
 ---
 
 Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. Od ledna 2019 do února 2022 byl poradcem primátora hlavního města Prahy Zdeňka Hřiba. [Momentálně pracuje](https://linkedin.com/in/sterbamartin/) jako manažer a stratég on-line komunikace a vede týmy komunikace se zaměřením na on-line marketing. 
 
-**Registrovaným příznivcem Pirátů je od března 2018, členem strany potom od prosince 2018. Od 18. 1. 2021 je předsedou MS Praha 8,** předtím působil od ledna 2019 do ledna 2021 jako první místopředseda. **Od 24. 9. 2022 je zastupitelem městské části Praha 8 za Piráty.**
+**Registrovaným příznivcem Pirátů je od března 2018, členem strany potom od prosince 2018. Od 18. 1. 2021 je předsedou MS Praha 8,** předtím působil od ledna 2019 do ledna 2021 jako první místopředseda. **Od 24. 9. 2022 je zastupitelem městské části Praha 8 za Piráty a předsedou pirátského zastupitelského klubu.**
 
-**V komunálních volbách 2022 [kandiduje jako lídr pirátské kandidátky](https://praha8.pirati.cz/aktuality/piraty-na-praze-povede-do-voleb-martin-sterba.html), a je tedy i kandidátem na starostu městské části Praha 8.** Na magistrát hl. města Prahy kandiduje z 29. místa.
+V komunálních volbách 2022 [kandidoval jako lídr pirátské kandidátky v městské části Praha 8](https://praha8.pirati.cz/aktuality/piraty-na-praze-povede-do-voleb-martin-sterba.html), na 29. místě kandidoval i na magistrát. 
 
 >Vedu diskuze s občany na sociálních sítích i mimo ně. Poslouchám jejich problémy a snažím se je pomáhat řešit. Počátkem července 2020 jsem se dostal do křížku se zastupitelem za ANO Matějem Fichtnerem, který na mě [podal trestní oznámení](https://praha8.pirati.cz/aktuality/blesk-na-pirata-z-prahy8-miri-trestni-oznameni.html) za pomluvu kvůli [pravdivém článku o jeho politické trafice. Inicioval jsem a napsal novou podobu jednací řádu](https://praha8.pirati.cz/aktuality/trafika-pro-fichtnera.html). Jsem rád, že se mi společně s [Ivem Slávkou](https://praha8.pirati.cz/lide/ivo-slavka.html) podařilo sepsat [aktualizaci jednacího řádu zastupitelstva městské části Praha 8](https://praha8.pirati.cz/aktuality/zastupitele-budou-moci-jednat-online.html), aby se jednání zastupitelstva mohli účastnit on-line i zastupitelé, kteří mají nařízenou karanténu. Zastupitelé ho na návrh Iva schválili. Angažoval jsem se v [záchraně oblíbeného koupaliště Stírka](https://praha8.pirati.cz/aktuality/stitky/koupaliste-stirka/), ve spolupráci s primátorem Zdeňkem Hřibem a Magistrátem jsme požádali ÚZSVM o vyjmutí koupaliště z plánované privatizace. Ač mělo být koupaliště řešeno v rámci směn mezi hlavním městem a státem, nakonec došlo k dohodě, že jej Praha koupí. V roce 2021 jsem se také aktivně věnoval coby primátorův poradce [budoucnosti nedostavěné budovy Nová Palmovka](https://praha8.pirati.cz/aktuality/stitky/nova-palmovka/). Snažili jsme se najít takový způsob, aby došlo k vyřešení problému, a oblast Palmovky, která je celopražský významná, se mohla konečně začít rozvíjet. Jsem rád, že zastupitelstvo městské části i zastupitelstvo hlavního města Prahy odsouhlasilo převod pozemku s budovou pod správu hlavního města, trojstrannou dohodu s Metrostavem i dotační smlouvu pro Prahu 8.
 
