@@ -1,5 +1,5 @@
 ---
-title:  "Ze schůzek se zástupci SPOLU nevyplynuly žádné zásadní rozpory v oblasti programu. Trváme na požadavku, aby v radě nebyli trestně stíhaní lidé"
+title:  "Se SPOLU nemáme žádné zásadní programové rozpory. Trváme na tom, aby v radě nebyli trestně stíhaní lidé"
 author: Piráti Praha
 image:  posts/volby2022-vyjednavani-hrib-komrskova-u-ods.jpg
 tags:   [Piráti, SPOLU, Volby 2022]
@@ -17,5 +17,3 @@ Koalice SPOLU dala také jasně najevo, že si v současné době nepřeje do vy
 Tyto zásadní požadavky koalice SPOLU bude pirátský vyjednávací tým tlumočit zastupitelskému klubu, který dané záležitosti projedná během víkendu. Náš zájem na pokračování jednání nadále trvá a jsme domluveni, že se znovu spojíme v pondělí, abychom naplánovali další postup.
 
 Kromě schůzky se SPOLU jsme absolvovali také schůzku s kolegy z Prahy Sobě a STANu, která byla ryze rekapitulační. Dosud neproběhlo jednání s hnutím ANO, protože k němu v tuto chvíli nevidíme žádný důvod. O jednání s SPD vůbec neuvažujeme, bylo by to v rozporu s naší povolební strategií.
-
-
