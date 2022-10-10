@@ -1,7 +1,7 @@
 ---
 title:  "Se SPOLU nemáme žádné zásadní programové rozpory. Trváme na tom, aby v radě nebyli trestně stíhaní lidé"
 author: Piráti Praha
-image:  posts/volby2022-vyjednavani-hrib-komrskova-cro.jpg
+image:  posts/vyjednavani.jpg
 tags:   [Piráti, SPOLU, Volby 2022]
 ---
 
