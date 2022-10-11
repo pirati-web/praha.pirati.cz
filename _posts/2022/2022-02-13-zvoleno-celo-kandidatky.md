@@ -6,7 +6,7 @@ image: 	      posts/13kandidatu.jpg
 author: MHMP
 ---
  
-Praha, 14. února 2022 – Piráti od soboty znají 13 čelních míst kandidátky pro pražské komunální volby, které se odehrají letos na podzim. Dvojkou kandidátky bude první místostarostka Prahy 10 Jana Komrsková. Kromě primátora obhájil volitelné místo na třetí pozici radní pro bydlení a transparentnost Adam Zábranský a předseda zastupitelského klubu Pirátů a předseda majetkového výboru ZHMP Viktor Mahrik. Zbývající místa obsadili kandidátky a kandidáti z městských částí, mezi nimi zastupitelka Magdalena Valdmanová (Praha 2), předseda krajského sdružení a bývalý starosta Daniel Mazur (Praha 5) nebo radní Eva Tylová a Jiří Brůžek (Praha 12).
+**Piráti od soboty znají 13 čelních míst kandidátky pro pražské komunální volby, které se odehrají letos na podzim. Dvojkou kandidátky bude první místostarostka Prahy 10 Jana Komrsková. Kromě primátora obhájil volitelné místo na třetí pozici radní pro bydlení a transparentnost Adam Zábranský a předseda zastupitelského klubu Pirátů a předseda majetkového výboru ZHMP Viktor Mahrik. Zbývající místa obsadili kandidátky a kandidáti z městských částí, mezi nimi zastupitelka Magdalena Valdmanová (Praha 2), předseda krajského sdružení a bývalý starosta Daniel Mazur (Praha 5) nebo radní Eva Tylová a Jiří Brůžek (Praha 12).**
 
 > „Podařilo se nám navolit skvělý tým, ve kterém máme osobnosti s širokým rozsahem zájmů a odborných zkušeností z magistrátu, městských částí i mimo politiku. Velmi mě potěšilo také rovné zastoupení žen a mužů na kandidátce vzniklé demokratickým hlasováním všech pražských Pirátů bez jakýchkoliv kvót nařízených shora. Společně teď budeme pracovat na vizích pro Prahu budoucnosti a získání co nejlepšího volebního výsledku,“ vyzdvihl navolené čelo kandidátky primátor Zdeněk Hřib.
 
@@ -20,7 +20,7 @@ Místa na kandidátce na od 14. do 65. pozice budou dovolena stejným systémem 
 
 Z viditelných osobností Pirátů neobhajoval svůj mandát radní pro školství a sport Vít Šimral. Přestože získal potřebnou stranickou podporu, před prvním kolem volby oznámil své odstoupení z osobních důvodů. Plánuje se naplno věnovat plnění své nové otcovské role. 
 
-Prvních 13. kandidátů pirátské strany do komunálních voleb do MHMP
+### Prvních 13. kandidátů pirátské strany do komunálních voleb do MHMP
 
 1. Zdeněk Hřib
 2. Jana Komrsková
