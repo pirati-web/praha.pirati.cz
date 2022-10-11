@@ -1,7 +1,11 @@
 ---
-layout: program-post
-title: "2022 Municipal Elections "
-customizeHeader: true
+title: 2022 Municipal Elections
+campaignCategoryUid: 2022-program-english
+campaignGroupUid: volby-2022
+uid: 2022-program-english
+order: 1
+garant: zdenek.hrib
+intro: >
 ---
 
 ### We have the courage to run Prague the right way!
