@@ -45,16 +45,12 @@ main:
         link: /volby/2018-komunalni.html
       - name: Komunální volby 2014   
         link: /volby/2014-komunalni.html
-  - name: Co se nám v Praze povedlo
+  - name: Mapa úspěchů
     link: /mapa/za-prosperitu-prahy.html
-  - name: ENGLISH
-    link: /volby/2022-komunalni-program-english.html
-  - name: ... Další
-    submenu:
-      - name: Pirátské centrum
-        link: /pice/
-      - name: Kontakt
-        link: /kontakt/
+  - name: Pirátské centrum
+    link: /pice/
+  - name: Kontakt
+    link: /kontakt/
     
 bottom:
   - class: small-12 medium-4

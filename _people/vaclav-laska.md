@@ -17,11 +17,11 @@ funkce:
   - předseda senátorského klubu SEN 21 a Piráti
 mob: +420 776 709 157
 mail:
-- vaclav.laska@vaclavlaska.cz
+- laskav@senat.cz
 profiles:
   github:                 
-  facebook: 		https://www.facebook.com/vaclav.laska
-  twitter: 		  https://twitter.com/VaclavLaska
+  facebook: 	https://www.facebook.com/vaclav.laska
+  twitter: 	https://twitter.com/VaclavLaska
   instagram:    https://www.instagram.com/vaclavlaska
   web:          https://vaclavlaska.cz
 ordsenat: 2
