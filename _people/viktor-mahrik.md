@@ -15,12 +15,6 @@ teamDescription:
 funkce: 
   - zastupitel hl. města Prahy
   - 1. místopředseda zastupitelského klubu v ZHMP
-asistenti:
-  - name: Josef Kubát
-    uid: josef.kubat
-    position: sekretář <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Viktora Mahrika-->
-    mail: josef.kubat@pirati.cz
-    tel: +420 606 242 152
 mail:
 - viktor.mahrik@pirati.cz
 mob: +420 602 767 298
