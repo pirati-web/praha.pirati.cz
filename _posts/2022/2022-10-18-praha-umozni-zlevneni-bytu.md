@@ -2,10 +2,10 @@
 title:  "Praha umožní zlevnění bytů. Novela stavebních předpisů se věnuje požadavkům na parkování v novostavbách i v rekonstrukcích"
 author: MHMP
 image:  posts/domy-slunce.jpg
-tags:   [Bydlení]
+tags:   [Bydlení, Pražské stavební předpisy, IPR]
 ---
 
-Rada hlavního města Prahy projednala návrh novely Pražských stavebních předpisů, který upravuje systém parkovacích stání v nových rezidenčních i administrativních budovách či rekonstrukcích vyžadujících stavební povolení. Nově by tak v širším centru města nemuselo být zachováno dříve stanovené minimum parkovacích míst a jejich počet by tak závisel více na investorovi. Tím se otevírá cesta ke snížení cen nových i rekonstruovaných bytů. Novela upravuje regulaci parkovacích stání ve stavbách na celé ploše hlavního města. Návrh bude nyní zaslán do připomínkového řízení, jehož délka byla radou doporučena na 45 dní. O tom, zda bude novela platit, rozhodne až nová rada města.
+**Rada hlavního města Prahy projednala návrh novely Pražských stavebních předpisů, který upravuje systém parkovacích stání v nových rezidenčních i administrativních budovách či rekonstrukcích vyžadujících stavební povolení. Nově by tak v širším centru města nemuselo být zachováno dříve stanovené minimum parkovacích míst a jejich počet by tak závisel více na investorovi. Tím se otevírá cesta ke snížení cen nových i rekonstruovaných bytů. Novela upravuje regulaci parkovacích stání ve stavbách na celé ploše hlavního města. Návrh bude nyní zaslán do připomínkového řízení, jehož délka byla radou doporučena na 45 dní. O tom, zda bude novela platit, rozhodne až nová rada města.**
 
 Výpočet počtu parkovacích míst v nových budovách a při zásadních rekonstrukcích byl proveden při vzniku Pražských stavebních předpisů (PSP) v roce 2014–2015 a od té doby neprošel žádnou zásadní revizí. Nyní, po více než sedmi letech, je nezbytné některé parametry upravit, a to na základě zpětné vazby od odborníků, investorů a v souvislosti s vývojem trendů ve společnosti.
 
