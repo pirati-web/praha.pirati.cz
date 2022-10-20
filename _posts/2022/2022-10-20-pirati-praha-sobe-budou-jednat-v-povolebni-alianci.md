@@ -19,6 +19,8 @@ Praha sobě a Piráti s pokorou vnímají velkou důvěru, kterou v ně voliči 
 
 >“Aktuální situace ve společnosti nyní nahrává populistům, kteří více či méně skrytým způsobem usilují o demontáž našeho demokratického systému a jsou připraveni využít jakékoliv chyby demokratických politických stran. Praha sobě a Piráti vnímají svoji odpovědnost k městu a společnosti jako celku,” říká Hana Třeštíková, radní pro kulturu a cestovní ruch hl. m. Prahy.
 
-V rámci jednotlivých setkání vyjednávacích týmů zatím nebyly nalezeny žádné nepřekonatelné programové rozpory. Není tedy objektivní důvod ve zdržování dalších jednání oddělenými individuálními schůzkami pouze dvou subjektů. “Voliči právem očekávají od svých zastupitelů aktivní a konstruktivní jednání včetně realistické dohody o půdorysu budoucí pražské koalice do doby konání ustavujícího zasedání Zastupitelstva hlavního města Prahy,” uvádí Jana Komrsková, členka vyjednávacího týmu Pirátů a místostarostka Prahy 10.
+V rámci jednotlivých setkání vyjednávacích týmů zatím nebyly nalezeny žádné nepřekonatelné programové rozpory. Není tedy objektivní důvod ve zdržování dalších jednání oddělenými individuálními schůzkami pouze dvou subjektů.
+
+>“Voliči právem očekávají od svých zastupitelů aktivní a konstruktivní jednání včetně realistické dohody o půdorysu budoucí pražské koalice do doby konání ustavujícího zasedání Zastupitelstva hlavního města Prahy,” uvádí Jana Komrsková, členka vyjednávacího týmu Pirátů a místostarostka Prahy 10.
 
 [Memorandum o dalším postupu ke stažení.](https://drive.google.com/file/d/1UX5EEym9flS6sxaPMawqNE233Sg54brS/view?usp=sharing)
