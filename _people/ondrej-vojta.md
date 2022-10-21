@@ -11,7 +11,9 @@ description:
 partyUid: pirati
 mail:
 - ondrej.vojta@pirati.cz
-mob: +420 736 726 061			 
+mob: +420 736 726 061	
+funkce:
+  - zastupitel MČ Praha-Petrovice		 
 profiles:
   github:       
   facebook:  https://www.facebook.com/OndrejVojta.Pirati/

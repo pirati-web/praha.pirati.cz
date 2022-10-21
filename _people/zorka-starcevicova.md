@@ -6,13 +6,11 @@ titles:
 img: people/zorka-starcevicova.jpg
 heroImg: Prague_panorama.jpeg
 category:
-  - starostove
 partyUid: podpora
-description: starostka MČ Praha–Klánovice
+description: zastupitelka MČ Praha–Klánovice
 teamDescription:
-  starostove: starostka MČ Praha–Klánovice
 funkce: 
-  - starostka MČ Praha–Klánovice
+  - zastupitelka MČ Praha–Klánovice
 mail:
   - starosta@praha-klanovice.cz
 mob: +420 603 543 329
@@ -22,7 +20,7 @@ profiles:
 ordstar: 3
 ---
 
-Zorka Starčevičová je od roku 2018 starostkou městské části Praha–Klánovice, kdy kandidovala za uskupení "Čas na změnu – SNK, LES a Pirátů". 
+Zorka Starčevičová byla v letech 2018 až 2022 starostkou městské části Praha–Klánovice, kdy kandidovala za uskupení "Čas na změnu – SNK, LES a Pirátů". 
 
 V Klánovicích se po volbách v roce 2018 spojila proti ODS všechna ostatní uskupení. Koalici utvoří Čas na změnu (SNK, LES a Piráti), Hlas Klánovic (KDU-ČSL, ČSSD a NK) a STAN.
 

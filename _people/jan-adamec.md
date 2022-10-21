@@ -6,13 +6,11 @@ titles:
 img: people/jan-adamec.jpg 
 heroImg: Prague_panorama.jpeg
 category:
-  - starostove
 partyUid: pirati
-description: starosta MČ Praha 12
+description: zastupitel MČ Praha 12
 teamDescription:
-  starostove: starosta MČ Praha 12
 funkce: 
-  - starosta MČ Praha 12
+  - zastupitel MČ Praha 12
 mail:
 - jan.adamec@pirati.cz
 profiles:
@@ -26,4 +24,4 @@ ordstar: 2
 
 Ve veřejném životě se začal angažovat tvorbou užitečných aplikací postavených nad daty publikovanými státní správou, ať už s harmonogramy přistavování velkoobjemových kontejnerů v Praze, simulátorem volebních systémů a v poslední době aplikací zaměřenou vyloženě na Prahu 12, Dvanáctka, kam i přispívá články o dění na Praze 12, které nepokrývá oficiální zpravodaj radnice.
 
-**Po volbách v roce 2018 se stal starostou Prahy 12 a v radě má ještě kompetence IT a bezpečnost.**
+**Po volbách v roce 2018 se stal starostou Prahy 12, mezi jeho kompetence patřilo IT a bezpečnost.** Po čtyřech letech, v roce 2022, zamířil s Piráty do opozice. 

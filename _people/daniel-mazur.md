@@ -17,7 +17,7 @@ teamDescription:
   mhmp: předseda zastupitelského klubu
 funkce:
   - předseda KS Praha
-  - předseda zastupitelského klubu v ZHMP
+  - předseda zastup. klubu v ZHMP
   - zastupitel hl. města Prahy
   - garant programového bodu Vzdělávání a věda
 mail:

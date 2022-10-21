@@ -1,22 +1,30 @@
 ---
 uid: blanka.charvatova
-name:     Blanka Charvátová  	# běžně používáné jméno
+name: Blanka Charvátová 
 titles:
-  before: 
+  before: Bc.
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- mc
-img: 		people/blanka-charvatova.jpg    # 165 x 220
+category:          
+img: people/blanka-charvatova.jpg
 heroImg: Prague_panorama.jpeg
-description: Předsedkyně místního sdružení na Praze 21       			# kratký popis, max 160 znaků
+description: místopředsedkyně České pirátské strany
 mail:
 - blanka.charvatova@pirati.cz
+funkce:
+  - místopředsedkyně České pirátské strany
+  - zastupitelka MČ Praha 21
 profiles:
   github:                 
-  facebook: 		  
-  twitter: 		  
+  facebook: https://www.facebook.com/piratkaBlanka	  
+  twitter:  https://twitter.com/BlankaCharvtov1		  
   flickr:     		  
 ---
 
-**Blanka Charvátová** je předsedkyní místního sdružení Pirátů na Praze 21 a neuvolněná zastupitelka za Piráty v uvedené městské části. Je členkou komunitního spolku ÚJEZD.KOM, který si klade za cíl vybudování komunitního sousedského života u nás v Újezdě nad Lesy. Je rozvedená a má dvě děti.
+**Blanka Charvátová je místopředsedkyní strany a zastupitelkou městské části Praha 21 – Újezd nad Lesy. 
+
+V letech 1997 až 2006 vystudovala Gymnázium Chodovická v Praze - Horních Počernicích. Dále vystudovala bakalářský obor soudní a notářská administrativní činnost na Vysoké škole Karlovy Vary (získala titul Bc.). Pracovní kariéru začínala jako account administration officer v The Royal Bank of Scotland. Následně byla v letech 2011 až 2020 zaměstnána na generálním ředitelství Českých drah, a to v kanceláři generálního ředitele či na odboru regionální dopravy jako systémový specialista. V roce 2020 začala pracovat na generálním ředitelství Správy železnic na odboru personálním jako metodička a analytička.
+
+Jako členka republikového předsednictva by se ráda zasadila o zlepšení komunikace Pirátů dovnitř i navenek. Chce, aby Piráti začali být pro voliče čitelnou stranou a aby se naučili s voliči mluvit jasně a srozumitelně.
+
+
+Blanka Charvátová má dvě děti.

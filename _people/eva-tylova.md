@@ -9,12 +9,11 @@ category:               	# kategorie: rp, praha, vary, hradec, jmk,
 img: people/eva-tylova-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: bezpp
-profession: místostarostka Prahy 12, ekoložka
+profession: zastupitelka Prahy 12, ekoložka
 teamDescription:
-  vybor: členka Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP
   mhmp: zastupitelka hl. města Prahy
 funkce: 
-  - místostarostka MČ Praha 12
+  - zastupitelka MČ Praha 12
   - zastupitelka hl. města Prahy
 mail:
 - eva.tylova@ecn.cz
@@ -29,8 +28,12 @@ profiles:
 ordmhmp: 8
 ---
 
-**Eva Tylová** (* 12. prosince 1959) je zastupitelka hlavního města Prahy za Piráty a dále místostarostka městské části Praha 12 pro územní rozvoj a životní prostředí.
+**Eva Tylová** (* 12. prosince 1959) je zastupitelka hlavního města Prahy za Piráty a zastupitelka  městské části Praha 12.
 
 Vystudovala Fakultu jadernou a fyzikálně inženýrskou ČVÚT. Záhy se začala věnovat ochraně životního prostředí. Působila na Ministerstvu životního prostředí od pozice referentky a mezi lety 1998 až 2002 byla náměstkyní ministra životního prostředí. Právě jako náměstkyně ministra se angažovala proti těžbě zlata v Mokrsku, kontroverzní dálnicí D3 přes Posázaví, požadovala VŘ na sanaci dioxinových baráků ve Spolaně.
 
-V letech 2002–2003 a 2008–2010 byla ředitelkou České inspekce životního prostředí. Mezi roky 2006–2010 byla členkou Zastupitelstva hlavního města Prahy, zvolenou za Stranu zelených. V roce 2010 až 2014 působila na Praze 12 jako místostarostka pro ochranu životního prostředí a územní rozvoj. Prosazovala otevřenou a transparentní radnici (např. občané se mohou stát členy komisí rady), zveřejnění nejen smluv, ale i objednávek úřadu atd. Zavedla řadu komunitních a ekologicky zaměřených akcí. Vystupovala proti předimenzovaným developerským projektům. V roce 2022 byla zvolena na kandidátní listině Pirátů do celopražského zastupitelstva.
+V letech 2002–2003 a 2008–2010 byla ředitelkou České inspekce životního prostředí. Mezi roky 2006–2010 byla členkou Zastupitelstva hlavního města Prahy, zvolenou za Stranu zelených. 
+
+V roce 2010 až 2014 působila na Praze 12 jako místostarostka pro ochranu životního prostředí a územní rozvoj. Prosazovala otevřenou a transparentní radnici (např. občané se mohou stát členy komisí rady), zveřejnění nejen smluv, ale i objednávek úřadu atd. Zavedla řadu komunitních a ekologicky zaměřených akcí. Vystupovala proti předimenzovaným developerským projektům. Místostarostkou MČ Praha 12 byla také mezi lety 2018 a 2022.
+
+V roce 2022 byla zvolena na kandidátní listině Pirátů do celopražského zastupitelstva.
