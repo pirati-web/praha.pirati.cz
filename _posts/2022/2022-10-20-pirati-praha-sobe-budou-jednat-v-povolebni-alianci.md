@@ -1,7 +1,7 @@
 ---
 title:  "Piráti a Praha sobě budou v povolebních vyjednáváních postupovat dohromady jako Aliance pro stabilitu"
 author: Piráti Praha
-image:  posts/vyjednavani.jpg
+image:  posts/ctyri.jpg
 tags:   [Volby 2022, Praha sobě]
 ---
 
