@@ -2,7 +2,7 @@
 title:  "Piráti a Praha sobě budou v povolebních vyjednáváních postupovat dohromady jako Aliance pro stabilitu"
 author: Piráti Praha
 image:  posts/ctyri.jpg
-tags:   [Volby 2022, Praha sobě]
+tags:   [Volby 2022, Piráti, Praha sobě]
 ---
 
 **Čelné kandidátky a kandidáti z hnutí České pirátské strany a Prahy sobě zvolení do Zastupitelstva hlavního města Prahy se dnes společně shodli na tom, že aktuální povolební vyjednávání by bylo možné vést rychleji a efektivněji. Shoda panuje také na následujícím postupu v rámci vyjednávání budoucí pražské koalice, proto dnes zástupci Pirátů a hnutí Praha sobě uzavřeli společné Memorandum o dalším postupu. Od jeho dnešního podpisu už budou postupovat v jednáních výhradně dohromady jako Aliance pro stabilitu. Nadále platí, že oba subjekty respektují požadavek koalice SPOLU obsadit funkci primátora hlavního města.**
