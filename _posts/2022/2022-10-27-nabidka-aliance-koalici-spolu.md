@@ -1,7 +1,7 @@
 ---
 title:  "Nabídka Aliance stability koalici SPOLU k vytvoření široké koalice demokratických subjektů v Praze"
 author: Piráti Praha a Praha SOBĚ
-image:  posts/zhmp-shora.jpg
+image:  posts/nabizime.jpg
 tags:   [Vyjednávání]
 ---
 
