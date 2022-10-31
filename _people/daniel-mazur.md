@@ -5,18 +5,15 @@ titles:
   before: RNDr. 
   after:  Ph.D.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- pks
 - mhmp
 img: people/daniel-mazur-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profession: projektový manažer v oblasti vědy, výzkumu, vzdělávání a inovací
-description: předseda KS Praha
+description: předseda zastup. klubu v ZHMP
 partyUid: pirati
 teamDescription:
-  pks: předseda KS Praha
   mhmp: předseda zastupitelského klubu
 funkce:
-  - předseda KS Praha
   - předseda zastup. klubu v ZHMP
   - zastupitel hl. města Prahy
   - garant programového bodu Vzdělávání a věda
@@ -29,7 +26,6 @@ profiles:
   twitter:    https://twitter.com/DanielMazurP5
   flickr:
 ordmhmp: 1
-ordpks: 1
 calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
 ---
 

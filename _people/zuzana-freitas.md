@@ -5,18 +5,16 @@ titles:
   before: Mgr.
   after:
 category: 
-  - pks
   - vlada
   - mhmp
 img: people/zuzana-freitas-2022-3.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-teamDescription:
-  pks: místopředsedkyně KS Praha
+description: náměstkyně ministra práce a sociálních věcí ČR
+teamDescription: 
   vlada: náměstkyně ministra práce a sociálních věcí ČR
   mhmp: 2. místopředsedkyně zast. klubu
 funkce:
-  - místopředsedkyně KS Praha
   - náměstkyně ministra práce a sociálních věcí ČR
   - zastupitelka MČ Praha 10
   - zastupitelka hl. města Prahy
@@ -25,7 +23,6 @@ mail:
 - zuzana.freitas@pirati.cz
 mob: "+420 776 278 860"
 ordmhmp: 3
-ordpks: 4
 ordvlada: 3
 profiles:
   github:       

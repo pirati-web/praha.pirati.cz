@@ -14,17 +14,17 @@ description: náměstek ministra kultury ČR
 profession: projektový manažer v kultuře a vzdělávání
 partyUid: pirati
 teamDescription:
-  pks: 1. místopředseda KS Praha
+  pks: předseda KS Praha
   vlada: náměstek ministra kultury ČR
   stab22: 1. místopředseda KS Praha
 funkce:
-  - 1. místopředseda KS Praha
+  - předseda KS Praha
   - náměstek ministra kultury ČR
   - zastupitel MČ Praha 6
 mail:
   - ondrej.chrast@pirati.cz
 mob: +420 606 914 916
-ordpks: 2
+ordpks: 1
 ordvlada: 2
 ordstab22: 2
 profiles:         

@@ -5,17 +5,12 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- pks
-ordpks: 3
 img: people/jan-hora-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: místopředseda KS Praha
+description: zastupitel MČ Praha 4
 teamDescription:
-  pks: místopředseda KS Praha
 funkce:
-  - místopředseda KS Praha
   - zastupitel MČ Praha 4
 mail:
 - jan.hora@pirati.cz
