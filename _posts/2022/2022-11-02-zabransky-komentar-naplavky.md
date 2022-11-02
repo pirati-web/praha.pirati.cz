@@ -1,7 +1,7 @@
 ---
 title:  "Naplňování Koncepce pražských břehů zvýší příjmy Prahy z provozování přístavišť a přístavů na Vltavě s ohledem na cenné historické centrum"
 author: Piráti Praha
-image:  posts/adam-zabransky-6.jpg
+image:  posts/zabransky-okno.jpg
 tags:   [Transparentnost, Informatika]
 ---
 
