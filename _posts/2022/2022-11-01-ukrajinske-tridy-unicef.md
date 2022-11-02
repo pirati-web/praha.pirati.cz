@@ -2,7 +2,7 @@
 title:  "UNICEF dá Praze přes 22 milionů pro tzv. nulté ročníky na středních školách. Budou pro ukrajinské děti"
 author: MHMP
 image:  posts/vitsimral6.jpg
-tags:   [Školství]
+tags:   [Školství, Válka na Ukrajině]
 ---
 
 Hlavní město nadále aktivně reaguje na vysokou míru migrační vlny, která je způsobena přetrvávající válkou na Ukrajině, a řeší otázku dostatečných kapacit ve školách, aby i ukrajinské děti měly možnost pokračovat zde ve svém vzdělávání. V souvislosti s tím proto Praha ve spolupráci s organizací UNICEF vytvořila dotační program na podporu nultých ročníků na středních školách určený především na podporu ukrajinské mládeže ve věku od 15 do 19 let. UNICEF pro tyto účely poskytne 22,5 milionu korun. 
