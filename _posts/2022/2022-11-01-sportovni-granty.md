@@ -2,7 +2,7 @@
 title:  "Příští rok půjde na sportovní granty o 35 milionů víc. Kvůli rostoucím cenám energií"
 author: MHMP
 image:  posts/vitsimral5.jpg
-tags:   [Školství]
+tags:   [Školství, Sport, Energetická krize]
 ---
 
 Pražští radní v pondělí 31. října schválili návrh na vyhlášení Programu podpory sportu a tělovýchovy v hl. m. Praze pro rok 2023. I nadále je jeho hlavním cílem zlepšování podmínek pro rozvoj pražského sportu. Předpokládaná výše finančních prostředků je stanovena na 388 milionů korun. S ohledem na rostoucí ceny energií je oproti loňsku navýšen objem finančních prostředků alokovaných na provoz sportovišť o 35 milionů korun.
