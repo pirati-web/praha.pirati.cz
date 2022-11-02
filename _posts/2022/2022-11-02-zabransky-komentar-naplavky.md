@@ -2,10 +2,11 @@
 title:  "Naplňování Koncepce pražských břehů znamená více peněz pro Prahu a její centrum"
 author: Piráti Praha
 image:  posts/zabransky-okno.jpg
-tags:   [Transparentnost, Informatika]
+tags:   [Transparentnost, Městské firmy, IT, Praha 1]
 ---
 
-Na Reflexu v uplynulých dvou měsících vyšly dva komentáře, které popisují snahy pirátského radního Adama Zábranského o naplnění Koncepce pražských břehů:
+**Na webu Reflex.cz v uplynulých dvou měsících vyšly dva komentáře, které popisují snahy pirátského radního Adama Zábranského o naplnění Koncepce pražských břehů.** Tohle je komentář 
+
 * [https://www.reflex.cz/clanek/komentare/115257/ovlada-prazske-piraty-lobbista-a-podnikatel-stepan-rusnak.html](https://www.reflex.cz/clanek/komentare/115257/ovlada-prazske-piraty-lobbista-a-podnikatel-stepan-rusnak.html)
 * [https://www.reflex.cz/clanek/komentare/115883/praha-zrusila-pronajem-brehu-vltavy-male-ceske-firme-mesic-po-volbach-a-bez-mandatu-od-volicu.html](https://www.reflex.cz/clanek/komentare/115883/praha-zrusila-pronajem-brehu-vltavy-male-ceske-firme-mesic-po-volbach-a-bez-mandatu-od-volicu.html)
 

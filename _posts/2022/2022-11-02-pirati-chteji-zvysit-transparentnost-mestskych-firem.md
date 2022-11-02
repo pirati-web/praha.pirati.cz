@@ -2,7 +2,7 @@
 title:  "Piráti chtějí zvýšit transparentnost městských společností, SPOLU návrhy nepodpořilo"
 author: Piráti Praha
 image:  posts/adam-zabransky-8.jpg
-tags:   [Transparentnost, SPOLU, Městské firmy]
+tags:   [Transparentnost, IT, SPOLU, Městské firmy]
 ---
 
 **Piráti na pondělním jednání Rady předložili dva návrhy ke zvýšení transparentnosti městských společností. Jeden spočíval ve zprůhlednění odměňování představenstev, druhý ve zveřejňování klíčových dat o zadaných zakázkách a přijatých fakturách. Ani jeden z návrhů nepodpořili radní, kteří letos kandidovali za SPOLU (například Hana Marvanová), a tak materiály nebyly schváleny.**
