@@ -2,10 +2,10 @@
 title:  "Nová strategie pomoci uprchlíkům z Ukrajiny. Město také připravuje Centrum následné podpory"
 author: MHMP
 image:  posts/uaflag.jpg
-tags:   [Ukrajina]
+tags:   [Válka na Ukrajině]
 ---
 
-Pražští radní schválili Strategický rámec podpory ukrajinských uprchlíků na území hlavního města Prahy a vytvoření nového Centra následné podpory uprchlíkům z Ukrajiny (CNPUU). To zajistí lidem prchajícím před válkou řešení individuálních potřeb v oblastech, jako jsou například bydlení, zdraví, vzdělávání nebo ochrana dětí. Centrum začne fungovat již letos v prostorách Krajského asistenčního centra pomoci Ukrajině (KACPU) ve Vysočanech. Na jeho provozu se bude do velké míry podílet organizace UNICEF.  
+**Pražští radní schválili Strategický rámec podpory ukrajinských uprchlíků na území hlavního města Prahy a vytvoření nového Centra následné podpory uprchlíkům z Ukrajiny (CNPUU). To zajistí lidem prchajícím před válkou řešení individuálních potřeb v oblastech, jako jsou například bydlení, zdraví, vzdělávání nebo ochrana dětí. Centrum začne fungovat již letos v prostorách Krajského asistenčního centra pomoci Ukrajině (KACPU) ve Vysočanech. Na jeho provozu se bude do velké míry podílet organizace UNICEF.**
 
 Praha se rozhodla rozšířit své kapacity pro integraci cizinců a vytvořit pro uprchlíky z Ukrajiny, z nichž většina jsou ženy a děti, nové Centrum následné podpory uprchlíkům z Ukrajiny, které bude řešit individuální potřeby uprchlíků v různých oblastech života. Přímá podpora bude spočívat v pomoci při zajištění bydlení, sociální ochrany a příjmů, zdraví či vzdělávání. Hlavní náplní pracovníků centra bude zabezpečení poradenství nebo asistencí při zajištění nejpotřebnější pomoci v řešení životních situací, v nichž se uprchlíci nacházejí. 
 
