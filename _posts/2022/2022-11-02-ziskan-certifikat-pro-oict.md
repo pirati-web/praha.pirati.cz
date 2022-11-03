@@ -2,10 +2,10 @@
 title:  "Operátor OICT je transparentní městskou společností, získal unikátní certifikát"
 author: MHMP
 image:  posts/0hrib.jpg
-tags:   [Transparentnost, Informatika]
+tags:   [Transparentnost, Operátor ICT, IT]
 ---
 
-Může být městská společnost transparentní? Pražská společnost Operátor ICT (OICT), jejímž jediným akcionářem je hlavní město Praha, jde příkladem. V průběhu čtyřletého období tato městská firma zavedla mnoho nástrojů otevřeného hospodaření a prevence korupce a stala se tak nejtransparentnější městskou společností. Toto bylo završené získáním certifikace ISO 37001 (Anti-bribery management systems – ABMS).
+**Může být městská společnost transparentní? Pražská společnost Operátor ICT (OICT), jejímž jediným akcionářem je hlavní město Praha, jde příkladem. V průběhu čtyřletého období tato městská firma zavedla mnoho nástrojů otevřeného hospodaření a prevence korupce a stala se tak nejtransparentnější městskou společností. Toto bylo završené získáním certifikace ISO 37001 (Anti-bribery management systems – ABMS).**
 
 > „Z Operátora ICT se za čtyři roky stala výkladní skříň průhledného hospodaření. Tato městská firma přijala za své mnohé zásady, které vedou k hospodárnému nakládání s veřejnými prostředky v souladu s veřejným zájmem. Přál bych si, aby se podobná pravidla podařilo v budoucnu prosadit i v dalších městských společnostech. Nevidím důvod, proč by tomu tak nemělo být, když v Operátoru ICT fungují bez problému,“ říká Zdeněk Hřib, primátor hlavního města Prahy. 
 
