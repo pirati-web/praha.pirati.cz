@@ -27,13 +27,14 @@ funkce:
   - zastupitel MČ Praha 8
   - předseda MS Praha 8
   - předseda zast. klubu Pirátů v Praze 8
+  - předseda kontrolního výboru ZMČP8
   - vedoucí mediálního týmu Piráti Praha
 ordstab22: 6
 ---
 
 Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. Od ledna 2019 do února 2022 byl poradcem primátora hlavního města Prahy Zdeňka Hřiba. [Momentálně pracuje](https://linkedin.com/in/sterbamartin/) jako manažer a stratég on-line komunikace a vede týmy komunikace se zaměřením na on-line marketing. 
 
-**Registrovaným příznivcem Pirátů je od března 2018, členem strany potom od prosince 2018. Od 18. 1. 2021 je předsedou MS Praha 8,** předtím působil od ledna 2019 do ledna 2021 jako první místopředseda. **Od 24. 9. 2022 je zastupitelem městské části Praha 8 za Piráty a předsedou pirátského zastupitelského klubu.**
+**Registrovaným příznivcem Pirátů je od března 2018, členem strany potom od prosince 2018. Od 18. 1. 2021 je předsedou MS Praha 8,** předtím působil od ledna 2019 do ledna 2021 jako první místopředseda. **Od 24. 9. 2022 je zastupitelem městské části Praha 8 za Piráty a předsedou pirátského zastupitelského klubu.** Zastupitelstvo MČ Praha 8 ho na svém ustanovujícím jednání 2. listopadu 2022 zvolilo předsedou kontrolního výboru.
 
 V komunálních volbách 2022 [kandidoval jako lídr pirátské kandidátky v městské části Praha 8](https://praha8.pirati.cz/aktuality/piraty-na-praze-povede-do-voleb-martin-sterba.html), na 29. místě kandidoval i na magistrát. 
 
