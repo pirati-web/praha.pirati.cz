@@ -24,6 +24,7 @@ profiles:
 funkce:
   - zastupitel MČ Praha 12
   - zastupitel hl. města Prahy
+  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36671">finančního výboru ZHMP</a>
 ordmhmp: 10
 ---
 

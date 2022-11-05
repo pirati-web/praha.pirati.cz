@@ -10,14 +10,15 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jana-komrskova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: 1. místostarostka MČ Praha 10
+description: zastupitelka hl. města Prahy
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
   stab22: dvojka kandidátky
-funkce: 
-  - 1. místostarostka MČ Praha 10
+funkce:
   - zastupitelka MČ Praha 10
   - zastupitelka hl. města Prahy 
+  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36673">kontrolního výboru ZHMP</a>
+  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36675">Výboru pro výchovu a vzdělávání ZHMP ZHMP</a>
 mail:
 - jana.komrskova@pirati.cz
 profiles:

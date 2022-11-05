@@ -4,18 +4,19 @@ name:     Daniel Mazur  	# běžně používáné jméno
 titles:
   before: RNDr. 
   after:  Ph.D.
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category:                 	
 - mhmp
 img: people/daniel-mazur-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profession: projektový manažer v oblasti vědy, výzkumu, vzdělávání a inovací
-description: předseda zastup. klubu v ZHMP
+description: předseda Výboru pro výchovu a vzdělávání ZHMP
 partyUid: pirati
 teamDescription:
   mhmp: předseda zastupitelského klubu
 funkce:
   - předseda zastup. klubu v ZHMP
   - zastupitel hl. města Prahy
+  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36675">Výboru pro výchovu a vzdělávání ZHMP ZHMP</a>
   - garant programového bodu Vzdělávání a věda
 mail:
 - daniel.mazur@pirati.cz
