@@ -4,11 +4,10 @@ name:     Tibor Vansa  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha4
-img: 		people/tibor-vansa.jpg    # 165 x 220
+category: 
+img: people/tibor-vansa.jpg
 heroImg: Prague_panorama.jpeg
-description: místostarosta MČ Praha 4 za Piráty            	# kratký popis, max 160 znaků
+description: zastupitel MČ Praha 4
 mail:
 - tibor.vansa@pirati.cz
 mob:			  
@@ -17,7 +16,8 @@ profiles:
   facebook: 		  https://www.facebook.com/tibor.vansa
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=tibor%20vansa
-ordpraha: 9
+funkce:
+ - zastupitel MČ Praha 4
 ---
 
 **Tibor Vansa** (* 4. listopadu 1983) je 1. místopředseda Pirátů na Praze 4 a garant programového bodu finance v celostátní politice Pirátů. Vystudoval Matematicko-fyzikální fakultu UK, obor ekonometrie. Pracoval 7 let v bance jako analytik kreditního rizika, kde také připravoval retailový rozpočet banky. Působil jako ambasador Rekonstrukce státu, byl také členem hnutí Brontosaurus a vstoupil také do spolku Idealisté. Pochází z Rychvaldu u Ostravy, žije od dob svých studií v Praze. 

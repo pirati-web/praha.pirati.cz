@@ -8,7 +8,7 @@ category:
   - mhmp
 img: people/viktor-mahrik-2022.jpg
 heroImg: Prague_panorama.jpeg
-description: 
+description: zastupitel hl. města Prahy
 partyUid: pirati
 teamDescription:
   mhmp: 1. místopředseda zast. klubu

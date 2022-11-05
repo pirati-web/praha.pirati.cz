@@ -7,15 +7,13 @@ category:
 img: people/ondrej-vykoukal.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: kandidát na starostu MČ Praha 6
+description: zastupitel MČ Praha 6
 teamDescription:
-  dr: 
 mail: ondrej.vykoukal@pirati.cz
 mob: +420 725 300 552
 profiles:
 funkce:
-  - člen dozorčí rady společnosti Prague City Tourism, a.s.
-orddr: 8  
+  - zastupitel MČ Praha 6
 ---
 
 **Ondřej Vykoukal (1988) pochází ze Žďáru nad Sázavou, žije na Praze 6.** Vystudoval Právnickou fakultu Masarykovy univerzity v Brně a pracuje jako advokát. Jeho specializací je zejména autorské právo, právo informačních technologií, osobní údaje a právní aspekty online světa. Věnuje se rovněž pro bono poradenství neziskovým organizacím.

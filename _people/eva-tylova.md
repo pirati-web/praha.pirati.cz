@@ -10,6 +10,7 @@ img: people/eva-tylova-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: bezpp
 profession: zastupitelka Prahy 12, ekoložka
+description: zastupitelka hl. města Prahy
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
 funkce: 

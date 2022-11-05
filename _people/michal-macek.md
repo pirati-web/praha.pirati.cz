@@ -16,6 +16,7 @@ profiles:
 funkce:
   - předseda MS Praha 12
   - tajemník poslaneckého klubu Pirátů
+  - zastupitel MČ Praha 12
 
 ---
 

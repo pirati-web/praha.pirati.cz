@@ -9,7 +9,7 @@ img: people/eva-horakova.jpg   # 165 x 220
 img: people/eva-horakova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: 
+description: členka KS Praha
 teamDescription:
 funkce: 
 mail:
