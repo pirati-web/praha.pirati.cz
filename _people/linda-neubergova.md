@@ -9,6 +9,7 @@ category:
 img: people/linda-neubergova.png
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
+description: zastupitelka MČ Praha 5
 teamDescription:
   stab22: manažerka volebního štábu
 funkce: 

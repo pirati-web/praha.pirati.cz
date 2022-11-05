@@ -5,7 +5,7 @@ titles:
   before: Mgr.
 category:
   - dr
-img: people/jakub-jiran.jpg
+img: people/jakub-jiran-2022.jpg
 heroImg: Prague_panorama.jpeg
 profession: auditor, člen dozorčí rady DPP
 partyUid: bezpp
