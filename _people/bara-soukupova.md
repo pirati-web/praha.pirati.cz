@@ -10,6 +10,7 @@ img: people/bara-soukupova-2022-2.jpg
 heroImg: Prague_panorama.jpeg
 profession: specialistka na eGovernment
 partyUid: pirati
+description: zastupitelka hl. města Prahy
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
 funkce:

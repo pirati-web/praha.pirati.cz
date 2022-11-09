@@ -8,7 +8,8 @@ category:
  - pks
 img: people/ondra-vojta-2022.jpg
 heroImg: Prague_panorama.jpeg
-description: 1. místopředseda KS Praha    
+description: 1. místopředseda KS Praha 
+profession: student, zastupitel MČ Praha–Petrovice  
 partyUid: pirati
 teamDescription:
   pks: 1. místopředseda KS Praha
