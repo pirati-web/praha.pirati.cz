@@ -1,11 +1,11 @@
 ---
-title:  "Aliance stability nabízí ústupek v rámci jednání o nové pražské radě"
+title:  "Mazur: Aliance stability nabízí ústupek v rámci jednání o nové pražské radě"
 author: MHMP
 image:  posts/mazur.jpg
-tags:   [Vyjednávání]
+tags:   [Volby 2022, SPOLU, Piráti, Praha sobě]
 ---
 
-Praha, 10. listopadu 2022 – Předseda klubu Pirátů na pražském magistrátu Daniel Mazur dnes za Alianci stability nabídl předsedovi klubu SPOLU Zdeňku Zajíčkovi a předsedkyni klubu hnutí STAN Kateřině Arnotové další kompromisní řešení v rámci vyjednávání o nové pražské radě, a to v poměru 5 členů rady pro SPOLU, 5 členů rady pro Alianci stability a 1 místo pro člena rady za hnutí STAN. Toto řešení proporčně koresponduje s výsledkem voleb a plně respektuje všechny potenciální koaliční partnery. 
+**Předseda klubu Pirátů na pražském magistrátu Daniel Mazur dnes za Alianci stability nabídl předsedovi klubu SPOLU Zdeňku Zajíčkovi a předsedkyni klubu hnutí STAN Kateřině Arnotové další kompromisní řešení v rámci vyjednávání o nové pražské radě, a to v poměru 5 členů rady pro SPOLU, 5 členů rady pro Alianci stability a 1 místo pro člena rady za hnutí STAN. Toto řešení proporčně koresponduje s výsledkem voleb a plně respektuje všechny potenciální koaliční partnery.** 
 
 Od voleb uplynulo už více než šest týdnů a koalice na Magistrátu hlavního města Prahy zatím není ustavena. Tento čas by podle slov zástupců klubu SPOLU po prvním jednání ustavujícího zastupitelstva měl být v maximální možné míře využit k vyjednávání o podobě budoucí koalice, s čímž Aliance stability plně souhlasí. 
 
