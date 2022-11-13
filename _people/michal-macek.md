@@ -12,7 +12,7 @@ partyUid: pirati
 description: předseda MS Praha 12
 teamDescription: 
   pks: místopředseda KS Praha
-mob: 
+mob: +420 603 817 630
 mail:
   - michal.macek@pirati.cz
 profiles:
