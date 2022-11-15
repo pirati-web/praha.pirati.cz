@@ -13,7 +13,7 @@ teamDescription:
   mhmp: zastupitel hl. města Prahy
 mail:
 - david.bodecek@pirati.cz
-mob: +420 775 595 183
+mob: +420 775 592 183
 funkce: 
   - zastupitel MČ Praha 1
   - zastupitel hl. města Prahy
