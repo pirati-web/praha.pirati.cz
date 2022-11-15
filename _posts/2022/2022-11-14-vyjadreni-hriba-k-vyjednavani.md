@@ -2,10 +2,10 @@
 title:  "Hřib: Aliance stability trvá na nabídce podané SPOLU"
 author: Aliance stability
 image:  posts/0hrib.jpg
-tags:   [Vyjednávání]
+tags:   [Volby 2022, SPOLU, Praha sobě, Piráti]
 ---
 
-Aliance stability i nadále trvá a postupuje jednotně, podobně jako platí nabídka koalici SPOLU na obsazení pražské rady v poměru 5-5-1, za předpokladu nominace primátora koalicí SPOLU. To je už druhý ústupek ze stany Aliance vůči nim. Koalice SPOLU získala ve volbách jen necelých 25 %, tedy méně než čtvrtinu hlasů obyvatel Prahy. S tímto výsledkem ale nemůže mít všechno. Nemůže vznášet nárok zároveň na primátora i většinu v radě, protože to prostě neodpovídá jejich volebnímu výsledku.
+**Aliance stability i nadále trvá a postupuje jednotně, podobně jako platí nabídka koalici SPOLU na obsazení pražské rady v poměru 5-5-1, za předpokladu nominace primátora koalicí SPOLU. To je už druhý ústupek ze stany Aliance vůči nim. Koalice SPOLU získala ve volbách jen necelých 25 %, tedy méně než čtvrtinu hlasů obyvatel Prahy. S tímto výsledkem ale nemůže mít všechno. Nemůže vznášet nárok zároveň na primátora i většinu v radě, protože to prostě neodpovídá jejich volebnímu výsledku.**
 
 Koalice SPOLU by si měla vybrat, jestli to opravdu myslí s vytvořením koalice na bázi demokratického půdorysu vážně nebo jestli by byla ochotná přistoupit k opoziční smlouvě s ANO s využitím hlasů SPD. 
 
