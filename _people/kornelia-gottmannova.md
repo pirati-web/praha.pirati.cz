@@ -11,10 +11,10 @@ img: people/kornelia-gottmannova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 profession: konzultantka činností v oblasti leadershipu
-description: místopředsedkyně KS Praha 9
+description: místopředsedkyně KS Praha
 teamDescription:
   dr: Pražské služby, a.s.
-  pks: místopředsedkyně KS Praha 9
+  pks: místopředsedkyně KS Praha
 funkce: 
  - místopředsedkyně KS Praha
  - místopředsedkyně MS Praha 9
