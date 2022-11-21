@@ -23,7 +23,8 @@ funkce:
 mail:
 - kornelia.gottmannova@pirati.cz
 mob: +420 777 065 665	 
-orddr: 17  
+orddr: 17 
+ordpks: 5
 ---
 
 **Kornélia Gottmannová** (* 24. června 1972) je absolventkou VŠCHT Praha, obor Fyzikální chemie. V současné době je místopředsedkyní KS Praha a MS Praha 9. Piráty též zastupuje v zastupitelstvu městské části Praha 9 a v dozorčí radě společnosti Pražské služby.
