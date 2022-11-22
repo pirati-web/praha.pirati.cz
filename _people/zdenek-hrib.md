@@ -21,7 +21,7 @@ funkce:
   - primátor hlavního města Prahy 
   - zastupitel hlavního města Prahy
 asistenti:
-  - name: <a href="/lide/jiri-hoskovec.html">Ing. Jiří Hoskovec</a></p>
+  - name: Ing. Jiří Hoskovec
     uid: jiri.hoskovec
     position: ředitel odboru Kancelář primátora
     mail: jiri.hoskovec@praha.eu
