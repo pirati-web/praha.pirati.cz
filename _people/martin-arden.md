@@ -1,18 +1,16 @@
 ---
 uid: martin.arden
-name:     Martin Arden  	# běžně používáné jméno
+name: Martin Arden
 titles:
   before:
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- kontaktni_osoba
+category:  
 img: people/martin-arden.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/07-arden.jpg
 partyUid: pirati
 description: kontakt pro pražskou veřejnost
 teamDescription:
-  contact: kontakt pro pražskou veřejnost 
 funkce: 
   - zastupitel MČ Praha 1
 mail:
