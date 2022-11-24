@@ -1,7 +1,7 @@
 ---
 title:  "Piráti odmítají návrat ke starým pořádkům a odsun klientů sociálních služeb daleko od jejich rodin v Praze"
 author: Piráti Praha
-image:  posts/volby2022-vyjednavani-hrib-komrskova-cro.jpg
+image:  posts/komrskova-zhmp.jpg
 tags:   [Sociální služby]
 ---
 
