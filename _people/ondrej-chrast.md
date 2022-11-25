@@ -7,7 +7,6 @@ titles:
 category:
  - pks
  - vlada
- - stab22
 img: people/ondrej-chrast-2022.jpg
 heroImg: Prague_panorama.jpeg
 description: náměstek ministra kultury ČR
@@ -16,7 +15,6 @@ partyUid: pirati
 teamDescription:
   pks: předseda KS Praha
   vlada: náměstek ministra kultury ČR
-  stab22: 1. místopředseda KS Praha
 funkce:
   - předseda KS Praha
   - náměstek ministra kultury ČR
@@ -26,7 +24,6 @@ mail:
 mob: +420 606 914 916
 ordpks: 1
 ordvlada: 2
-ordstab22: 2
 profiles:         
   facebook:  https://www.facebook.com/ondrejchrast.pirati/
   twitter:   https://twitter.com/chrast_o

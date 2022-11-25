@@ -6,7 +6,6 @@ titles:
   after:
 category: 
   - kontaktni_osoba
-  - stab22
 ordpak: 1
 img: people/jiri-belsan.jpg
 heroImg: Prague_panorama.jpeg
@@ -33,7 +32,6 @@ asistenti:
     position: koordinátor pro Prahu
     mob: +420 770 113 641
     mail: martin.hunady@pirati.cz
-ordstab22: 8
   
 ---
 
