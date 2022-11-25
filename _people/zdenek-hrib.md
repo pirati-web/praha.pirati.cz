@@ -84,6 +84,8 @@ Od roku 2012 je ředitelem obecně prospěšné společnosti Institut pro apliko
 
 Od října 2013 je registrovaným příznivcem Pirátů. V komunálních volbách v roce 2014 za stranu kandidoval ještě jako nestraník do zastupitelstva hlavního města Prahy. Členem strany se stal v dubnu 2017, od května 2016 byl u Pirátů garantem v oblasti zdravotnictví. V komunálních volbách v roce 2018 byl lídrem kandidátky Pirátů do zastupitelstva hlavního města Prahy a byl kandidátem na post primátora Prahy. Ve volbách 2018 obdržel 75 082 preferenčních hlasů. **Od listopadu 2018 je primátorem hlavního města Prahy.**
 
+V roce 2022 byl zvolen členem výboru ZHMP pro zdravotnictví.
+
 ### Transparentnost 
 
 * [Veřejný kalendář primátora](https://posta16.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/4bb3b7813d634d4eb7340489c556118811534601839406330643/calendar.html)

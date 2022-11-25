@@ -26,7 +26,7 @@ profiles:
 ordmhmp: 7
 ---
 
-**Magdalena Valdmanová** je pirátskou zastupitelkou v zastupitelstvu hlavního města Prahy. 
+**Magdalena Valdmanová** je pirátskou zastupitelkou v zastupitelstvu hlavního města Prahy. Je členkou výboru ZHMP pro národnostní menšiny.
 
 Celý život žije v Praze. Po maturitě v oboru management a podnikání v umění a reklamě nastoupila na mateřskou dovolenou. Poté pracovala v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětských domovů. Právě pro ně pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti získala ve startupu zaměřeném na e-learning, v kanceláři pražského primátora Zdeňka Hřiba, kde pracovala jako jeho poradkyně. Asistentskou pozici později vykonávala u zastupitele Viktora Mahrika, který byl předsedou výboru ZHMP pro správu majetku. V roce 2022 byla zvolena do celopražského zastupitelstva.
 

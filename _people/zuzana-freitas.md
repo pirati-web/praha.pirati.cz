@@ -31,7 +31,7 @@ profiles:
   flickr:		  
 ---
 
-**Zuzana Freitas Lopesová** (* 28. září 1968) je 2. místopředsedkyní zastupitelského klubu Pirátů. Je rovněž místopředsedkyní krajského sdružení Pirátů Praha.
+**Zuzana Freitas Lopesová** (* 28. září 1968) je 2. místopředsedkyní zastupitelského klubu Pirátů. Je rovněž místopředsedkyní krajského sdružení Pirátů Praha. Je členkou výboru pro zdravotnictví ZHMP.
 
 S Piráty aktivně spolupracuje od r. 2017. Od začátku roku 2018 působí jako asistentka poslankyně Olgy Richterové. Nezávisle na tom se přes občanskou iniciativu k fungování areálu Gutovka zapojila do MS Praha 10. Na podzim 2018 byla za Piráty zvolena zastupitelkou na městské části Praha 10. V roce 2019 proměnila spolupráci registrovaného příznivce v přímé členství v České pirátské straně. V rámci své práce se zaměřuje na oblast bydlení a sociální věci. 
 
