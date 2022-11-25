@@ -15,6 +15,8 @@ teamDescription:
   mhmp: zastupitelka hl. města Prahy
 funkce:
   - zastupitelka hl. města Prahy
+  - členka výboru pro územní rozvoj, územní plán a památkovou péči ZHMP
+  - členka výboru pro národnostní menšiny
 mail:
 - bara.soukupova@pirati.cz
 mob: "+420 737 803 982"

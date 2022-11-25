@@ -23,6 +23,7 @@ funkce:
   - zastupitelka hl. města Prahy
   - zastupitelka MČ Praha–Suchdol
   - vedoucí pražského expertního týmu <a href="https://forum.pirati.cz/viewforum.php?f=1262">Doprava a infrastruktura</a>
+  - členka výboru pro územní rozvoj, územní plán a památkovou péči ZHMP
 ordmhmp: 11
 ---
 

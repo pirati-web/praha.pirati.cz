@@ -15,6 +15,7 @@ funkce:
   - předsedkyně MS Praha 2
   - zastupitelka MČ Praha 2
   - zastupitelka hl. města prahy
+  - členka výboru pro národnostní menšiny ZHMP
 mail:
 - magdalena.valdmanova@pirati.cz
 mob:			  

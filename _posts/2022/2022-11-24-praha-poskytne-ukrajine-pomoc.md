@@ -2,10 +2,10 @@
 title:  "Praha poskytne ukrajinským městům naftová topidla, elektrocentrály a zdravotnický materiál"
 author: MHMP
 image:  posts/7hrib.jpg
-tags:   [Zahraničí, Ukrajina]
+tags:   [Zahraničí, Válka na Ukrajině]
 ---
 
-Pražští zastupitelé na čtvrtečním jednání schválili dar ukrajinským městům Kyjev a Mykolajiv v podobě topidel a elektrocentrál. Dále Praha poskytne Centru veřejného zdraví při Ministerstvu zdravotnictví Ukrajiny zdravotnický materiál, zejména osobní ochranné prostředky a komplementární materiál.
+**Pražští zastupitelé na čtvrtečním jednání schválili dar ukrajinským městům Kyjev a Mykolajiv v podobě topidel a elektrocentrál. Dále Praha poskytne Centru veřejného zdraví při Ministerstvu zdravotnictví Ukrajiny zdravotnický materiál, zejména osobní ochranné prostředky a komplementární materiál.**
 
 626 kusů naftových topidel a 18 kusů elektrocentrál, které byly pořízeny pro účely řešení mimořádných událostí a jsou vedeny v majetku příspěvkové organizace Správy služeb hl. m. Prahy s hodnotou 15 milionů korun. Hlavní město jedná se zástupci měst, kde se upřesňuje konečné rozdělení daru. Jelikož jde o 350 europalet, řeší se nyní způsob přepravy přes neziskovou organizaci nebo zajištění dopravy ze strany obdarovávaných měst.
 

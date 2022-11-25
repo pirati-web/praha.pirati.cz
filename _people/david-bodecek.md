@@ -19,6 +19,7 @@ funkce:
   - zastupitel hl. města Prahy
   - místopředseda MS Praha 1
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36673">kontrolního výboru ZHMP</a>
+  - člen výboru pro sport a volný čas ZHMP
 profiles:
   facebook:  https://www.facebook.com/dajdanos
   instagram: https://www.instagram.com/dajdanos
