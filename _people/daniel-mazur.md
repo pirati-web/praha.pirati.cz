@@ -30,7 +30,7 @@ ordmhmp: 1
 calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
 ---
 
-Daniel Mazur (* 26. května 1978) je předsedou zastupitelského klubu Pirátů v ZHMP. Je rovněž i zastupitelem městské části Praha 5, od listopadu 2018 do září 2019 i jejím starostou. Členem Pirátů je od června 2014, původně v Praze 6, nyní v Praze 5. 
+Daniel Mazur (* 26. května 1978) je předsedou zastupitelského klubu Pirátů v ZHMP. Je rovněž předsedou výboru pro výchovu a vzdělávání ZHMP. Členem Pirátů je od června 2014, původně na Praze 6, nyní na Praze 5. 
 
 Narodil se v Praze, kde má bydliště celý život, přestože strávil 11 let života studiem a prací v zahraničí. Je zakládajícím členem a předsedou místního sdružení Pirátů na Praze 5.
 
@@ -39,3 +39,5 @@ Během studia na střední škole se zapojil do International Young Naturefriend
 V roce 2018 byl za Piráty zvolen do zastupitelstva hlavního města Prahy a do zastupitelstva městské části Praha 5. Poté, co byl zvolen starostou městské části Praha 5, v souladu s pirátským kodexem na mandát zastupitele hlavního města rezignoval. Jako starosta Prahy 5 se věnoval rozvoji městské části, rozvoji IT infrastruktury úřadu, některým projektům MČ financovaným z rozvojových fondů EU a v návaznosti na interní audit i odkrývání [problémových veřejných zakázek](https://praha.pirati.cz/mazur-odvolani.html). V září 2019 byl z funkce starosty odvolán a Piráti odsunuti do opozice. Rozpad koalice následoval poté, co Mazur jako starosta v koalici poukázal na nutnost vyvození důsledků z výsledků auditu předražené zakázky z roku 2018 včetně nutnosti provedení auditu několika desítek dalších zakázek stejného typu. 
 
 Opoziční práci na Praze 5 nyní odvádí ve Výboru pro otevřenou radnici, ve Finančním výboru a v Komisi informačních technologií městské části.
+
+V roce 2022 kandidoval na 5. místě do zastupitelstva hl. m. Prahy na pirátské listině. Byl zvolen a stal se předsedou zastupitelského klubu Pirátů. Od listopadu 2022 je také předsedou výboru pro výchovu a vzdělávání pražského zastupitelstva.
