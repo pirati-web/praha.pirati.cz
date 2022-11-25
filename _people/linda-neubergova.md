@@ -5,13 +5,11 @@ titles:
   before:
   after:
 category:
- - stab22
 img: people/linda-neubergova.png
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: zastupitelka MČ Praha 5
 teamDescription:
-  stab22: manažerka volebního štábu
 funkce: 
   - předsedkyně MS Praha 5
   - zastupitelka MČ Praha 5
@@ -23,7 +21,6 @@ profiles:
   facebook: 
   twitter: 
   flickr:
-ordstab22: 1
 ---
 
 **Vzdělání/práce:** Senior account manager v reklamní agentuře

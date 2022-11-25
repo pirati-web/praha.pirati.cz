@@ -5,7 +5,6 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-  - stab22
   - mhmp
 img: people/jana-komrskova-2022.jpg
 heroImg: Prague_panorama.jpeg
@@ -13,7 +12,6 @@ partyUid: pirati
 description: zastupitelka hl. města Prahy
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
-  stab22: dvojka kandidátky
 funkce:
   - zastupitelka MČ Praha 10
   - zastupitelka hl. města Prahy 
@@ -27,7 +25,6 @@ profiles:
   twitter:   https://twitter.com/JKomrskova
   linkedin:  https://www.linkedin.com/in/jana-komrskov%C3%A1-ab621157/
 mob: +420 605 205 770
-ordstab22: 4
 ordmhmp: 5
 ---
 

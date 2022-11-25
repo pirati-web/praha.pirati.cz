@@ -7,7 +7,7 @@ titles:
 category:                 
   - mhmp-rhmp
   - mhmp
-  - stab22
+
 img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
@@ -15,7 +15,6 @@ profession: primátor hlavního města Prahy
 description: primátor hlavního města Prahy
 teamDescription:
   mhmp-radni: primátor hlavního města Prahy
-  stab22: primátor hlavního města Prahy
   mhmp: zastupitel hl. města Prahy
 funkce: 
   - primátor hlavního města Prahy 
@@ -75,7 +74,6 @@ profiles:
   blog:      https://blog.aktualne.cz/blogy/zdenek-hrib.php
 ordrhmp: 1
 ordmhmp: 4
-ordstab22: 3
 
 ---
 **Zdeněk Hřib** (\* 1981) se narorodil se ve Slavičíně a vyrůstal ve Zlíně. V letech 1999 až 2006 vystudoval obor všeobecné lékařství na 3. lékařské fakultě Univerzity Karlovy v Praze (získal titul MUDr., specializace nemoci z ozáření). Během studií absolvoval v roce 2005 stáž na Tchaj-wanu. V Praze žije od roku 1999. Je ženatý a má 3 děti.
