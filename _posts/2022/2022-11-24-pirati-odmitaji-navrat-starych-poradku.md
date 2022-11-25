@@ -2,10 +2,10 @@
 title:  "Piráti odmítají návrat ke starým pořádkům a odsun klientů sociálních služeb daleko od jejich rodin v Praze"
 author: Piráti Praha
 image:  posts/komrskova-zhmp.jpg
-tags:   [Sociální služby]
+tags:   [Sociální politika]
 ---
 
-Praha, 24. listopadu 2022 - Piráti na pražském magistrátu plně podporují modernizaci péče o Pražany se zdravotním postižením a odmítají politické snahy, které jdou přesně opačným směrem. Zároveň považují za důležité pokračovat v transformaci sociálních služeb, která začala v uplynulém volebním období.
+**Piráti na pražském magistrátu plně podporují modernizaci péče o Pražany se zdravotním postižením a odmítají politické snahy, které jdou přesně opačným směrem. Zároveň považují za důležité pokračovat v transformaci sociálních služeb, která začala v uplynulém volebním období.**
 
 Obyvatelé a obyvatelky Prahy, kteří se potýkají se zdravotním postižením, by měli mít možnost využívat příslušné služby na území Prahy, pokud o ně projeví zájem. Praxi ve formě jejich odsunu do ústavů daleko od domova, často dokonce na jiný konec republiky, považují Piráti za nedůstojnou, nevyhovující a překonanou. Zároveň je takový postup v rozporu se zákonem č.108/2006 o poskytování sociálních služeb na území kraje. 
 
