@@ -15,8 +15,10 @@ teamDescription:
   mhmp: zastupitelka hl. města Prahy
 funkce:
   - zastupitelka hl. města Prahy
-  - členka výboru pro územní rozvoj, územní plán a památkovou péči ZHMP
-  - členka výboru pro národnostní menšiny
+  - členka Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP
+  - členka Výboru pro národnostní menšiny
+  - členka Výboru pro IT a Smart City ZHMP
+  - členka Výboru pro legislativu, veřejnou správu a transparentnost ZHMP
 mail:
 - bara.soukupova@pirati.cz
 mob: "+420 737 803 982"
@@ -29,7 +31,7 @@ profiles:
   flickr:		  
 ---
 
-**Bára Soukupová** (*1988) je pirátskou zastupitelkou v zastupitelstvu hl. m. Prahy. Profesí je geoinformatička. Dětství prožila v České Třebové v Pardubickém kraji. Studovala na Přírodovědecké fakultě UK geografii a kartografii, aplikovanou geoinformatiku a učitelství geografie. Je členkou výboru pro územní rozvoj, územní plán a památkovou péči ZHMP. Dále je členkou výboru ZHMP pro národnostní menšiny.
+**Bára Soukupová** (*1988) je pirátskou zastupitelkou v zastupitelstvu hl. m. Prahy. Profesí je geoinformatička. Dětství prožila v České Třebové v Pardubickém kraji. Studovala na Přírodovědecké fakultě UK geografii a kartografii, aplikovanou geoinformatiku a učitelství geografie. 
 
 V minulosti působila jako specialistka na geografické informační systémy - několik let i na Institutu plánování a rozvoje hl. m. Prahy, kde pomáhala mimo jiné s publikací pražských otevřených dat a analýzou prostorových dat při tvorbě Metropolitního plánu, pak v Českých Radiokomunikacích a Sociologickém ústavu Akademie věd ČR. Má zkušenosti s prací ve veřejném, soukromém i neziskovém sektoru. Stojí za Mapou exekucí, projektem který ukázal fenomém exekucí v celé své šíři a spustil o tomto problému celospolečenskou diskuzi.
 

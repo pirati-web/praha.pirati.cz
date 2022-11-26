@@ -19,7 +19,7 @@ teamDescription:
 funkce: 
   - primátor hlavního města Prahy 
   - zastupitel hlavního města Prahy
-  - člen výboru pro zdravotnictví ZHMP
+  - člen Výboru pro zdravotnictví ZHMP
 asistenti:
   - name: <a href="https://lide.pirati.cz/profil/1965/">Ing. Jiří Hoskovec</a></p>
     uid: jiri.hoskovec
