@@ -13,10 +13,11 @@ teamDescription:
 mail: milan.kryl@post.cz
 profiles:
 funkce:
+  - 1. místostarosta MČ Praha 5
   - zastupitel MČ Praha 5
 ---
 
-**Milan Kryl (nar. 1961) jako předseda Spolku na ochranu Barrandova a nestraník na pirátské kandidátní listině pro komunální volby v roce 2018 získal ve svém volebním obvodě na Barrandově nejvyšší počet hlasů z kandidátů všech stran a pomohl Pirátům k vítězství v MČ Praha 5.** Po volbách vedl jako uvolněný zastupitel Výbor pro územní rozvoj ZMČ Praha 5 a od převratu na radnici v r. 2019 pracuje jako opoziční zastupitel ve Výboru pro územní rozvoj, ve Výboru pro dopravu ZMČ Praha 5 a v Komisi obchodních aktivit, dotací a EU fondů RMČ Praha 5.
+**Milan Kryl (nar. 1961) jako předseda Spolku na ochranu Barrandova a nestraník na pirátské kandidátní listině pro komunální volby v roce 2018 získal ve svém volebním obvodě na Barrandově nejvyšší počet hlasů z kandidátů všech stran a pomohl Pirátům k vítězství v MČ Praha 5.** Po volbách vedl jako uvolněný zastupitel Výbor pro územní rozvoj ZMČ Praha 5 a od převratu na radnici v r. 2019 pracoval jako opoziční zastupitel ve Výboru pro územní rozvoj, ve Výboru pro dopravu ZMČ Praha 5 a v Komisi obchodních aktivit, dotací a EU fondů RMČ Praha 5. Po volbách byla složena koalice Praha 5 sobě, Piráti a SEN21 a Milan Kryl se stal 1. místostarostou MČ Praha 5
 
 Piráti jej jako nezávislého experta nominovali za člena Výboru pro územní rozvoj, územní plán a památkovou péči ZHM Praha, kam byl pražským zastupitelstvem zvolen v r. 2019. Nikdy nebyl politicky organizován, má však zkušenosti s komunální politikou z Magistrátu města Kladna, kde již v 90. letech řídil odbor výstavby a stavební úřad.
 
