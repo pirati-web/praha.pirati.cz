@@ -46,7 +46,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha3.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha3.png" alt="MS Praha 3" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha3.pirati.cz" target="_blank">MS Praha 3</a></h1> 
-<p class="card-body-text">Nikol Marhounová<br /><a href="mailto:nikol.marhounova@pirati.cz">nikol.marhounova@pirati.cz</a></p>
+<p class="card-body-text">Simona Bártová<br /><a href="mailto:simona.bartova@pirati.cz">simona.bartova@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://fb.com/piratipraha3" class="social-icon "><i class="ico--facebook"></i></a>
@@ -62,7 +62,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha4.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha4.png" alt="MS Praha 4" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha4.pirati.cz" target="_blank">MS Praha 4</a></h1> 
-<p class="card-body-text">Tibor Vansa<br /><a href="mailto:tibor.vansa@pirati.cz">tibor.vansa@pirati.cz</a></p>
+<p class="card-body-text">Tereza Nislerová<br /><a href="mailto:tereza.nislerova@pirati.cz">tereza.nislerova@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://fb.com/piratipraha4" class="social-icon "><i class="ico--facebook"></i></a>
@@ -91,7 +91,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha6.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha6.png" alt="MS Praha 6" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha6.pirati.cz" target="_blank">MS Praha 6</a></h1> 
-<p class="card-body-text">Miloš Vlach<br /><a href="mailto:milos.vlach@pirati.cz">milos.vlach@pirati.cz</a></p>
+<p class="card-body-text">Ondřej Vykoukal<br /><a href="mailto:ondrej.vykoukal@pirati.cz">ondrej.vykoukal@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/piratipraha6" class="social-icon "><i class="ico--facebook"></i></a>
@@ -153,7 +153,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha10.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha10.png" alt="MS Praha 10" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha10.pirati.cz" target="_blank">MS Praha 10</a></h1> 
-<p class="card-body-text">Pavel Hájek<br /><a href="mailto:pavel.hajek@pirati.cz">pavel.hajek@pirati.cz</a></p>
+<p class="card-body-text">Michal Kočí<br /><a href="mailto:michal.koci@pirati.cz">michal.koci@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/piratipraha10" class="social-icon "><i class="ico--facebook"></i></a>
