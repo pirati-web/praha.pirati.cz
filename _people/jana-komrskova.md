@@ -15,7 +15,7 @@ teamDescription:
 funkce:
   - zastupitelka MČ Praha 10
   - zastupitelka hl. města Prahy 
-  - předsedkyně <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36799">výboru pro infrastrukturu ZHMP</a>
+  - předsedkyně <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36799">Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP</a>
   - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36673">kontrolního výboru ZHMP</a>
   - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36675">Výboru pro výchovu a vzdělávání ZHMP ZHMP</a>
 mail:

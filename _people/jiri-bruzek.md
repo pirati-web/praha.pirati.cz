@@ -24,7 +24,7 @@ profiles:
 funkce:
   - zastupitel MČ Praha 12
   - zastupitel hl. města Prahy
-  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36813">výboru pro sport a volný čas ZHMP</a>
+  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36813">Výboru pro sport a volný čas ZHMP</a>
   - člen finančního výboru ZHMP
   - člen Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP
 ordmhmp: 10
