@@ -29,6 +29,6 @@ mob: +420 605 205 770
 ordmhmp: 5
 ---
 
-**Jana Komrsková** je pirátská zastupitelka v ZHMP a předsedkyně výboru pro infrastrukturu
+**Jana Komrsková** je pirátská zastupitelka v ZHMP a od listopadu 2022 také předsedkyní Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP.
 
-Kandidovala za Piráty jako lídr na radnici městské části Praha 10. Byla zvolena do zastupitelstva své městské části a v rámci povolebního vyjednávání se stala místostarostkou Prahy 10. V říjnu 2019 po rezignaci Pavla Hájka na mandát se stala jako náhradnice neuvolněnou zastupitelkou hlavního města Prahy. Funkci zastávala do května 2021, kdy mandát přenechala Janu Horovi. Opětovně byla zvolena v komunálních volbách v září 2022.
+Dvakrát kandidovala za Piráty jako lídr na radnici městské části Praha 10. Byla zvolena do zastupitelstva své městské části a v rámci povolebního vyjednávání se v roce 2018 stala místostarostkou Prahy 10. V říjnu 2019 po rezignaci Pavla Hájka na mandát se stala jako náhradnice neuvolněnou zastupitelkou hlavního města Prahy. Funkci zastávala do května 2021, kdy mandát přenechala Janu Horovi. Po odvolání starosty Prahy 10 Renaty Chmelové z důvodu možného napojení na kauzu Dozimetr měla z pozice 1. místostarostky Prahy 10 pravomoce starostky. Opětovně byla zvolena v komunálních volbách v září 2022.

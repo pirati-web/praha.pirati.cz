@@ -15,6 +15,9 @@ teamDescription:
 funkce: 
   - zastupitel hl. města Prahy
   - 1. místopředseda zastupitelského klubu v ZHMP
+  - člen Výboru pro bezpečnost ZHMP
+  - člen Výboru pro dopravu ZHMP
+  - člen Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP
 mail:
 - viktor.mahrik@pirati.cz
 mob: +420 602 767 298
@@ -26,7 +29,7 @@ redmine: 5
 calendar: 2l6sfsk9eeb3qfkuhtfuu44od4%40group.calendar.google.com
 ---
 
-**Viktor Mahrik** (* 21. dubna 1982) je 1. místopředseda zastupitelského klubu Pirátů, člen předsednictva krajského sdružení Praha a místopředseda místního sdružení Praha 6. 
+**Viktor Mahrik** (* 21. dubna 1982) je 1. místopředseda zastupitelského klubu Pirátů a od roku 2018 je zastupitelem hlavního město prahy.
 
 Vystudoval gymnázium v Praze 6 v Arabské ulici, kde získal mimo jiné klasické vzdělání. V průběhu studia na VŠ se zabýval matematikou, pedagogikou, informačními technologiemi, řízením podniku a podnikovými financemi (poslední dvě uvedené studoval na VŠFS). Během studia se zabýval vzděláváním seniorů v oblasti IT a působil jako lektor rekvalifikačních kurzů. Pracoval také jako specialista internetových výzkumů ve společnosti Gemius a má na starosti výzkum měření návštěvnosti českého internetu.
 

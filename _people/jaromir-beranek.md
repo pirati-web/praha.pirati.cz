@@ -14,7 +14,10 @@ teamDescription:
   mhmp: zastupitel hl. města Prahy
 funkce: 
   - zastupitel hl. města Prahy
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36671">finančního výboru ZHMP</a>
+  - člen finančního výboru ZHMP
+  - člen Výboru pro evropské záležitosti ZHMP
+  - člen Výboru pro IT a Smart City ZHMP
+
 mail:
   - jaromir.beranek@pirati.cz
 mob: +420 775 890 490
