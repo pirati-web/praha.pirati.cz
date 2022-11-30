@@ -2,10 +2,10 @@
 title:  "Piráti pokračují ve vedení Prahy 3, v nové radě je Marhounová a Bartko"
 author: MHMP
 image:  posts/praha3b.jpg
-tags:   [Praha 3]
+tags:   [Piráti, Praha 3]
 ---
 
-Praha, 30. listopadu 2022 – Zastupitelstvo městské části Praha 3 dnes po dvojím přerušení svého ustavujícího zasedání zvolilo novou radu. Zasedli v ní zástupci TOP 09, STAN, Pirátů, Zelených a Prahy Sobě. Starostou se stal Michal Vronský z TOP 09. Piráti obsadili dvě křesla uvolněných radních. V pětatřicetičlenném zastupitelstvu bude mít koalice většinu 19 hlasů.
+**Zastupitelstvo městské části Praha 3 dnes po dvojím přerušení svého ustavujícího zasedání zvolilo novou radu. Zasedli v ní zástupci TOP 09, STAN, Pirátů, Zelených a Prahy Sobě. Starostou se stal Michal Vronský z TOP 09. Piráti obsadili dvě křesla uvolněných radních. V pětatřicetičlenném zastupitelstvu bude mít koalice většinu 19 hlasů.**
 
 Všechny zúčastněné subjekty podepsaly koaliční smlouvu krátce před zasedáním Zastupitelstva. Piráti v této koalici drží dvě uvolněné pozice. Tou první je místostarostka pro sociální, zdravotní a prorodinnou oblast, a navíc gesci transparentnosti. Zastávat ji bude lídryně naší kandidátky Nikol Marhounová. Naším druhým radním pak zůstává Jan Bartko, který bude pokračovat v oblastech životního prostředí a privatizace, k nimž mu nově přibyly finance a vedlejší hospodářská činnost (tzn. obecní nebytové prostory).
 
