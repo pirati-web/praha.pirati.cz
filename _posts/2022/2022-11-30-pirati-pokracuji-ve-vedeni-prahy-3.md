@@ -15,7 +15,7 @@ Cílem je pokračovat v dobrých trendech a dobré praxi, které Piráti nastoli
 
 Zastupitelstvo také obsadilo své výbory. Dosavadní radní pro dotace František Doseděl se stal předsedou Dotačního výboru. Na středečním prvním zasedání Rady MČ by pak měly být obsazeny komise. Novinkou je v tomto volebním období pozice uvolněného předsedy Kontrolního výboru. Do této funkce byla jako lídryně opozice zvolena Iva Vojtková z ODS. Jde o práci na plný úvazek s úkolem udržovat opozici informovanou a dát jí nástroje, které jí umožnit dívat se radnici pod prsty.
 
-### Odkazy
+## Odkazy
 
-* [Koaliční smlouva](pdf/ksmlouva.pdf)
-* [Rozdělení gescí dle koaliční smlouvy](pdf/ksmlouvap.pdf)
+* [Koaliční smlouva](https://mrak.pirati.cz/f/3366138)
+* [Rozdělení gescí dle koaliční smlouvy](https://mrak.pirati.cz/f/3366120)
