@@ -2,10 +2,10 @@
 title:  "Praha spouští dotační program na přípravné studijní kurzy pro ukrajinskou mládež"
 author: MHMP
 image:  posts/uaflag.jpg
-tags:   [Školství]
+tags:   [Školství, Válka na Ukrajině]
 ---
 
-Střední školy, městské části či organizace s působností v Praze mohou žádat o dotace na podporu nultých ročníků na středních školách pro ukrajinskou mládež. Kurzy se uskuteční od ledna do prosince 2023, žádosti je možné podávat ode dneška do 9. prosince 2022. Hlavní město tím reaguje na vysokou míru migrační vlny způsobenou přetrvávající válkou na Ukrajině.
+**Střední školy, městské části či organizace s působností v Praze mohou žádat o dotace na podporu nultých ročníků na středních školách pro ukrajinskou mládež. Kurzy se uskuteční od ledna do prosince 2023, žádosti je možné podávat ode dneška do 9. prosince 2022. Hlavní město tím reaguje na vysokou míru migrační vlny způsobenou přetrvávající válkou na Ukrajině.**
 
 > „Praha chce pomoci ukrajinským mladým lidem pokračovat v jejich studiu na českých středních školách a zajistit jim průpravu do českého jazykového a kulturního prostředí. Pro většinu z nich je začlenění do českého vzdělávacího systému problematické ať už z důvodu špatné orientace v typu škol, podmínkách přijetí, nebo je v jejich studijních ambicích brzdí jazyková bariéra. Důsledkem toho hrozí riziko jejich špatné uplatnitelnosti na trhu práce a vyšší zátěž pro náš sociální systém,” uvedl pražský radní pro oblast školství Vít Šimral. Díky vzdělávacím programům je tak možné případným sociálním problémům předejít. 
 
