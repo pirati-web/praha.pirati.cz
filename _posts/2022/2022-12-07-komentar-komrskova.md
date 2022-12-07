@@ -1,7 +1,7 @@
 ---
 title:  "Komrsková: Opoziční smlouvu SPOLU a ANO nepodpoříme. Je to podvod na voličích"
 author: Jana Komrsková
-image:  posts/komrskova-zhmp.jpg
+image:  posts/komrskova-zhmp2.jpg
 tags:   [Vyjednávání]
 ---
 
