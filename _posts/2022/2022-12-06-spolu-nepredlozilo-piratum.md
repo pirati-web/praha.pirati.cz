@@ -1,5 +1,5 @@
 ---
-title:  "SPOLU nepředložilo Pirátům nic kloudného. S dvaceti procenty ve volbách si myslí, že má nárok na většinu v Radě"
+title:  "SPOLU nepředložilo Pirátům nic kloudného. S 24 procenty ve volbách si myslí, že má nárok na většinu v Radě"
 author: Piráti Praha
 image:  posts/8hrib.jpg
 tags:   [Vyjednávání]
