@@ -2,10 +2,10 @@
 title:  "Praha představila na veletrhu Smart City Expo v Barceloně budoucnost městských inovací"
 author: MHMP
 image:  posts/barcelona.jpg
-tags:   [Smart Cities]
+tags:   [Smart Cities, Operátor ICT]
 ---
 
-Zástupci Prahy se zúčastnili světového veletrhu Smart City Expo World Congress v Barceloně. Mezi inovacemi přilákala pozornost návštěvníků především prezentace platformy Golemio, která analyzuje městská data pro další využití.
+**Zástupci Prahy se zúčastnili světového veletrhu Smart City Expo World Congress v Barceloně. Mezi inovacemi přilákala pozornost návštěvníků především prezentace platformy Golemio, která analyzuje městská data pro další využití.**
 
 Pražský stánek, inspirovaný industriální historií Prahy, byl pojat jako platforma pro prezentaci inovativních projektů v oblasti smart city, které vznikly na území hlavního města Prahy. Zástupci hlavního města se akce zúčastnili ve spolupráci s agenturou CzechTrade a městskou společností Operátor ICT, a.s.
 
