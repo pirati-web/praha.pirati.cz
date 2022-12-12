@@ -1,11 +1,11 @@
 ---
 title:  "Komrsková: Opoziční smlouvu SPOLU a ANO nepodpoříme. Je to podvod na voličích"
-author: Jana Komrsková
+authorID: jana.komrskova
 image:  posts/komrskova-zhmp2.jpg
-tags:   [Vyjednávání]
+tags:   [Volby 2022, SPOLU, ANO]
 ---
 
-SPOLU, respektive ODS, TOP09, KDU-ČSL, mají do prosincového zastupitelstva možnost přehodnotit svou nabídku, kterou dalo Pirátům a hnutí STAN, o od 22. října nedoznala změny, a neskákat hnutí ANO do otevřené náruče.
+**SPOLU, respektive ODS, TOP09, KDU-ČSL, mají do prosincového zastupitelstva možnost přehodnotit svou nabídku, kterou dalo Pirátům a hnutí STAN, o od 22. října nedoznala změny, a neskákat hnutí ANO do otevřené náruče.**
 
 Hnutí STAN by ideálně měla připadnout 2 místa v Radě hlavního města Prahy, my žádáme o 4 a pro SPOLU 5. To by odpovídalo volebním výsledkům a faktu, že SPOLU nezískalo ani 25 % hlasů. S takovým výsledkem nemůžou chtít vládnout sami celému městu. Nejde nám o žádné “mocenské uspokojení”, jak tvrdí pan Benda. Na prvním místě je pro nás možnost kvalitně a efektivně pracovat pro Pražany a dodržovat sliby, které jsme dali našim voličům v programu. 
 
