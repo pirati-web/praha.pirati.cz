@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: "Radnice Prahy 11 udělala první krůček k otevřenosti"
 date: 2019-06-13
-author: "Praha 11"
+authorId: jiri.dohnal
 image: posts/dohnal.jpg
 tags: [Praha 11, Transparentnost]
 ---

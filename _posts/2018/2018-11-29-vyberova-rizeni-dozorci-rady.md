@@ -13,9 +13,7 @@ Prahy byla vyhlášena na Fóru Pirátské strany již v pondělí 26. listopadu
 odborníky, kteří mají praxi a zkušenosti na obsazení těchto pozic, aby se výběrových řízení zúčastnili.
 Pirátská strana tímto způsobem pokračuje v naplňování svého předvolebním programu.
 
-Co se týče obsazení dozorčích rad v TSK a. s. (Technická správa komunikací) a Výstaviště a. s., byli zde
-zástupci Pirátů jmenováni pouze dočasně. I tak byla tato místa obsazena specialisty z řad Pirátské
-strany. Dozorčí rady budou obsazeny na základě vyhodnocení výběrových řízení těmi nejlepšími
+Co se týče obsazení dozorčích rad v TSK a. s. (Technická správa komunikací) a Výstaviště a. s., byli zde zástupci Pirátů jmenováni pouze dočasně. I tak byla tato místa obsazena specialisty z řad Pirátské strany. Dozorčí rady budou obsazeny na základě vyhodnocení výběrových řízení těmi nejlepšími
 kandidáty. Jak říká Zdeněk Hřib: „Všechny pozice budou dlouhodobě obsazovány skutečnými
 odborníky a ne politickými trafikanty.“
 
