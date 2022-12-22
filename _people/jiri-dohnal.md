@@ -1,29 +1,24 @@
 ---
 uid: jiri.dohnal
-name: Jiří Dohnal	# běžně používáné jméno
-img: 		people/jiri-dohnal.jpg    # 165 x 220
+name: Jiří Dohnal
+img: people/jiri-dohnal.jpg
 heroImg: Prague_panorama.jpeg
 category: 
 - dr
-- starostove
 partyUid: pirati
-description: starosta MČ Praha 11
+description: radní MČ Praha 11
 teamDescription:
-  vybor: člen Výboru pro sport a volný čas ZHMP
   dr: Výstaviště Praha, a.s.
-  starostove: starosta MČ Praha 11
 funkce: 
-  - starosta MČ Praha 11
+  - radní MČ Praha 11
 mail:
-- jiri.dohnal@pirati.cz
+  - jiri.dohnal@pirati.cz
 mob: +420 778 421 040
 profiles:
   facebook:  https://facebook.com/jiridohnal.praha11
   instagram: https://instagram.com/jiridohnal.praha11
   wikipedia: https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Dohnal_(politik)
-  
 orddr: 25
-ordstar: 1
 ---
 
 **Jiří Dohnal** je starosta městské části Praha 11 a zastupitel hl. m. Prahy za Piráty. Je rovněž i členem dozorčí rady společnosti Výstaviště Praha, a.s. Narodil se v Městci Králové, později žil v Poděbradech a poté od roku 1980 v Praze na Jižním městě, kde bydlí dodnes. 
@@ -44,6 +39,7 @@ Po střední škole jsem 2 roky studoval na Technické fakultě České zemědě
 - od r. 2017 - [KULTURNÍ JIŽNÍ MĚSTO o.p.s.](http://www.kczahrada.cz), člen správní rady<br />
 - od r. 2017 - člen Pirátské strany (od května), od února 2018 předseda Místního sdružení Prahy 11<br />
 - od r. 2019 – starosta MČ Praha 11
+- od r. 2022 - radní MČ Praha 11 pro majetek, investice, prevenci kriminality a IT
 
 V dubnu 2009 na Zeleném kruhu jsem stál u zrodu vzniku tzv. Koalice Trojmezí, která vznikla za účelem ochrany „rekreační oblasti“ o velikosti více než 100 hektarů na rozmezí Prahy 4, 10, 11 a 15 před megalomanskou zástavbou. Na popud developerských společností a radních a zastupitelů za ODS z Prahy 10 a MHMP zde měla vyrůst nová čtvrť v Praze pro cca 25.000 obyvatel. Členové této koalice v čele s Renatou Chmelovou (nyní senátorka za Prahu 10) dokázali tento návrh na změnu územního plánu zastavit :-)
 
@@ -55,3 +51,5 @@ Po vstupu do Pirátské strany v květnu 2017 jsem se aktivně zapojil a pomáha
 se ziskem 22% a volební účastí 86%. 
 
 V roce 2018 jsem kandidoval jako lídr do zastupitelstva městské části Praha 11 a ze 12. místa do zastupitelstva hlavního města Prahy. V obou případech jsem uspěl a stal se zastupitelem. Na jaře 2019 jsme se domluvili v Praze 11 na spolupráci s hnutím ANO, ODS, TOP09 a STAN na společné koalici a já jsem se stal starostou MČ Praha 11. Z důvodu kumulace funkcí jsem na podzim 2018 rezignoval na post zastupitele hlavního města Prahy a dále se věnuji hlavně dění v Praze 11.
+
+Starostou Prahy 11 jsem byl až do prosince 2022, kdy jsem starostovské žezlo předal Šárce Zdeňkové z HPP11. Na základě koaliční smlouvy mezi Piráty, HPP11 a Praha 11 sobě jsem se stal radním MČ Praha 11 pro majetek, investice, prevenci kriminality a IT.
