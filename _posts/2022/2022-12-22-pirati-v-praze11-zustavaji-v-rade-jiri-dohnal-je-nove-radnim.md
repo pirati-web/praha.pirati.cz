@@ -12,7 +12,7 @@ Musím se přiznat, že poslední čtyři roky v roli starosty byla jízda a jse
 Součástí nové rady jsou zástupci Piráti Praha 11, Hnutí pro Prahu 11 a PRAHA 11 SOBĚ. Tohle je nové složení rady: 
 
 - starostka + radní pro územní rozvoj a bezpečnost: Šárka Zdeňková (HPP 11)
-- 1. místostarosta pro sociální věci a zdravotnictví: Jan Jaroš (Praha 11 sobě)
+- první místostarosta pro sociální věci a zdravotnictví: Jan Jaroš (Praha 11 sobě)
 - místostarostka pro životní prostředí: Ivana Hovorková (HPP 11)
 - neuvolněná místostarostka pro sport, kulturu a digitalizaci. Zuzana Böhmová (Piráti)
 - radní pro majetek, investice, prevenci kriminality a IT: Jiří Dohnal (Piráti)
