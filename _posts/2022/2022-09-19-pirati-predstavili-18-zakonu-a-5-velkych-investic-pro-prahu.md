@@ -2,7 +2,7 @@
 title:  "Piráti představili 18 zákonů a 5 velkých investic pro Prahu"
 author: Piráti Praha
 image:  posts/tiskovka-hrib-michalek-zakony.jpeg
-tags:   [Legislativa, Piráti, Sněmovna]
+tags:   [Legislativa, Piráti, Sněmovna, Železnice na Letiště Václava Havla]
 ---
  
 **Nejeden problém v Praze stojí na zastaralých zákonech zaprášených prachem, kterým se roky nikdo nevěnoval. I přestože má Praha možnost uplatnit zákonodárnou iniciativu a často doporučení na revize platných zákonů do sněmovny předkládá. Dosud ale nenachází u poslanců v těchto záležitostech dostatečnou podporu.  Přitom  díky malým úpravám jde třeba rychle odklidit koloběžky z  chodníků nebo zmírnit dopady sdíleného ubytování na Pražany. Piráti proto představili 18 zákonů, u kterých by mělo dojít ke změnám tak, aby se Praha mohla stát plnohodnotnou metropolí 21. století.**
