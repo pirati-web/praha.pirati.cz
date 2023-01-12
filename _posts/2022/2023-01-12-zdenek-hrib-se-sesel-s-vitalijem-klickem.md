@@ -1,11 +1,11 @@
 ---
 title:  "Primátor Prahy Zdeněk Hřib se v Kyjevě sešel se svým protějškem Vitalijem Kličkem"
-authorId: MHMP
+author: MHMP
 image:  posts/lide.jpg
-tags:   [Ukrajina]
+tags:   [Válka na Ukrajině]
 ---
 
-Primátor hl. m. Prahy Zdeněk Hřib společně s primátory Varšavy, Bratislavy a Budapešti jako představitelé Paktu svobodných měst přijali pozvání Vitalije Klička, primátora Kyjeva, a v ukrajinském hlavním městě se zúčastnili společného jednání. Mezi hlavní témata cesty patří prohloubení meziměstské spolupráce v oblasti humanitární pomoci, podpora uprchlíkům, plánování poválečné obnovy a posílení bezpečnostní a krizové připravenosti zúčastněných hlavních měst. 
+**Primátor hl. m. Prahy Zdeněk Hřib společně s primátory Varšavy, Bratislavy a Budapešti jako představitelé Paktu svobodných měst přijali pozvání Vitalije Klička, primátora Kyjeva, a v ukrajinském hlavním městě se zúčastnili společného jednání. Mezi hlavní témata cesty patří prohloubení meziměstské spolupráce v oblasti humanitární pomoci, podpora uprchlíkům, plánování poválečné obnovy a posílení bezpečnostní a krizové připravenosti zúčastněných hlavních měst.**
 
 Praha a další hlavní města zemí V4 patří od začátku ruské války na Ukrajině mezi výrazné podporovatele Kyjeva a dalších ukrajinských měst. Pouze samotná města Praha, Varšava, Budapešť a Bratislava od loňského února přijala více než půl milionu lidí prchajících z Ukrajiny před válkou a ukrajinským městům zaslala i významnou humanitární pomoc.   
 
