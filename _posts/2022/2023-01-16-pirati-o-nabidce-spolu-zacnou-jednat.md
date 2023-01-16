@@ -1,5 +1,5 @@
 ---
-title:  "Piráti: Nabídku SPOLU vítáme. Zítra o ní budeme jednat"
+title:  "Piráti: Nabídku spolu oceňujeme, budeme o ní detailně jednat"
 author: MHMP
 image:  posts/vyjednavani.jpg
 tags:   [Vyjednávání]
