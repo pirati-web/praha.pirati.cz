@@ -2,10 +2,10 @@
 title:  "Praha 5 je o krok blíže k vybudování nové základní školy v Košířích. Jedná se o strategickou investici v rozvoji městské části"
 author: MHMP
 image:  posts/skola.jpg
-tags:   [Školství]
+tags:   [Praha 5, Školství]
 ---
 
-Praha, 17. ledna 2023 - Na výzvu magistrátu zastupitelstvo městské části Praha 5 schválilo k podpisu Memorandum o spolupráci při zajištění infrastrukturních potřeb a kapacit v oblasti základního vzdělávání. Výstavba základní školy Na Výši představuje klíčovou investici do rozvoje městské části s ohledem na dlouhodobě podhodnocené kapacity základních škol. Magistrát v memorandu také přislíbil spolufinancování nové školy v realistických nákladech. Městská část by z vlastního rozpočtu takto rozsáhlý projekt nemohla sama financovat. Dále také zastupitelstvo schválilo memorandum o klíčových majetkových směnách mezi magistrátem a městskou částí. Díky tomu městská část získá zásadní pozemky, díky kterým školu Na Výši v Košířích půjde vůbec postavit. Ty dosud městská část vůbec neměla k dispozici.
+**Na výzvu magistrátu zastupitelstvo městské části Praha 5 schválilo k podpisu Memorandum o spolupráci při zajištění infrastrukturních potřeb a kapacit v oblasti základního vzdělávání. Výstavba základní školy Na Výši představuje klíčovou investici do rozvoje městské části s ohledem na dlouhodobě podhodnocené kapacity základních škol.** Magistrát v memorandu také přislíbil spolufinancování nové školy v realistických nákladech. Městská část by z vlastního rozpočtu takto rozsáhlý projekt nemohla sama financovat. Dále také zastupitelstvo schválilo memorandum o klíčových majetkových směnách mezi magistrátem a městskou částí. Díky tomu městská část získá zásadní pozemky, díky kterým školu Na Výši v Košířích půjde vůbec postavit. Ty dosud městská část vůbec neměla k dispozici.
 
 > „Memorandum o spolupráci mezi Prahou 5 a magistrátem o zajištění dostatečných kapacit v oblasti základního vzdělávání na území naší městské části, které dnes bylo uzavřeno, je klíčovým investičním závazkem, na který městská část dlouho čekala. Podle dostupných dat už v roce 2025 hrozí městské části nedostatečná kapacita volných míst právě pro žáky základních škol. Velice mě mrzí, že i přes intenzivní snahy Pirátů o pomoc s touto problematikou z opozice, bývalá starostka Zajíčková nechala více než půl roku ležet nepodepsané memorandum na stole ladem. Nyní se konečně dostalo k projednání zastupitelstvem,” říká Milan Kryl, místostarosta pro strategické plánování.
 
