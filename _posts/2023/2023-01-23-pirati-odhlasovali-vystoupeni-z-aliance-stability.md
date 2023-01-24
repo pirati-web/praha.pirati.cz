@@ -1,7 +1,7 @@
 ---
 title:  "Piráti odhlasovali vystoupení z Aliance pro stabilitu. Definitivně o vstupu do koalice rozhodne pražská členská základna na fóru"
 author: Piráti Praha
-image:  posts/tiskovka-spolu-pirati.jpg
+image:  posts/tkspolu.jpg
 tags:   [SPOLU, Volby 2022]
 ---
 
