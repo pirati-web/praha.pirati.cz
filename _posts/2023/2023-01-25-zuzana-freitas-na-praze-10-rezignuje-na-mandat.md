@@ -2,7 +2,7 @@
 title:  "Změna v pirátském zastupitelském klubu na Praze 10: Zuzanu Freitas Lopesovou nahradí Bohdana Holá"
 author: Piráti Praha
 image:  posts/praha10a.jpg
-tags:   [Praha 10, Volby 2022]
+tags:   [Praha 10]
 ---
 
 **Zuzana Freitas Lopesová rezignuje na post zastupitelky Prahy 10. Důvodem je nepochopitelné vynechání pirátské zástupkyně  klubu ve prospěch SPD v poradních orgánech zastupitelstva.**
