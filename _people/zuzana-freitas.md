@@ -16,7 +16,6 @@ teamDescription:
   mhmp: 2. místopředsedkyně zast. klubu
 funkce:
   - náměstkyně ministra práce a sociálních věcí ČR
-  - zastupitelka MČ Praha 10
   - zastupitelka hl. města Prahy
   - 2. místopředsedkyně zastupitelského klubu v ZHMP
   - členka Výboru pro bydlení ZHMP
