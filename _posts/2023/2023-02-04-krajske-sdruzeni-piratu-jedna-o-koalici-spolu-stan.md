@@ -15,7 +15,7 @@ Praha, 4. února 2023 – Pražští Piráti zahájili v sobotu proces schvalov�
 
 Členové rady nominovaní za Piráty:
 
-* Zdeněk Hřib, 1. náměstek primátora pro dopravu
-* Jana Komrsková, náměstkyně primátora pro životní prostředí a klimatický plán
-* Adam Zábranský, radní pro majetek, transparentnost a legislativu
-* Daniel Mazur, radní pro ICT, Smart city, věda, výzkum a inovace
+* [Zdeněk Hřib](/lide/zdenek-hrib), 1. náměstek primátora pro dopravu
+* [Jana Komrsková](/lide/jana-komrskova), náměstkyně primátora pro životní prostředí a klimatický plán
+* [Adam Zábranský](/lide/adam-zabransky), radní pro majetek, transparentnost a legislativu
+* [Daniel Mazur](/lide/daniel-mazur), radní pro ICT, Smart city, věda, výzkum a inovace
