@@ -21,7 +21,7 @@ profiles:
   twitter:   https://twitter.com/scintie
   instagram: https://instagram.com/eva_danis_horakova
   flickr:		  
-calendar: ewa.horakowa@gmail.com
+calendar: 
 ---
 
 **Mgr. Eva Horáková** pochází z východních Čech, od 18 let žije v Praze. Vystudovala Střední zdravotnickou školu, obor všeobecná zdravotní sestra. Tuto práci vykonávala cca 12 let v různých pražských nemocnicích. Na 1. lékařské fakultě UK v Praze získala v roce 2003 titul bakalář ošetřovatelství a pokračovala v magisterském studiu oboru Učitelství zdravotnických předmětů pro střední školy. Během studia se zúčastnila programu Sokrates Erasmus v Německu na polytechnické škole v Neubrandenburgu. Jako studentka pracovala v nemocnici Milosrdných sester sv. Karla Boromejského na Praze 1 jako zdravotní sestra. Učila také 2 roky na Vyšší odborné zdravotnické škole v Kladně jako pedagog odborných předmětů.
