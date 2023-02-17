@@ -4,8 +4,8 @@ name: Ondřej Vykoukal
 titles:
   before: Mgr.
 category: 
-- vybor
-img: people/ondrej-vykoukal.jpg   # 165 x 220
+  - vybor
+img: people/ondrej-vykoukal.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: zastupitel MČ Praha 6
