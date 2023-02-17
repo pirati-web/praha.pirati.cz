@@ -16,9 +16,9 @@ teamDescription:
 funkce: 
   - zastupitelka MČ Praha 12
   - zastupitelka hl. města Prahy
-  - členka Výboru pro bezpečnost ZHMP
-  - členka Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP
-  - členka Výboru pro legislativu, veřejnou správu a transparentnost ZHMP
+  - členka výboru ZHMP pro energetiku
+  - členka výboru ZHMP pro technickou infrastrukturu a vybavenost
+  - členka výboru ZHMP pro životní prostředí, veřejný prostor a pohřebnictví
 mail:
 - eva.tylova@ecn.cz
 mob:			 

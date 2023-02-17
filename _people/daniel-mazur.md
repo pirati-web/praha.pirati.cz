@@ -18,6 +18,8 @@ teamDescription:
 funkce:
   - předseda zastup. klubu v ZHMP
   - zastupitel hl. města Prahy
+  - člen výboru ZHMP pro bezpečnost a pro prevenci kriminality
+  - člen výboru ZHMP pro strategický a hospodářský rozvoj a podporu podnikání a inovací
   - garant programového bodu Vzdělávání a věda
 mail:
 - daniel.mazur@pirati.cz

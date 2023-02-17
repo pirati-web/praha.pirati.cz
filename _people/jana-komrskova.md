@@ -19,6 +19,8 @@ funkce:
   - zastupitelka MČ Praha 10
   - zastupitelka hl. města Prahy 
   - náměstkyně primátora hlavního města Prahy
+  - členka výboru ZHMP pro dotační vztahy a vztahy k městským částem 
+  - členka výboru ZHMP pro výchovu a vzdělávání
 mail:
 - jana.komrskova@pirati.cz
 profiles:

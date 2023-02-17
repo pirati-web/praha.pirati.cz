@@ -10,7 +10,7 @@ img: people/jiri-bruzek-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 profession: konzultant
-description: zastupitel MČ Praha 12
+description: předseda výboru pro výchovu a vzdělávání, zastupitel MČ Praha 12
 teamDescription:
   mhmp: zastupitel hl. města Prahy
 mail:
@@ -24,9 +24,10 @@ profiles:
 funkce:
   - zastupitel MČ Praha 12
   - zastupitel hl. města Prahy
-  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=36813">Výboru pro sport a volný čas ZHMP</a>
+  - předseda výboru pro výchovu a vzdělávání
+  - člen výboru ZHMP pro dotační vztahy a vztahy k městským částem
   - člen finančního výboru ZHMP
-  - člen Výboru pro správu majetku, majetkové podíly a podporu podnikání ZHMP
+  - člen výboru ZHMP pro správu majetku
 ordmhmp: 10
 ---
 
@@ -36,4 +37,4 @@ Vyučil se kuchařem a po dvouletém nástavbovém studiu hotelové školy absol
 
 Ve veřejném životě se začal angažovat v roce 2014 nejdříve jako ambasador Rekonstrukce státu (Registr smluv). V témže roce se stal členem komisí pro dopravu, správu majetku a územního rozvoje zřízených Radou Prahy 12, členem rady MČ Praha 12 byl do října 2022, kdy zamířil s kolegy do opozice. 
 
-V roce 2022 byl zvolen jako kandidát na 9. místě do zastupitelstva hl. m. Prahy.
+V roce 2022 byl zvolen jako kandidát na 9. místě do zastupitelstva hl. m. Prahy. Na přelomu let 2022 a 2023 byl přesdedou výbour pro sport a volný čas. V únoru 2023 byl zastupitelstvem zvolen za předsedu výboru pro výchovu a vzdělávání.

@@ -15,10 +15,10 @@ funkce:
   - předsedkyně MS Praha 2
   - zastupitelka MČ Praha 2
   - zastupitelka hl. města prahy
-  - členka Výboru pro bydlení ZHMP
-  - členka Výboru pro národnostní menšiny ZHMP
-  - členka Výboru pro kulturu, výstavnictví, cestovní ruch a zahraniční vztahy ZHMP
-  - členka Výboru pro sociální politiku ZHMP
+  - předsedkyně Výboru pro bydlení a bytovou výstavbu
+  - členka výboru pro kulturu, památkovou péči, výstavnictví a podporu cestovního ruchu
+  - členka výboru pro národnostní menšiny
+  - členka výboru pro rodinnou politiku a sociální oblast
 mail:
 - magdalena.valdmanova@pirati.cz
 mob:			  
@@ -30,13 +30,9 @@ profiles:
 ordmhmp: 7
 ---
 
-**Magdalena Valdmanová** je pirátskou zastupitelkou v zastupitelstvu hlavního města Prahy. 
+**Magdalena Valdmanová** je předsedkyní výboru ZHMP pro bydlení a bytovou výstavbu. Je rovněž členkou zastupitelstva hlavního města Prahy. 
 
-Celý život žije v Praze. Po maturitě v oboru management a podnikání v umění a reklamě nastoupila na mateřskou dovolenou. Poté pracovala v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětských domovů. Právě pro ně pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti získala ve startupu zaměřeném na e-learning, v kanceláři pražského primátora Zdeňka Hřiba, kde pracovala jako jeho poradkyně. Asistentskou pozici později vykonávala u zastupitele Viktora Mahrika, který byl předsedou výboru ZHMP pro správu majetku. V roce 2022 byla zvolena do celopražského zastupitelstva.
+Celý život žije v Praze. Po maturitě v oboru management a podnikání v umění a reklamě nastoupila na mateřskou dovolenou. Poté pracovala v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětských domovů. Právě pro ně pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti získala ve startupu zaměřeném na e-learning, v kanceláři pražského primátora Zdeňka Hřiba, kde pracovala jako jeho poradkyně. Asistentskou pozici později vykonávala u zastupitele Viktora Mahrika, který byl předsedou výboru ZHMP pro správu majetku. V roce 2022 byla zvolena do celopražského zastupitelstva. V roce 2023 byla zvolena předsedkyní výboru ZHMP pro bydlení a bytovou výstavbu.
 
-Zároveň je od roku 2018 zastupitelkou na Praze 2. Zajímají jí sociální a kulturní témata, hudba, film, přátele. Má moc ráda Prahu, ale i výlety na venkov. Žijes se svými dvěma dospělými syny, třemi kočkami a jedním partnerem na Vinohradech.
+Zároveň je od roku 2018 zastupitelkou na Praze 2. Zajímají jí sociální a kulturní témata, hudba, film, přátele. Má moc ráda Prahu, ale i výlety na venkov. Žije se svými dvěma dospělými syny, třemi kočkami a jedním partnerem na Vinohradech.
 
-### Další informace
-
-* Název pozice: Asistent přesdedy výboru pro správu majetku, majetkové podíly a podporu podnikání 
-* Výběrové řízení na uvedenou pozici: [https://forum.pirati.cz/viewtopic.php?f=572&t=45517](https://forum.pirati.cz/viewtopic.php?f=572&t=45517)

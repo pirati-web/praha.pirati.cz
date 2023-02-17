@@ -36,4 +36,6 @@ Ve volebním období 2013-2017 byl odborným mluvčím Rekonstrukce státu pro n
 
 V letech 2013-2018 vedl jako hlavní řešitel tři projekty financované z českých a rakouských grantových agentur, na spoluřešitelské úrovni nebo jako kontraktor ve stejném období pracoval na různých výzkumných projektech univerzit v Brně a v Liberci, rakouské Transparency International nebo Evropské komise.
 
+Do roku 2023 byl radním pro oblast školství, vědy a výzkumu a podporu podnikání. V roce 2023 byl jako již nezastupitel zvolen členem výboru pro školství a volný čas. 
+
 Mezi jeho zájmy patří triatlon, divadlo, jazz a literatura. Je celoživotním skautem.
