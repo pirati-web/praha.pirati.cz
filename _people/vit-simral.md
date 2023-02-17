@@ -5,34 +5,14 @@ titles:
   before: PhDr. Mgr.
   after: Ph.D. et Ph.D.
 category:
-  - mhmp-rhmp
+  - praha
 img: people/vit-simral.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-profession: radní hlavního města Prahy
+profession: bývalý radní hlavního města Prahy
 description: člen KS Praha
 teamDescription:
-  mhmp-rhmp: radní pro oblast školství, sportu, vědy a podpory podnikání 
 partyUid: pirati
 funkce: 
-  - radní hl. města pro oblast školství, sportu, vědy a podpory podnikání
-asistenti:
-  - name: Kristýna Nouzáková
-    position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: kristyna.nouzakova@praha.eu
-    tel: <!--Není na webu praha.eu uveden-->
-  - name: Barbora Stárková
-    position: asistentka<!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: barbora.starkova@praha.eu
-    tel: 236 002 944
-  - name: Kamila Bílá
-    position: komunikace s médii <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: kamila.bila@praha.eu
-    tel: 774 236 034
-  - name: Šárka Václavíková
-    <!--uid: helena.barkmanova-->
-    position: asistentka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Víta Šimrala-->
-    mail: sarka.vaclavikova@praha.eu
-    <!--tel: 236 00 2944-->
 mail:
 - vit.simral@pirati.cz
 mob: +420 606 220 985
@@ -44,13 +24,11 @@ profiles:
   flickr:     https://www.flickr.com/search/?text=V%C3%ADt%20%C5%A0imral
   blog:        http://www.jakdalseskolstvim.cz/
   wikipedia:  https://cs.wikipedia.org/wiki/V%C3%ADt_%C5%A0imral
-ordrhmp: 3
-ordvyb: 31
 redmine: 164
 calendar: erijtgm3jaa14hnr4d5urm37t4@group.calendar.google.com
 ---
 
-Vít Šimral (9. července 1986, Roudnice nad Labem) je pirátským zastupitelem a radním hlavního města Prahy pro oblast školství, sportu, volného času, vědy, inovací a podpory podnikání. Byl asistentem v Senátu a místopředsedou Pirátů v Praze. Vítek pochází z Roudnice nad Labem.
+**Vít Šimral** (9. července 1986, Roudnice nad Labem) je bývalým pirátským zastupitelem a v letech 2018–2023 radním hlavního města Prahy pro oblast školství, sportu, volného času, vědy, inovací a podpory podnikání. Byl asistentem v Senátu a místopředsedou Pirátů v Praze. Vítek pochází z Roudnice nad Labem.
 
 Vystudoval politologii, historii, právo, historickou sociologii a ekonometrii na univerzitách v Brně, Praze, Leicesteru a v Lucce, v současné době studuje projektové řízení na ČVUT. Před zvolením do funkce člena Rady hl. m. Prahy působil jako postdoktorand na Ekonomické fakultě Technické univerzity v Liberci a na Filozofické fakultě Univerzity Hradec Králové.
 

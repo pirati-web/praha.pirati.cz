@@ -11,56 +11,14 @@ category:
 img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-profession: primátor hlavního města Prahy
-description: primátor hlavního města Prahy
+profession: náměstek primátora hlavního města Prahy pro dopravu
+description: I. náměstek primátora Prahy pro dopravu
 teamDescription:
-  mhmp-radni: primátor hlavního města Prahy
-  mhmp: zastupitel hl. města Prahy
+  mhmp-rhmp: náměstek primátora hlavního města Prahy
+  mhmp: náměstek primátora hlavního města Prahy
 funkce: 
-  - primátor hlavního města Prahy 
+  - náměstek primátora hlavního města Prahy
   - zastupitel hlavního města Prahy
-  - člen Výboru pro zdravotnictví ZHMP
-asistenti:
-  - name: <a href="https://lide.pirati.cz/profil/1965/">Ing. Jiří Hoskovec</a></p>
-    uid: jiri.hoskovec
-    position: ředitel odboru Kancelář primátora
-    mail: jiri.hoskovec@praha.eu
-    tel: 
-  - name: <a href="/lide/michal-geisler.html">Mgr. Michal Geisler, Ph.D.</a></p>
-    uid: michal.geisler
-    position: vedoucí oddělení poradců primátora
-    mail: michal.geisler@praha.eu
-    tel:     
-  - name: <a href="/lide/martina-vackova.html">Bc. Martina Vacková</a></p>
-    uid: martina.vackova
-    position: poradkyně primátora
-    mail: martina.vackova@praha.eu
-    tel: 
-  - name:  <a href="/lide/martin-kamenik.html">Mgr. Martin Kameník</a></p>
-    uid: martin.kamenik
-    position: poradce primátora
-    mail: martin.kamenik@praha.eu
-    tel: 
-  - name: <a href="/lide/marek-safra.html">Mgr. Marek Šafra</a></p>
-    uid: marek.safra
-    position: poradce primátora
-    mail: marek.safra@praha.eu
-    tel: 
-  - name: <a href="/lide/klara-galova.html">Mgr. Klára Galová</a></p>
-    uid: klara.galova
-    position: poradkyně primátora
-    mail: klara.galova@praha.eu
-    tel:     
-  - name:  <a href="/lide/veronika-kubickova.html">Veronika Kubičková</a></p>
-    uid: veronika.kubickova
-    position: poradkyně primátora
-    mail: veronika.kubickova@praha.eu
-    tel: 
-  - name:  <a href="/lide/tomas-vovsik.html">Mgr. Tomáš Vovsík</a></p>
-    uid: tomas.vovsik
-    position: poradce primátora
-    mail: tomas.vovsik@praha.eu
-    tel:    
 mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028
@@ -83,12 +41,12 @@ V roce 2007 pracoval pro akciovou společnost MD Access, kde byl vedoucím proje
 
 Od roku 2012 je ředitelem obecně prospěšné společnosti Institut pro aplikovaný výzkum, edukaci a řízení ve zdravotnictví, která mimo jiné provozuje Národní systém hlášení nežádoucích událostí a nabízí službu vyhodnocení produkce konkrétní nemocnice pomocí Národní sady ukazatelů zdravotních služeb vypočítaných z výkazů dat pro zdravotní pojišťovny. Publikoval řadu článků v domácích i zahraničních médiích (Zdravotnické noviny, Medical Tribune, EURO, IT Systems, CIO Business World, Sdělovací technika, International Journal for Quality in Health Care, …). Byl členem několika pracovních skupin k tématům informatiky a kvality služeb na úrovni ministerstva, Světové zdravotnické organizace a EU. V lednu 2018 se stal za Piráty členem správní rady Všeobecné zdravotní pojišťovny ČR.
 
-Od října 2013 je registrovaným příznivcem Pirátů. V komunálních volbách v roce 2014 za stranu kandidoval ještě jako nestraník do zastupitelstva hlavního města Prahy. Členem strany se stal v dubnu 2017, od května 2016 byl u Pirátů garantem v oblasti zdravotnictví. V komunálních volbách v roce 2018 byl lídrem kandidátky Pirátů do zastupitelstva hlavního města Prahy a byl kandidátem na post primátora Prahy. Ve volbách 2018 obdržel 75 082 preferenčních hlasů. **Od listopadu 2018 je primátorem hlavního města Prahy.**
+Od října 2013 je registrovaným příznivcem Pirátů. V komunálních volbách v roce 2014 za stranu kandidoval ještě jako nestraník do zastupitelstva hlavního města Prahy. Členem strany se stal v dubnu 2017, od května 2016 byl u Pirátů garantem v oblasti zdravotnictví. V komunálních volbách v roce 2018 byl lídrem kandidátky Pirátů do zastupitelstva hlavního města Prahy a byl kandidátem na post primátora Prahy. Ve volbách 2018 obdržel 75 082 preferenčních hlasů. **Od listopadu 2018 do února 2023 byl primátorem hlavního města Prahy.**
 
 V roce 2022 byl zvolen členem výboru ZHMP pro zdravotnictví.
 
-### Transparentnost 
+V roce 2023 byl v nové koalici zvolen 1. náměstkem primátora zodpovědným za oblast dopravy
 
-* [Životopis primátora](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/stranky_radnich/primator_zdenek_hrib/zivotopis/index.html)
+### Transparentnost 
 
 <iframe src="https://posta16.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/4bb3b7813d634d4eb7340489c556118811534601839406330643/calendar.html" style="border: 0" width="800" height="800" frameborder="0" scrolling="no"></iframe>
