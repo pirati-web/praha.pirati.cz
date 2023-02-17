@@ -17,7 +17,7 @@ teamDescription:
 profession: radní pro majetek, legislativu a transparentnost
 partyUid: pirati
 funkce: 
-  - radní hl. města Prahy pro bydlení a transparentnost  
+  - radní hl. města pro majetek, legislativu a transparentnost
 asistenti:
   - name: Alice Houšková
     position: sekretářka <!--dlouhodobě uvolněného člena Zastupitelstva hl. m. Prahy Adama Zábranského-->

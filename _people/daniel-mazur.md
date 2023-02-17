@@ -16,6 +16,7 @@ teamDescription:
   mhmp: předseda zastupitelského klubu
   mhmp-radni: radní pro Smart City, ICT, vědu a výzkum
 funkce:
+  - radní hl. města pro Smart City, ICT, vědu a výzkum
   - předseda zastup. klubu v ZHMP
   - zastupitel hl. města Prahy
   - garant programového bodu Vzdělávání a věda

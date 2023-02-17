@@ -10,15 +10,15 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jana-komrskova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: náměstkyně primátora hl. m. Prahy
-profession: náměstkyně primátora hl. m. Prahy
+description: náměstkyně primátora pro životní prostředí a klimaplán
+profession: náměstkyně primátora pro životní prostředí a klimaplán
 teamDescription:
   mhmp-radni: náměstkyně primátora hlavního města Prahy
   mhmp: náměstkyně primátora hl. m. Prahy
 funkce:
-  - zastupitelka MČ Praha 10
+  - náměstkyně primátora hl. města Prahy pro životní prostředí a klimaplán
   - zastupitelka hl. města Prahy 
-  - náměstkyně primátora hlavního města Prahy
+  - zastupitelka MČ Praha 10
 mail:
 - jana.komrskova@pirati.cz
 profiles:
