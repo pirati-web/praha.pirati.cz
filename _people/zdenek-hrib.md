@@ -11,13 +11,13 @@ category:
 img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-profession: náměstek primátora hlavního města Prahy pro dopravu
-description: I. náměstek primátora Prahy pro dopravu
+profession: náměstek primátora hl. města Prahy pro dopravu
+description: 1. náměstek primátora Prahy pro dopravu
 teamDescription:
-  mhmp-rhmp: náměstek primátora hlavního města Prahy
-  mhmp: náměstek primátora hlavního města Prahy
+  mhmp-rhmp: 1. náměstek primátora pro dopravu
+  mhmp: 1. náměstek primátora pro dopravu
 funkce: 
-  - náměstek primátora hlavního města Prahy
+  - 1. náměstek primátora hl. města pro dopravu
   - zastupitel hlavního města Prahy
 mail:
 - zdenek.hrib@pirati.cz
@@ -45,7 +45,7 @@ Od října 2013 je registrovaným příznivcem Pirátů. V komunálních volbác
 
 V roce 2022 byl zvolen členem výboru ZHMP pro zdravotnictví.
 
-V roce 2023 byl v nové koalici zvolen 1. náměstkem primátora zodpovědným za oblast dopravy
+V roce 2023 byl v nové koalici zvolen 1. náměstkem primátora zodpovědným za oblast dopravy.
 
 ### Transparentnost 
 
