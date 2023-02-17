@@ -15,7 +15,7 @@ profession: náměstek primátora hl. města Prahy pro dopravu
 description: 1. náměstek primátora Prahy pro dopravu
 teamDescription:
   mhmp-rhmp: 1. náměstek primátora pro dopravu
-  mhmp: 1. náměstek primátora pro dopravu
+  mhmp: zastupitel hl. města Prahy
 funkce: 
   - 1. náměstek primátora hl. města pro dopravu
   - zastupitel hlavního města Prahy

@@ -14,7 +14,7 @@ description: náměstkyně primátora pro životní prostředí a klimaplán
 profession: náměstkyně primátora pro životní prostředí a klimaplán
 teamDescription:
   mhmp-radni: náměstkyně primátora hlavního města Prahy
-  mhmp: náměstkyně primátora hl. m. Prahy
+  mhmp: zastupitelka hl. města Prahy
 funkce:
   - náměstkyně primátora hl. města Prahy pro životní prostředí a klimaplán
   - zastupitelka hl. města Prahy 
