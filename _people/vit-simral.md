@@ -5,14 +5,16 @@ titles:
   before: PhDr. Mgr.
   after: Ph.D. et Ph.D.
 category:
-  - praha
+  - vybor
 img: people/vit-simral.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profession: bývalý radní hlavního města Prahy
 description: člen KS Praha
 teamDescription:
+  vybor: člen výboru pro sport a volný čas
 partyUid: pirati
 funkce: 
+ - člen výboru ZHMP pro sport a volný čas
 mail:
 - vit.simral@pirati.cz
 mob: +420 606 220 985

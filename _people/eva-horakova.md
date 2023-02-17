@@ -5,13 +5,16 @@ titles:
   before: Mgr. 
   after:
 category:
+- vybor
 img: people/eva-horakova.jpg   # 165 x 220
 img: people/eva-horakova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: členka KS Praha
 teamDescription:
+  vybor: členka výboru pro zdravotnictví a prevence civilizačních chorob
 funkce: 
+  - členka výboru ZHMP pro zdravotnictví a prevence civilizačních chorob
 mail:
 - eva.horakova@pirati.cz
 mob: +420 727 870 828

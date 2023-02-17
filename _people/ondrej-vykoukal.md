@@ -4,10 +4,13 @@ name: Ondřej Vykoukal
 titles:
   before: Mgr.
 category: 
+- vybor
 img: people/ondrej-vykoukal.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: zastupitel MČ Praha 6
+teamDescription:
+  vybor: člen výboru pro kulturu
 teamDescription:
 mail: ondrej.vykoukal@pirati.cz
 mob: +420 725 300 552
@@ -17,6 +20,7 @@ funkce:
   - předseda MS Praha 6
   - předseda zast. klubu Pirátů v Praze 6
   - člen kontrolního výboru ZMČP6
+  - člen výboru ZHMP pro kulturu, památkovou péči, výstavnictví a podporu cestovního ruchu 
 ---
 
 **Ondřej Vykoukal (1988) pochází ze Žďáru nad Sázavou, žije na Praze 6.** Vystudoval Právnickou fakultu Masarykovy univerzity v Brně a pracuje jako advokát. Jeho specializací je zejména autorské právo, právo informačních technologií, osobní údaje a právní aspekty online světa. Věnuje se rovněž pro bono poradenství neziskovým organizacím.

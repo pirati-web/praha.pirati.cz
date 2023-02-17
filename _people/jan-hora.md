@@ -5,13 +5,16 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+  - vybor
 img: people/jan-hora-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: zastupitel MČ Praha 4
 teamDescription:
+  vybor: člen výboru pro bezpečnost a pro prevenci kriminality 
 funkce:
   - zastupitel MČ Praha 4
+  - člen výboru ZHMP pro bezpečnost a pro prevenci kriminality 
 mail:
 - jan.hora@pirati.cz
 mob: "+420 775 608 734"

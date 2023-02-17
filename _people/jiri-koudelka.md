@@ -12,7 +12,6 @@ partyUid: pirati
 description: člen dozorčí rady společnosti Operátor ICT, a.s.
 teamDescription:
   dr: Operátor ICT, a.s.
-  vybor: člen Výboru pro IT a Smart City ZHMP
 funkce:
   - zastupitel MČ Praha 13
   - člen dozorčí rady společnosti Operátor ICT, a.s.

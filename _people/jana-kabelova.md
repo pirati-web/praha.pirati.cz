@@ -2,13 +2,18 @@
 uid: jana.kabelova
 name: Jana Kabelová
 category: 
+  - vybor
 img: people/jana-kabelova.jpg  
 heroImg: Prague_panorama.jpeg
 description:
+teamDescription:
+  vybor: členka výboru pro životní prostředí
 partyUid: pirati
 mail:
 - jana.kabelova@pirati.cz
 mob:			 
+funkce:
+ - členka výboru ZHMP pro životní prostředí, veřejný prostor a pohřebnictví
 profiles:
   github:       
   facebook:     

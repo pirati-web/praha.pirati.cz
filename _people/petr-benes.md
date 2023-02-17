@@ -5,13 +5,15 @@ titles:
   before: Ing. 
   after:
 category: 
+  - vybor
 img: people/benes-petr.gif
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/111-benes.jpg
 partyUid: pirati
 teamDescription:
+  vybor: člen výboru pro správu majetku
 funkce: 
-  - místostarosta MČ Praha 10
+  - člen výboru ZHMP pro správu majetku
 mail:
 - petr.benes@pirati.cz
 mob: 

@@ -4,16 +4,19 @@ name:     Nikol Marhounová  	# běžně používáné jméno
 titles:
   before: 
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category: 
+- vybor                	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/nikol-marhounova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description:  Předsedkyně místního sdružení Praha 3, předsedkyně Sociální komise rady MČ Praha 3
 partyUid: pirati
-descvyb: členka výboru pro sociální politiku ZHMP
+teamDescription:
+  vybor: členka výboru pro rodinnou politiku a sociální oblast
 mail:
 - nikol.marhounova@pirati.cz
 mob:
-ordvyb: 9
+funkce: 
+  - členka výboru ZHMP pro rodinnou politiku a sociální oblast
 profiles:
   github:       
   facebook: https://www.facebook.com/nikol.marhounova
