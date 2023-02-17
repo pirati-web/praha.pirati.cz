@@ -8,7 +8,7 @@ category:
 img: people/ondrej-vykoukal.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: zastupitel MČ Praha 6
+description: člen výboru pro kulturu
 teamDescription:
   vybor: člen výboru pro kulturu
 teamDescription:
