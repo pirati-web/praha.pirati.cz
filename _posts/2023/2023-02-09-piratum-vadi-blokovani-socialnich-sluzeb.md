@@ -2,10 +2,10 @@
 title:  "Pirátům vadí blokování třičtvrtě miliardy na dotace pro sociální služby"
 authorId: pirati.praha
 image:  posts/novaradnice5.jpg
-tags:   [sociální politika]
+tags:   [Sociální politika]
 ---
 
-Praha, 9. ledna 2023 – Na středečním jednání sociálního výboru ZHMP neprošlo doporučení poskytnutí financí v hodnotě téměř tři čtvrtě miliardy korun na tři dotační programy v oblasti sociálních služeb, které již předtím bez námitek a pochybností schválila grantová komise. V té navíc  mají všechny kluby napříč koalicí i opozicí své zástupce. Na výboru dotace ale podpořili pouze Piráti a Praha sobě. Zástupci ostatních klubů se zdrželi. Není tedy jisté, jak budou jednotlivé kluby hlasovat na únorovém zastupitelstvu. Nikdy dříve se něco podobného nestalo, což vyvolává řadu otázek. 
+**Na středečním jednání sociálního výboru ZHMP neprošlo doporučení poskytnutí financí v hodnotě téměř tři čtvrtě miliardy korun na tři dotační programy v oblasti sociálních služeb, které již předtím bez námitek a pochybností schválila grantová komise. V té navíc  mají všechny kluby napříč koalicí i opozicí své zástupce. Na výboru dotace ale podpořili pouze Piráti a Praha sobě. Zástupci ostatních klubů se zdrželi. Není tedy jisté, jak budou jednotlivé kluby hlasovat na únorovém zastupitelstvu. Nikdy dříve se něco podobného nestalo, což vyvolává řadu otázek.**
 
 Je to nepochopitelný krok, jenž dostává do svízelné situace mnohé příspěvkové organizace a neziskovky, které pečují o naše nejzranitelnější spoluobčany. Pro předjednanou věc zvedli ruku jen zástupci Pirátů a Prahy Sobě. Zastupitelé ostatních klubů se zdrželi, přestože jejich zástupci v grantové komisi věc podpořili. 
 

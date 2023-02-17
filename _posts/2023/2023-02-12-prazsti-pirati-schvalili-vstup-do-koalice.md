@@ -2,10 +2,10 @@
 title:  "Pražští Piráti schválili vstup do koalice. V řízení města budou pokračovat na čtyřech klíčových pozicích"
 authorId: pirati.praha
 image:  posts/hrib-cb.jpg
-tags:   [vyjednávání]
+tags:   [Volby 2022, Piráti]
 ---
 
-Praha, 11. února 2023 – Po pětidenní diskuzi a dvoudenním hlasování schválili členové pražského krajského sdružení vstup Pirátů do koalice s pražskou koalicí SPOLU a hnutím STAN. Pro vstup do koalice bylo 86 % hlasujících. Souhlasem nadpoloviční většiny podpořili znění koaliční smlouvy, do které se podařilo promítnout většinu pirátských programových priorit. Referendum o vstupu do koalice je standardním nástrojem pirátské vnitrostranické demokracie. V příštím týdnu, ještě před konáním čtvrtého ustavujícího zastupitelstva, dojde k oficiálnímu podpisu koaliční smlouvy členy budoucí pražské rady za účasti lídrů a předsedů klubů. 
+**Po pětidenní diskuzi a dvoudenním hlasování schválili členové pražského krajského sdružení vstup Pirátů do koalice s pražskou koalicí SPOLU a hnutím STAN. Pro vstup do koalice bylo 86 % hlasujících. Souhlasem nadpoloviční většiny podpořili znění koaliční smlouvy, do které se podařilo promítnout většinu pirátských programových priorit. Referendum o vstupu do koalice je standardním nástrojem pirátské vnitrostranické demokracie. V příštím týdnu, ještě před konáním čtvrtého ustavujícího zastupitelstva, dojde k oficiálnímu podpisu koaliční smlouvy členy budoucí pražské rady za účasti lídrů a předsedů klubů.** 
 
 > „Náš vnitrostranický svátek demokracie, tedy hlasování všech Pirátů a Pirátek v Praze, mě potěšil, výsledek se dal předvídat už z probíhající konstruktivní diskuze. Prosazení většiny našich programových priorit do znění koaliční smlouvy bylo pro řadu členů, stejně jako pro mě, argumentem pro vstup. V předešlých čtyřech letech se nám podařilo nastartovat řadu pozitivních změn a s jejich pokračováním koaliční smlouva počítá. I to je důkaz toho, že Piráti v radě odvádějí dobrou práci,” komentuje vůli svých spolustraníků předseda pražského krajského sdružení Ondřej Chrást.
 
