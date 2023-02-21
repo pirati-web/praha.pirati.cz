@@ -1,6 +1,6 @@
 ---
 title:  "Koaliční smlouva podepsána!"
-authorId: pirati.praha
+author: Piráti Praha
 image:  posts/podpis2.jpg
 tags:   [Volby 2022, SPOLU, Piráti, STAN]
 ---
