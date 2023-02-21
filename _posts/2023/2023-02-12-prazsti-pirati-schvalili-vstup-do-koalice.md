@@ -1,6 +1,6 @@
 ---
 title:  "Pražští Piráti schválili vstup do koalice. V řízení města budou pokračovat na čtyřech klíčových pozicích"
-authorId: pirati.praha
+author: Piráti Praha
 image:  posts/hrib-cb.jpg
 tags:   [Volby 2022, Piráti]
 ---
