@@ -12,7 +12,6 @@ partyUid: pirati
 teamDescription:
   mhmp: zastupitelka hl. města prahy
 funkce: 
-  - předsedkyně MS Praha 2
   - zastupitelka MČ Praha 2
   - zastupitelka hl. města prahy
   - předsedkyně Výboru pro bydlení a bytovou výstavbu
