@@ -8,12 +8,13 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 img: people/jaromir-beranek-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: zastupitel hl. m. Prahy za Piráty
+description:  předseda výboru pro zahraniční vztahy a EU fondy ZHMP
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy
 funkce: 
   - zastupitel hl. města Prahy
+  - předseda výboru pro zahraniční vztahy a EU fondy ZHMP
   - člen finančního výboru ZHMP
   - člen Výboru pro evropské záležitosti ZHMP
   - člen Výboru pro IT a Smart City ZHMP
@@ -41,7 +42,7 @@ Ve volném čase hraje na saxofon a klarinet v kapele Mizmar a je spoluautorem b
 
 Jaromír je svobodný a bezdětný, hovoří plynně anglicky a německy a dorozumí se francouzsky. U Pirátů zastával od ledna 2017 do prosince 2018 roli vedoucího finančního odboru, od prosince 2017 je též členem předsednictva krajského sdružení v Praze, kde zodpovídá za finance a strategii. Vedle digitálních technologií a inovací se zajímá o otázky dopravy, udržitelnosti a volnočasových aktivit dětí a mládeže.
 
-V roce 2018 byl zvolen z 11. místa kandidátní listiny Pirátů do zastupitelstva hl. m. Prahy, od října 2019 je místopředsedou zastupitelského klubu. Jako předseda Výboru pro IT a Smart City ZHMP se věnoval primárně Smart City a inovačním projektům a podpoře podnikání. Dále se zabýval hospodařením hlavního města, evropskými záležitostmi a spolupracuje rovněž na rozvoji integrovaného dopravního systému a podpoře bezemisní mobility. V roce 2022 byl opět zvolen do pražského zastupitelstva.
+V roce 2018 byl zvolen z 11. místa kandidátní listiny Pirátů do zastupitelstva hl. m. Prahy, od října 2019 je místopředsedou zastupitelského klubu. Jako předseda Výboru pro IT a Smart City ZHMP se věnoval primárně Smart City a inovačním projektům a podpoře podnikání. Dále se zabýval hospodařením hlavního města, evropskými záležitostmi a spolupracuje rovněž na rozvoji integrovaného dopravního systému a podpoře bezemisní mobility. V roce 2022 byl opět zvolen do pražského zastupitelstva a od roku 2023 je předsedou výboru pro zahraniční vztahy a EU fondy ZHMP
 
 ***
 
@@ -49,4 +50,4 @@ Jaromir Beranek (* May 14, 1986) is a member of the Prague City Assembly, repres
 
 Jaromir studied at universities in Prague, Cologne and Fort Lauderdale and holds Master's degrees in International Management and Law. He is a seasoned financial and portfolio manager with experience from multinationals (Bosch, O2) as well as the startup community (Wayra, StartupYard). Jaromir is fluent in English and German and has a basic command of French. He is an avid runner and musician and enjoys travelling and long hikes in the mountains.
 
-In 2018, Jaromir was elected into the Prague City Assembly. As the Chairman of the IT and Smart City Committee, he focuses on Smart City and innovation projects, and promotes enterpreneurship. Furthermore, he oversees financial administration and European projects as well as the development of the integrated transportation system, and the promotion of clean mobility. Since October 2019, he has been serving also as the Deputy Chair of the Pirate Party Group in the Prague City Assembly.
+In 2018, Jaromir was elected into the Prague City Assembly. As the Chairman of the IT and Smart City Committee, he focuses on Smart City and innovation projects, and promotes enterpreneurship. Furthermore, he oversees financial administration and European projects as well as the development of the integrated transportation system, and the promotion of clean mobility. Since October 2019, he has been serving also as the Deputy Chair of the Pirate Party Group in the Prague City Assembly. He was re-elected to the Prague City Assembly in 2022 and in 2023 he was elected to be the chairman of the Committee of the City Assembly for foreign relations and EU funds.

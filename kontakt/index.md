@@ -48,8 +48,6 @@ Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se
 
 * **Námi vydávané Pirátské listy** jsou evidovány na webu [piratskelisty.cz](https://www.piratskelisty.cz/clanek-2015-vsechny-verze-kvetnovych-piratskych-listu-ve-formatu-pdf).
 
-* Vydali jsme **výroční zprávu** zastupitelského klubu za [rok 2019](https://github.com/pirati-web/praha.pirati.cz/blob/master/assets/pdf/vz-2019/vz-2019-web.pdf) a za [rok 2020](https://a.pirati.cz/praha/pdf/VZ-2020-4.pdf).
-
 # Celostátní pirátská infolinka:  
 
 | telefonní číslo            | volací doba      |
