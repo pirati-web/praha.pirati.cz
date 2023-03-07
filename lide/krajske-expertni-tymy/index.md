@@ -21,9 +21,9 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 </article>
 
 <article class="card card--hoveractive">
-<a href="https://forum.pirati.cz/viewforum.php?f=1262"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-doprava.png" alt="Doprava a infrastruktura" /></a>
+<a href="https://forum.pirati.cz/viewforum.php?f=1262"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-doprava.png" alt="Doprava" /></a>
 <div class="card__body p-4">
-<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1262" target="_blank">Doprava a infrastruktura</a></h1> 
+<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1262" target="_blank">Doprava</a></h1> 
 <p class="card-body-text">Gabriela Lněničková<br /><a href="mailto:gabriela.lnenickova@pirati.cz">gabriela.lnenickova@pirati.cz</a></p>
 </div>
 </article>
@@ -53,7 +53,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 </article> 
 
 <article class="card card--hoveractive">
-<a href="https://forum.pirati.cz/viewforum.php?f=1268"><img class="w-full h-48 object-cover" src="hhttps://a.pirati.cz/praha/img/ket/ket-socialni-politika.png" alt="Sociální politika" /></a>
+<a href="https://forum.pirati.cz/viewforum.php?f=1268"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-socialni-politika.png" alt="Sociální politika" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1268" target="_blank">Sociální politika</a></h1> 
 <p class="card-body-text">Eva Horáková<br /><a href="mailto:eva.horakova@pirati.cz">eva.horakova@pirati.cz</a></p>
@@ -81,7 +81,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 <article class="card card--hoveractive">
 <a href="https://forum.pirati.cz/viewforum.php?f=1265"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-transparentnost.png" alt="Transparentnost" /></a>
 <div class="card__body p-4">
-<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1265" target="_blank">Transparentnost a legislativa</a></h1> 
+<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1265" target="_blank">Transparentnost</a></h1> 
 <p class="card-body-text">Adam Rut<br /><a href="mailto:adam.rut@pirati.cz">adam.rut@pirati.cz</a></p>
 </div>
 </article>   
