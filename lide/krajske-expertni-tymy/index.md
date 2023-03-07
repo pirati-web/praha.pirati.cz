@@ -95,9 +95,9 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 </article>  
 
 <article class="card card--hoveractive">
-<a href="https://forum.pirati.cz/viewforum.php?f=1273"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-zivotni-prostredi.png" alt="Životní prostředí a zemědělství" /></a>
+<a href="https://forum.pirati.cz/viewforum.php?f=1273"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-zivotni-prostredi.png" alt="Životní prostředí" /></a>
 <div class="card__body p-4">
-<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1273" target="_blank">Životní prostředí a zemědělství</a></h1> 
+<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1273" target="_blank">Životní prostředí</a></h1> 
 <p class="card-body-text">Eva Tylová<br /><a href="mailto:eva.tylova@ecn.cz">eva.tylova@ecn.cz</a></p>
 </div>
 </article> 
