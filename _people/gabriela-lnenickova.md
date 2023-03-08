@@ -6,12 +6,14 @@ titles:
   after: MBA
 category: 
 - mhmp
+- dr
 img: people/gabriela-lnenickova-2022-3.jpg
 heroImg: Prague_panorama.jpeg
 profession: zastupitelka hl. města Prahy, projektová manažerka a šachová mistryně
 description: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
+  dr: Dopravní podnik hl. města Prahy, a.s. 
 mail:
   - gabriela.lnenickova@pirati.cz
 mob:	
@@ -22,12 +24,14 @@ profiles:
 funkce:
   - zastupitelka hl. města Prahy
   - zastupitelka MČ Praha–Suchdol
-  - vedoucí pražského expertního týmu <a href="https://forum.pirati.cz/viewforum.php?f=1262">Doprava a infrastruktura</a>
+  - vedoucí <a href="https://forum.pirati.cz/viewforum.php?f=1262">KET Doprava</a>
   - členka výboru ZHMP pro dopravu
   - členka výboru ZHMP pro strategické investice
   - členka výboru ZHMP pro územní rozvoj
   - členka výboru ZHMP pro zahraniční vztahy a EU fondy
+  - členka dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
 ordmhmp: 11
+orddr: 1
 ---
 
 **Gabriela Lněničková** je zastupitelka hl. m. Prahy za Piráty. 

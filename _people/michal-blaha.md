@@ -16,7 +16,7 @@ mail:
 profiles:
   twitter: https://twitter.com/michalblaha
 funkce:
-  - člen dozorční rady společnosti Operátor ICT, a.s.</a>
+  - člen dozorčí rady společnosti Operátor ICT, a.s.</a>
 orddr: 5
 ---
 

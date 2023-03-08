@@ -2,7 +2,6 @@
 uid: alice.hamalova
 name: Alice Hamalová	# běžně používáné jméno
 category:
- - praha
  - dr
 img: people/alice-hamalova.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
@@ -19,7 +18,6 @@ profiles:
   evidence: https://evidence.pirati.cz/
 funkce:
   - členka <a href="https://www.zelivska.cz/zepro-o-nas.html">dozorčí rady Želivské provozní a.s</a>
-  - vedoucí <a href="https://wiki.pirati.cz/ao/start">administrativního odboru Pirátů</a>
 orddr: 28
 ---
 
