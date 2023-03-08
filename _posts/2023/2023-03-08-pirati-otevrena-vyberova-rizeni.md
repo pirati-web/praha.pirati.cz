@@ -1,7 +1,7 @@
 ---
 title: "Pražští Piráti budou pokračovat ve volbě nominantů do dozorčích rad městských společností na základě otevřených výběrových řízení"
 authorId: michal.polak
-image:  posts/hrib-chodba.jpg
+image:  posts/novaradnice7.jpg
 tags:   [Městské firmy]
 ---
 
