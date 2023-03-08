@@ -15,7 +15,7 @@ teamDescription:
 mail: jakub.jiran@pirati.cz
 profiles:
 funkce:
-  - člen dozorční rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
+  - člen dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
   - zastupitel MČ Praha 8
 orddr: 1
 

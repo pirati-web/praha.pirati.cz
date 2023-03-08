@@ -15,7 +15,7 @@ mail:
 mob: +420 727 839 754
 profiles:
 funkce:
-  - člen dozorční rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
+  - člen dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
   - zastupitel Středočeského kraje
 orddr: 2
 

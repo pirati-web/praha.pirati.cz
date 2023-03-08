@@ -7,7 +7,7 @@ titles:
 category:                 
   - mhmp-rhmp
   - mhmp
-
+  - dr
 img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
@@ -16,9 +16,11 @@ description: 1. náměstek primátora Prahy pro dopravu
 teamDescription:
   mhmp-rhmp: 1. náměstek primátora pro dopravu
   mhmp: zastupitel hl. města Prahy
+  dr: Dopravní podnik hl. města Prahy, a.s. 
 funkce: 
   - 1. náměstek primátora hl. města pro dopravu
   - zastupitel hlavního města Prahy
+  - předseda dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
 mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028
@@ -33,6 +35,7 @@ profiles:
   blog:      https://blog.aktualne.cz/blogy/zdenek-hrib.php
 ordrhmp: 1
 ordmhmp: 4
+orddr: 1
 
 ---
 **Zdeněk Hřib** (\* 1981) se narorodil se ve Slavičíně a vyrůstal ve Zlíně. V letech 1999 až 2006 vystudoval obor všeobecné lékařství na 3. lékařské fakultě Univerzity Karlovy v Praze (získal titul MUDr., specializace nemoci z ozáření). Během studií absolvoval v roce 2005 stáž na Tchaj-wanu. V Praze žije od roku 1999. Je ženatý a má 3 děti.
