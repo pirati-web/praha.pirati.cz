@@ -7,7 +7,7 @@ titles:
 category:                 
   - mhmp-rhmp
   - mhmp
-
+  - dr
 img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
