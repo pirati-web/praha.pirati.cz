@@ -2,7 +2,7 @@
 title: "Piráti vyzývají k podpisu petice proti nesmyslné prohibiční vyhlášce"
 author: Piráti Praha
 image: 	posts/valdmanova-naplavka.jpg
-tags:   [Piráti, Protialkoholní Vyhláška, Náplavka]
+tags:   [Piráti, Protialkoholní vyhláška, Náplavka]
 ---
 
 **Piráti v Praze vyzývají občany k podpisu petice za zrušení nesmyslné prohibiční vyhlášky schválené na Zastupitelstvu hl. m. Prahy kluby ODS, ANO, Praha sobě, KDU-ČSL, STAN a TOP09. Petici je možné podepsat na [Portálu občana](https://portal.gov.cz/e-petice/140-petice-za-zruseni-nesmyslne-prohibicni-vyhlasky-schvalene-na-zastupitelstvu-hl-m-prahy-kluby-ods-ano-praha-sobe-kducsl-stan-a-top09), webu [e-petice.cz](https://e-petice.cz/petitions/petice-za-zruseni-nesmyslne-prohibicni-vyhlasky.html) – oba odkazy najdete na webových stránkách [prohibice.pirati.cz](http://prohibice.pirati.cz). Plošná prohibiční vyhláška podle Pirátů sama o sobě nijak neřeší problémy hluku, nepořádku nebo problematického chování jednotlivců ve městě. Navíc je tato vyhláška natolik nepřehledná, že se v ní neorientují místní ani návštěvníci Prahy a její vymáhání policií u cizinců je velmi komplikované.**
