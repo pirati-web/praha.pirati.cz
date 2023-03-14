@@ -47,7 +47,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 <article class="card card--hoveractive">
 <a href="https://forum.pirati.cz/viewforum.php?f=1273"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-majetek.png" alt="Majetek a investice" /></a>
 <div class="card__body p-4">
-<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=57429" target="_blank">Majetek a investice</a></h1> 
+<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1267" target="_blank">Majetek a investice</a></h1> 
 <p class="card-body-text">Adam Zábranský<br /><a href="mailto:adam.zabransky@pirati.cz">adam.zabransky@pirati.cz</a></p>
 </div>
 </article> 
@@ -71,7 +71,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 <article class="card card--hoveractive">
 <a href="https://forum.pirati.cz/viewforum.php?f=1269"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-skolstvi.png" alt="Školství" /></a>
 <div class="card__body p-4">
-<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1269" target="_blank">Školství</a></h1> 
+<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1270" target="_blank">Školství</a></h1> 
 <p class="card-body-text">Jiří Brůžek<br /><a href="mailto:jiri.bruzek@pirati.cz">jiri.bruzek@pirati.cz</a></p>
 </div>
 </article>  
