@@ -1,12 +1,11 @@
 ---
 title: "Historické centrum Prahy bude kultivovanější díky nové podobě restauračních předzahrádek"
-authorId: MHMP
+author: MHMP
 image:  posts/zabransky-okno.jpg
 tags:   [Veřejný prostor]
 ---
 
-
-Rada hl. m. Prahy na svém pondělním jednání schválila uzavření celkem 109 nájemních smluv na umístění restauračních předzahrádek podle nových pravidel schválených pro památkově chráněná území metropole v roce 2022. Nájemní smlouvy budou platit na dobu určitou v délce trvání 3 roky s automatickým prodloužením platnosti na dobu neurčitou. Cílem tohoto kroku je pokračovat v odstraňování vizuálního smogu a v celkové kultivaci historického centra.
+**Rada hl. m. Prahy na svém pondělním jednání schválila uzavření celkem 109 nájemních smluv na umístění restauračních předzahrádek podle nových pravidel schválených pro památkově chráněná území metropole v roce 2022. Nájemní smlouvy budou platit na dobu určitou v délce trvání 3 roky s automatickým prodloužením platnosti na dobu neurčitou. Cílem tohoto kroku je pokračovat v odstraňování vizuálního smogu a v celkové kultivaci historického centra.**
 
 Praha svým nynějším rozhodnutím navazuje na usnesení Rady hl. m. Prahy z loňského roku, kdy byl schválen nový vzor nájemní smlouvy týkající se umístění restauračních zahrádek a dalších objektů ve veřejném prostoru, tak aby byly v souladu s Pravidly provedení restauračních zahrádek v památkově chráněných územích hl. m. Prahy.
 

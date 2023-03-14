@@ -1,11 +1,11 @@
 ---
 title: "Praha spustila svůj nový lokální katalog otevřených dat a zveřejnila také zdrojové kódy"
-authorId: MHMP
+author: MHMP
 image:  posts/mazur1.jpg
-tags:   [Otevřená data]
+tags:   [Otevřená data, Operátor ICT, Golemio]
 ---
 
-Nový lokální katalog otevřených dat, který jednoduše a přehledně zpřístupňuje data města občanům, spustila Praha počátkem letošního roku. Za jeho vývojem a realizací stojí tým datové platformy Golemio, který je součástí pražské městské společnosti Operátor ICT, a. s. (OICT). Nahradila tím předchozí řešení postavené na technologii, která však již nevyhovovala standardům publikace otevřených dat a bylo obtížné ji používat a dále rozvíjet. Jedná se o řešení, které je plně v souladu se světovými standardy, ale je i technologicky kompatibilní s Národním katalogem otevřených dat. I z toho důvodu bylo publikováno jako open source s licencí, která umožňuje použití jakoukoliv další institucí.
+**Nový lokální katalog otevřených dat, který jednoduše a přehledně zpřístupňuje data města občanům, spustila Praha počátkem letošního roku. Za jeho vývojem a realizací stojí tým datové platformy Golemio, který je součástí pražské městské společnosti Operátor ICT, a. s. (OICT). Nahradila tím předchozí řešení postavené na technologii, která však již nevyhovovala standardům publikace otevřených dat a bylo obtížné ji používat a dále rozvíjet. Jedná se o řešení, které je plně v souladu se světovými standardy, ale je i technologicky kompatibilní s Národním katalogem otevřených dat. I z toho důvodu bylo publikováno jako open source s licencí, která umožňuje použití jakoukoliv další institucí.**
 
 > „Jsme hrdí na to, že Praha je celorepublikovým tahounem v oblasti digitalizace a práce s daty. Spuštění nového katalogu otevřených dat je dalším milníkem naší snahy zlepšovat služby pro naše občany a usnadňovat přístup k důležitým informacím,“ říká radní hl. m. Prahy Daniel Mazur, který má na starost oblast ICT.
 

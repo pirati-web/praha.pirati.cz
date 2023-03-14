@@ -1,6 +1,6 @@
 ---
 title: "Soutěž Adapterra Awards hledá v Praze projekty zaměřené proti suchu, přehřívání nebo záplavám"
-authorId: MHMP
+author: MHMP
 image:  posts/komrskova-zhmp2.jpg
 tags:   [Životní prostředí]
 ---
