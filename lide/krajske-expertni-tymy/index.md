@@ -61,7 +61,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 </article>  
 
 <article class="card card--hoveractive">
-<a href="https://forum.pirati.cz/viewforum.php?f=1269"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-skolstvi.png" alt="Sport" /></a>
+<a href="https://forum.pirati.cz/viewforum.php?f=1269"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-sport.png" alt="Sport" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1269" target="_blank">Sport</a></h1> 
 <p class="card-body-text">Jiří Brůžek<br /><a href="mailto:vit.simral@pirati.cz">vit.simral@pirati.cz</a></p>
