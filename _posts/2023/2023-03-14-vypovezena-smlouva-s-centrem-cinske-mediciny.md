@@ -1,6 +1,6 @@
 ---
 title: "Praha vypověděla smlouvu bývalému fondu na podporu čínské medicíny, i přes zvýhodněný nájem dluží městu téměř 1,4 milionu korun"
-authorId: MHMP
+author: MHMP
 image:  posts/adam-zabransky-7.jpg
 tags:   [Nebytové prostory]
 ---

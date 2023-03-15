@@ -1,6 +1,6 @@
 ---
 title: "Rekonstrukce Průmyslového paláce má za sebou první rok. Další na řadě je ocelová konstrukce"
-authorId: MHMP
+author: MHMP
 image:  posts/adam-chodba.jpg
 tags:   [Výstaviště]
 ---
