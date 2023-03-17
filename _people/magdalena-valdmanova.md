@@ -20,7 +20,11 @@ funkce:
   - členka výboru pro rodinnou politiku a sociální oblast
 mail:
 - magdalena.valdmanova@pirati.cz
-mob:			  
+mob:
+asistenti:
+  - name: Jovana Perovič
+    position: asistentka
+    mail: jovana.perovic@praha.eu				  
 profiles:
   github:     
   facebook: https://www.facebook.com/valdmanova.pirati	

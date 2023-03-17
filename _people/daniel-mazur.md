@@ -25,6 +25,10 @@ funkce:
 mail:
 - daniel.mazur@pirati.cz
 mob: +420 602 439 639
+asistenti:
+  - name: Ing. Bohdana Holá
+    position: asistentka
+    mail: bohdana.hola@praha.eu
 profiles:
   github:     https://github.com/daniel-mazur
   facebook:   https://www.facebook.com/daniel.mazur.5268

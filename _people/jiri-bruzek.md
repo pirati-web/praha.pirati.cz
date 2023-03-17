@@ -15,7 +15,11 @@ teamDescription:
   mhmp: zastupitel hl. města Prahy
 mail:
 - jiri.bruzek@pirati.cz
-mob: +420 602 406 504 			 
+mob: +420 602 406 504 	
+asistenti:
+  - name: Šárka Václavíková
+    position: asistentka
+    mail: sarka.vaclavikova@praha.eu		 
 profiles:
   github:       
   facebook:  https://www.facebook.com/jiri.bruzek.9   

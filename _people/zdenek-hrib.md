@@ -24,6 +24,23 @@ funkce:
 mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028
+asistenti:
+  - name: Mgr. Marek Šafra
+    position: vedoucí sekretariátu
+    mail: marek.safra@praha.eu
+  - name: Bc. Martina Vacková
+    position: mluvčí Zdeňka Hřiba
+    mail: martina.vackova@praha.eu
+    tel: +420 735 926 422
+  - name: Veronika Kubičková
+    position: asistentka
+    mail: veronika.kubickova@praha.eu
+  - name: Mgr. Tomáš Vovsík
+    position: asistent
+    mail: tomas.vovsik@praha.eu
+  - name: Adéla Jankevič
+    position: sekretářka
+    mail: adela.jankevic@praha.eu
 profiles:
   facebook:  https://www.facebook.com/zdenek.hrib.primator/
   twitter:   https://twitter.com/ZdenekHrib

@@ -23,6 +23,10 @@ funkce:
   - zastupitelka MČ Praha 10
 mail:
 - jana.komrskova@pirati.cz
+asistenti:
+  - name: Mgr. Eva Horáková
+    position: asistentka
+    mail: eva.horakova@praha.eu
 profiles:
   facebook:  https://www.facebook.com/komrskova.jana
   instagram: https://www.instagram.com/komrskovajana
