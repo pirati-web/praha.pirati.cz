@@ -31,7 +31,7 @@ asistenti:
   - name: Bc. Martina Vacková
     position: mluvčí Zdeňka Hřiba
     mail: martina.vackova@praha.eu
-    tel: +420 735 926 422
+    mob: +420 735 926 422
   - name: Veronika Kubičková
     position: asistentka
     mail: veronika.kubickova@praha.eu
