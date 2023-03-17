@@ -1,6 +1,6 @@
 ---
 title: "Pražští Piráti budou pokračovat ve volbě nominantů do dozorčích rad městských společností na základě otevřených výběrových řízení"
-authorId: michal.polak
+authorId: MHMP
 image:  posts/novaradnice7.jpg
 tags:   [Městské firmy]
 ---
@@ -13,7 +13,7 @@ V případě dozorčí rady pražského dopravního podniku připadá pět míst
 
 U ostatních městských společností nepanuje žádná podobně specifická situace, takže volná místa v ostatních společnostech budou obsazeny skrze otevřená výběrová řízení. V případě, že současným pirátským nominantům nebude v blízké době končit jejich mandát, k jejich výměně by docházet nemělo, protože již museli v minulém období absolvovat otevřené výběrové řízení. Bude nutné pouze dovolit nové pirátské zástupce do nových pozic daných koaliční smlouvou.
 
-„ >Už v minulém volebním období se osvědčilo nominovat na klíčové pozice v dozorčích radách městských společností odborníky na danou problematiku na základě otevřených výběrových řízení. V tomto trendu plánujeme pokračovat. Nejen, že to je zcela transparentní přístup, ale také efektivní metoda pro skutečně věcné a odborné řízení těchto firem a do určité míry i politickou kontrolu. Výběrová řízení na členy dozorčích rad budou realizována postupně a budou zveřejňovaná na pirátském fóru a dalších online portálech inzerujících volné pracovní pozice,” říká Ondřej Chrást, předseda pražského krajského sdružení. 
+>„Už v minulém volebním období se osvědčilo nominovat na klíčové pozice v dozorčích radách městských společností odborníky na danou problematiku na základě otevřených výběrových řízení. V tomto trendu plánujeme pokračovat. Nejen, že to je zcela transparentní přístup, ale také efektivní metoda pro skutečně věcné a odborné řízení těchto firem a do určité míry i politickou kontrolu. Výběrová řízení na členy dozorčích rad budou realizována postupně a budou zveřejňovaná na pirátském fóru a dalších online portálech inzerujících volné pracovní pozice,” říká Ondřej Chrást, předseda pražského krajského sdružení. 
 
 V dozorčích radách s pěti členy budou mít Piráti jedno místo (např. Prague City Tourism), ve firmách se 7 člennou radou budou mít Piráti dva zástupce (např. Trade centre Praha), v dozorčí radě Pražské plynárenské budou mít Piráti ze 12 členů celkem tři zástupce, v pražských službách čtyři nominanty.
 
