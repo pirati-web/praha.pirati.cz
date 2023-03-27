@@ -13,18 +13,16 @@ partyUid: pirati
 description: náměstkyně ministra práce a sociálních věcí ČR
 teamDescription: 
   vlada: náměstkyně ministra práce a sociálních věcí ČR
-  mhmp: 2. místopředsedkyně zast. klubu
 funkce:
   - náměstkyně ministra práce a sociálních věcí ČR
   - zastupitelka hl. města Prahy
-  - 2. místopředsedkyně zastupitelského klubu v ZHMP
   - členka výboru ZHMP pro bydlení a bytovou výstavbu
   - členka výboru ZHMP pro rodinnou politiku a sociální oblast
   - členka výboru ZHMP pro zdravotnictví a prevenci civilizačních chorob
 mail:
 - zuzana.freitas@pirati.cz
 mob: "+420 776 278 860"
-ordmhmp: 3
+ordmhmp: 7
 ordvlada: 3
 profiles:
   github:       
