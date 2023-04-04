@@ -2,7 +2,7 @@
 title: "Hlavní město odpustí Správě železnic 150 milionů korun za pronájem pozemků pro stavbu železniční trati mezi Bubny a Výstavištěm"
 author: MHMP
 image:  posts/7hrib.jpg
-tags:   [Majetek]
+tags:   [Doprava]
 ---
 
 Radní hl. m. Prahy na pondělním zasedání schválili smlouvu o výpůjčce se Správou železnic (SŽ) za účelem zajištění modernizace železniční trati mezi Bubny a Výstavištěm. Celkem tak Správa železnic ušetří za zábor prostranství více jak 150 milionů korun. Důvodem je kromě deklarace podpory záměru modernizace trati mezi Prahou a Letištěm Václava Havla ze strany města také to, že SŽ zrekonstruuje některé komunikace u této trati ve vlastnictví metropole. Pozemky bude mít tato organizaci k dispozici ve výpůjčce přibližně od poloviny tohoto dubna do konce příštího roku. 
