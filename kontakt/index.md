@@ -53,4 +53,5 @@ Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se
 | telefonní číslo            | volací doba      |
 |----------------------------|-------------------|
 | +420 703 681 682           | PO-PÁ, 9-19 hod.  |
-| +420 608 963 111           | PO-PÁ, 9-19 hod.  |
+| +420 608 963 111           | PO, ST, PÁ, 8-16:30 hod.  |
+| +420 608 963 111           | ÚT, ČT, 11-19:30 hod.  |
