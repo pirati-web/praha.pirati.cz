@@ -5,7 +5,7 @@ image:  posts/novaradnice6.jpg
 tags:   [Investice]
 ---
 
-Hlavní město dnes oznámilo výsledky investičního hospodaření metropole za rok 2022. Meziročně přitom Praha navýšila investice o 6,4 miliardy korun, za minulý rok celkem vykázala investice ve výši 16,5 miliard korun, což představuje nárůst o 66,9 % v porovnání s rokem 2021.
+Hlavní město v pondělí 17. 4. 2023 oznámilo výsledky investičního hospodaření metropole za rok 2022. Meziročně přitom Praha navýšila investice o 6,4 miliardy korun, za minulý rok celkem vykázala investice ve výši 16,5 miliard korun, což představuje nárůst o 66,9 % v porovnání s rokem 2021.
 
 Hlavní investice Prahy putovaly převážně do dopravy. Do této oblasti metropole investovala více než devět miliard korun, a to konkrétně do infrastruktury, dopravních projektů a zlepšení kvality života občanů.
 
