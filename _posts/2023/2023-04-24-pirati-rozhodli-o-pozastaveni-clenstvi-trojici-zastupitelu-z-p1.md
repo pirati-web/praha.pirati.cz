@@ -1,5 +1,5 @@
 ---
-title: "Pirátská strana rozhodla o pozastavení členství trojici zastupitelů v Praze 1z"
+title: "Pirátská strana rozhodla o pozastavení členství trojici zastupitelů v Praze 1"
 author: Piráti Praha
 image:  posts/predsednictvo3.jpg
 tags:   [Piráti, Praha 1]
