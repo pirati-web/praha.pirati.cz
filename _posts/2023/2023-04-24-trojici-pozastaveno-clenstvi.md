@@ -1,8 +1,8 @@
 ---
 title: "Pirátská strana rozhodla o pozastavení členství trojici zastupitelů v Praze 1"
 author: Piráti
-image:  posts/novaradnice5.jpg
-tags:   [Piráti]
+image:  posts/praha1-domecky.jpg
+tags:   [Piráti, Praha 1]
 ---
 
 Praha, 24. dubna 2023 – Rozhodčí komise Pirátské strany v neděli konstatovala, že ze strany trojice zastupitelů MČ Praha 1 Davida Bodečka, Ivany Antalové a Martina Ardena nedošlo k úplné nápravě sporného stavu a přetrvává situace, kdy zmínění zastupitelé nerespektují rozhodnutí nejvyššího orgánů strany, tedy Celostátního fóra. Z toho důvodu bylo s okamžitou platností přerušeno jejich členství v Pirátské straně. 
