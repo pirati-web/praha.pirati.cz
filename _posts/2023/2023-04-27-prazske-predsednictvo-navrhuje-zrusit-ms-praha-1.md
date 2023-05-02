@@ -2,7 +2,7 @@
 title: "Pražské předsednictvo navrhuje zánik místního sdružení Praha 1, je personálně i organizačně nefunkční"
 author: Piráti
 image:  posts/prahastrechy.jpg
-tags:   [Piráti]
+tags:   [Praha 1, Piráti]
 ---
 
 Praha, 28. dubna 2023 - Předsednictvo krajského sdružení Praha se čtyřmi hlasy z pěti usneslo na zahájení hlasování o rozpuštění místního sdružení Praha 1. O rozhodnutí bude následně debatovat a hlasovat krajské fórum strany. Důvodem je dlouhodobá několik let trvající nefunkčnost tohoto sdružení jak po stránce personální, tak po stránce organizační. Předsednictvo krajského sdružení Praha k takovému kroku přistoupilo vůbec poprvé. 
