@@ -15,4 +15,6 @@ A tak díky součinnosti náměstkyně Alexandry Udženije, primátora hlavního
 
 > „Ministr vnitra Vít Rakušan po mé telefonické intervenci vyzval ředitele České pošty Miroslava Štěpána, aby zrušil e-aukci objektu na Vinohradech. Jsem rád, že nynější Rada hlavního města Prahy vznikla na stejném půdorysu jako je současná vláda. Díky součinnosti zúčastněných stran jsme mohli tuto záležitost vyřídit ještě před samotným začátkem e-aukce,“ vysvětlil situaci primátor Prahy Bohuslav Svoboda.
 
-Přetvoření prostor bývalé ubytovny v objektu České pošty na městské bydlení by uvítal i radní pro majetek Adam Zábranský. „V minulém volebním období jsme navázali dobrou majetkovou spolupráci s Českou poštou, kdy jsme si od pošty koupili budovy v Durychově ulici a na Sofijském náměstí. Z mého pohledu je to win-win. Pošta získá peníze, které potřebuje, a město na oplátku budovy, které může dál rozvinout ve prospěch Pražanů. Jsem rád, že ve spolupráci pokračujeme,“ uzavřel radní Zábranský.
+Přetvoření prostor bývalé ubytovny v objektu České pošty na městské bydlení by uvítal i radní pro majetek Adam Zábranský. 
+
+> „V minulém volebním období jsme navázali dobrou majetkovou spolupráci s Českou poštou, kdy jsme si od pošty koupili budovy v Durychově ulici a na Sofijském náměstí. Z mého pohledu je to win-win. Pošta získá peníze, které potřebuje, a město na oplátku budovy, které může dál rozvinout ve prospěch Pražanů. Jsem rád, že ve spolupráci pokračujeme,“ uzavřel radní Zábranský.
