@@ -22,6 +22,7 @@ funkce:
   - člen výboru ZHMP pro bezpečnost a pro prevenci kriminality
   - člen výboru ZHMP pro strategický a hospodářský rozvoj a podporu podnikání a inovací
   - garant programového bodu Vzdělávání a věda
+  - člen Komise pro mimoškolní vzdělávání a výchovu RHMP
 mail:
 - daniel.mazur@pirati.cz
 mob: +420 602 439 639
@@ -29,6 +30,12 @@ asistenti:
   - name: Ing. Bohdana Holá
     position: asistentka
     mail: bohdana.hola@praha.eu
+  - name: Mgr. Michal Polák
+    position: poradce
+    mail: michal.polak@praha.eu
+  - name: Marta Schwarzová
+    position: sekretářka
+    mail: marta.schwarzova@praha.eu
 profiles:
   github:     https://github.com/daniel-mazur
   facebook:   https://www.facebook.com/daniel.mazur.5268

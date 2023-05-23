@@ -19,6 +19,10 @@ funkce:
   - člen výboru ZHMP pro správu majetku
   - člen výboru ZHMP pro strategické investice
   - člen výboru ZHMP strategický a hospodářský rozvoj a podporu podnikání a inovací
+asistenti:
+  - name: Mgr. Eva Horáková
+    position: poradkyně
+    mail: eva.horakova@praha.eu	
 mail:
 - viktor.mahrik@pirati.cz
 mob: +420 602 767 298

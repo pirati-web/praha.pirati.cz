@@ -21,6 +21,9 @@ funkce:
   - 1. náměstek primátora hl. města pro dopravu
   - zastupitel hlavního města Prahy
   - předseda dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
+  - předseda Řídící rady společného integrovaného dopravního systému Prahy a Středočeského Kraje 
+  - člen Komise pro vznik koncertního sálu hl. m. Prahy - Vltavská filharmonie RHMP
+  - člen Komise pro klima RHMP
 mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028

@@ -18,11 +18,17 @@ profession: radní pro majetek, legislativu a transparentnost
 partyUid: pirati
 funkce: 
   - radní hl. města pro majetek, legislativu a transparentnost
+  - předseda Inventarizační komise RHMP
+  - předseda Mmajetková komise RHMP
+  - předseda Komise pro předzahrádky, stánky a trhy RHMP
 asistenti:
   - name: Mgr. Martin Kameník
     position: vedoucí sekretariátu
     mail: martin.kamenik@praha.eu
     tel: +420 236 002 133
+  - name: Jana Ohnoutková
+    position: sekretářka
+    mail: jana.ohnoutkova@praha.eu
 mail:
    - adam.zabransky@pirati.cz
 mob: +420 721 006 868
