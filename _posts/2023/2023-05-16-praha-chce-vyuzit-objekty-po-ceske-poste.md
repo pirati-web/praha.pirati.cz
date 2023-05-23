@@ -1,8 +1,8 @@
 ---
 title: "Hlavní město usiluje o objekty, kterých se Česká pošta zbavuje, s cílem vybudovat byty pro mladé"
-author: Piráti
+author: MHMP
 image:  posts/zabransky-okno.jpg
-tags:   [Bydlení]
+tags:   [Česká pošta, Bydlení]
 ---
 
 Prahu dlouhodobě trápí nedostatek nájemního bydlení. Výstavby nových bytů ale bohužel brzdí zdlouhavý proces schvalování jednotlivých projektů. Nové vedení města se proto snaží najít alternativy, jak potřebu bydlení pro své obyvatele saturovat, a podniká kroky, které by mohly této situaci alespoň částečně pomoci. Nyní řeší část objektu České pošty v Moravské ulici v Praze 2, kterého se podnik v rámci své restrukturalizace zbavuje.

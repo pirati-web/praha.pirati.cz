@@ -2,7 +2,7 @@
 title: "Praha získá pro letošní rok více než půl miliardy korun od státu na obnovu významných komunikací ve městě"
 author: MHMP
 image:  posts/hrib-smich.jpg
-tags:   [Doprava]
+tags:   [Barrandovský most, Doprava]
 ---
 
 Zastupitelstvo hl. m. Prahy na čtvrtečním jednání schválilo uzavření Smlouvy o poskytnutí finančních prostředků z rozpočtu Státního fondu dopravní infrastruktury (SFDI) na rok 2023. Bude se jednat celkem o částku ve výši 530 870 000 Kč, kterou hlavní město využije na financování oprav a údržby komunikací, které provizorně nahrazují části dosud nevybudovaného Pražského okruhu. Například se bude jednat o pokračující obnovu Barrandovského mostu, rekonstrukci části ulice Průmyslová nebo o instalaci protihlukových opatření v ulici 5. května.

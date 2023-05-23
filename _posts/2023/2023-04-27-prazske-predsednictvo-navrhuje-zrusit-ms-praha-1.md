@@ -1,6 +1,6 @@
 ---
 title: "Pražské předsednictvo navrhuje zánik místního sdružení Praha 1, je personálně i organizačně nefunkční"
-author: Piráti
+author: MHMP
 image:  posts/prahastrechy.jpg
 tags:   [Praha 1, Piráti]
 ---

@@ -2,7 +2,7 @@
 title: "Praha představila výsledky hospodaření metropole za rok 2022 v oblasti investic"
 author: MHMP
 image:  posts/novaradnice6.jpg
-tags:   [Investice]
+tags:   [Energetická krize, Doprava, Investice]
 ---
 
 Hlavní město v pondělí 17. 4. 2023 oznámilo výsledky investičního hospodaření metropole za rok 2022. Meziročně přitom Praha navýšila investice o 6,4 miliardy korun, za minulý rok celkem vykázala investice ve výši 16,5 miliard korun, což představuje nárůst o 66,9 % v porovnání s rokem 2021.

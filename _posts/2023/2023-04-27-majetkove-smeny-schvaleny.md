@@ -2,7 +2,7 @@
 title: "ZHMP schválilo majetkové směny se státem. Praha může zachránit Karlínská kasárna"
 author: MHMP
 image:  posts/zabransky-okno.jpg
-tags:   [majetek]
+tags:   [Majetkové směny se státem, Kasárna Karlín]
 ---
 
 Na svém čtvrtečním jednání Zastupitelstvo hl. m. Prahy schválilo návrh na směnu pozemků a staveb mezi hlavním městem a Českou republikou, který už předtím odsouhlasili pražští radní. Na základě dohody tak Praha definitivně vydá státu nemovitosti v areálu Fakultní nemocnice Bulovka, a naopak získá Karlínská kasárna a další majetek na Malé Straně, v Hybernské ulici nebo například v areálu TJ Sokol Praha Královské Vinohrady.

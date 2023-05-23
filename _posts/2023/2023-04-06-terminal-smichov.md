@@ -2,7 +2,7 @@
 title: "Praha získala územní rozhodnutí pro vybudování Terminálu Smíchov"
 author: MHMP
 image:  posts/ts.jpg
-tags:   [Doprava]
+tags:   [Doprava, Praha 5, Terminál Smíchov]
 ---
 
 Hlavní město dosáhlo významného milníku v přípravě stavby nového dopravního terminálu v prostoru Smíchovského nádraží v Praze 5. Aktuálně získalo pravomocné územní rozhodnutí. Stavba zahrne především zastřešení kolejiště a vznik autobusového nádraží na střeše, dokončena by mohla být už v roce 2028.

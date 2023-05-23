@@ -1,8 +1,8 @@
 ---
 title: "Praha vybere odborníky pro zajištění služeb, které povedou ke zvýšení kybernetické bezpečnosti"
-author: Piráti
+author: MHMP
 image:  posts/mazur1.jpg
-tags:   [Bydlení]
+tags:   [IT, Kyberbezpečnost]
 ---
 
 Pražští radní v pondělí 22. května 2023 schválili vyhlášení veřejné zakázky nazvané Zajištění analytických a konzultačních služeb pro oblast kybernetické bezpečnosti a zároveň rozhodli o samotném zahájení zadávacího řízení k veřejné zakázce. Cílem tohoto kroku je zvýšení odolnosti Magistrátu hl. m. Prahy vůči kybernetickým hrozbám a zároveň naplnění požadavků daných zákonem o kybernetické bezpečnosti.
