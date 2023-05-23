@@ -5,22 +5,18 @@ titles:
   before: Mgr.
   after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- dr
 img: people/frantisek-dosedel.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: zastupitel MČ Praha 3
 teamDescription:
-  dr: Zdroj pitné vody Káraný, a.s.
 funkce:
   - radní MČ Praha 3 pro sport, tělovýchovu a dotační politiku
   - zastupitel MČ Praha 3
-  - člen dozorčí rady Zdroj pitné vody Káraný, a.s.
   - místopředseda MS Praha 3
 mail: 
 - frantisek.dosedel@pirati.cz
 mob:
-orddr: 26
 profiles:
   github:       
   facebook: http://facebook.com/frantisek.dosedel

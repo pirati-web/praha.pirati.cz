@@ -4,13 +4,11 @@ name: Jiří Dohnal
 img: people/jiri-dohnal.jpg
 heroImg: Prague_panorama.jpeg
 category: 
-- dr
 partyUid: pirati
-description: radní MČ Praha 11
+description: zastupitel MČ Praha 11
 teamDescription:
-  dr: Výstaviště Praha, a.s.
 funkce: 
-  - radní MČ Praha 11
+  - zastupitel MČ Praha 11
 mail:
   - jiri.dohnal@pirati.cz
 mob: +420 778 421 040
@@ -18,7 +16,6 @@ profiles:
   facebook:  https://facebook.com/jiridohnal.praha11
   instagram: https://instagram.com/jiridohnal.praha11
   wikipedia: https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Dohnal_(politik)
-orddr: 25
 ---
 
 **Jiří Dohnal** je starosta městské části Praha 11 a zastupitel hl. m. Prahy za Piráty. Je rovněž i členem dozorčí rady společnosti Výstaviště Praha, a.s. Narodil se v Městci Králové, později žil v Poděbradech a poté od roku 1980 v Praze na Jižním městě, kde bydlí dodnes. 

@@ -12,8 +12,8 @@ profession: ekonom, interní auditor
 partyUid: pirati
 description: senátor za volební obvod 23 - Praha 8
 teamDescription:
-  dr: Pražská plynárenská, a.s.
   senat: senátor za vol. obvod 23 - Praha 8
+  dr: Pražské služby, a.s.
 mob: +420 608 303 542
 mail:
  - wagenknechtl@senat.cz
@@ -26,7 +26,7 @@ profiles:
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=luk%C3%A1%C5%A1%20wagenknecht 
 funkce:
   - senátor za volební obvod 23 - Praha 8
-  - člen <a href="https://ppas.cz/o-nas">dozorčí rady Pražské plynárenské, a.s.</a>
+  - člen dozorčí rady Pražské služby
 asistenti:
   - name: Ing. Karolína Ždárská
     position: Asitentka

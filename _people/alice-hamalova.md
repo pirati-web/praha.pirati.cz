@@ -2,13 +2,11 @@
 uid: alice.hamalova
 name: Alice Hamalová	# běžně používáné jméno
 category:
- - dr
 img: people/alice-hamalova.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: členka KS Praha
 teamDescription:
-  dr: Želivská provozní, a.s
 mail:
   - alice.hamalova@pirati.cz
 mob: +420 777 699 091
@@ -17,8 +15,6 @@ profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/alice.hamalova
   evidence: https://evidence.pirati.cz/
 funkce:
-  - členka <a href="https://www.zelivska.cz/zepro-o-nas.html">dozorčí rady Želivské provozní a.s</a>
-orddr: 28
 ---
 
 **Alice Hamalová (1990) byla ve volebním období 2018–2022 zastupitelkou za Piráty v MČ Praha 8 a členkou dozorčí rady ve společnosti Želivská provozní, a.s..**
