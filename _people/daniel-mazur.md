@@ -22,7 +22,7 @@ funkce:
   - člen výboru ZHMP pro bezpečnost a pro prevenci kriminality
   - člen výboru ZHMP pro strategický a hospodářský rozvoj a podporu podnikání a inovací
   - garant programového bodu Vzdělávání a věda
-  - člen Komise pro mimoškolní vzdělávání a výchovu RHMP
+  - člen Komise RHMP pro mimoškolní vzdělávání a výchovu
 mail:
 - daniel.mazur@pirati.cz
 mob: +420 602 439 639

@@ -21,8 +21,8 @@ funkce:
   - členka výboru ZHMP pro dotační vztahy a vztahy k městským částem 
   - členka výboru ZHMP pro výchovu a vzdělávání
   - zastupitelka MČ Praha 10
-  - předsedkyně komise pro udělování grantů v oblasti životního prostředí RHMP
-  - místopředsedkyně Komise pro klima RHMP
+  - předsedkyně Komise RHMP pro udělování grantů v oblasti životního prostředí
+  - místopředsedkyně Komise RHMP pro klima
 mail:
   - jana.komrskova@pirati.cz
 asistenti:

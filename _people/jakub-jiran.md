@@ -17,6 +17,7 @@ profiles:
 funkce:
   - člen dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
   - zastupitel MČ Praha 8
+  - člen Komise RHMP pro parkování a silniční dopravu
 orddr: 1
 
 ---

@@ -19,6 +19,7 @@ funkce:
   - člen výboru ZHMP pro správu majetku
   - člen výboru ZHMP pro strategické investice
   - člen výboru ZHMP strategický a hospodářský rozvoj a podporu podnikání a inovací
+  - člen Majetkové komise RHMP
 asistenti:
   - name: Mgr. Eva Horáková
     position: poradkyně

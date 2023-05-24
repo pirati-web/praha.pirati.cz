@@ -19,8 +19,8 @@ partyUid: pirati
 funkce: 
   - radní hl. města pro majetek, legislativu a transparentnost
   - předseda Inventarizační komise RHMP
-  - předseda Mmajetková komise RHMP
-  - předseda Komise pro předzahrádky, stánky a trhy RHMP
+  - předseda Majetkové komise RHMP
+  - předseda Komise RHMP pro předzahrádky, stánky a trhy
 asistenti:
   - name: Mgr. Martin Kameník
     position: vedoucí sekretariátu
