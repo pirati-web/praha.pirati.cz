@@ -2,7 +2,7 @@
 title: "Na Štvanickou lávku přivážejí poslední díly, hotová bude před létem"
 author: MHMP
 image:  posts/7hrib.jpg
-tags:   [Doprava]
+tags:   [Doprava, Štvanická lávka]
 ---
 
 Stavba lávky, která spojí Holešovice s Karlínem přes ostrov Štvanice, je ve finální fázi. Mostní specialisté Skanska usazují poslední betonové segmenty u holešovického břehu, následovat bude jejich definitivní spojení a dokončovací práce. Tři sta metrů dlouhý most pro pěší a cyklisty se otevře počátkem léta.

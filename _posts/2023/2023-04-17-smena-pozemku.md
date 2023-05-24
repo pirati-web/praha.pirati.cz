@@ -2,7 +2,7 @@
 title: "Praha smění se státem majetek v areálu nemocnice Bulovka a naopak získá mimo jiné Karlínská kasárna"
 author: MHMP
 image:  posts/adamform.jpg
-tags:   [Majetek]
+tags:   [Majetkové směny se státem, Praha 8]
 ---
 
 Rada hl. m. Prahy na jednání v pondělí 17. 4. 2023 odsouhlasila návrh na směnu pozemků a staveb mezi hlavním městem a Českou republikou a v souvislosti s tím také samotnou směnnou smlouvu. V rámci dohody by měla Praha vydat státu nemovitosti v areálu Fakultní nemocnice Bulovka a naopak by měla získat Karlínská kasárna a další majetek na Malé Straně, v Hybernské ulici nebo například v areálu TJ Sokol Praha Královské Vinohrady. Směnu musí na svém příštím jednání ještě schválit Zastupitelstvo hl. m. Prahy.

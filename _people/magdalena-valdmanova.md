@@ -1,6 +1,6 @@
 ---
 uid: magdalena.valdmanova
-name:     Magdalena Valdmanová  	# běžně používáné jméno
+name: Magdalena Valdmanová
 titles:
   before:
   after:
@@ -19,13 +19,19 @@ funkce:
   - členka výboru pro kulturu, památkovou péči, výstavnictví a podporu cestovního ruchu
   - členka výboru pro národnostní menšiny
   - členka výboru pro rodinnou politiku a sociální oblast
+  - členka Komise RHMP pro oblast integrace cizinců
 mail:
 - magdalena.valdmanova@pirati.cz
 mob:
 asistenti:
+  - name: Ing. Monika Weinerová
+    position: poradkyně
+    mail: monika.weinerova@praha.eu
+asistenti:
   - name: Jovana Perovič
-    position: asistentka
-    mail: jovana.perovic@praha.eu				  
+    position: sekretářka
+    mail: jovana.perovic@praha.eu
+				  
 profiles:
   github:     
   facebook: https://www.facebook.com/valdmanova.pirati	

@@ -2,7 +2,7 @@
 title: "Do vzácných přírodních oblastí Prahy se opět vracejí stáda skotu, ovcí a koz"
 author: MHMP
 image:  posts/novaradnice2.jpg
-tags:   [Životní prostředí]
+tags:   [Životní prostředí, ZOO Praha]
 ---
 
 Se závěrem měsíce dubna začínají znovu vypásat vybrané pražské lokality první stáda dobytka. Pro letošní rok je připravena řízená pastva pomocí dvou stád skotu i čtyř smíšených stád ovcí a koz. Hlavní město tak zajišťuje na zvláště chráněných územích metropole přírodě šetrné obhospodařování svých pozemků. Díky pastvě, která zde byla obnovena v roce 2000, se také daří v těchto lokalitách udržet druhovou pestrost. Pražané mohou už nyní zvířata pozorovat třeba v Oboře Hvězda, brzy budou další k vidění také v Prokopském a Šáreckém údolí nebo například u sídliště Kamýk.

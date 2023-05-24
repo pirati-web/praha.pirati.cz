@@ -1,8 +1,8 @@
 ---
 title: "První rok výstavby metra D: vyraženo je 1,6 kilometru tunelů"
-author: Piráti
+author: MHMP
 image:  posts/metro-d-vizualizace.jpg
-tags:   [Doprava]
+tags:   [Doprava, Metro D]
 ---
 
 Zhruba před rokem začal Dopravní podnik hl. m. Prahy (DPP) s výstavbou prvního úseku metra D Pankrác – Olbrachtova. V současnosti je vyraženo celkem 1,6 kilometru tunelů. Prvních 520 metrů tunelů vzniklo při geologickém průzkumu a další zhruba kilometr vyrazili zhotovitelé od zahájení stavby. DPP za loňský a letošní rok investoval do výstavby bezmála 1,8 miliardy korun. Ražby na prvním úseku budou pokračovat ještě necelé tři roky, zhruba do přelomu let 2025 a 2026. Zahájení výstavby druhého úseku od stanice Olbrachtova po Nové Dvory předpokládá DPP letos na podzim. Práce má na starost konsorcium společností Subterra, HOCHTIEF CZ a STRABAG.

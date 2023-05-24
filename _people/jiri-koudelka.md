@@ -5,16 +5,13 @@ titles:
   before: Mgr.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- dr
 img: people/jiri-koudelka.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: člen dozorčí rady společnosti Operátor ICT, a.s.
+description: zastupitel MČ Praha 13
 teamDescription:
-  dr: Operátor ICT, a.s.
 funkce:
   - zastupitel MČ Praha 13
-  - člen dozorčí rady společnosti Operátor ICT, a.s.
 mail:
 - jiri.koudelka@pirati.cz
 mob:

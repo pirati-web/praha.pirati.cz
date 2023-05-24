@@ -19,6 +19,9 @@ funkce:
   - členka výboru ZHMP pro legislativu, veřejnou správu a tuzemské vztahy
   - členka výboru ZHMP pro národnostní menšiny
   - členka výboru ZHMP pro územní rozvoj
+  - předsedkyně Komise RHMP pro cyklodopravu
+  - místopředsedkyně Komise RHMP pro předzahrádky, stánky a trhy
+  - členka Komise RHMP pro Fond spoluúčasti investorů na rozvoji území
 mail:
 - bara.soukupova@pirati.cz
 mob: "+420 737 803 982"

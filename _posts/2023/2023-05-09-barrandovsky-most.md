@@ -1,8 +1,8 @@
 ---
 title: "V pondělí 15. května odstartuje II. etapa rekonstrukce Barrandovského mostu, částečná omezení budou již o víkendu"
-author: Piráti
+author: MHMP
 image:  posts/hrib-barrandovskymost.jpg
-tags:   [Doprava]
+tags:   [Barrandovský most, Doprava]
 ---
 
 V pondělí 15. května vyjedou na Barrandovský most stavební stroje a začnou tak hlavní práce druhé etapy rekonstrukce mostu. Řidiči nicméně musí počítat s postupným omezováním dopravy již od soboty 13. května, které bude trvat dva dny. V letošním roce se bude v rámci rekonstrukce odstraňovat mostní svršek a stávající vybavení na severní polovině jižního mostu a na barrandovské rampě z ulice K Barrandovu.

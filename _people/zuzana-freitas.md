@@ -19,6 +19,8 @@ funkce:
   - členka výboru ZHMP pro bydlení a bytovou výstavbu
   - členka výboru ZHMP pro rodinnou politiku a sociální oblast
   - členka výboru ZHMP pro zdravotnictví a prevenci civilizačních chorob
+  - členka Komise RHMP pro plánování a financování sociálních služeb
+  - členka Komise RHMP pro udělování grantů v oblasti národnostních menšin a integrace cizinců
 mail:
 - zuzana.freitas@pirati.cz
 mob: "+420 776 278 860"

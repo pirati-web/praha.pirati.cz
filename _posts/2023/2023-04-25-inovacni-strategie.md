@@ -1,6 +1,6 @@
 ---
 title: "Praha schválila technickou aktualizaci své inovační strategie"
-author: Piráti
+author: MHMP
 image:  posts/mazur.jpg
 tags:   [IT]
 ---

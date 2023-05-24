@@ -21,6 +21,9 @@ funkce:
   - 1. náměstek primátora hl. města pro dopravu
   - zastupitel hlavního města Prahy
   - předseda dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
+  - předseda Řídící rady společného integrovaného dopravního systému Prahy a Středočeského Kraje 
+  - člen Komise RHMP pro vznik koncertního sálu hl. m. Prahy - Vltavská filharmonie
+  - člen Komise RHMP pro klima
 mail:
 - zdenek.hrib@pirati.cz
 mob: +420 602 560 028
@@ -28,19 +31,24 @@ asistenti:
   - name: Mgr. Marek Šafra
     position: vedoucí sekretariátu
     mail: marek.safra@praha.eu
-  - name: Bc. Martina Vacková
-    position: mluvčí Zdeňka Hřiba
-    mail: martina.vackova@praha.eu
-    mob: +420 735 926 422
   - name: Veronika Kubičková
-    position: asistentka
+    position: poradkyně
     mail: veronika.kubickova@praha.eu
+  - name: Bc. Marek Bělor
+    position: poradce
+    mail: marek.belor@praha.eu
+  - name: Ing. arch. Václav Brejška
+    position: poradce
+    mail: vaclav.brejska@praha.eu
   - name: Mgr. Tomáš Vovsík
-    position: asistent
+    position: poradce
     mail: tomas.vovsik@praha.eu
   - name: Adéla Jankevič
     position: sekretářka
     mail: adela.jankevic@praha.eu
+  - name: Anna Cozlová
+    position: sekretářka
+    mail: anna.cozlova@praha.eu
 profiles:
   facebook:  https://www.facebook.com/zdenek.hrib.primator/
   twitter:   https://twitter.com/ZdenekHrib
@@ -67,6 +75,6 @@ V roce 2022 byl zvolen členem výboru ZHMP pro zdravotnictví.
 
 V roce 2023 byl v nové koalici zvolen 1. náměstkem primátora zodpovědným za oblast dopravy.
 
-### Transparentnost 
+### Otevřený kalendář
 
 <iframe src="https://posta16.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/4bb3b7813d634d4eb7340489c556118811534601839406330643/calendar.html" style="border: 0" width="800" height="800" frameborder="0" scrolling="no"></iframe>

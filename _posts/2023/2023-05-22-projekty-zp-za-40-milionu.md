@@ -1,8 +1,8 @@
 ---
 title: "Praha dá na zlepšení životního prostředí 40 milionů korun, připraveno je 130 projektů"
-author: Piráti
+author: MHMP
 image:  posts/jana-komrskova.jpg
-tags:   [Bydlení]
+tags:   [Životní prostředí]
 ---
 
 Rada hlavního města odsouhlasila poskytnutí dotací pro 130 projektů na zlepšení životního prostředí v Praze. Celkem 40 milionů korun půjde na veřejnou zeleň, ekologickou výchovu či záchranu ohrožených druhů zvířat.

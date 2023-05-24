@@ -1,6 +1,6 @@
 ---
 title: "Kapacity středních škol před Piráty nikdo neřešil, v minulém období jsme přidali několik stovek nových míst"
-author: Piráti
+author: MHMP
 image:  posts/novaradnice5.jpg
 tags:   [Školství]
 ---

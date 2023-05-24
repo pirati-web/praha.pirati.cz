@@ -2,7 +2,7 @@
 title: "Představitelé hlavního města vyzvali skupinu Poslední generace k ukončení blokád a k věcné diskuzi o rychlosti 30 km/h v Praze"
 author: MHMP
 image:  posts/novaradnice4.jpg
-tags:   [Investice]
+tags:   [Doprava]
 ---
 
 Ve čtvrtek dopoledne se sešli zástupci vedení hlavního města a městských částí k jednání se skupinou Poslední generace, která požaduje změnu rychlosti na 30 km/h na území Prahy. Vedení města deklarovalo, že ochrana klimatu a bezpečnosti obyvatel je jejich prioritou. Zástupcům skupiny vysvětlili, že případné změny v rychlosti v obytných zónách podléhají schválení dopravních odborů jednotlivých městských částí. Přislíbili také, že vyzvou jednotlivé radnice k revizi dopravních režimů.

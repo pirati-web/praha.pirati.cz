@@ -18,7 +18,7 @@ mail:
 mob: +420 602 406 504 	
 asistenti:
   - name: Šárka Václavíková
-    position: asistentka
+    position: sekretářka
     mail: sarka.vaclavikova@praha.eu		 
 profiles:
   github:       
