@@ -35,6 +35,9 @@ asistenti:
   - name: Mgr. Michaela Marešová
     position: poradkyně
     mail: michaela.maresova@praha.eu
+  - name: Mgr. Vratislav Filípek
+    position: poradce
+    mail: vratislav.filipek@praha.eu
   - name: Blanka Bidmonová
     position: sekretářka
     mail: blanka.bidmonova@praha.eu
