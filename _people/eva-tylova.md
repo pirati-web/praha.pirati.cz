@@ -21,7 +21,8 @@ funkce:
   - členka výboru ZHMP pro životní prostředí, veřejný prostor a pohřebnictví
 mail:
 - eva.tylova@ecn.cz
-mob:			 
+mob:
+- +420 608 166 063
 ordvyb: 27
 profiles:
   github:       
