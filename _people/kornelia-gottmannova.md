@@ -6,7 +6,6 @@ titles:
   after:
 category:
 - pks
-- vybor
 img: people/kornelia-gottmannova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
@@ -14,12 +13,10 @@ profession: konzultantka činností v oblasti leadershipu
 description: místopředsedkyně KS Praha
 teamDescription:
   pks: místopředsedkyně KS Praha
-  vybor: členka výboru pro životní prostředí
 funkce: 
  - místopředsedkyně KS Praha
  - místopředsedkyně MS Praha 9
  - zastupitelka MČ Praha 9
- - členka výboru ZHMP pro životní prostředí, veřejný prostor a pohřebnictví
 mail:
 - kornelia.gottmannova@pirati.cz
 mob: +420 777 065 665	 
