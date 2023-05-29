@@ -13,7 +13,7 @@ teamDescription:
   vybor: člen výboru ZHMP pro energetiku 
 mail:
   - vaclav.vislous@pirati.cz
-mob:			 
+mob: +420 777 954 389
 profiles:
   github:       
   facebook: https://www.facebook.com/vaclavvislous 

@@ -11,7 +11,7 @@ teamDescription:
 partyUid: pirati
 mail:
 - jana.kabelova@pirati.cz
-mob:			 
+mob: +402 724 749 175		 
 funkce:
  - členka výboru ZHMP pro životní prostředí, veřejný prostor a pohřebnictví
 profiles:
