@@ -78,7 +78,7 @@ Do roku 2030 se dostaneme do stavu, kdy Praha každý rok postaví 500 obecních
 <li> Získali jsme od státu Kasárna Karlín, kde vznikne studentské bydlení, a pozemky v lokalitě Bohdalec-Slatiny, kde vznikne městské bydlení.</li>
 <li> Opravili jsme více než 1100 městských bytů a snížili počet prázdných bytů na méně než polovinu oproti původnímu stavu.</li>
 <li> Schválili jsme metodiku, podle které jsou <a href="https://pdspraha.eu/zadani-investora-pro-mestskou-bytovou-vystavbu">definovány parametry nového městského bydlení.</a></li>
-<li> Do historicky první pražské metodiky kontribucí developerů jsme <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_ma_nov a_pravidla_pro_developery.html">prosadili možnost města či městských částí požadovat v nové developerské výstavbě dostupné bydlení.</a></li>
+<li> Do historicky první pražské metodiky kontribucí developerů jsme <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_ma_nova_pravidla_pro_developery.html">prosadili možnost města či městských částí požadovat v nové developerské výstavbě dostupné bydlení.</a></li>
 </ul>
 </blockquote>
 </div>

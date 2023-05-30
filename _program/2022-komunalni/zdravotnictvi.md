@@ -85,7 +85,7 @@ Kvalitní prevence, včasná intervence, komunitní multidisciplinární týmy, 
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
-<li> Schválili jsme <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/hlavni_mesto_ma_ plan_regionalni_pece_v.html">dlouhodobý plán regionální péče v oblasti duševního zdraví v Praze</a>.</li>
+<li> Schválili jsme <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/hlavni_mesto_ma_plan_regionalni_pece_v.html">dlouhodobý plán regionální péče v oblasti duševního zdraví v Praze</a>.</li>
 <li> Podepsali jsme <a href="http://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=137175234242237198188175252242237198185175249242237198185175246242237198185&id=605595">memorandum s Ministerstvem zdravotnictví o spolupráci na reformě psychiatrické péče</a>.</li>
 <li> Pronajali jsme desítky bytů lidem s duševním onemocněním a další byty jsme pronajali neziskovým organizacím na realizaci chráněného bydlení.</li>
 <li> Duševní zdraví se v tomto volebním období stalo <a href="https://www.praha.eu/jnp/cz/o_meste/zivot_v_praze/zdravotni_a_socialni_oblast/dusevni_zdravi_novou_prioritou_prahy.html">jednou z priorit Prahy</a>.</li>
