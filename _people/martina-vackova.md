@@ -34,8 +34,8 @@ První kontakt s Piráty navázala jako externí produkční v rámci přípravy
 ### Další informace
 
 * Název pozice: PR manažer a mluvčí pražských Pirátů
-* [Náplň pozice](/assets/pdf/napln-prace/vackova.pdf)
-* Profesní životopis:[/assets/pdf/cv/vackova.pdf](/assets/pdf/cv/vackova.pdf)
+* [Náplň pozice](https://mrak.pirati.cz/apps/files/?dir=/Assets/praha/pdf/napln-prace&openfile=693268)
+* Profesní životopis:[/assets/pdf/cv/vackova.pdf](https://mrak.pirati.cz/apps/files/?dir=/Assets/praha/pdf/cv&openfile=693288)
 * Výběrové řízení na uvedenou pozici: [https://forum.pirati.cz/viewtopic.php?f=572&t=44405](https://forum.pirati.cz/viewtopic.php?f=572&t=44405)
 * Smlouva mezi Martinou Vackovou a Českou pirátskou stranou: [https://smlouvy.pirati.cz/smlouvy/2018/12/12/martina-vackova-pr-manager/](https://smlouvy.pirati.cz/smlouvy/2018/12/12/martina-vackova-pr-manager/)
 * Dodatek k výše uvedené smlouvě (duben 2019) [https://smlouvy.pirati.cz/smlouvy/2019/04/01/MVackova_dodatek/](https://smlouvy.pirati.cz/smlouvy/2019/04/01/MVackova_dodatek/)
