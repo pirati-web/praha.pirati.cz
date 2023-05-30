@@ -44,7 +44,7 @@ Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se
 
 * Všechny pohyby na [**transparentním účtu**](https://ucet.pirati.cz) jsou zcela veřejné a můžete je porovnat s našim <a href="https://piroplaceni.pirati.cz">otevřeným účetnictvím</a>.
 
-* Zastupitelský klub zveřejňuje [**lobbistické kontakty v Redmine**](https://redmine.pirati.cz/projects/praha/issues?utf8=%E2%9C%93&set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=13&f[]=&c[]=tracker&c[]=status&c[]=priority&c[]=subject&c[]=assigned_to&c[]=updated_on&group_by=) nebo v [**centrální evidenci lobbistickým kontaktů Pirátské strany**](http://evidence.pirati.cz). Tato evidence se řídí <a href="https://www.pirati.cz/rules/prl">Předpisem o lobbingu</a>.
+* Zastupitelský klub zveřejňuje [**lobbistické kontakty v Redmine**](https://redmine.pirati.cz/projects/praha/issues?utf8=%E2%9C%93&set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=13&f[]=&c[]=tracker&c[]=status&c[]=priority&c[]=subject&c[]=assigned_to&c[]=updated_on&group_by=) nebo v [**centrální evidenci lobbistickým kontaktů Pirátské strany**](http://evidence.pirati.cz). Tato evidence se řídí <a href="https://wiki.pirati.cz/rules/prl">Předpisem o lobbingu</a>.
 
 * **Námi vydávané Pirátské listy** jsou evidovány na webu [piratskelisty.cz](https://www.piratskelisty.cz/clanek-2015-vsechny-verze-kvetnovych-piratskych-listu-ve-formatu-pdf).
 
