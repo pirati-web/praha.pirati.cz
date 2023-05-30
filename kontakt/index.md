@@ -38,7 +38,7 @@ contactSummaryItems:
 Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se můžete k pražskému sdružení nebo k [jednotlivým místním sdružením, které jsou v městských částech](/lide/mestske-casti) po celé Praze.
 
 # Jsme transparentní!
-* **Odměny za veřejné funkce** [zveřejňujeme v evidenci](https://nalodeni.pirati.cz/odmeny). Odměny z volebního období 2014–2018 [jsou zveřejněny na GitHubu](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny).
+* **Odměny za veřejné funkce** [zveřejňujeme v evidenci](https://nalodeni.pir-test.eu/odmeny/). Odměny z volebního období 2014–2018 [jsou zveřejněny na GitHubu](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny).
 
 * **Veškeré smlouvy** evidujeme v [Registru smluv](http://smlouvy.pirati.cz).
 
