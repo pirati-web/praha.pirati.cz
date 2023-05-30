@@ -254,18 +254,6 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 </div>  
 </article>    
   
-<article class="card card--hoveractive">
-<a href="https://reporyje.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha-reporyje.png" alt="MS Praha–Řeporyje" /></a>
-<div class="card__body p-4">
-<h1 class="card-headline mb-2">MS Praha–Řeporyje</h1> 
-<p class="card-body-text">Jan Liška<br /><a href="mailto:jan.liska@pirati.cz">jan.liska@pirati.cz</a></p>
-<br />
-   <div class="social-icon-group space-x-2 ">
-      <a href="https://forum.pirati.cz/viewforum.php?f=1454" class="social-icon "><i class="ico--bubbles"></i></a>   
-   </div>
-</div>  
-</article>      
-  
   
 </div>
 </main>
