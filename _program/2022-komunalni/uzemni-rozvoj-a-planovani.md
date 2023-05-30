@@ -201,7 +201,7 @@ měsíců, stejně jako jinde v Evropě, a budou zárukou jejich po všech strá
 <li> <a href="https://praha.pirati.cz/aktuality/metropolitni-plan.html">Piráti byli první, kdo Metropolitní plán Prahy zveřejnili</a>.</li>
 <li> Podávali jsme připomínky k návrhu Metropolitního plánu.</li>
 <li> Dlouhodobě podporujeme vznik regulačních plánů. Regulační plány byly prioritou Pirátů při jednání o Stavebním zákoně ve Sněmovně v letech 2019–2021, kdy jsme na to téma zorganizovali v roce 2019 mezinárodní <a href="(https://www.frantisekelfmark.cz/prace-seminar-stavebni-pravo-a-regulacni-plany/">seminář Rekodifikace stavebního práva cestou regulačních plánů</a>.</li>
-<li> Na MMR i díky naší iniciativě vznikl v roce 2020 <a href="http://www.uur.cz/images/8-stanoviska-a-metodiky/od-01-01-2018/40-regulacni-plan-otazky-a-odpovedi-mmr-20715-2020-07-01.pdf">metodický materiál osvětlující praktickou funkci regulačních plánů v praxi</a>.</li>
+<li> Na MMR i díky naší iniciativě vznikl v roce 2020 metodický materiál osvětlující praktickou funkci regulačních plánů v praxi.</li>
 </ul>
 </blockquote>
 </div>
