@@ -128,11 +128,11 @@ Centrum města bude skutečným domovem pro své obyvatele a ne jen atrakcí pro
 <div class="text">
 <blockquote style="border:margin:1em;1px solid black;padding:1em">  
 <ul>
-<li> <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_a_ombu dsman_krecek_vyzyvaji.html">Přesvědčovali jsme Ministerstvo pro místní rozvoj, že stavební úřady musejí řešit rozpor mezi účelem, na který byl byt kolaudován, a jeho reálným využitím.</a></li>
-<li> <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_chce_pr osadit_novelu.html">Vyzvali jsme vládu, aby dala obcím pravomoc regulovat krátkodobé ubytování v bytech.</a></li>
+<li> <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_a_ombudsman_krecek_vyzyvaji.html">Přesvědčovali jsme Ministerstvo pro místní rozvoj, že stavební úřady musejí řešit rozpor mezi účelem, na který byl byt kolaudován, a jeho reálným využitím.</a></li>
+<li> <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_chce_prosadit_novelu.html">Vyzvali jsme vládu, aby dala obcím pravomoc regulovat krátkodobé ubytování v bytech.</a></li>
 <li> <a href="http://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=155193252004255216206193014004255216203193011004255216204193008004255216204&id=604917">Za Prahu jsme Sněmovně předložili návrh změny živnostenského zákona, který by dal obcím pravomoce regulovat krátkodobé ubytování v bytech.</a></li>
-<li> <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_opakov ane_zada_snemovnu_o_zmocneni.html">Potřebnou změnu zákonů prosazujeme i u nové vlády.</a></li>
-<li> <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/hlavni_mesto_ spousti_bezplatnou_pravni.html">Spustili jsme bezplatnou právní pomoc pro lidi zatížené krátkodobým ubytováním v bytech.</a></li>
+<li> <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_opakovane_zada_snemovnu_o_zmocneni.html">Potřebnou změnu zákonů prosazujeme i u nové vlády.</a></li>
+<li> <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/hlavni_mesto_spousti_bezplatnou_pravni.html">Spustili jsme bezplatnou právní pomoc pro lidi zatížené krátkodobým ubytováním v bytech.</a></li>
 </ul>
 </blockquote>
 </div>
@@ -251,7 +251,8 @@ Pražané, kteří se ocitnou v bytové nouzi, neupadnou do bezdomovectví díky
 <li> Založili jsme <a href="http://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=042080139147142103093080157147142103090080154147142103090080151147142103090&id=603056">Sociální nadační fond hl. m. Prahy určený na pomoc Pražanům v nouzi</a> v případech, které nejsou schopny řešit současné systémy státní pomoci.
 <li> Schválili jsme ambiciózní <a href="https://iprpraha.cz/uploads/assets/dokumenty/strategie_rozvoje_bydleni.pdf">Strategii rozvoje dostupného bydlení v hl. m. Praze</a>.
 <li> Schválili jsme <a href="http://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=112150209217212173163150227217">Strategii prevence a řešení zadlužování nájemníků](), díky níž se nám daří snižovat zadlužení nájemníků městských bytů</a>.
-<li> Otevřeli jsme <a href="https://nabytkovka.cz">městskou nábytkovou banku</a>.<li>Podílíme se na reformě péče o duševní zdraví a transformujeme ústavní zařízení zřizované Prahou, aby lidé mohli žít v přirozeném prostředí a ne v ústavech; za tímto účelem jsme pronajali již více než 60 bytů.</li>
+<li> Otevřeli jsme <a href="https://nabytkovka.cz">městskou nábytkovou banku</a>.
+<li>Podílíme se na reformě péče o duševní zdraví a transformujeme ústavní zařízení zřizované Prahou, aby lidé mohli žít v přirozeném prostředí a ne v ústavech; za tímto účelem jsme pronajali již více než 60 bytů.</li>
 </ul>
 </blockquote>
 </div>
