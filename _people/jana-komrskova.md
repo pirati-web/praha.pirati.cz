@@ -45,7 +45,6 @@ profiles:
   facebook:  https://www.facebook.com/komrskova.jana
   instagram: https://www.instagram.com/komrskovajana
   twitter:   https://twitter.com/JKomrskova
-  linkedin:  https://www.linkedin.com/in/jana-komrskov%C3%A1-ab621157/
 mob: +420 605 205 770
 ordrhmp: 2
 ordmhmp: 5
