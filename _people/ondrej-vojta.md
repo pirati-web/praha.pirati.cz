@@ -17,16 +17,15 @@ funkce:
   - zastupitel MČ Praha-Petrovice
   - 1. místopředseda KS Praha
 mail:
-  - ondrej.vojta@pirati.cz
-mob: +420 736 726 061		 
-profiles:   
-  facebook:  https://www.facebook.com/OndrejVojta.Pirati/
-  twitter:   https://twitter.com/Ondra_Vojta		  
-ordpks: 2		  
+- ondrej.vojta@pirati.cz
+mob: +420 736 726 061			 
+profiles:
+  github:       
+  facebook:  https://www.facebook.com/OndrejVojta.Pirati.Petrovice/
+  twitter: 		  
+  flickr:		  
 ---
 
-**Ondřej Vojta** (* 20. května 2000) je členem České pirátské strany a od listopadu 2022 je 1. místopředsedou KS Praha. Žije v Petrovicích, kde je od komunálních voleb v září 2022 zastupitelem. Je studentem multimediální tvorby.
+**Ondřej Vojta** (* 20. května 2000) je člen České pirátské strany žijící v pražských Petrovicích. Studuje marketing na VŠEM a pracuje jako kreativec pro SH ČMS. Je členem komise prevence kriminality Rady hl. m. Prahy, také členem komise pro životní prostředí a povodňové na své MČ.
 
-Ve volebním období 2018 až 2022 byl členem komise prevence kriminality rady hl. m. Prahy, také členem povodňové komise na své městské části.
-
-V Dolních Měcholupech je členem tamního Sboru dobrovolných hasičů. V rámci "hasičiny" se zapojuje do akcí napříč celou republikou. Je členem pražského pirátského resortního týmu bezpečnosti, zajímá se taktéž o témata volného času mládeže a o sport.
+V Dolních Měcholupech je členem tamního Sboru dobrovolných hasičů. Působí ve Výkonném výboru Městského sdružení hasičů hl. m. Prahy a v představenstvu České rady dětí a mládeže. V rámci „hasičiny" se tak zapojuje do akcí napříč celou republikou. V pirátské straně je členem pražského expertního týmu bezpečnosti, zajímá se taktéž o témata volného času mládeže a o sport.
