@@ -16,4 +16,4 @@ Krizový štáb dále doporučil, aby ve všech vchodech do magistrátních budo
 
 ### Odkazy 
 
-* [Textový výstup z jednání krizového štábu dne 3. 4. 2020](/assets/pdf/ks-vystup5.pdf)
+* [Textový výstup z jednání krizového štábu dne 3. 4. 2020](https://a.pirati.cz/praha/pdf/ks-vystup5.pdf)

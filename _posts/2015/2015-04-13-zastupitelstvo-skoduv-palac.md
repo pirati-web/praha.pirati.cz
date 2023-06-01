@@ -14,6 +14,6 @@ Mikuláš Ferjenčík, zastupitel Pirátů, k návrhu říká: "Přijde nám nap
 
 Jakub Michálek, předseda zastupitelského klubu Pirátů doplňuje: "Tímto návrhem chceme zlepšit vnitřní kontrolní systém města a ztížit pokusy o nelegitimní vyvádění majetku Prahy. Jde o jasné potvrzení toho, že poměry v Praze již nejsou takové jako za Rady primátora Pavla Béma."
 
-Piráti proto připravili [návrh](/assets/pdf/Navrh_vyhrazeni.pdf), který by měl vyhradit novou pravomoc Zastupitelstvu hlavního města Prahy, a to rozhodovat o všech zakázkách ve výši nad 50 milionů Kč, týkajících se pronájmu již existujících budov. 
+Piráti proto připravili [návrh](https://a.pirati.cz/praha/pdf/Navrh_vyhrazeni.pdf), který by měl vyhradit novou pravomoc Zastupitelstvu hlavního města Prahy, a to rozhodovat o všech zakázkách ve výši nad 50 milionů Kč, týkajících se pronájmu již existujících budov. 
 
 

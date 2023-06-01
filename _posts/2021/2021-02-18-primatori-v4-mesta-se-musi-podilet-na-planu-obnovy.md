@@ -16,4 +16,4 @@ Primátoři vyzvali vlády členských států a Evropskou komisi k tomu, aby se
 
 ### Odkazy 
 
-* [Otevřený dopis primátorů metropolí V4 (anglicky)](/assets/pdf/covid/v4.pdf)
+* [Otevřený dopis primátorů metropolí V4 (anglicky)](https://a.pirati.cz/praha/pdf/covid/v4.pdf)

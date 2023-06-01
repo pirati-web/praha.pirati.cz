@@ -5,23 +5,16 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- mhmp
-- praha
-- pks
-ordpks: 3
+  - vybor
 img: people/jan-hora-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: místopředseda KS Praha
+description: zastupitel MČ Praha 4
 teamDescription:
-  pks: místopředseda KS Praha
-  mhmp: zastupitel hl. města Prahy
+  vybor: člen výboru pro bezpečnost a pro prevenci kriminality 
 funkce:
-  - místopředseda KS Praha
-  - zastupitel hl. města Prahy
   - zastupitel MČ Praha 4
-  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594">Výboru pro bezpečnost ZHMP</a>
-  - člen komise pro IT RHMP
+  - člen výboru ZHMP pro bezpečnost a pro prevenci kriminality 
 mail:
 - jan.hora@pirati.cz
 mob: "+420 775 608 734"
@@ -31,7 +24,6 @@ profiles:
   instagram: https://www.instagram.com/piratjanhora/
   twitter:   https://twitter.com/jan_hora  
   flickr:		  
-ordmhmp: 6
 ---
 
 **Jan Hora** je členem výboru pro bezpečnost ZHMP, členem komise pro IT RHMP a zastupitel hl. města Prahy za Piráty. Je rovněž členem výboru pro bezpečnost, vedoucím komise rady pro IT a zastupitelem na městské části Praha 4. Pochází z Prahy 4.

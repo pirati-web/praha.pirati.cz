@@ -3,11 +3,10 @@ uid: zuzana.ujhelyiova
 name: Zuzana Ujhelyiová
 titles:
   before: Mgr. 
-
 category:
 img: people/zuzana-ujhelyiova.jpg
 heroImg: Prague_panorama.jpeg
-description: zastupitelka MČ Praha 11
+description: členka MS Praha 11
 partyUid: pirati
 mail:
   - zuzana.ujhelyiova@pirati.cz
@@ -17,9 +16,7 @@ profiles:
   twitter: 		  
   flickr:
 funkce:
-  - zastupitelka MČ Praha 11
-  - místopředsedkyně MS Praha 11 
-  - členka Komise pro školskou infrastrukturu RHMP		  
+  - místopředsedkyně MS Praha 11 		  
 ---
 
 **Zuzana Ujhelyiová (*1983) pochází z Prahy, kde vystudovala SPŠ zeměměřickou a následně katolickou teologii na Katolické teologické fakultě Univerzity Karlovy. Nyní dokončuje studium předškolní a mimoškolní pedagogiky.** Profesně se věnovala práci v oblasti personalistiky a financí v českých i mezinárodních firmách a ve startupech. Nyní pracuje jako projektová manažerka na Úřadu vlády v kabinetu místopředsedy vlády pro digitalizaci.

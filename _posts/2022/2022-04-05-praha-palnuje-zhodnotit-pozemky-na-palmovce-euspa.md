@@ -2,7 +2,7 @@
 title: "Praha plánuje zhodnotit pozemky na Palmovce. Klíčové bude rozhodnutí o sídle Evropské kosmické agentury"
 author: MHMP
 image: posts/novapalmovka.jpg
-tags: [Praha 8, Nová Palmovka]
+tags: [Praha 8, Agentura EUSPA, Nová Palmovka]
 ---
 
 **Z původního záměru městské části Praha 8 na stavbu moderního Centra Nová Palmovka zbylo jen torzo nedostavěné budovy zamýšleného úřadu městské části a následně i sídla pražské záchranky. Praha však tento pozemek na konci loňského roku převzala a dluh městské části smazala. V pondělí pak Rada hl. m. Prahy schválila další postup, když pověřila Pražskou developerskou společnost revizí projektové dokumentace s cílem zamezit degradaci celé budovy.**

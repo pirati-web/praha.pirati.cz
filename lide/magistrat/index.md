@@ -6,7 +6,7 @@ groups:
   - name: Členové rady hlavního města Prahy
     category: mhmp-rhmp
     sort: ordrhmp
-  - name: Další zastupitelé z magistrátu
+  - name: Zastupitelský klub Pirátů v ZHMP
     category: mhmp
     sort: ordmhmp
   - name: Nezastupitelé ve výborech ZHMP

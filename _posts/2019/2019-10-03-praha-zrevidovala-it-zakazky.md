@@ -18,4 +18,4 @@ V současnosti také vzniká nový městský portál ve spolupráci s Ministerst
 
 ### Odkazy
 
-* [Přehled projektů, které byly zrušeny, pozastaveny nebo upraveny](/assets/pdf/prehled.pdf)
+* [Přehled projektů, které byly zrušeny, pozastaveny nebo upraveny](https://a.pirati.cz/praha/pdf/prehled.pdf)

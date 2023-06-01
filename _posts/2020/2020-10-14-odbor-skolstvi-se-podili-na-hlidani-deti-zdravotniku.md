@@ -18,4 +18,4 @@ Pokud epidemiologická situace dovolí, zpět do školních lavic by se žáci m
 
 ### Odkazy
 
-* [nařízení primátora](/assets/pdf/narizeni-primatora.pdf) a doprovodná [příloha](/assets/pdf/narizeni-primatora-priloha.pdf)
+* [nařízení primátora](https://a.pirati.cz/praha/pdf/narizeni-primatora-priloha.pdf)

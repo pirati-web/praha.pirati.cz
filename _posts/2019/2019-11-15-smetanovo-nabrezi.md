@@ -1,6 +1,6 @@
 ---
 date:         2019-11-15
-tags:         [Praha 1, Doprava]
+tags:         [Praha 1, Doprava, Smetanovo nábřeží]
 title:        "Stanovisko zastupitelského klubu Pirátů k uzavírce Smetanova nábřeží/Malé Strany"
 image: 	      posts/smetanovo-nabrezi.jpg
 author:       Zastupitelský klub Pirátů

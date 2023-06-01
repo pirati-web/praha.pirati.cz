@@ -5,23 +5,18 @@ titles:
   before: Mgr.
   after: 
 category:
-  - dr
 img: people/tomas-sidlo.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: zastupitel MČ Praha 6
+description: 
 teamDescription:
-  dr: Technologie hl. města Prahy, a.s.
 funkce:
-  - zastupitel MČ Praha 6
-  - člen dozorčí rady společnosti Technologie hlavního města Prahy, a.s.
 mail: 
   - tomas.sidlo@pirati.cz
 mob:
-orddr: 19  
 ---
 
-**Tomáš Šídlo je členem dozorčí rady společnosti Technologie hlavního města Prahy a.s. a zastupitelem za Piráty na městské části Praha 6.**
+**Tomáš Šídlo byl členem dozorčí rady společnosti Technologie hlavního města Prahy a.s. a zastupitelem za Piráty na městské části Praha 6.**
 
 Tomáš je zkušený manažer s praxí ze statutárních orgánů. Svou profesní dráhu začal v devadesátých letech v auditorské firmě KMPG, později působil jako generální ředitel a předseda představenstva několika českých podniků, mimo jiné výrobce kosmetiky Dermacol a.s., vydavatelství a nakladatelství Respekt Publishing a.s. a společnosti obchodující s cennými papíry BBG Finance a.s. Nyní vlastní a řídí společnost podnikající ve farmacii. Tomáš obdržel vzdělání v sociologii z Karlovy univerzity, v řízení podniků z Univerzity George Washingtona a postgraduální vzdělání ve finančním a strategickém řízení z Dartmouth College.
 

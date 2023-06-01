@@ -1,36 +1,48 @@
 ---
 uid: magdalena.valdmanova
-name:     Magdalena Valdmanová  	# běžně používáné jméno
+name: Magdalena Valdmanová
 titles:
   before:
   after:
 category:
- - vybor
+ - mhmp
 img: people/magdalena-valdmanova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
-  vybor: členka Výboru pro sociální politiku ZHMP
+  mhmp: místopředsedkyně zast. klubu
 funkce: 
-  - předsedkyně MS Praha 2
   - zastupitelka MČ Praha 2
-  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">členka Výboru pro sociální politiku ZHMP</a>
-  - asistentka předsedy hospodářského výboru Viktora Mahrika
+  - zastupitelka hl. města prahy
+  - místopředsedkyně zastupitelského klubu v ZHMP
+  - předsedkyně Výboru pro bydlení a bytovou výstavbu
+  - členka výboru pro kulturu, památkovou péči, výstavnictví a podporu cestovního ruchu
+  - členka výboru pro národnostní menšiny
+  - členka výboru pro rodinnou politiku a sociální oblast
+  - členka Komise RHMP pro oblast integrace cizinců
 mail:
 - magdalena.valdmanova@pirati.cz
-mob:			  
+mob:
+asistenti:
+  - name: Ing. Monika Weinerová
+    position: poradkyně
+    mail: monika.weinerova@praha.eu
+asistenti:
+  - name: Jovana Perovič
+    position: sekretářka
+    mail: jovana.perovic@praha.eu
+				  
 profiles:
   github:     
   facebook: https://www.facebook.com/valdmanova.pirati	
   twitter:  https://mobile.twitter.com/magvaldmanova	
   flickr:
+ordmhmp: 3
 ---
 
-Celý život žiji v Praze. Po maturitě v oboru management a podnikání v umění a reklamě jsem nastoupila na mateřskou dovolenou. Poté jsem pracovala v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětských domovů. Právě pro ně jsem pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti jsem získala ve startupu zaměřeném na e-learning, v kanceláři pražského primátora Zdeňka Hřiba, kde jsem pracovala jako jeho poradkyně a v současnosti tuto pozici zastávám u pirátského zastupitele hlavního města Viktora Mahrika. 
+**Magdalena Valdmanová** je předsedkyní výboru ZHMP pro bydlení a bytovou výstavbu. Je rovněž členkou zastupitelstva hlavního města Prahy a místopředsedkyní zastupitelského klubu.
 
-Zároveň jsem od roku 2018 zastupitelkou na Praze 2. Zajímají mě sociální a kulturní témata, hudba, film, přátele. Mám moc ráda Prahu, ale i výlety na venkov. Žiji se svými dvěma dospělými syny, třemi kočkami a jedním partnerem na Vinohradech.
+Celý život žije v Praze. Po maturitě v oboru management a podnikání v umění a reklamě nastoupila na mateřskou dovolenou. Poté pracovala v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětských domovů. Právě pro ně pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti získala ve startupu zaměřeném na e-learning, v kanceláři pražského primátora Zdeňka Hřiba, kde pracovala jako jeho poradkyně. Asistentskou pozici později vykonávala u zastupitele Viktora Mahrika, který byl předsedou výboru ZHMP pro správu majetku. V roce 2022 byla zvolena do celopražského zastupitelstva. V roce 2023 byla zvolena předsedkyní výboru ZHMP pro bydlení a bytovou výstavbu. V témže roce byla také zvolena i místopředsedkyní zastupitelského klubu.
 
-### Další informace
+Zároveň je od roku 2018 zastupitelkou na Praze 2. Zajímají jí sociální a kulturní témata, hudba, film, přátele. Má moc ráda Prahu, ale i výlety na venkov. Žije se svými dvěma dospělými syny, třemi kočkami a jedním partnerem na Vinohradech.
 
-* Název pozice: Asistent přesdedy výboru pro správu majetku, majetkové podíly a podporu podnikání 
-* Výběrové řízení na uvedenou pozici: [https://forum.pirati.cz/viewtopic.php?f=572&t=45517](https://forum.pirati.cz/viewtopic.php?f=572&t=45517)

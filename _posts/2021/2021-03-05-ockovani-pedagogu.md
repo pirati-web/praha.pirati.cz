@@ -10,4 +10,4 @@ Radní pro oblast zdravotnictví Milena Johnová a radní pro školství Vít Š
 
 ### Odkazy 
 
-* [Stanovisko hl. m. Prahy k očkování pedagogických pracovníků](/assets/pdf/covid/stanovisko.pdf)
+* [Stanovisko hl. m. Prahy k očkování pedagogických pracovníků](https://a.pirati.cz/praha/pdf/covid/stanovisko.pdf)

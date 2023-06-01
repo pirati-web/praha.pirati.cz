@@ -1,38 +1,30 @@
 ---
 uid: eva.horakova
-name:     Eva Horáková  	# běžně používáné jméno
+name: Eva Horáková
 titles:
   before: Mgr. 
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-  - mhmp
+category:
+- vybor
+img: people/eva-horakova.jpg   # 165 x 220
 img: people/eva-horakova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: předsedkyně Výboru pro sociální politiku ZHMP
+description: členka KS Praha
 teamDescription:
-  mhmp: místopředsedkyně zastup. klubu
+  vybor: členka výboru pro zdravotnictví a prevence civilizačních chorob
 funkce: 
-  - místopředsedkyně zastupitelského klubu Pirátů
-  - předsedkyně <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33582">Výboru pro sociální politiku ZHMP</a>  
-asistenti:
-  - name: Eva Filipová
-    uid: 
-    position: asistentka
-    mail: eva.filipova@praha.eu
-    tel:
+  - členka výboru ZHMP pro zdravotnictví a prevence civilizačních chorob
 mail:
 - eva.horakova@pirati.cz
 mob: +420 727 870 828
 profiles:
   github:       
   facebook:  https://www.facebook.com/eva.danis.horakova  
-  twitter: 	 https://twitter.com/scintie
+  twitter:   https://twitter.com/scintie
   instagram: https://instagram.com/eva_danis_horakova
   flickr:		  
-ordmhmp: 2
-redmine: 520
-calendar: ewa.horakowa@gmail.com
+calendar: 
 ---
 
 **Mgr. Eva Horáková** pochází z východních Čech, od 18 let žije v Praze. Vystudovala Střední zdravotnickou školu, obor všeobecná zdravotní sestra. Tuto práci vykonávala cca 12 let v různých pražských nemocnicích. Na 1. lékařské fakultě UK v Praze získala v roce 2003 titul bakalář ošetřovatelství a pokračovala v magisterském studiu oboru Učitelství zdravotnických předmětů pro střední školy. Během studia se zúčastnila programu Sokrates Erasmus v Německu na polytechnické škole v Neubrandenburgu. Jako studentka pracovala v nemocnici Milosrdných sester sv. Karla Boromejského na Praze 1 jako zdravotní sestra. Učila také 2 roky na Vyšší odborné zdravotnické škole v Kladně jako pedagog odborných předmětů.

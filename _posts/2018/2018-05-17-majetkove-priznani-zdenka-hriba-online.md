@@ -20,4 +20,4 @@ Kandidát Pirátů na pražského primátora Zdeněk Hřib k tomu uvádí:
 
 ### Odkazy
 
-* [Majetkové přiznání Zdeňka Hřiba](/assets/pdf/priznani-hrib.pdf)
+* [Majetkové přiznání Zdeňka Hřiba](https://a.pirati.cz/praha/pdf/priznani-hrib.pdf)

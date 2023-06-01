@@ -36,4 +36,4 @@ Po odsouhlasení Radou hl. m. Prahy návrh rozpočtu na prosincovém zasedání 
 
 ### Odkazy 
 
-* [Prezentace rozpočtu na rok 2022](/assets/pdf/rozp2022.pdf)
+* [Prezentace rozpočtu na rok 2022](https://a.pirati.cz/praha/pdf/rozp2022.pdf)

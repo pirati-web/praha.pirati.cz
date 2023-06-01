@@ -3,10 +3,10 @@ date:         2021-10-05
 tags:         [Hnutí ANO, Praha 11]
 title:        "Jiří Dohnal: Ondřej Prokop dlouhodobě nezvládal svěřenou oblast majetku a místo práce se věnoval volební kampani"
 image: 	      posts/dohnal.jpg
-author:       Jiří Dohnal
+authorId:     jiri.dohnal
 ---
  
-Pirátům podařilo dosáhnout značných úspor v oblasti IT, a to ve výši 143 milionů ročně. Pokud pan Prokop kritizuje dosavadní způsob soutěžení na magistrátu, tak kritizuje jejich vlastní pravidla pro malé zakázky, která platila už za vlády ANO. Piráti naopak už na jaře prosadili změnu těchto pravidel a nad 500 tisíc se bude soutěžit otevřeně. I doteď se nicméně soutěžilo v rámci dosavadních pravidel tak, že rozhodovala pouze cena a na každou zakázku došlo více nabídek. To je ostatně vidět i na webu golemio.cz, kde zveřejňuje magistrát od minulého roku transparentně informace o zakázkách a to včetně těch, které obvykle úřady nezveřejňují, jako třeba počet konkurenčních nabídek.
+**Pirátům se podařilo dosáhnout značných úspor v oblasti IT, a to ve výši 143 milionů ročně. Pokud pan Prokop kritizuje dosavadní způsob soutěžení na magistrátu, tak kritizuje jejich vlastní pravidla pro malé zakázky, která platila už za vlády ANO. Piráti naopak už na jaře prosadili změnu těchto pravidel a nad 500 tisíc se bude soutěžit otevřeně. I doteď se nicméně soutěžilo v rámci dosavadních pravidel tak, že rozhodovala pouze cena a na každou zakázku došlo více nabídek. To je ostatně vidět i na webu golemio.cz, kde zveřejňuje magistrát od minulého roku transparentně informace o zakázkách a to včetně těch, které obvykle úřady nezveřejňují, jako třeba počet konkurenčních nabídek.**
  
 Navíc je zjevné, že odvolání pana Prokopa určitě nijak neomezí jeho šíření dezinformací o magistrátu i o městské části. Konec konců byl odvolán pouze z jedné z jeho několika funkcí placených z peněz daňových poplatníků. V oblasti IT by se ale měl pan Prokop především věnovat vysvětlení, jak jeho IT firma Fresh Services s.r.o. mohla získat bez jakékoliv soutěže v minulém volebním období za vlády ANO zakázku na dodávku ložního prádla pro magistrátní domov seniorů.
  

@@ -18,4 +18,4 @@ Krizový štáb hl. m. Prahy také řešil zajištění nouzového ubytování p
 
 ### Odkazy
  
-[Výstup z jednání Krizového štábu hl. m. Prahy 23. 3. 2020](/assets/pdf/ks-vystup4.pdf)
+[Výstup z jednání Krizového štábu hl. m. Prahy 23. 3. 2020](https://a.pirati.cz/praha/pdf/ks-vystup4.pdf)

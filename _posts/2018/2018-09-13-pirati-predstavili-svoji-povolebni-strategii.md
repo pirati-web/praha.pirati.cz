@@ -42,4 +42,4 @@ Kandidáti za Piráty podepsali kodex, ve kterém se zavázali nekumulovat funkc
 
 ### Odkazy 
 
-* [Schválený dokument povolební strategie Pirátů](/assets/pdf/povolebni-strategie-zhmp.pdf)
+* [Schválený dokument povolební strategie Pirátů](https://a.pirati.cz/praha/pdf/povolebni-strategie-zhmp.pdf)

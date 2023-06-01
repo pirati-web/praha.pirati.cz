@@ -22,7 +22,6 @@ profiles:
   github:    https://github.com/jmichalek
   facebook:  https://www.facebook.com/smidak
   twitter:   https://twitter.com/JakubMichalek19
-  instagram: https://https://www.instagram.com/piratmichalek
   wikipedia: https://cs.wikipedia.org/wiki/Jakub_Mich%C3%A1lek
   flickr:    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jakub%20mich%C3%A1lek&view_all=1
 asistenti:

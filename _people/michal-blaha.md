@@ -3,24 +3,20 @@ uid: michal.blaha
 name: Michal Bláha
 fullname: Michal Bláha
 category:
- - dr
 img: people/michal-blaha.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-profession: člen dozorčí rady společnosti Operátor ICT, a.s.
+profession:
 partyUid: bezpp
-description: člen dozorčí rady společnosti Operátor ICT, a.s.
+description: 
 teamDescription:
-  dr: Operátor ICT, a.s.
 mail:
   - michal@michalblaha.cz
 profiles:
   twitter: https://twitter.com/michalblaha
 funkce:
-  - člen dozorční rady společnosti Operátor ICT, a.s.</a>
-orddr: 5
 ---
 
-**Michal Bláha** je členem dozorčí rady společnosti Operátor ICT a.s.
+**Michal Bláha** byl členem dozorčí rady společnosti Operátor ICT a.s.
 
 Michal Bláha je nepochybně jeden z největších odborníků na problematiku ICT v Česku. Založil portál Hlídač státu a podniká (např. býval spolumajitelem Atlas.cz). Je také členem podvýboru pro Digitální Česko. 
 

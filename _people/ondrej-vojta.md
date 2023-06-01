@@ -1,14 +1,21 @@
 ---
 uid: ondrej.vojta
-name:     Ondřej Vojta  	# běžně používáné jméno
+name: Ondřej Vojta
 titles:
   before:  
   after:
-category:                 	# kategorie: praha
+category:
+ - pks
 img: people/ondra-vojta-2022.jpg
 heroImg: Prague_panorama.jpeg
-description:      
+description: 1. místopředseda KS Praha 
+profession: student, zastupitel MČ Praha–Petrovice  
 partyUid: pirati
+teamDescription:
+  pks: 1. místopředseda KS Praha
+funkce:
+  - zastupitel MČ Praha-Petrovice
+  - 1. místopředseda KS Praha
 mail:
 - ondrej.vojta@pirati.cz
 mob: +420 736 726 061			 

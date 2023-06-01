@@ -47,4 +47,4 @@ radní pro majetek městské části Praha 1
 
 ### Odkazy
 
-* [Naskenovaná a podepsaná verze dopisu](/assets/pdf/bodecek.pdf)
+* [Naskenovaná a podepsaná verze dopisu](https://a.pirati.cz/praha/pdf/bodecek.pdf)

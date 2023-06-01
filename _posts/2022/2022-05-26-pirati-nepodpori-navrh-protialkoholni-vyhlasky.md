@@ -2,7 +2,7 @@
 title: "Piráti nepodpoří návrh vyhlášky, která nepřehledně zakazuje konzumaci alkoholu na veřejnosti. Praha je svobodné město"
 author: MHMP
 image: 	posts/valdmanova-naplavka.jpg
-tags:   [Protialkoholní Vyhláška, Náplavka]
+tags:   [Protialkoholní vyhláška, Náplavka]
 ---
 
 **Klub Pirátů na dnešním jednání Zastupitelstva hl. m. Prahy nepodpoří svými hlasy návrh vyhlášky, která výrazným způsobem omezuje konzumaci alkoholu na veřejnosti. Vyhláška je navíc natolik nepřehledná, že by se v ní nezorientovali místní ani návštěvníci Prahy a i její vymáhání by bylo komplikované. Klub Pirátů se shoduje na tom, že restriktivní vyhláška sama o sobě nijak neřeší problémy hluku, nepořádku nebo problematického chování jednotlivců ve městě.**  

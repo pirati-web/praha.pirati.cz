@@ -5,17 +5,19 @@ titles:
   before: Mgr.
 category:
   - dr
-img: people/jakub-jiran.jpg
+img: people/jakub-jiran-2022.jpg
 heroImg: Prague_panorama.jpeg
 profession: auditor, člen dozorčí rady DPP
-partyUid: bezpp
+partyUid: pirati
 description: člen dozorčí rady DPP, a.s.
 teamDescription:
   dr: Dopravní podnik hl. města Prahy, a.s. 
 mail: jakub.jiran@pirati.cz
 profiles:
 funkce:
-  - člen dozorční rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
+  - člen dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
+  - zastupitel MČ Praha 8
+  - člen Komise RHMP pro parkování a silniční dopravu
 orddr: 1
 
 ---

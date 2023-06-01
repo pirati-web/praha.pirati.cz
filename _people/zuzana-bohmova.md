@@ -4,19 +4,17 @@ name: Zuzana Böhmová
 titles:
   before: Mgr.
 category:
-  - vybor
 img: people/zuzana-bohmova-2022.jpg
 heroImg: Prague_panorama.jpeg
 profession: učitelka
 partyUid: pirati
-description: členka Výboru pro IT a Smart City ZHMP
+description: zastupitelka MČ Praha 11
 teamDescription:
-  vybor: členka Výboru pro IT a Smart City ZHMP
 mail: zuzana.boehmova@pirati.cz
 mob: +420 737 220 479
 profiles:
 funkce:
-  - členka <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33580">Výboru pro IT a Smart City ZHMP</a>
+  - zastupitelka MČ Praha 11
 ---
 
 **Zuzana Böhmová (1990) pochází z Plzně, kde vystudovala vysokoškolské studium Vizuální kultura se zaměřením na vzdělávání (Bc.).** Následně odešla do Prahy, kde dokončila studium na PedF UK - Výtvarná výchova pro střední, základní a umělecké školy (Mgr.). Po dokončení studia začala učit na státní základní škole na Jižním Městě odkud po třech letech odešla a od roku 2018 učí na soukromé střední škole také na Praze 11.

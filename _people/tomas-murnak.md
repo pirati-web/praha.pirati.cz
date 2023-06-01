@@ -1,41 +1,27 @@
 ---
-uid: tomas.murnak
-name:     Tomáš Murňák  	# běžně používáné jméno
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- mhmp
-- praha
-img: people/tomas-murnak.jpg   # 165 x 220
+uid:  tomas.murnak
+name: Tomáš Murňák  	
+category:   
+img: people/tomas-murnak-2022.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-profilebadge: people/badge/05-murnak.jpg
 partyUid: pirati
-teamDescription:
-  mhmp: zastupitel hl. města Prahy 
+description: zastupitel MČ Praha 13
 funkce:
-  - zastupitel hl. m. Prahy za Piráty
   - předseda místního sdružení Praha 13 
-  - předseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33600">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
-  - místopředseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33576">Výboru pro územní rozvoj, územní plán a památkovou péči ZHMP</a>
-  - místopředseda <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33590">místopředseda Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP</a>
-asistenti:
-  - name: <a href="/lide/michaela-berankova.html">Michaela Beránková</a></p>
-    uid: michaela.berankova
-    position: asistentka
-    mail: michaela.berankova@pirati.cz
-    tel:
+  - zastupitel MČ Praha 13
 mail:
 - tomas.murnak@pirati.cz
 mob: 
 profiles:
   github:                 
   facebook: https://www.facebook.com/TMurnak
-  twitter: 	https://twitter.com/TomasMurnak	  
+  twitter:  https://twitter.com/TomasMurnak	  
   flickr:   https://www.flickr.com/search/?text=Tom%C3%A1%C5%A1%20Mur%C5%88%C3%A1k
-ordmhmp: 10
-redmine: 55
 calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 ---
 
-Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes.</p>
+Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes.
+
 <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v roce 2010.</p>
 <p>Zastupitelem jsem se stal v roce 2014, kdy Piráti pod mým vedením, v koalici se Stranou Zelených pod názvem <a href="http://zeleniapiratipro13.cz/">Zelení a piráti pro 13</a>, získali ve volbách 11,19 % hlasů, což nám přineslo 5 mandátů (2 Piráti a 3 Zelení) z celkových 35.</p>
 <p>I přesto, že jsme nakonec skončili v opozici a koalice nám nedovolila zasednout v žádném výboru ani komisi, podařilo se nám prosadit část pirátského programu jako je rozklikávací rozpočet, zveřejňování rozpočtu ve strojově čitelném formátu, pozastavit neefektivní projekt <a href="http://praha.idnes.cz/praha-13-chce-nakoupit-nove-kamery-za-sto-milionu-korun-pfy-/praha-zpravy.aspx?c=A150316_2147657_praha-zpravy_nuba">kamerového systému</a> a vrátit autorská práva k pořadům TV Praha 13 do vlastnictví Městské části.</p>

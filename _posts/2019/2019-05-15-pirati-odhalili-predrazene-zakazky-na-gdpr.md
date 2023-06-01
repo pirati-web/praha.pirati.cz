@@ -16,4 +16,4 @@ Minulé vedení Prahy 3 také platilo skoro 270 tisíc měsíčně za služby, z
 
 ### Odkazy 
 
-* [Analýza Pirátů k předraženým zakázkám](/assets/pdf/gdpr.pdf)
+* [Analýza Pirátů k předraženým zakázkám](https://a.pirati.cz/praha/pdf/gdpr.pdf)

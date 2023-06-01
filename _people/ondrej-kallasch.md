@@ -5,17 +5,13 @@ titles:
   before:
   after:
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- mhmp
 img: 		people/ondrej-kallasch.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profilebadge: people/badge/02-kallasch.jpg
-description: zastupitel hl. města Prahy
+description: zastupitel MČ Praha 22
 partyUid: pirati
 teamDescription:
-  mhmp: zastupitel hl. města Prahy
 funkce: 
-  - zastupitel hl. města Prahy
   - zastupitel MČ Praha 22
 mail:
 - ondrej.kallasch@pirati.cz
@@ -24,11 +20,6 @@ profiles:
   facebook:  https://www.facebook.com/kallasch
   twitter:   https://twitter.com/OndrejKallasch
   flickr:    https://www.flickr.com/search/?text=ond%C5%99ej%20kallasch
-ordmhmp: 7
-carousel:
-  img: ondrej-kallasch.jpg
-  text: |
-    <p><strong>Zastupitel<strong/> za Piráty se specializací na oblast informatiky, člen předsednictva krajského sdružení Pirátů v Praze. </p>
 redmine: 180
 calendar: okallasch%40gmail.com
 ---

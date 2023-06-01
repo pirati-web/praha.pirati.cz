@@ -24,4 +24,4 @@ Leták s linkami pomoci Praha rozeslala do domácností v návaznosti na kampaň
 
 Za výrobu a rozeslání téměř 690 tisíc letáků do všech schránek v hlavním městě zaplatil pražský magistrát necelých 480 tisíc korun.
 
-* [Leták zaslaný pražským domácnostem](/assets/pdf/letak.pdf)
+* [Leták zaslaný pražským domácnostem](https://a.pirati.cz/praha/pdf/letak.pdf)

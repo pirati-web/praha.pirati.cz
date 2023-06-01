@@ -5,10 +5,9 @@ titles:
   before: PhDr. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 img: people/olga-sklenarova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description:      	# kratký popis, max 160 znaků
+description: předsedkyně MS Praha 1     	# kratký popis, max 160 znaků
 mail:
 - olga.sklenarova@pirati.cz
 mob:

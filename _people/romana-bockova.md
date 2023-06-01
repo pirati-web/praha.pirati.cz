@@ -5,20 +5,16 @@ titles:
   before: Ing. 
   after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- dr
 img: people/romana-bockova.jpg
 heroImg: Prague_panorama.jpeg
-description: členka dozorčí rady společnosti Úpravna vody Želivka, a.s.
+description:
 partyUid: bezpp
-description: člen dozorčí rady DPP, a.s.
+description: 
 teamDescription:
-  dr: Úpravna vody Želivka, a.s.
 funkce:
-  - členka dozorčí rady společnosti Úpravna vody Želivka, a.s.
 mail:
 - rbockova@hotmail.cz
 mob:
-orddr: 22
 profiles:
   github:       
   facebook:    
