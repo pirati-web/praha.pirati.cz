@@ -14,7 +14,7 @@ teamDescription:
   vybor: členka výboru pro rodinnou politiku a sociální oblast
 mail:
 - nikol.marhounova@pirati.cz
-mob:
+mob: +420724539169
 funkce: 
   - členka výboru ZHMP pro rodinnou politiku a sociální oblast
 profiles:
