@@ -13,6 +13,7 @@ img: people/jan-bartko.jpg
 heroImg: Prague_panorama.jpeg
 mail:
   - jan.bartko@pirati.cz
+mob: +420 732 625 015
 profiles:
   facebook: https://www.facebook.com/jan.bartko.9
 funkce:
