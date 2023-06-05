@@ -5,14 +5,13 @@ titles:
   before: Ing. 
   after:
 category:
-- pks
+- členové
 img: people/kornelia-gottmannova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 profession: konzultantka činností v oblasti leadershipu
 description: místopředsedkyně KS Praha
 teamDescription:
-  pks: místopředsedkyně KS Praha
 funkce: 
  - místopředsedkyně KS Praha
  - místopředsedkyně MS Praha 9
@@ -20,10 +19,9 @@ funkce:
 mail:
 - kornelia.gottmannova@pirati.cz
 mob: +420 777 065 665	 
-ordpks: 5
 ---
 
-**Kornélia Gottmannová** (* 24. června 1972) je absolventkou VŠCHT Praha, obor Fyzikální chemie. V současné době je místopředsedkyní KS Praha a MS Praha 9. Piráty též zastupuje v zastupitelstvu městské části Praha 9 a byla členkou dozorčí rady společnosti Pražské služby.
+**Kornélia Gottmannová** (* 24. června 1972) je absolventkou VŠCHT Praha, obor Fyzikální chemie. V současné době je místopředsedkyní MS Praha 9. Piráty též zastupuje v zastupitelstvu městské části Praha 9 a byla členkou dozorčí rady společnosti Pražské služby.
 
 Během své desetileté manažerské praxe pracovala na různých úrovních řízení: od vedoucího malého týmu po úroveň B-1. Má zkušenosti z managementu provozních i obchodních týmů v různých oborech průmyslu a obchodu (olejářský průmysl, logistika, odpadové hospodářství). Od roku 2006 pracuje v oblasti rozvoje lidí jako lektor, kouč a konzultant. Ve výběrovém řízení byla zvolena do dozorčí rady společnosti Pražské služby a.s.
 
