@@ -2,7 +2,7 @@
 title: "Praha schválila Akční plán inovační RIS3 strategie s podpořenými projekty s rozpočty téměř 9 miliard korun"
 author: Piráti
 image:  posts/mazur1.jpg
-tags:   [IT]
+tags:   [IT, Pražský inovační institut]
 ---
 
 Akční plán pražské inovační strategie s celkem 25 inovačními projekty schválila na svém zasedání Rada hl. m. Prahy. Všechny projekty byly podpořeny v rámci dotačního programu Asistenční vouchery v projektu Prague Smart Akcelerátor. Celkem byly podpořeny projekty v přípravných fázích ve výši téměř 10,5 milionu korun. Jedná se o projekty z oblastí umělé inteligence v dopravě, nových technologií 3D tisku, strojového učení, inovativních technologií automatizace a robotizace ve stavebnictví nebo vzdálené diagnostiky ve zdravotnictví. Celková částka, o kterou schválené projekty budou dále usilovat na svou realizaci z národních a mezinárodních zdrojů, je téměř 9 miliard korun. 

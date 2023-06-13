@@ -2,7 +2,7 @@
 title: "Praha schválila technickou aktualizaci své inovační strategie"
 author: MHMP
 image:  posts/mazur.jpg
-tags:   [IT]
+tags:   [IT, Pražský inovační institut]
 ---
 
 Rada hlavního města Prahy schválila usnesení, ve kterém požaduje změny v tzv. Regionální inovační strategii hlavního města Prahy (RIS HMP). Zároveň pověřila Pražský inovační institut (Pii) koordinací tvorby zbrusu nové inovační strategie města na období let 2023 až 2027.

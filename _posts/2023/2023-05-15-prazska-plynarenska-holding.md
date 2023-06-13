@@ -2,7 +2,7 @@
 title: "Pražská plynárenská Holding zanikne, fúze zjednoduší organizační strukturu městské firmy"
 author: MHMP
 image:  posts/adam-zabransky-sal.jpg
-tags:   [Pražský plynárenská, Městské firmy]
+tags:   [Pražská plynárenská, Městské firmy]
 ---
 
 Rada hl. m. Prahy v pondělí odsouhlasila fúzi společností Pražská plynárenská Holding a.s. a Pražská plynárenská, a. s. Prvně jmenovaná společnosti zanikne a včlení se do Pražské plynárenské a. s. Důvodem je zjednodušení organizační struktury. Fúzi bude schvalovat zastupitelstvo hlavního města na svém příštím zasedání.

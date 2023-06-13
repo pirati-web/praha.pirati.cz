@@ -2,7 +2,7 @@
 title: "Inovační maraton Nakopni Prahu vyhrál AI senzor pro úklid ulic"
 author: MHMP
 image:  posts/mazur.jpg
-tags:   [IT]
+tags:   [IT, Nakopni Prahu, Inovace, Pražský inovační institut]
 ---
 
 AI senzor pro úklid pražských ulic, web s databází jídel pro pražské školní jídelny i aplikace, která usnadní pohyb po městě lidem s různým handicapem. Tyto tři projekty vyhrály čtvrtý ročník veřejné soutěže pro inovátory – Nakopni Prahu 2023. Z deseti finalistů je vybrala odborná porota, podle níž mají tyto projekty největší přínos pro obyvatele metropole. Absolutním vítězem se stal projekt Occo od týmu Waste Digital, který má díky umělé inteligenci pomoci s náročným úklidem městských ulic.

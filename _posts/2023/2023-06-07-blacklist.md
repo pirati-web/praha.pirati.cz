@@ -2,7 +2,7 @@
 title: "Praha zavádí Blacklist. Nespolehlivé dodavatele veřejných zakázek odhalí databáze"
 author: Piráti
 image:  posts/novaradnice4.jpg
-tags:   [IT]
+tags:   [IT, Transparentnost]
 ---
 
 Hlavní město Praha a jeho příspěvkové organizace se budou při výběrových řízeních nově opírat také o interní databázi nespolehlivých dodavatelů veřejných zakázek, tzv. Blacklist. Aktivní využívání databáze přispěje k transparentnímu a efektivnímu zadávání veřejných zakázek a jejich bezproblémovému plnění.
