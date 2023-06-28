@@ -30,8 +30,7 @@ asistenti:
 asistenti:
   - name: Jovana Perovič
     position: sekretářka
-    mail: jovana.perovic@praha.eu
-				  
+    mail: jovana.perovic@praha.eu	  
 profiles:
   github:     
   facebook: https://www.facebook.com/valdmanova.pirati	
