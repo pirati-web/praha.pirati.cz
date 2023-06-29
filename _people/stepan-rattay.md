@@ -16,7 +16,6 @@ profiles:
   flickr:     	
 funkce:
  - radní MČ Praha 5
-	  
 ---
 
 Se svou rodinou žiji v Košířích na Cibulkách.

@@ -12,7 +12,7 @@ description:
 teamDescription:
 funkce:
 mail: petr.kratochvil@pirati.cz
-mob:8	  
+mob:8
 ---
 
 **Petr Kratochvíl** byl členem dozorčí rady společnosti Pražské vodovody a kanalizace, a.s.
