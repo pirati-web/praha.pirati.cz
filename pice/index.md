@@ -15,8 +15,8 @@ address: |
   120 00 Praha 2
 addressNote: Sídlíme v přízemí nápadné moderní budovy na rohu Palackého náměstí s velkým displejem. V oknech je grafika Pirátů – Pirátské centrum lze proto poměrně snadno nalézt.
 contactPersons:
-  - id: jiri.belsan
-    description: Vedoucí koordinátorů
+  - id: david.rauser
+    description:
 residenceImg: 
 calendarId: evhpcc3i4hgjut142ru0tn7gl0@group.calendar.google.com
 calendarTitle: Kalendář akcí
