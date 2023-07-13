@@ -29,6 +29,14 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 </article>
 
 <article class="card card--hoveractive">
+<a href="https://forum.pirati.cz/viewforum.php?f=1273"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-energetika.png" alt="Energetika" /></a>
+<div class="card__body p-4">
+<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1661" target="_blank">Energetika</a></h1> 
+<p class="card-body-text">Václav Vislous<br /><a href="mailto:vaclav.vislous@pirati.cz">vaclav.vislous@pirati.cz</a></p>
+</div>
+</article> 
+
+<article class="card card--hoveractive">
 <a href="https://forum.pirati.cz/viewforum.php?f=1264"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-it.png" alt="IT a Smart City" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1264" target="_blank">IT a Smart City</a></h1> 
@@ -101,17 +109,11 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 </div>
 </article> 
 
-<article class="card card--hoveractive">
-<a href="https://forum.pirati.cz/viewforum.php?f=1661"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-energetika.png" alt="Energetika" /></a>
-<div class="card__body p-4">
-<h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1661" target="_blank">Energetika</a></h1> 
-<p class="card-body-text">Václav Vislous<br /><a href="mailto:vaclav.vislous@pirati.cz">vaclav.vislous@pirati.cz</a></p>
-</div>
-</article> 
+
 
 </div>
 </main>
 
 
-  </section>
-  </div>
+</section>
+</div>
