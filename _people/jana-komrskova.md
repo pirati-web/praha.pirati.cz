@@ -26,19 +26,19 @@ funkce:
 mail:
   - jana.komrskova@pirati.cz
 asistenti:
-  - name: Mgr. Jana Guljuškina
+  - name: Mgr. Michaela Marešová
     position: vedoucí sekretariátu
-    mail: jana.guljuskina@praha.eu
+    mail: michaela.maresova@praha.eu
   - name: Mgr. Petr Beneš
     position: poradce
     mail: petr.benes@praha.eu
-  - name: Mgr. Michaela Marešová
-    position: poradkyně
-    mail: michaela.maresova@praha.eu
-  - name: Mgr. Vratislav Filípek
+  - name: Vratislav Filípek
     position: poradce
     mail: vratislav.filipek@praha.eu
-  - name: Blanka Bidmonová
+  - name: Mgr. Michal Kočí
+    position: poradce
+    mail: michal.koci@praha.eu
+  - name: Mgr. Blanka Bidmonová
     position: sekretářka
     mail: blanka.bidmonova@praha.eu
 profiles:
@@ -50,11 +50,17 @@ ordrhmp: 2
 ordmhmp: 5
 ---
 
-**Jana Komrsková** je náměstkyně primátora hlavního města Prahy zodpovědná za životní prostředí a klimatický plán, pirátská zastupitelka v ZHMP a od listopadu 2022 také předsedkyní Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP.
+**Jana Komrsková** je náměstkyně primátora hlavního města Prahy zodpovědná za životní prostředí a klimatický plán, pirátská zastupitelka v ZHMP a od listopadu 2022 také předsedkyní Výboru pro infrastrukturu, technickou vybavenost a životní prostředí ZHMP. 
 
-Dvakrát kandidovala za Piráty jako lídr na radnici městské části Praha 10. Byla zvolena do zastupitelstva své městské části a v rámci povolebního vyjednávání se v roce 2018 stala místostarostkou Prahy 10. V říjnu 2019 po rezignaci Pavla Hájka na mandát se stala jako náhradnice neuvolněnou zastupitelkou hlavního města Prahy. Funkci zastávala do května 2021, kdy mandát přenechala Janu Horovi. Po odvolání starosty Prahy 10 Renaty Chmelové z důvodu možného napojení na kauzu Dozimetr měla z pozice 1. místostarostky Prahy 10 pravomoce starostky. Opětovně byla zvolena v komunálních volbách v září 2022.
+Po studiích na střední zemědělské a vysoké škole její cesty vedly přes různé pozice v marketingové a reklamní oblasti na Ministerstvo vnitra a pozici ministerské rady pro evropské programy (finanční manažerka) v letech 2013 až 2017. Následně od roku 2017 pracovala na obdobné pozici na Ministerstvu spravedlnosti, odkud jí kvůli mé politické funkci v roce 2018 uvolnili. V letech 2018 – 2022 byla 1. místostarostkou městské části Praha 10 a v současné době (od 16.2. 2023) plní svou současnou funkci ve službách hl. města Prahy jako náměstkyně primátora pro oblast životního prostředí a klimatického plánu.
 
-V únoru 2023 byla zvolena náměstkyní primátora hl. m. Prahy pro životní prostředí a klimaplán v současné koalici.
+V říjnu 2014 byla poprvé zvolena zastupitelkou své domovské městské části Praha 10 a s Piráty spolupracuji od roku 2015, dohromady je svedla především řešení témat místní komunální politiky, např. Horský hotel, Key Investments, ukončení předražené wi-fi, netransparentnost radnice atd. Mezi Piráty patří od roku 2017 s jasnou vizí hájení svobody a demokracie, otevřenosti politiky všem lidem a hlavně konkrétních komunálních témat, které někdy nejdou řešit bez základního protikorupčního nastavení – a to je krédo jak její, tak Pirátů jako celku.
+
+Koalice pod vedením starostky Kleslové na Praze 10, jejíž součástí jsem svůj první mandát byla, neměla dlouhého trvání – po pěti měsících skončila. Rok 2018 znamenal naskočení do pozice předsedkyně zastupitelského klubu zdejších Pirátů a v rámci povolebního vyjednávání se v roce 2018 stala místostarostkou Prahy 10.
+
+Od následujících komunálních voleb v roce 2022 sedí v lavici konstruktivní opozice Prahy 10.
+
+Po dlouhém vyjednávání od února 2023 naplňuje pražský klimatický plán a péči o životní prostředí coby náměstkyně primátora. A tomu věnuje svoje veškeré pracovní i osobní úsilí.
 
 ### Otevřený kalendář
 
