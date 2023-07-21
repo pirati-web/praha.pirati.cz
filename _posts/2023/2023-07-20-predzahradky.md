@@ -2,7 +2,7 @@
 title: "Praha kultivuje předzahrádky v centru, obcházení pravidel už město nebude dále tolerovat"
 author: MHMP
 image:  posts/zabransky-predzahradky.jpg
-tags:   [Doprava]
+tags:   [Praha]
 ---
 
 V uplynulých měsících Praha podnikla několik kroků k urychlení dokončení procesu kultivace restauračních zahrádek v centru města. Provozovatele, kteří porušují nově stanovená pravidla nebo se skrze předem prohrané soudní spory snaží oddálit začátek jejich platnosti, čeká tvrdý postih.
