@@ -13,9 +13,11 @@ profession:
 description: místopředseda KS Praha
 teamDescription:
 funkce: 
- - místopředsedkyně KS Praha
- - místopředsedkyně MS Praha 9
- - zastupitelka MČ Praha 9
+ - místopředseda KS Praha
+ - předseda MS Praha 7
+ - zastupitel MČ Praha 7
+ - předseda kontrolního výboru ZMČP7
+
 mail:
 - ondrej.melena@pirati.cz
 mob: +420 737 372 093
