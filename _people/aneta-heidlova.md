@@ -1,6 +1,6 @@
 ---
 uid: aneta.heidlova
-name:     Aneta Heidlová  	# běžně používáné jméno
+name:     Anette Heidlová  	# běžně používáné jméno
 titles:
   before: Bc.
   after:
@@ -13,17 +13,17 @@ partyUid: pirati
 teamDescription:
 funkce: 
 mail:
-- aneta.heidlova@pirati.cz
+- annette.heidlova@pirati.cz
 mob: +420 723 857 246		 
 profiles:
   github:       
-  facebook: https://www.facebook.com/Estrella888 
+  facebook: https://www.facebook.com/hannette88
   twitter: 		  
   flickr:		  
 calendar: hannette88%40gmail.com
 ---
 
-**Aneta Heidlová** (* 04. února 1988) je pražskou pirátkou, do roku 2022 byla zastupitelkou hl. m. Prahy. Zde působila jako členka výboru pro kulturu, turismus a cest. ruch ZHMP. 
+**Anette Heidlová** (* 04. února 1988) je pražskou pirátkou, do roku 2022 byla zastupitelkou hl. m. Prahy. Zde působila jako členka výboru pro kulturu, turismus a cest. ruch ZHMP. 
 
 Pochází z obce Dubí, která se nachází v blízkosti Teplic, ale od 9 let žila v Ústí nad Labem, kde také vystudovala jak střední průmyslovou školu chemickou a stavební, tak i vysokou školu Jana Evangelisty Purkyně - obor Aplikovaná Informatika - Informační systémy a získala tak titul Bc. Při studiu na vysoké škole se podílela na mezinárodním projektu INWEST, konkrétně na části RFID (identifikace na rádiové frekvenci).
 
