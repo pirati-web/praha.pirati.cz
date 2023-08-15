@@ -1,5 +1,5 @@
 ---
-title: "Praha obnoví další rybníky a vybuduje i fontány na Letné"
+title: "Praha schválila akční plán pro přechod na cirkulární ekonomiku do roku 2025, rozpracovává projekty pro městské firmy"
 author: MHMP
 image:  posts/jana-komrskova.jpg
 tags:   [Ekonomika]
