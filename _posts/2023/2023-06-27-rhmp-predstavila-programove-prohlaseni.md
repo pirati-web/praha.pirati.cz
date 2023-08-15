@@ -2,7 +2,7 @@
 title: "Radní hl. m. Prahy představili veřejnosti programové prohlášení"
 author: MHMP
 image:  posts/prohlaseni.jpg
-tags:   [Praha]
+tags:   [Piráti]
 ---
 
 > „Příprava programového prohlášení zabrala více času, než jsme původně plánovali, o to lepšího výsledku se ale podařilo dosáhnout. V zájmu fungování hlavního města i všech Pražanů. Je rozděleno na 11 kapitol, což se dá brát i jako 11 pohledů na budoucí fungování města. Ať už jde o dopravu, bezpečnost včetně té energetické, digitalizaci, dostupnost bydlení a vzdělávání, sociální a zdravotní služby, kulturu a další oblasti. Jsou tam krátkodobé i dlouhodobé projekty. Plníme to, co jsme při nástupu do vedení města slíbili. Chceme posunout hlavní město vpřed, aby Praha byla moderní, fungující metropolí přívětivou ke všem obyvatelům,“ říká na úvod k [programovému prohlášení](https://mrak.pirati.cz/apps/files/?dir=/Assets/praha/pdf&openfile=3657743) primátor hl. m. Prahy Bohuslav Svoboda.

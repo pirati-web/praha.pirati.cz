@@ -2,7 +2,7 @@
 title: "Praha dokončila stavbu moderního parkovacího domu v Nových Butovicích pro 380 aut"
 author: MHMP
 image:  posts/garaz.jpg
-tags:   [Doprava]
+tags:   [Doprava, Parkování]
 ---
 
 Hlavní město dnes slavnostně otevřelo nové kryté parkoviště u stanice metra B Nové Butovice v Praze 13. Parkovací objekt v ulici Petržílkova vznikal poslední rok a půl a aktuálně rozšíří nabídku parkování v oblasti pro místní obyvatele. Zároveň však také umožní řidičům odjinud odložit zde své vozidlo a pohodlně pokračovat v cestě městskou hromadnou dopravou. Celkově vybudování parkoviště stálo 343 milionů korun. Pro veřejnost se parkoviště otevřelo dnes ve 12:00 hodin.

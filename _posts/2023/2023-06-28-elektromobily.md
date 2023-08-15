@@ -2,7 +2,7 @@
 title: "Dobíjecí infrastruktura pro elektromobily by mohla být z podstatné části financována z evropských peněz"
 author: MHMP
 image:  posts/7hrib.jpg
-tags:   [Doprava]
+tags:   [Doprava, Elektromobilita]
 ---
 
 Praha prověřila možnosti financování koncese na budování dobíjecí infrastruktury pro elektromobily prostřednictvím evropských fondů a dalších dotačních titulů. Zjištění možností financování dobíjení vozů bylo jedním z úkolů v rámci Generelu rozvoje dobíjecí infrastruktury v hlavním městě Praze do roku 2030 schváleném vedením města v minulém volebním období. Očekává se, že míra dotace z evropských fondů může činit až 85 % plánovaných investičních nákladů. Tím by došlo ke značné úspoře finančních prostředků z rozpočtu hlavního města. 

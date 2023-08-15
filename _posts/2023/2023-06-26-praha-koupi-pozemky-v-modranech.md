@@ -2,7 +2,7 @@
 title: "Praha koupí od Českých drah rozvojové pozemky v Modřanech"
 author: MHMP
 image:  posts/zabransky-okno.jpg
-tags:   [Majetek]
+tags:   [Majetek, Praha 12]
 ---
 
 Zastupitelstvo hl. m. Prahy odhlasovalo odkup čtyř pozemků a bývalé výpravní budovy od Českých drah, které koupí za 25 milionů korun bez DPH. Jedná se o nevyužívané pozemky v blízkosti už od roku 1995 vyřazené zastávky Praha-Modřany.

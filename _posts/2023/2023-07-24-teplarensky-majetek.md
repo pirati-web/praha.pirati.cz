@@ -2,7 +2,7 @@
 title: "Praha prodá teplárenský majetek v bytovém domě na Proseku společenství vlastníků, aby mohlo instalovat úspornější technologie"
 author: MHMP
 image:  posts/zabransky-okno.jpg
-tags:   [bydlení]
+tags:   [Bydlení]
 ---
 
 Rada hl. m. Prahy dnes schválila úplatný převod teplárenského majetku, konkrétně technologií předávacích stanic, které jsou umístěny v objektech v Mimoňské ulici v Praze 9. Stane se tak na základě žádosti Společenství vlastníků pro dům Mimoňská č. p. 633–643, které plánuje instalovat vlastní modernější technologie umožňující snížení nákladů na vytápění.

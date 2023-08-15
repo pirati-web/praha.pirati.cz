@@ -1,7 +1,7 @@
 ---
 date:         2017-11-08
 category:     blog
-tags:         [Doprava, Zastupitelstvo]
+tags:         [Doprava, Městský okruh, Zastupitelstvo]
 layout:       post
 title:        "Zastupitelstvo chce dostavět městský okruh, superholding neprojednalo"
 image:        posts/zabransky.jpg

@@ -1,6 +1,6 @@
 ---
 date:   2022-02-15
-tags:   [P+R parkoviště, Transparentnost]
+tags:   [Parkování, Transparentnost]
 title:  "Praha letos plánuje vyhlásit 53 soutěží na velké veřejné zakázky. Většina peněz bude směřovat na stavební akce"
 image: 	      posts/adam-chodba.jpg
 author: MHMP

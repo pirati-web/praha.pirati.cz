@@ -2,7 +2,7 @@
 title: "Hlavní město schválilo jednotný informační systém pro cestující v budoucím Terminálu Smíchov"
 author: MHMP
 image:  posts/grafika.jpg
-tags:   [Doprava]
+tags:   [Doprava, Správa železnic, Terminál Smíchov]
 ---
 
 Terminál Smíchov zná svůj informační systém pro cestující. Radní hl. m. Prahy přijali jeho podobu, která do budoucna pomůže lidem se co nejlépe orientovat na celém Terminálu Smíchov. Díky schválené studii by tak měl být celý orientační systém jednoduchý a spolehlivý, což usnadní cestujícím nalézt například správná nástupiště nebo poklady, aniž by se setkali s vizuálními a informačními cedulemi, které by pro ně mohly být matoucí.

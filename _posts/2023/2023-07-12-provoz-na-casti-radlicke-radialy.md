@@ -2,7 +2,7 @@
 title: "Praha spouští provoz na části Radlické radiály a na nové nájezdové rampě z ulice Bucharova na Rozvadovskou spojku"
 author: MHMP
 image:  posts/8hrib.jpg
-tags:   [Doprava]
+tags:   [Doprava, Radlická radiála]
 ---
 
 Technická správa komunikací (TSK) dokončila novostavbu nájezdové rampy z křižovatky ulic Bucharova a Nárožní na dosud nevyužívanou část Rozvadovské spojky, jež je součástí Radlické radiály. Pravé odbočení z Bucharovy ulice na novou větev je navíc neřízené světelnou signalizací, což řidičům ve směru z centra ušetří průjezd dvěma světelnými signalizacemi. Stávající levé odbočení na sjízdnou větev v křižovatce Bucharovy a Pekařské pak díky nové rampě bude moci být zrušeno, nová rampa jej plně nahradí.

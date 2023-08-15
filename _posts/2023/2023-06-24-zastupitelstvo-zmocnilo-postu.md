@@ -2,7 +2,7 @@
 title: "Pražské zastupitelstvo zmocnilo radu, aby se účastnila případných dražeb na nemovitosti prodávané Českou poštou"
 author: MHMP
 image:  posts/novaradnice4.jpg
-tags:   [Doprava]
+tags:   [Majetek, Česká pošta]
 ---
 
 Pražské zastupitelstvo zmocnilo Radu hl. m. Prahy k účasti na případných dražbách pořádaných Českou poštou. Česká pošta v dohledné době bude chtít prodat některé své nemovitosti v Praze, například současnou centrálu v Jindřišské ulici nebo budovu v Moravské ulici. Praha opakovaně vyjádřila zájem jednat o přímém odkupu těchto nemovitostí a dle posledních dohod pošta dražby pořádat nebude. Rozhodnutí pražských zastupitelů je tak jen pojistkou pro případ, že by pošta svůj přístup přehodnotila.

@@ -2,7 +2,7 @@
 title: "Tři projekty ke zlepšení životního prostředí na území Prahy postupují do finále celostátní soutěže Adapterra Awards"
 author: MHMP
 image:  posts/komrskova-zhmp.jpg
-tags:   [životní prostředí]
+tags:   [Životní prostředí]
 ---
 
 Soutěž Adapterra Awards pořádaná Nadací Partnerství hledá nejlepší příklady adaptací na změnu klimatu. Díky tomu se ukázkové projekty mohou replikovat na dalších místech v České republice. Do letošního pátého ročníku se přihlásilo 115 projektů, což je nejvíce v historii soutěže. O vítězství budou ve finále bojovat celkem tři projekty na území metropole. Detailní informace jsou k dispozici na: [adaptrerraawards.cz](https://www.adaptrerraawards.cz).

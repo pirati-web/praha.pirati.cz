@@ -2,7 +2,7 @@
 title:  "Praha připravuje pro řidiče přehled o volných místech na parkovištích P+R a u hranice Prahy"
 author: MHMP
 image:	posts/modra-zona.jpg
-tags:   [IT, Doprava, Operátor ICT, Parkování, P+R Parkoviště]
+tags:   [IT, Doprava, Operátor ICT, Parkování]
 ---
  
 **Zefektivnit parkování osobních automobilů na parkovištích i za hranicemi Prahy si klade za cíl pilotní projekt, v rámci kterého vznikne databáze parkovišť a rozšíří se funkcionalita aplikace PID Lítačka. Ta bude řidiče navigovat k nejbližšímu volnému parkovacímu místu, což zamezí zbytečným cestám k již obsazeným parkovištím. Smlouvu s Operátorem ICT (OICT) o implementaci a zkušebním provozu systému datové integrace parkovišť schválila na svém pondělním zasedání Rada hlavního města Prahy.**
