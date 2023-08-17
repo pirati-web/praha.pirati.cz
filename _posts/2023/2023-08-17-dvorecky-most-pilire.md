@@ -2,7 +2,7 @@
 title: "Dvorecký most má založené opěry a pilíře"
 author: MHMP
 image:  posts/dvor.jpg
-tags:   [Doprava]
+tags:   [Doprava, Dvorecký most]
 ---
 
 Nový most mezi Podolím a Zlíchovem má založené hlubinné piloty, opěry a pilíře spodní části stavby. Stavbu Dvoreckého mostu doprovází neočekávané události kvůli složitým geologickým podmínkám. Dokončení spojnice pro MHD, cyklisty a chodce se očekává v listopadu 2025.
