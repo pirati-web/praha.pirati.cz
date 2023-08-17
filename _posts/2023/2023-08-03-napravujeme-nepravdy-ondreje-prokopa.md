@@ -2,7 +2,7 @@
 title: "Napravujeme nepravdy a manipulace Ondřeje Prokopa (ANO)"
 author: MHMP
 image:  posts/prokopu.jpg
-tags:   [kauzy]
+tags:   [Hnutí ANO]
 ---
 
 Podle něj dostávají obecní byty v Praze jen bezdomovci a problematické osoby.

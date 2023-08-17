@@ -2,7 +2,7 @@
 title: "Petr Beneš ukončí činnost jako poradce náměstkyně Komrskové, chce ochránit partnerku od dalších útoků"
 author: Piráti Praha
 image:  posts/novaradnice5.jpg
-tags:   [Piráti]
+tags:   [Piráti, Výběrové řízení]
 ---
 
 Praha, 20. července 2023 – Poradce Petr Beneš ukončí činnost v sekretariátu náměstkyně pražského primátora Jany Komrskové v průběhu měsíce srpna. Na uvolněné místo bude vypsáno nové výběrové řízení.

@@ -2,7 +2,7 @@
 title: "Praha schválila akční plán pro přechod na cirkulární ekonomiku do roku 2025, rozpracovává projekty pro městské firmy"
 author: MHMP
 image:  posts/jana-komrskova.jpg
-tags:   [Ekonomika]
+tags:   [Ekonomika, Městské firmy]
 ---
 
 Radní hl. m. Prahy na pondělním jednání schválili akční plán pro přechod na cirkulární ekonomiku na roky 2023-2025. Náměstkyně primátora Jana Komrsková tak jednou za dva roky předloží pražské radě aktualizovaný seznam projektů vyplývajících ze strategie Cirkulární Praha 2030. Zásobník projektů se rozrostl o 22 položek na celkových 59. Projekty jsou rozděleny do čtyř základních oblastí – stavebnictví, voda, odpady a zemědělství a také potravinová produkce. Ty mají nejvyšší potenciál k úspoře energií a surovin.

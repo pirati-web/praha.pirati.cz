@@ -2,7 +2,7 @@
 title: "Pražští radní schválili další kroky k odstraňování vizuálního smogu, zmizí 11 billboardů"
 author: MHMP
 image:  posts/nelegal_billboardy.jpg
-tags:   [Vizuální smog]
+tags:   [Veřejný prostor]
 ---
 
 **Rada hlavního města Prahy schválila výpovědi několika nájemních smluv na umístění billboardů. Z blízkostí pražských komunikací tak díky tomu zmizí 11 velkých reklamních ploch. Současně se radní shodli na potřebě novelizace nařízení o regulaci reklamy, které mimo jiné stanovuje podmínky pro reklamní plachty.**

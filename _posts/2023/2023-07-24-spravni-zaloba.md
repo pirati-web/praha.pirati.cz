@@ -2,7 +2,7 @@
 title: "Praha se brání proti pokutě od ÚOHS za historickou protihazardní vyhlášku, podá správní žalobu"
 author: MHMP
 image:  posts/novaradnice7.jpg
-tags:   [hazard]
+tags:   [Regulace hazardu]
 ---
 
 Hlavní město se bude soudně bránit proti pokutě od Úřadu pro ochranu hospodářské soutěže (ÚOHS), kterou dostalo v souvislosti s historickou protihazardní vyhláškou z let 2012 až 2018. Zaplatit musí přes 2,5 milionu korun. Ke Krajskému soudu v Brně podá Praha proti rozhodnutí ÚOHS správní žalobu.

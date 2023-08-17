@@ -2,7 +2,7 @@
 title: "Štefánikova hvězdárna dostane novou kanalizaci"
 author: MHMP
 image:  posts/observator.jpg
-tags:   [infrastruktura]
+tags:   [Infrastruktura]
 ---
 
 Pražští radní v pondělí schválili investici ve výši 3,5 milionu korun na stavbu nové kanalizační přípojky Štefánikovy hvězdárny na Petříně. Díky koordinaci výkopových prací s revitalizací Růžového sadu ušetří Praha několik milionů korun.

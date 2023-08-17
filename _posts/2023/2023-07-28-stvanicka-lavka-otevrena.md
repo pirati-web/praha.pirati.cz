@@ -2,7 +2,7 @@
 title: "Štvanická lávka je otevřena. Karlín a Holešovice spojuje unikátní konstrukce z bílého betonu"
 author: MHMP
 image:  posts/stvanicka.jpg
-tags:   [doprava]
+tags:   [Doprava, Štvanická lávka, Praha 8]
 ---
 
 Chodci i cyklisté mohou konečně cestovat mezi Holešovicemi a Karlínem rychleji a bezpečněji. Štvanická lávka, kterou Praha uvádí do provozu, má přitom řadu architektonických i technologických unikátů. Na 300 metrů dlouhou konstrukci použili mostní specialisté unikátní ultra-vysocehodnotný bílý beton, poslední pole na holešovické straně je pak zvedací, aby odolalo i tisícileté vodě. Lávku navíc doplňují umělecká díla. Výstavba vyšla zhruba na 352 milionů Kč. S otevřením Štvanické lávky zároveň končí provoz přívozu P7, který doposud propojoval oba břehy. 

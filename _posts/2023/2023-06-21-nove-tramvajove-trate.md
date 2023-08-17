@@ -2,7 +2,7 @@
 title: "Prahu čekají velké změny: Chystá se výstavba dalších nových tramvajových tratí"
 author: MHMP
 image:  posts/novaradnice3.jpg
-tags:   [Doprava]
+tags:   [Doprava, Tramvajové tratě]
 ---
 
 Na další ze série debat z cyklu Velké změny Prahy prezentovali náměstek primátora pro dopravu Zdeněk Hřib a náměstek primátora pro územní rozvoj Petr Hlaváček další projekty, které navazují na tramvajový boom započatý v předešlém volebním období. Na debatě v Centru architektury a městského plánování (CAMP) představili tramvajový okruh a další prodloužení stávajících tramvajových tratí, jejichž délka brzy dosáhne 150 km.

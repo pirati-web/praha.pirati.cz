@@ -1,6 +1,6 @@
 ---
 date:   2022-03-15
-tags:  [P+R parkoviště, Praha 11]
+tags:  [Parkování, Praha 11]
 title:  "U stanice metra Opatov vznikne nové záchytné parkoviště pro 495 vozidel"
 image: 	      posts/panelaky.jpg
 author: MHMP
