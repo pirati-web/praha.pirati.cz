@@ -2,7 +2,7 @@
 title: "Hlavní město Praha získalo téměř 34 milionů korun na rekonstrukci Barrandovského mostu"
 author: MHMP
 image:  posts/barr.jpg
-tags:   [Doprava]
+tags:   [Barrandovský most, Doprava]
 ---
 
 Hlavní město Praha obdrželo finanční příspěvek ve výši 33 891 754,73 Kč ze Státního fondu dopravní infrastruktury (SFDI). Tyto prostředky využije na důležitou rekonstrukci a modernizaci Barrandovského mostu a na zlepšení protihlukových opatření v jeho blízkosti.
