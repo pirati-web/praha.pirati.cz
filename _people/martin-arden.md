@@ -31,4 +31,4 @@ Martin Arden byl do roku 2022 zastupitelem za Piráty, kde působil jako člen v
 
 **Rozhodnutím Rozhodčí komise byl Martin Arden z Pirátské strany v květnu 2023 vyloučen.**
 
-[https://redmine.pirati.cz/issues/42268]
+[https://redmine.pirati.cz/issues/42268](https://redmine.pirati.cz/issues/42268)
