@@ -24,6 +24,8 @@ ordmhmp: 13
 
 **David Bodeček** (* 1980) byl zastupitelem hl. m. Prahy za Piráty a prvním místostarostou MČ Praha 1. 
 
-** Rozhodnutím Rozhodčí komise byl David Bodeček v roce 2022 z Pirátské strany vyloučen. **
+** Rozhodnutím Rozhodčí komise byl David Bodeček z Pirátské strany v květnu 2023 vyloučen. **
+
+(https://redmine.pirati.cz/issues/42268)[https://redmine.pirati.cz/issues/42268]
 
  
