@@ -2,7 +2,7 @@
 title: "Zábranský: Rok 1968 nezapomeneme!"
 author: Adam Zábranský
 image:  posts/zabransky-nezapomeneme.jpg
-tags:   [Praha]
+tags:   [Akce]
 ---
 
 Invaze vojsk Varšavské smlouvy začala v noci z 20. na 21. 8. 1968, stála životy 137 Čechů a Slováků, zadusila reformy Pražského jara a spustila víc než 20 let normalizační šedi.
