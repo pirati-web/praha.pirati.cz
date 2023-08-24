@@ -13,6 +13,7 @@ profession: student, zastupitel MČ Praha–Petrovice
 partyUid: pirati
 teamDescription:
   pks: 1. místopředseda KS Praha
+ordpks: 2
 funkce:
   - zastupitel MČ Praha-Petrovice
   - 1. místopředseda KS Praha
