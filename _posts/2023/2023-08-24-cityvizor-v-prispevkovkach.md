@@ -2,7 +2,7 @@
 title: "Rozpočty všech pražských příspěvkových organizací jsou nyní on-line v rozklikávací aplikaci Cityvizor"
 author: MHMP
 image:  posts/zabransky-okno.jpg
-tags:   [Transparentnost]
+tags:   [CityVizor, Transparentnost]
 ---
 
 Praha nově zveřejňuje rozklikávací rozpočty všech svých 245 příspěvkových organizací v aplikaci Cityvizor, u pětiny z nich pak až na úroveň jednotlivých faktur. Novinka zjednoduší veřejnou kontrolu nad využitými financemi. Praha tak plní další bod ze své protikorupční strategie pro roky 2022-2027.

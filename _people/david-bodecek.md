@@ -12,9 +12,7 @@ description: bývalý člen Pirátů
 partyUid: bezpp
 teamDescription:
   mhmp: zastupitel hl. města Prahy
-mail:
-- david.bodecek@pirati.cz
-mob: +420 775 592 183
+ 
 funkce: 
 profiles:
  

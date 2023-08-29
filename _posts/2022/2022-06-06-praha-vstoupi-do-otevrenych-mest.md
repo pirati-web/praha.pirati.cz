@@ -2,7 +2,7 @@
 title: "Praha vstoupí do spolku Otevřená města, který rozvíjí IT samospráv a snižuje náklady"
 author: MHMP
 image: 	posts/hrib-smich.jpg
-tags:   [IT, Otevřená města, Cityvizor, Digitalizace]
+tags:   [IT, Otevřená města, CityVizor, Digitalizace]
 ---
 
 **Rada hl. m. Prahy v souladu s programovým prohlášením koalice odsouhlasila vstup hlavního města do spolku Otevřená města. Jeho cílem je rozvíjet otevřené fungování veřejné správy, a to zejména samospráv, a zvyšovat povědomí o možnostech digitalizace. Podporuje také pravidelné zveřejňování informací a transparentní rozhodování i zapojování veřejnosti. Materiál bude ještě schvalovat Zastupitelstvo hl. m. Prahy.**
