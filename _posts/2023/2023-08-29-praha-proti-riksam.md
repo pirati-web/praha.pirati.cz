@@ -7,7 +7,7 @@ tags:   [Turistika]
 
 Reklamní rikši parkující před provozovnami thajských masáží komplikují život Pražanům a návštěvníkům metropole, jejich umístění v centru města je protiprávní a neestetické. Shodli se na tom představitelé hlavního města a Městské policie, kteří nyní intenzivně hledají řešení na jejich legální odstranění, usilovat budou o změnu legislativy. 
 
-Pražský primátor Bohuslav Svoboda a radní pro majetek, transparentnost a legislativu Adam Zábranský se v pondělí 28. září sešli s představiteli Městské policie. Na schůzce hledali společné řešení na odstranění reklamních rikš, stojících před provozovnami thajských masáží.
+Pražský primátor Bohuslav Svoboda a radní pro majetek, transparentnost a legislativu Adam Zábranský se v pondělí 28. srpna sešli s představiteli Městské policie. Na schůzce hledali společné řešení na odstranění reklamních rikš, stojících před provozovnami thajských masáží.
 
 > „Pro Prahu je nejen ostudou, ale i komplikací v každodenním provozu to, že na chodníku stojí pomalované a polepené rikši, které ve skutečnosti nejsou ničím jiným než reklamními poutači. Věřím tomu, že řešení se už rýsuje,“ řekl primátor Bohuslav Svoboda.
 
