@@ -29,9 +29,6 @@ asistenti:
   - name: Mgr. Michaela Marešová
     position: vedoucí sekretariátu
     mail: michaela.maresova@praha.eu
-  - name: Mgr. Petr Beneš
-    position: poradce
-    mail: petr.benes@praha.eu
   - name: Vratislav Filípek
     position: poradce
     mail: vratislav.filipek@praha.eu
