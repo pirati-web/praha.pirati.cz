@@ -1,6 +1,6 @@
 ---
 uid: simona.bartova
-name: Simona Bártová 
+name: Simona Mikušová 
 titles:
   before: Ing.
   after:
@@ -24,7 +24,7 @@ profiles:
 ordpks: 3		  
 ---
 
-**Simona Bártová je od listopadu 2022 místopředsedkyní krajského sdružení a od prosince 2020 je také místopředsedkyní místního sdružení v Praze 3.** 
+**Simona Mikušová je od listopadu 2022 místopředsedkyní krajského sdružení a od prosince 2020 je také místopředsedkyní místního sdružení v Praze 3.** 
 
 Je absolventkou VŠE Praha oboru Informatika a knihovnictví. Pracovala jako account manager v reklamní agentuře a v roku 2004 se rozhodla úplně změnit obor. Od té doby pracuje jako vizážistka a také lektorka ve škole profesionálního make-upu.
 
