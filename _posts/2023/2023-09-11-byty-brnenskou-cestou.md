@@ -5,7 +5,7 @@ image:  posts/bytyfail.jpg
 tags:   [Bydlení]
 ---
 
-Praha, 11. září 2023 – Rada hlavního města v pondělí na svém jednání odhlasovala novou podobu pravidel pro přidělování městských bytů. Tisk byl odhlasován těsnou většinou 7 hlasů. Pirátští radní pro ně ruku nezvedli, protože de facto zavádí netransparentní “brněnský model” přidělování městských bytů u bytů pro seniory a bytů pro mladé rodiny. V průběhu jednání o podobě dokumentu pirátský klub jasně deklaroval, že nepodpoří žádnou podobu pravidel, ve kterých nebude průhledný a ověřitelný systém založený na bodovém systému. 
+**Praha, 11. září 2023 – Rada hlavního města v pondělí na svém jednání odhlasovala novou podobu pravidel pro přidělování městských bytů. Tisk byl odhlasován těsnou většinou 7 hlasů. Pirátští radní pro ně ruku nezvedli, protože de facto zavádí netransparentní “brněnský model” přidělování městských bytů u bytů pro seniory a bytů pro mladé rodiny. V průběhu jednání o podobě dokumentu pirátský klub jasně deklaroval, že nepodpoří žádnou podobu pravidel, ve kterých nebude průhledný a ověřitelný systém založený na bodovém systému.**
 
 > „Považujeme za úspěch, že se podařilo původní naprosto neakceptovatelný návrh změnit, byť stále vidíme velký prostor pro zlepšení. Nerozumíme, proč nebylo možné zapracovat všechny připomínky, které jsme v uplynulých měsících vznesli gesční náměstkyni. Myslím, že jsme byli velmi blízko kompromisu přijatelnému pro všechny koaliční strany. Bohužel Praha teď půjde cestou města Brna, kde se byty přidělují bez bodového systému a výběr budoucích nájemníků z řad žadatelů není transparentní,” říká předsedkyně výboru pro bydlení Magdalena Valdmanová.
 
