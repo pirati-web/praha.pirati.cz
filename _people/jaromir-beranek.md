@@ -6,12 +6,14 @@ titles:
   after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
    - mhmp
+   - dr
 img: people/jaromir-beranek-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 description:  předseda výboru pro zahraniční vztahy a EU fondy ZHMP
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy
+  dr: 
 funkce: 
   - zastupitel hl. města Prahy
   - předseda výboru pro zahraniční vztahy a EU fondy ZHMP
@@ -30,6 +32,7 @@ profiles:
   flickr:
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
 ordmhmp: 12
+orddr: 15
 ---
 
 Mgr. Ing. Jaromír Beránek, CEMS MIM (* 14. května 1986) je zastupitelem hl. m. Prahy za Piráty. Členem České pirátské strany je od listopadu 2016, v minulosti byl vedoucím finančního odboru strany a předsedou pražských Pirátů.
