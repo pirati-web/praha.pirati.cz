@@ -72,7 +72,7 @@ Od října 2013 je registrovaným příznivcem Pirátů. V komunálních volbác
 
 V roce 2022 byl zvolen členem výboru ZHMP pro zdravotnictví.
 
-V roce 2023 byl v nové koalici zvolen 1. náměstkem primátora zodpovědným za oblast dopravy.
+V roce 2023 byl v nové koalici zvolen 1. náměstkem primátora zodpovědným za oblast dopravy. Je rovněž předsedou dozorčí rady Dopravního podniku hl. m. Prahy, a.s.
 
 ### Otevřený kalendář
 

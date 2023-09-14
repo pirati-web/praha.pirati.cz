@@ -13,7 +13,7 @@ partyUid: pirati
 description: senátor za volební obvod 23 - Praha 8
 teamDescription:
   senat: senátor za vol. obvod 23 - Praha 8
-  dr: Pražské služby, a.s.
+  dr: Pražské služby, a.s., Pražská plynárenská a.s.
 mob: +420 608 303 542
 mail:
  - wagenknechtl@senat.cz
@@ -45,6 +45,6 @@ Za svůj život se podílel na stovkách auditů. Do povědomí veřejnosti se a
 
 V roce 2015 byl oceněn cenou za odvahu od Nadačního fondu proti korupci za své dlouhodobé nekompromisní postoje v roli auditora, například v pražském Dopravním podniku, nebo na ministerstvu financí, kde upozornil na nesrovnalosti v podivných smlouvách uzavřených mezi společností ČEZ a političkou hnutí ANO Radmilou Kleslovou.
 
-V roce 2018 kandidoval úspěšně za Pirátskou stranu do senátu ve volebním obvodu Praha 8. V roce 2018 se stal v otevřeném výběrovém řízení členem dozorčí rady společnosti Pražská plynárenská, a.s. 
+V roce 2018 kandidoval úspěšně za Pirátskou stranu do senátu ve volebním obvodu Praha 8. V roce 2018 se stal v otevřeném výběrovém řízení členem dozorčí rady společnosti Pražská plynárenská, a.s. Rovněž je předsedou dozorčí rady společnosti Pražské služby, a.s.
 
 Odměnu a tantiému z členství v dozorčí radě zasílá Lukáš Wagenknecht na svůj transparentní účet pro dobročinné účely ([2801559276/2010](https://ib.fio.cz/ib/transparent?a=2801559276))

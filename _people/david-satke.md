@@ -6,9 +6,12 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
+- dr
 img: people/david-satke.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description:      	# kratký popis, max 160 znaků
+description: člen dozorčí rady společnosti Trade Centre Praha, a.s.
+teamDescription: 
+ dr: Trade Centre Praha, a.s.
 mail:
 - david.satke@pirati.cz
 mob:
@@ -17,9 +20,10 @@ profiles:
   facebook:    
   twitter: 		  
   flickr:		  
+  orddr: 5
 ---
 
-**David Satke** (*3. srpna 1983) je registrovaným příznivcem Pirátské strany a ve straně v současné době nemá žádnou funkci. David pochází z Hodonína a od roku 2003 žije v Praze.
+**David Satke** (*3. srpna 1983) je člen dozorčí rady společnosti Trade Centre Praha, a.s.
 
 Vystudoval gymnázium v Hodoníně a následně Právnickou fakultu Univerzity Karlovy v Praze, kde získal titul Mgr. V rámci programu Erasmus studoval jeden rok také na právnické fakultě Utrecht University v Nizozemí. V průběhu studia se specializoval na soukromé, mezinárodní obchodní právo a bankovní právo.
 

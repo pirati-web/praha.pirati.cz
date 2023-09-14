@@ -9,6 +9,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/janusz-konieczny.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: člen dozorčí rady společnosti Pražská vodohospodářská společnost a.s.
+teamDescription:
+ dr: Pražská vodohospodářská společnost a.s.
 mail:
 - janusz.konieczny@pirati.cz
 mob:
