@@ -2,7 +2,7 @@
 title: "Hoax na iDnes o reklamě, zvýhodnění konkurence je nesmysl"
 author: Adam Zábranský
 image:  posts/hoax2.png
-tags:   [Transparentnost]
+tags:   [Transparentnost, Reklama, Veřejný prostor]
 ---
 
 Až včera z médií jsem se dozvěděl, že pravidla pro nízkonákladovou reklamu, která několik let připravuje Institut plánování a reklamy a jejichž přípravu v minulém volebním období zadávala koaliční pracovní skupina k reklamě – v níž jsem nebyl členem – dle některých reklamních společností údajně umožňují provoz plakátovacích ploch jen jedné z reklamních společností. To je naprosto lživá informace a manipulativní interpretace.

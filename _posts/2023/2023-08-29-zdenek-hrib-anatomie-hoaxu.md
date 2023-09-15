@@ -2,7 +2,7 @@
 title: "Anatomie hoaxu – někdo plácne vymyšlenou blbost a my to pak celý den uvádíme na pravou míru"
 author: MHMP
 image:  posts/hoax.jpg
-tags:   [Doprava]
+tags:   [Doprava, Mýto]
 ---
 
 Vedoucí odboru dopravy Prahy 14 Petr Vomáčka na Facebooku sdílel údajnou mapku mýta pro téměř celou Prahu 1. A že to prý budou kontrolovat nějaká speciální auta. Tyto nesmysly se pak bohužel dostaly do médií.

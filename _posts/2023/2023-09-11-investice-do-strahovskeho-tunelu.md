@@ -2,7 +2,7 @@
 title: "Hlavní město plánuje v následujících deseti letech investovat do modernizace Strahovského tunelu šest miliard korun"
 author: MHMP
 image:  posts/strahovsky.jpg
-tags:   [Doprava]
+tags:   [Doprava, Strahovský tunel]
 ---
 
 Radní hl. m. Prahy na pondělním zasedání schválili postupnou modernizaci Strahovského tunelu v následujících deseti letech. Celkem by mělo být do konce roku 2033 investováno do tunelu přibližně šest miliard korun. Modernizovány budou technologie, odvodňovací šachty, vozovka či celková bezpečnost pro provoz automobilové dopravy i případný úkryt osob v případě ohrožení obyvatel.
