@@ -1,6 +1,6 @@
 ---
 date:         2022-02-09
-tags:         [IT]
+tags:         [IT, Prague City Tourism]
 title:        "Praha se jako první město v Česku připojuje k mezinárodní platformě City Possible"
 image: 	      posts/7hrib.jpg
 author:       MHMP

@@ -2,7 +2,7 @@
 title: "Praha je podle časopisu Time Out jedno z nejlepších měst na světě"
 authorId: zdenek.hrib
 image: 	posts/hrib-vevyskoku.jpg
-tags:   [Turismus]
+tags:   [Prague City Tourism]
 ---
 
 **Praha je jedno z nejlepších měst na světě! Podle časopisu Time Out je naše město světově 6. nejlepší a dokonce 3. nejkrásnější.**
