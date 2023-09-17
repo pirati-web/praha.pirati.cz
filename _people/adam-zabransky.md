@@ -26,6 +26,9 @@ asistenti:
     position: vedoucí sekretariátu
     mail: martin.kamenik@praha.eu
     tel: +420 236 002 133
+  - name: Mgr. Petr Beneš
+    position: poradce
+    mail: petr.benes@praha.eu
   - name: Jana Ohnoutková
     position: sekretářka
     mail: jana.ohnoutkova@praha.eu
