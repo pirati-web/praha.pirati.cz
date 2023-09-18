@@ -2,7 +2,7 @@
 title: "Praha plní klimatický plán: koupila bioplynku, snižuje emise CO2, a bioCNG vyrábí z čistírenského kalu"
 author: MHMP
 image:  posts/jana-komrskova.jpg
-tags:   [Životní-prostředí]
+tags:   [Pražský klimatický závazek, Životní prostředí]
 ---
 
 Náměstkyně primátora pro životní prostředí a klimatický plán Jana Komrsková předložila radě Zprávu o druhém roce naplňování Klimatického plánu hl. m. Prahy do roku 2030. Analýza popisuje průběžné výsledky 69 klíčových projektů a předkládá přehled realizovaných aktivit, projektů, strategií a záměrů ve všech čtyřech oblastech – udržitelná energetika a budovy, udržitelná mobilita, cirkulární ekonomika a adaptace na změnu klimatu.

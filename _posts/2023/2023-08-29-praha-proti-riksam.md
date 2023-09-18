@@ -2,7 +2,7 @@
 title: "Praha bojuje proti reklamním rikšám v centru města"
 author: MHMP
 image:  posts/adam-zabransky-sal.jpg
-tags:   [Turistika]
+tags:   [Prague City Tourism]
 ---
 
 Reklamní rikši parkující před provozovnami thajských masáží komplikují život Pražanům a návštěvníkům metropole, jejich umístění v centru města je protiprávní a neestetické. Shodli se na tom představitelé hlavního města a Městské policie, kteří nyní intenzivně hledají řešení na jejich legální odstranění, usilovat budou o změnu legislativy. 

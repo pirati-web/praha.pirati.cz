@@ -2,7 +2,7 @@
 title: "Pražské trhy budou mít svou koncepci, připraví ji městská společnost Prague City Tourism"
 author: MHMP
 image:  posts/zabransky-okno.jpg
-tags:   [Trhy]
+tags:   [Trhy, Prague City Tourism]
 ---
 
 Hlavní město se již brzy bude moci opírat o Koncepci pražských trhů, její první fázi zpracuje městská společnost Prague City Tourism. Materiál přinese systémové řešení potřeb města v této oblasti, ve své první fázi se zaměří na lokality v historickém centru metropole.

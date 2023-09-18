@@ -2,7 +2,7 @@
 title: "Petr Beneš nastupuje v září jako poradce radního Zábranského, vyhrál výběrové řízení"
 author: Piráti Praha
 image:  posts/novaradnice7.jpg
-tags:   [Majetek]
+tags:   [Piráti]
 ---
 
 Praha, 1. září 2023 – Petr Beneš vyhrál transparentní výběrové řízení na pozici poradce radního pro majetek, legislativu a transparentnost Adama Zábranského. Beneš včera skončil jako poradce náměstkyně Jany Komrskové, jak bylo [avizováno](https://praha.pirati.cz/aktuality/petr-benes-ukonci-cinnost.html) v červenci.
