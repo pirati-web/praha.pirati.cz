@@ -12,4 +12,7 @@ groups:
   - name: Nezastupitelé ve výborech ZHMP
     category: vybor
     sort: ordvyb
+  - name: Členové dozorčích rad městských společnosti
+    category: dr
+    sort: orddr
 ---
