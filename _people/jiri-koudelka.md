@@ -5,6 +5,7 @@ titles:
   before: Mgr.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- dr
 img: people/jiri-koudelka.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati

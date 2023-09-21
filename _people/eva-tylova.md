@@ -14,6 +14,7 @@ profession: zastupitelka Prahy 12, ekoložka
 description: zastupitelka hl. města Prahy
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
+  dr: Pražské služby, a.s., Pražská vodohospodářská společnost, a.s.
 funkce: 
   - zastupitelka MČ Praha 12
   - zastupitelka hl. města Prahy

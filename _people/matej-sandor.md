@@ -4,12 +4,14 @@ name: Matej Šandor  	# běžně používáné jméno
 titles:
   before: JUDr. Bc.
   after: Ph.D
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category:       # kategorie: rp, praha, vary, hradec, jmk, senat   
+- dr       	
 img: people/matej-sandor.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: 
 teamDescription:
+ dr: Pražská energetika
 mail:
   - matej.sandor@pirati.cz
 funkce:
@@ -21,7 +23,7 @@ profiles:
   flickr:		  
 ---
 
-**Matej Šandor** byl členem dozorčí rady společnosti Pražská energetika a.s.. Býval také zastupitelem městské části Praha 4. 
+**Matej Šandor** je členem dozorčí rady společnosti Pražská energetika a.s. Býval také zastupitelem městské části Praha 4. 
 
 Matej má bohaté zkušenosti s centrálním nákupem a řízením provozních činností z několika společností (např. Českomoravská záruční a rozvojová banka, Česká televize, Česká pošta). Představuje zkušeného manažera a jeho znalosti jsou pro rozsáhlou firmu jako je Pražská energetika velkým přínosem. Ze správy investic a městských společností Prahy 4 má rovněž zkušenosti se správou 4-Energetické, a.s. a 4-Majetkové, a.s.. 
 

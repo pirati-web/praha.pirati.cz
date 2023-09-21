@@ -13,7 +13,7 @@ profession: zastupitelka hl. města Prahy, projektová manažerka a šachová mi
 description: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
-  dr: Dopravní podnik hl. města Prahy, a.s. 
+  dr: Dopravní podnik hl. města Prahy, a.s., Technická správa komunikací a.s.
 mail:
   - gabriela.lnenickova@pirati.cz
 mob:	
@@ -43,6 +43,6 @@ Od listopadu 2018 je radní městské části Praha – Suchdol a od dubna 2019 
 
 Gabriela je [mezinárodní mistryní v šachu](https://www.chess.cz/hrac/2559). V roce 1997 vyhrála Mistrovství ČR v kategorii žen a juniorek a v následujících letech získala jednu stříbrnou a dvě bronzové medaile. Reprezentovala Českou republiku na světových a evropských šampionátech mládeže, mezinárodních turnajích a na šachové olympiádě v Rusku.
 
-Je rovněž členkou dozorčí rady Dopravního podniku hl. m. Prahy, a.s.
+Je rovněž členkou dozorčí rady Dopravního podniku hl. m. Prahy, a.s. a Technické správy komunikací, a.s.
 
 Gabriela má ráda procházky v přírodě, cyklistiku, zajímá se o zdravý životní styl a ráda čte knihy o osobním rozvoji. Je vdaná a má dvě děti.

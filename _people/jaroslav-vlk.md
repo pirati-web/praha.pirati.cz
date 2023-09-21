@@ -11,7 +11,7 @@ heroImg: Prague_panorama.jpeg
 partyUid: bezpp
 description:
 teamDescription: 
- dr: Pražská plynárenská Distribuce, a.s.
+ dr: Pražská plynárenská Distribuce, a.s., Pražské služby, a.s.
 mail: jaroslav.vlk@seznam.cz
 profiles:
 funkce:
@@ -24,7 +24,7 @@ profiles:
 orddr: 12
 ---
 
-**Jaroslav Vlk** je členem dozorčí rady společnosti Pražská plynárenská Distribuce, a.s., člen koncernu Pražská plynárenská, a.s.
+**Jaroslav Vlk** je členem dozorčí rady společnosti Pražská plynárenská Distribuce, a.s., člen koncernu Pražská plynárenská, a.s. Je rovněž i členem dozorčí rady společnosti Pražské služby, a.s.
 
 Vystudoval ekonomickou fakultu VŠB – technické univerzity v Ostravě. Jaroslav má zkušenosti z různých ekonomických pozic jak z veřejného, tak ze soukromého sektoru. Po studiích začal pracovat v Praze v oblasti financí jako analytik a později ve finančním managementu státem ovládané společnosti. Následně pracoval pro zpravodajské složky ČR v oblasti ochrany ekonomických zájmů ČR, mj. v oblasti státem ovládaných aktiv. Od roku 2017 je konzultantem a analytikem v oblasti audit & assurance a AML (anti money laundering). 
 

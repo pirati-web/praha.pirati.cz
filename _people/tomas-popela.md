@@ -11,7 +11,7 @@ heroImg: Prague_panorama.jpeg
 partyUid: bezpp
 description:
 teamDescription: 
-dr: Želivská provozní, a.s.
+ dr: Želivská provozní, a.s.
 mail: popelatomas@gmail.com
 profiles:
 funkce: 
