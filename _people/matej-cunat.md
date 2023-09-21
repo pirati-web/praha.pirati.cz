@@ -22,4 +22,8 @@ profiles:
 orddr: 21	  
 ---
 
-**Matěj Čunát** je členem dozorčí rady společnosti Výstaviště Praha, a.s.
+**Matěj Čunát** je členem dozorčí rady společnosti Výstaviště Praha, a.s. Vyrůstal v severočeských Kytlicích, po studiu architektury na FUA TU v Liberci zakotvil v Praze. V rámci programu Erasmus+ studoval na KU Leuven v Belgii, dále absolvoval zahraniční pracovní stáže v Belgii a Německu. Spoluzaložil studio Taktiky, kde se věnuje navrhování městských čtvrtí a veřejných prostranství s důrazem na udržitelnost.
+
+U Pirátů se věnuje především dopravě a územnímu rozvoji. Je zastupitelem MČ Praha 7, členem komise dopravy Rady MČ Praha 7 a předsedou Komise Rady hl. m. Prahy pro vodní dopravu.
+
+V srpnu 2023 byl zvolen předsedou dozorčí rady Výstaviště Praha, a.s. V rámci svého působení v dozorčí radě se chce soustředit na pokračování revitalizace areálů Výstaviště a Holešovické tržnice. Dále chce usilovat o to, aby byly areály dále zpřístupňovány veřejnosti a staly se plnohodnotným veřejným prostorem pro všechny.
