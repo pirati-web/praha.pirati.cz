@@ -11,7 +11,7 @@ category:
 img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-profession: náměstek primátora hl. města Prahy pro dopravu
+profession: 1. náměstek primátora hl. města Prahy pro dopravu
 description: 1. náměstek primátora Prahy pro dopravu
 teamDescription:
   mhmp-rhmp: 1. náměstek primátora pro dopravu

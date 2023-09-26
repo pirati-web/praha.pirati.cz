@@ -13,6 +13,7 @@ partyUid: pirati
 description: náměstkyně ministra práce a sociálních věcí ČR
 teamDescription: 
   vlada: náměstkyně ministra práce a sociálních věcí ČR
+  mhmp: zastupitelka hl. města Prahy
 funkce:
   - náměstkyně ministra práce a sociálních věcí ČR
   - zastupitelka hl. města Prahy

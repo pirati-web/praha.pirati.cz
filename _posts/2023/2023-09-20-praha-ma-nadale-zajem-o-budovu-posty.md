@@ -2,7 +2,7 @@
 title: "Praha má nadále zájem o budovu České pošty na Pankráci. Za současných podmínek se ale aukce zúčastnit nemůže"
 author: MHMP
 image:  posts/novaradnice4.jpg
-tags:   [Praha]
+tags:   [Česká pošta, Majetek]
 ---
 
 Česká pošta v příštích dnech plánuje prodat v aukci objekt pošty v ulici Na Strži na Pankráci. Hlavní město opakovaně vyjádřilo zájem o koupi této nemovitosti, podmínky aukce mu ale znemožňují účast, navíc jsou diskriminační. Rada hl. m. Prahy v pondělí nicméně konstatovala, že o nabytí nemovitostí má Praha nadále zájem a bude jednat s Českou poštou a Ministerstvem vnitra ČR o úpravě podmínek tak, aby nebyly diskriminační a aby se hlavní město mohlo aukce zúčastnit.
