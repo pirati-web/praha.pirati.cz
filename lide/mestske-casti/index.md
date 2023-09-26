@@ -11,27 +11,12 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
   
 <main>
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
-
-<article class="card card--hoveractive">
-<a href="https://praha1.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha1.png" alt="MS Praha 1" /></a>
-<div class="card__body p-4">
-<h1 class="card-headline mb-2"><a href="http://praha1.pirati.cz" target="_blank">MS Praha 1</a></h1> 
-<p class="card-body-text">Olga Sklenářová<br /><a href="mailto:olga.sklenarova@pirati.cz">olga.sklenarova@pirati.cz</a></p>
-<br />
-   <div class="social-icon-group space-x-2 ">
-      <a href="https://fb.com/piratipraha1" class="social-icon "><i class="ico--facebook"></i></a>
-      <a href="https://twitter.com/PiratiP1" class="social-icon "><i class="ico--twitter"></i></a>
-      <a href="https://praha1.pirati.cz" class="social-icon "><i class="ico--globe"></i></a>
-      <a href="https://forum.pirati.cz/viewforum.php?f=722" class="social-icon "><i class="ico--bubbles"></i></a>    
-   </div>
-</div>
-</article>  
     
 <article class="card card--hoveractive">
 <a href="https://praha2.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha2.png" alt="MS Praha 2" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha2.pirati.cz" target="_blank">MS Praha 2</a></h1> 
-<p class="card-body-text">Magdalena Valdmanová<br /><a href="mailto:magdalena.valdmanova@pirati.cz">magdalena.valdmanova@pirati.cz</a></p>
+<p class="card-body-text">Robert Veverka<br /><a href="mailto:robert.veverka@pirati.cz">robert.veverka@pirati.cz</a></p>
 <br />
   <div class="social-icon-group space-x-2 ">
      <a href="https://fb.com/piratipraha2" class="social-icon "><i class="ico--facebook"></i></a>
@@ -46,7 +31,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha3.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha3.png" alt="MS Praha 3" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha3.pirati.cz" target="_blank">MS Praha 3</a></h1> 
-<p class="card-body-text">Simona Bártová<br /><a href="mailto:simona.bartova@pirati.cz">simona.bartova@pirati.cz</a></p>
+<p class="card-body-text">Simona Mikušová<br /><a href="mailto:simona.mikusova@pirati.cz">simona.mikusova@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://fb.com/piratipraha3" class="social-icon "><i class="ico--facebook"></i></a>
@@ -168,7 +153,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha11.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha11.png" alt="MS Praha 11" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha11.pirati.cz" target="_blank">MS Praha 11</a></h1> 
-<p class="card-body-text">Josef Kocourek<br /><a href="mailto:josef.kocourek@pirati.cz">josef.kocourek@pirati.cz</a></p>
+<p class="card-body-text">Tomáš Kapler<br /><a href="mailto:tomas.kapler@pirati.cz">tomas.kapler@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/pirati11.cz" class="social-icon "><i class="ico--facebook"></i></a>
@@ -184,7 +169,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha12.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha12.png" alt="MS Praha 12" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha12.pirati.cz" target="_blank">MS Praha 12</a></h1> 
-<p class="card-body-text">Michal Macek<br /><a href="mailto:michal.macek@pirati.cz">michal.macek@pirati.cz</a></p>
+<p class="card-body-text">Jakub Rychlý<br /><a href="mailto:jakub.rychly@pirati.cz">jakub.rychly@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/PiratiP12" class="social-icon "><i class="ico--facebook"></i></a>
@@ -215,7 +200,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha14.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha14.png" alt="MS Praha 14" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha14.pirati.cz" target="_blank">MS Praha 14</a></h1> 
-<p class="card-body-text">Matěj Kubíček<br /><a href="mailto:matej.kubicek@pirati.cz">matej.kubicek@pirati.cz</a></p>
+<p class="card-body-text">Tomáš Stolařík<br /><a href="mailto:tomas.stolarik@pirati.cz">tomas.stolarik@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/piratipraha14" class="social-icon "><i class="ico--facebook"></i></a>
@@ -230,7 +215,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha15.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha15.png" alt="Přípravný tým Praha 15" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha15.pirati.cz" target="_blank">Přípravný tým Praha 15</a></h1> 
-<p class="card-body-text">Radka Daníčková<br /><a href="mailto:radka.danickova@pirati.cz">radka.danickova@pirati.cz</a></p>
+<p class="card-body-text">Pavel Petrášek<br /><a href="mailto:pavel.petrasek@pirati.cz">pavel.petrasek@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/piratipraha15" class="social-icon "><i class="ico--facebook"></i></a>
@@ -239,21 +224,6 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
    </div>
 </div>  
 </article>    
-  
-<article class="card card--hoveractive">
-<a href="https://praha21.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha21.png" alt="MS Praha 21" /></a>
-<div class="card__body p-4">
-<h1 class="card-headline mb-2"><a href="http://praha21.pirati.cz" target="_blank">MS Praha 21</a></h1> 
-<p class="card-body-text">Blanka Charvátová<br /><a href="mailto:blanka.charvatova@pirati.cz">blanka.charvatova@pirati.cz</a></p>
-<br />
-   <div class="social-icon-group space-x-2 ">
-      <a href="https://www.facebook.com/piratipraha21" class="social-icon "><i class="ico--facebook"></i></a>
-      <a href="https://praha21.pirati.cz" class="social-icon "><i class="ico--globe"></i></a>
-      <a href="https://forum.pirati.cz/viewforum.php?f=1438" class="social-icon "><i class="ico--bubbles"></i></a>   
-   </div>
-</div>  
-</article>    
-  
   
 </div>
 </main>
