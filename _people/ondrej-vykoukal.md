@@ -12,9 +12,9 @@ partyUid: pirati
 description: člen výboru pro kulturu
 teamDescription:
   vybor: člen výboru pro kulturu
+  dr: Výstaviště Praha, a.s.
 teamDescription:
 mail: ondrej.vykoukal@pirati.cz
-dr: Výstaviště Praha, a.s.
 mob: +420 725 300 552
 profiles:
 funkce:
@@ -23,6 +23,7 @@ funkce:
   - předseda zast. klubu Pirátů v Praze 6
   - člen kontrolního výboru ZMČP6
   - člen výboru ZHMP pro kulturu, památkovou péči, výstavnictví a podporu cestovního ruchu 
+  - předseda dozorčí rady Výstaviště Praha, a.s.
 orddr: 20
 ---
 
