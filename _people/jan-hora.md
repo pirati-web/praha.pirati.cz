@@ -13,7 +13,7 @@ partyUid: pirati
 description: zastupitel MČ Praha 4
 teamDescription:
   vybor: člen výboru pro bezpečnost a pro prevenci kriminality 
-  dr: Technologie hlavního města Prahy, a.s.
+  dr: Technologie hl. města Prahy, a.s.
 funkce:
   - zastupitel MČ Praha 4
   - člen výboru ZHMP pro bezpečnost a pro prevenci kriminality 

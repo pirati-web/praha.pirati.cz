@@ -8,13 +8,14 @@ img: people/jana-kabelova.jpg
 heroImg: Prague_panorama.jpeg
 description: členka dozorčí rady firmy Pražská vodohospodářská společnost, a.s.
 teamDescription:
-  vybor: členka výboru pro životní prostředí a dozorčí rady Pražské vodohospodářské společnosti
+  vybor: členka výboru pro životní prostředí
   dr: Pražská vodohospodářská společnost, a.s.
 partyUid: pirati
 mail:
 - jana.kabelova@pirati.cz
 mob: +402 724 749 175		 
 funkce:
+ - členka výboru ZHMP pro životní prostředí
  - členka dozorčí rady Pražské vodohospodářské společnosti a.s.
 profiles:
   github:       

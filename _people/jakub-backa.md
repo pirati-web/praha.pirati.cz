@@ -10,7 +10,7 @@ img: people/jakub-backa.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: člen dozorčí rady společností Technologie hlavního města Prahy, a.s. a Pražská plynárenská, a.s.
 teamDescription:
- dr: Technologie hlavního města Prahy, a.s., Pražská plynárenská, a.s.
+ dr: Technologie hl. města Prahy, a.s., Pražská plynárenská, a.s.
 mail:
 - jakub.backa@pirati.cz
 mob:

@@ -5,11 +5,13 @@ titles:
   before: Mgr. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 - vybor
 img: people/michal-koci.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: člen výboru pro životní prostředí
+funkce:
+ - zastupitel MČ Praha 10
+ - člen výboru ZHMP pro životní prostředí
 mail:
 - michal.koci@pirati.cz
 mob: +420 735 045 046
