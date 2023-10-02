@@ -13,7 +13,6 @@ description: člen výboru pro kulturu
 teamDescription:
   vybor: člen výboru pro kulturu
   dr: Výstaviště Praha, a.s.
-teamDescription:
 mail: ondrej.vykoukal@pirati.cz
 mob: +420 725 300 552
 profiles:

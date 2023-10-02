@@ -11,7 +11,7 @@ heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: 
 teamDescription:
- dr: Pražská energetika
+  dr: Pražská energetika,a.s.
 mail:
   - matej.sandor@pirati.cz
 funkce:
