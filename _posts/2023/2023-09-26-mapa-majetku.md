@@ -2,7 +2,7 @@
 title: "Praha má novou mapu s přehledem veškerého majetku, veřejnost se může lépe zorientovat v majetkoprávních vztazích"
 author: MHMP
 image:  posts/zabransky-okno.jpg
-tags:   [IT]
+tags:   [IT, IPR, Majetek, Digitalizace]
 ---
 Praha má díky spolupráci s Institutem plánování a rozvoje (IPR) novou [mapovou aplikaci](https://app.iprpraha.cz/apl/app/majetek/). Z ní může veřejnost snadno vyčíst, jaké konkrétní majetky hlavní město Praha vlastní a kdo je spravuje. Tyto informace doposud nikde nebyly uceleně zveřejněny.
 
