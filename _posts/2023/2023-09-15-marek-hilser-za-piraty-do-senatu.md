@@ -1,8 +1,8 @@
 ---
 title: "Marek Hilšer bude obhajovat senátorský mandát s podporou Pirátů"
-author: MHMP
+author: Piráti
 image:  posts/marek-hilser.jpg
-tags:   [Senát, Volby 2024]
+tags:   [Praha 2, Senát, Volby 2024]
 ---
 
 Praha, 15. září 2023 – Senátor Marek Hilšer bude příští rok svůj mandát obhajovat s podporou Pirátů. Vzájemnou dohodu v pátek ve svém hlasování schválilo pražské krajské fórum strany. Hilšer bude stejně jako před šesti lety kandidovat v pražském 26. obvodu.
