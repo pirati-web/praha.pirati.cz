@@ -1,5 +1,5 @@
 ---
-title:  "Piráti: Nabídku spolu oceňujeme, budeme o ní detailně jednat"
+title:  "Piráti: Nabídku SPOLU oceňujeme, budeme o ní detailně jednat"
 author: MHMP
 image:  posts/vyjednavani.jpg
 tags:   [Piráti, SPOLU, Volby 2022]
