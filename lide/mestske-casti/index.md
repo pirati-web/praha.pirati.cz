@@ -11,6 +11,20 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
   
 <main>
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+
+<article class="card card--hoveractive">
+<a href="https://praha1.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha1.png" alt="Přípravný tým Praha 18" /></a>
+<div class="card__body p-4">
+<h1 class="card-headline mb-2"><a href="http://letnany.pirati.cz" target="_blank">Přípravný tým Praha 1</a></h1> 
+<p class="card-body-text">Nikol Švecová<br /><a href="mailto:nikol.svecova@pirati.cz">nikol.svecova@pirati.cz</a></p>
+<br />
+   <div class="social-icon-group space-x-2 ">
+      <a href="https://www.facebook.com/PiratiP1" class="social-icon "><i class="ico--facebook"></i></a>
+      <a href="https://praha1.pirati.cz" class="social-icon "><i class="ico--globe"></i></a>
+      <a href="https://forum.pirati.cz/viewforum.php?f=1673" class="social-icon "><i class="ico--bubbles"></i></a>   
+   </div>
+</div>  
+</article>    
     
 <article class="card card--hoveractive">
 <a href="https://praha2.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha2.png" alt="MS Praha 2" /></a>
@@ -221,6 +235,20 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
       <a href="https://www.facebook.com/piratipraha15" class="social-icon "><i class="ico--facebook"></i></a>
       <a href="https://praha15.pirati.cz" class="social-icon "><i class="ico--globe"></i></a>
       <a href="https://forum.pirati.cz/viewforum.php?f=1518" class="social-icon "><i class="ico--bubbles"></i></a>   
+   </div>
+</div>  
+</article>    
+
+<article class="card card--hoveractive">
+<a href="https://praha15.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha18-letnany.png" alt="Přípravný tým Praha 18" /></a>
+<div class="card__body p-4">
+<h1 class="card-headline mb-2"><a href="http://letnany.pirati.cz" target="_blank">Přípravný tým Praha 18</a></h1> 
+<p class="card-body-text">Tadeáš Štěpka<br /><a href="mailto:tadeas.stepka@pirati.cz">tadeas.stepka@pirati.cz</a></p>
+<br />
+   <div class="social-icon-group space-x-2 ">
+      <a href="https://www.facebook.com/pirati.letnany" class="social-icon "><i class="ico--facebook"></i></a>
+      <a href="https://letnany.pirati.cz" class="social-icon "><i class="ico--globe"></i></a>
+      <a href="https://forum.pirati.cz/viewtopic.php?p=856031#p856031" class="social-icon "><i class="ico--bubbles"></i></a>   
    </div>
 </div>  
 </article>    
