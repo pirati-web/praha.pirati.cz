@@ -2,7 +2,7 @@
 title: "Praha finančně podpoří projekty městských částí, které pomáhají naplňovat Klimatický plán"
 author: MHMP
 image: posts/jana-komrskova.jpg
-tags: Životní prostředí
+tags: [Pražský klimatický závazek, Životní prostředí]
 ---
 
 Zastupitelstvo hl. m. Prahy na říjnovém jednání schválilo poskytnutí účelových investičních a neinvestičních dotací městským částem v celkové výši 19,9 milionu korun na projekty související s naplňováním cílů hlavního města v rámci Klimatického plánu hl. m. Prahy do roku 2030. Finanční prostředky poputují na příklad na revitalizaci vnitrobloku Halasova v Praze 4, na obnovu Nolčova parku a parku Chvaly v Praze 20 nebo na rehabilitaci předpolí hřbitova ve Vinoři.

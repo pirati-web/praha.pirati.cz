@@ -2,7 +2,7 @@
 title: "Zastupitelstvo schválilo odkup nemovitostí České pošty v ulici Na Strži"
 author: MHMP
 image: posts/novaradnice3.jpg
-tags: Majetek
+tags: [Česká pošta, Majetek]
 ---
 
 Zastupitelé hl. m. Prahy na svém říjnovém zasedání schválili přímý odkup nemovitostí České pošty v ulici Na Strži v Krči za 425 milionů korun. Praha díky tomu získá klíčové nemovitosti v tomto území pro další strategický rozvoj města. Podpis smlouvy mezi Prahou a Českou poštou by se měl uskutečnit ještě dnes.
