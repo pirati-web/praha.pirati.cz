@@ -2,7 +2,7 @@
 title: "O Čapadlo Hollar se mohou hlásit zájemci. Praha hledá provozovatele atraktivního místa u Vltavy"
 author: MHMP
 image: posts/zabransky-kreslo.jpg
-tags: Majetek
+tags: [Čapadlo, Majetek]
 ---
 
 Městská společnost TRADE CENTRE PRAHA a.s. (TCP) hledá provozovatele prostor Čapadla Hollar na náplavce Smetanova nábřeží. Zájemci o atraktivní prostor se mohou hlásit do 20. listopadu 2023. TCP s nově vysoutěženým provozovatelem uzavře nájemní smlouvu jak na samotný tunel čapadla a okolní náplavku, tak nově také na nezpevněnou travnatou plochu v okolí. Cílem řízení je zajistit zajímavý a atraktivní provoz na významném veřejném místě na břehu Vltavy a přispět tak k jeho dalšímu rozvoji.
