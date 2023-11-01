@@ -6,11 +6,13 @@ titles:
   after: MSc.
 category:
   - vybor
+  - dr
 img: people/vaclav-vislous2.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: předseda MS Praha 9
 teamDescription:
   vybor: člen výboru ZHMP pro energetiku 
+  dr: Státní fond dopravní infrastruktury
 mail:
   - vaclav.vislous@pirati.cz
 mob: +420 777 954 389
@@ -26,7 +28,7 @@ funkce:
   - člen Komise RHMP pro cyklodopravu 	  
 ---
 
-**Václav Vislous** je vystudovaným ekonomem a manažerem a je předsedou Pirátů v Praze 9. 
+**Václav Vislous** je vystudovaným ekonomem a manažerem a je předsedou Pirátů v Praze 9. Je rovněž členem dozorčí rady Státního fondu dopravní infrastruktury.
 
 Václav Vislous získal bakalářské vzdělání na Institutu ekonomických studií Fakulty sociálních věd Univerzity Karlovy v Praze (IES FSV UK) a navázal na něj magisterským studiem v oboru manažerské a finanční ekonomie na francouzské HEC Paris. Hlavními oblastmi jeho zájmu jsou udržitelná mobilita, moderní energetika a ekonomická konkurenceschopnost.
 
