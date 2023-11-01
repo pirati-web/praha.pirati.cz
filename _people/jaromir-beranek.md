@@ -13,7 +13,7 @@ description:  předseda výboru pro zahraniční vztahy a EU fondy ZHMP
 partyUid: pirati
 teamDescription:
   mhmp: zastupitel hl. města Prahy
-  dr: Pražská energetika, a.s., Operátor ICT, a.s.
+  dr: Pražská energetika, a.s., Operátor ICT, a.s., PPF Banka, a.s.
 funkce: 
   - zastupitel hl. města Prahy
   - předseda výboru pro zahraniční vztahy a EU fondy ZHMP
