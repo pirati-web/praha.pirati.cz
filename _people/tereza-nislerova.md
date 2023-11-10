@@ -10,7 +10,7 @@ img: people/tereza-nislerova.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: členka dozorčí rady společnosti Kolektory Praha, a.s.
 teamDescription:
- dr: Kolektory Praha, a.s.
+ dr: Kolektory Praha, a.s., Pražská energetika, a.s.
 mail:
 - tereza.nislerova@pirati.cz
 mob:
