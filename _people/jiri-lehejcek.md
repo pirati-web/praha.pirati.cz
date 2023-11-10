@@ -5,7 +5,6 @@ titles:
   before:
   after:
 category: 
-  - dr
 img: people/jiri-lehejcek.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
