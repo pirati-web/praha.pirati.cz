@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
 img: people/jakub-backa.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
-description: člen dozorčí rady společností Technologie hlavního města Prahy, a.s. a Pražská plynárenská, a.s.
+description: člen dozorčí rady společností Technologie hlavního města Prahy, a.s.
 teamDescription:
  dr: Technologie hl. města Prahy, a.s., Pražská plynárenská, a.s.
 mail:
@@ -22,4 +22,4 @@ profiles:
 orddr: 1	  
 ---
 
-**Jakub Backa** je členem dozorčí rady společností Technologie hlavního města Prahy, a.s. a Pražská plynárenská, a.s.
+**Jakub Backa** je členem dozorčí rady společností Technologie hlavního města Prahy, a.s.
