@@ -7,7 +7,8 @@ tags: [Doprava]
 
 Podobu Dvoreckého mostu, který se aktuálně staví, doplní neokubistické sochy s vodními prvky a speciálním osvětlením. Jejich pořízení v pondělí schválili pražští radní. Dokončení spojení mezi Podolím a Zlíchovem pro MHD, cyklisty a chodce se očekává v listopadu 2025.
 
-Pražští radní v pondělí schválili nákup sochařských objektů pro Dvorecký most za cenu 8 530 500 Kč. „Jsem rád, že Praha opět investuje do kultury. Pod nově vznikajícím Dvoreckým mostem vyroste tzv. botanická zahrada světla. V Praze tak bude další atraktivní místo, které poslouží nejen našim spoluobčanům, ale zároveň i zahraničním turistům, jelikož vybraná díla pochází od umělců z celého světa. Botanická zahrada nabídne další propojení veřejného prostoru a kultury. Vnímám to jako skvělé využití volného prostranství k umělecké činnosti,“ říká Jiří Pospíšil, náměstek primátora pro oblast kultury a památkové péče.
+Pražští radní v pondělí schválili nákup sochařských objektů pro Dvorecký most za cenu 8 530 500 Kč. 
+> „Jsem rád, že Praha opět investuje do kultury. Pod nově vznikajícím Dvoreckým mostem vyroste tzv. botanická zahrada světla. V Praze tak bude další atraktivní místo, které poslouží nejen našim spoluobčanům, ale zároveň i zahraničním turistům, jelikož vybraná díla pochází od umělců z celého světa. Botanická zahrada nabídne další propojení veřejného prostoru a kultury. Vnímám to jako skvělé využití volného prostranství k umělecké činnosti,“ říká Jiří Pospíšil, náměstek primátora pro oblast kultury a památkové péče.
 
 Pořízeno bude celkem pět uměleckých děl, mezi ně patří například také neokubistická betonová skulptura nazvaná Heavy Head Boy s elektronicky řízeným vodním systémem. Podoba soch je součástí vítězného návrhu, který vzešel z dvoukolové architektonické soutěže. 
 
