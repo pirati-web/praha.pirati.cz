@@ -49,6 +49,7 @@ main:
   - name: Kontakt
     link: /kontakt/
     
+    
 bottom:
   - class: small-12 medium-4
     title: Připoj se

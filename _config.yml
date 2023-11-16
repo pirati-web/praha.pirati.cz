@@ -71,7 +71,7 @@ flicker:
 
 styleguide_base_url: 'https://styleguide.pirati.cz/2.14.x'
 
-############### SETTINSG #################
+############### SETTINGS #################
 
 theme: jekyll-theme-pirati
 
