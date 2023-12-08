@@ -2,7 +2,7 @@
 uid: jiri.koudelka
 name:     Jiří Koudelka  	# běžně používáné jméno
 titles:
-  before: Mgr.
+  before: Bc.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dr
