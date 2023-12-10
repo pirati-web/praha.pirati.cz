@@ -2,7 +2,7 @@
 title: "Praha dokončila 57 projektů pro adaptaci na změnu klimatu v hodnotě 377 milionů korun"
 author: MHMP
 image: posts/komrskova-zhmp2.jpg
-tags: [Životní prostředí]
+tags: [Životní prostředí, Pražský klimatický závazek]
 ---
 
 Pražské městské části, odbory Magistrátu hl. m. Prahy a městské organizace v letech 2022-2023 úspěšně ukončily 57 projektů v celkové hodnotě 377 milionů korun, které pomohou Praze s adaptací na změnu klimatu. Do Zásobníku bylo nově zařazeno 75 projektů a 24 záměrů.

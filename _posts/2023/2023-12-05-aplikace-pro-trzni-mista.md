@@ -2,7 +2,7 @@
 title: "Tržní místa v Praze zpřehlední praktická aplikace"
 author: MHMP
 image: posts/zabransky-okno.jpg
-tags: [Trhy]
+tags: [Trhy, IPR, Veřejný prostor]
 ---
 
 Rada hl. m. Prahy na pondělním jednání schválila nový tržní řád upravující podmínky pro tržní místa, trasy pro pojízdný prodej zboží nebo poskytování služeb, předsunutá prodejní místa či noční provoz restauračních zahrádek. Lepší přehled v oblasti tržního řádu přinese mapová aplikace pro veřejnost, v níž budou zakreslena všechna tržní místa spolu s informacemi o jejich podmínkách. To umožní efektivnější kontrolu ze strany úřadů i veřejnosti, že nedochází k porušování tržního řádu.

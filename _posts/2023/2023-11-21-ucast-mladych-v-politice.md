@@ -2,7 +2,7 @@
 title: "Zábranský: V Česku chybí politická vůle měnit věci. Do politiky by mělo přijít víc mladých"
 author: Adam Zábranský
 image: posts/zabransky-listy.jpg
-tags: [Politika]
+tags: [Piráti]
 ---
 
 Před několika týdny jsem přijal pozvání do podcastu Miton.cz od Michaely Gregorové.

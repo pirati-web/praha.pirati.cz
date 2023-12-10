@@ -2,7 +2,7 @@
 title: "Praha vybrala nejvýhodnější nabídku v rámci veřejné zakázky na výstavbu Parkovacího domu Dědina"
 author: MHMP
 image: posts/8hrib.jpg
-tags: [Doprava]
+tags: [Doprava, Parkoviště, Praha 6]
 ---
 
 Rada hl. m. Prahy na svém pondělním jednání rozhodla o výběru dodavatele veřejné zakázky na výstavbu Parkovacího domu Dědina v Praze 6. Cílem projektu je vybudovat na sídlišti v blízkosti nově zprovozněné tramvajové trati kryté parkoviště až pro 290 aut. Hlavní město za stavební práce zaplatí celkem 264 848 880 Kč bez DPH. 

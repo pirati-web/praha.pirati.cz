@@ -2,7 +2,7 @@
 title: "Dvorecký most budou zdobit neokubistické sochy"
 author: MHMP
 image: posts/dvorecky.jpg
-tags: [Doprava]
+tags: [Doprava, Dvorecký most]
 ---
 
 Podobu Dvoreckého mostu, který se aktuálně staví, doplní neokubistické sochy s vodními prvky a speciálním osvětlením. Jejich pořízení v pondělí schválili pražští radní. Dokončení spojení mezi Podolím a Zlíchovem pro MHD, cyklisty a chodce se očekává v listopadu 2025.
