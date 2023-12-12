@@ -2,7 +2,7 @@
 title: "Praha schválila 223 nových smluv pro restaurační zahrádky v historickém centru a provedla druhé kolo kontrol smluvních podmínek"
 author: MHMP
 image: posts/adam-chodba.jpg
-tags: Majetek
+tags: [Majetek, Veřejný prostor]
 ---
 
 Pražská rada schválila celkem 223 nových nájemních smluv za účelem provozu restauračních zahrádek na pozemcích v Pražské památkové rezervace. Jejich provozovatelé se podpisem smlouvy zavážou dodržovat [Manuál pro restaurační zahrádky](https://kultivovana.praha.eu/files/manual_predzahradky_MHMP_digi.pdf). Zároveň magistrát provedl druhé kolo kontrol dodržování smluvních podmínek u již dříve uzavřených 142 smluv. 

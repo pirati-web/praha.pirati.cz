@@ -2,7 +2,7 @@
 title: "Praha se brání proti pokutě od ÚOHS za protihazardní vyhlášku. Podá správní žalobu"
 author: MHMP
 image: posts/zabransky-kreslo.jpg
-tags: [Legislativa]
+tags: [Legislativa, Regulace hazardu]
 ---
 
 Praha se bude soudně bránit proti další pokutě od Úřadu pro ochranu hospodářské soutěže (ÚOHS), kterou dostalo v souvislosti s protihazardní vyhláškou, tentokrát z let 2018 až 2021. Zaplatit musí přes 2,4 milionu korun. Ke Krajskému soudu v Brně podá proti rozhodnutí ÚOHS hlavní město správní žalobu.

@@ -2,7 +2,7 @@
 title: "Dánští architekti promění pražské hlavní nádraží na Šťastný Hlavák"
 author: MHMP
 image: posts/hrib-nadrazi.jpg
-tags: [Doprava]
+tags: [Doprava, Nový Hlavák]
 ---
 
 Dánské studio Henning Larsen Architects v soutěžním dialogu na úpravy území hlavního nádraží v Praze zvítězilo se svým návrhem Šťastný Hlavák. Jeho hlavní myšlenkou je přirozené propojení Vrchlického sadů, odbavovací haly, nové tramvajové zastávky přímo před nádražím a historické Fantovy budovy. Navrhovaná podoba celého území klade důraz na udržitelnost, mikromobilitu a navrácení života do Vrchlického sadů. Henning Larsen Architects je součástí dánské skupiny Ramboll a v oblasti komplexních urbanistických návrhů patří mezi světové lídry.
