@@ -2,7 +2,7 @@
 title: "Piráti čtyřmi hlasy odmítli nominaci Vladimíra Schmalze do dozorčí rady Pražské plynárenské pro jeho nedůvěryhodnost. Bohužel to nestačilo"
 author: MHMP
 image: posts/novaradnice4.jpg
-tags: [Transparentnost]
+tags: [Transparentnost, Dozorčí rady, Městské firmy]
 ---
 
 Praha, 12. prosince 2023 – Rada HMP včera po důrazném nesouhlasu Pirátů odsouhlasila vstup kontroverzního Vladimíra Schmalze do Dozorčí rady Pražské plynárenské, a.s. Schmalze navrhla koalice SPOLU, Piráti však upozornili nejen na jeho evidentní střet podnikatelských zájmů a problematickou minulost s hospodařením ve státním podniku ČEZ, usvědčení firem, v nichž má podíl, z kartelu antimonopolním úřadem, ale i na faktické nedostatky, které návrh nominace doprovázely. Zastupitelský klub Pirátů před několik dny své koaliční partnery vyzval ke stažení nominace osoby Vladimíra Schmalze i písemně.
