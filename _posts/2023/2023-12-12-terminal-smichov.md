@@ -2,7 +2,7 @@
 title: "Praha vypíše veřejnou zakázku na stavbu Terminálu Smíchov"
 author: MHMP
 image: posts/termina-smichov.jpg
-tags: [Doprava]
+tags: [Doprava, Terminál Smíchov]
 ---
 
 Rada hl. m. Prahy na pondělním jednání odsouhlasila záměr realizace veřejné zakázky na stavební práce Terminálu Smíchovské nádraží a zároveň rozhodla o zahájení zadávacího řízení po splnění zákonných podmínek a po schválení záměru Zastupitelstvem hl. m. Prahy. Schváleno bylo také jmenování komise. Cílem projektu je vybudovat na jednom místě moderní stanici železniční dopravy, metra, zastávku tramvaje a autobusů i kapacitní parkoviště P+R. 
