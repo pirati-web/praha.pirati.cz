@@ -5,14 +5,12 @@ titles:
   before: Mgr.
 category: 
   - vybor
-  - dr
 img: people/ondrej-vykoukal.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: člen výboru pro kulturu
 teamDescription:
   vybor: člen výboru pro kulturu
-  dr: Výstaviště Praha, a.s.
 mail: ondrej.vykoukal@pirati.cz
 mob: +420 725 300 552
 profiles:
@@ -22,7 +20,6 @@ funkce:
   - předseda zast. klubu Pirátů v Praze 6
   - člen kontrolního výboru ZMČP6
   - člen výboru ZHMP pro kulturu, památkovou péči, výstavnictví a podporu cestovního ruchu 
-  - předseda dozorčí rady Výstaviště Praha, a.s.
 ---
 
 **Ondřej Vykoukal (1988) pochází ze Žďáru nad Sázavou, žije na Praze 6.** Vystudoval Právnickou fakultu Masarykovy univerzity v Brně a pracuje jako advokát. Jeho specializací je zejména autorské právo, právo informačních technologií, osobní údaje a právní aspekty online světa. Věnuje se rovněž pro bono poradenství neziskovým organizacím. Je rovněž členem dozorčí rady společnosti Výstaviště Praha, a.s.
