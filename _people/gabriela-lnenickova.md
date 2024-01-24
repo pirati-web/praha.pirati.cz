@@ -37,12 +37,14 @@ orddr: 4
 
 **Gabriela Lněničková** je zastupitelka hl. m. Prahy za Piráty. 
 
-Gabriela pochází z Třeboně a v Praze žije od roku 1997. Vystudovala obor mezinárodní obchod na Vysoké škole ekonomické v Praze. Zúčastnila se také zahraničních studijních pobytů na Wirstchaftsuniversität Wien v Rakousku a Stockholm School of Economics ve Švédsku. Poté absolvovala MBA program na Anglo-American University, který zaštiťuje Chapman University v Kalifornii, USA.
+Pochází z Třeboně a v Praze žije od roku 1997. Vystudovala obor mezinárodní obchod na Vysoké škole ekonomické v Praze. Zúčastnila se také zahraničních studijních pobytů na Wirstchaftsuniversität Wien v Rakousku a Stockholm School of Economics ve Švédsku. Poté absolvovala MBA program na Anglo-American University, který zaštiťuje Chapman University v Kalifornii, USA.
 
-Od listopadu 2018 je radní městské části Praha – Suchdol a od dubna 2019 projektovou manažerkou [evropského projektu SMACKER](http://www.praha-suchdol.cz/smacker), který je zaměřený na udržitelnou mobilitu. V rámci svých politických aktivit se zabývá především problematikou dopravy, životního prostředí a územního rozvoje. V roce 2022 byla zvolena na pirátské kandidátce do zastupitelstva hl. m. Prahy. V letech 2005-2019 pracovala pro švédskou organizaci se zaměřením na obchodní spolupráci mezi ČR a Švédskem. Jako projektová manažerka měla na starosti obchodní kontakty, péči o zákazníky, analýzy trhu, řízení projektů, organizaci odborných akcí.
+V září 2022 jsem byla zvolena zastupitelkou hl. města Prahy, kde je členkou výborů pro dopravu, územní rozvoj, strategické investice, zahraniční vztahy a EU fondy. V květnu 2023 byla jmenována do funkce předsedkyně komise Rady hl. města Prahy pro pěší a bezbariérovost. Je členkou dozorčí rady Dopravního podniku hl. města Prahy a TSK Praha.
 
-Gabriela je [mezinárodní mistryní v šachu](https://www.chess.cz/hrac/2559). V roce 1997 vyhrála Mistrovství ČR v kategorii žen a juniorek a v následujících letech získala jednu stříbrnou a dvě bronzové medaile. Reprezentovala Českou republiku na světových a evropských šampionátech mládeže, mezinárodních turnajích a na šachové olympiádě v Rusku.
+Od listopadu 2018 je zastupitelkou městské části Praha–Suchdol. V letech 2019 – 2022 působila jako manažerka evropského projektu SMACKER se zaměřením na udržitelnou dopravu v severozápadní části pražské aglomerace. [www.interreg-central.eu/Content.Node/SMACKER.html](www.interreg-central.eu/Content.Node/SMACKER.html) [https://praha-suchdol.citychangers.cz/](https://praha-suchdol.citychangers.cz/)
 
-Je rovněž členkou dozorčí rady Dopravního podniku hl. m. Prahy, a.s. a Technické správy komunikací, a.s.
+V letech 2005-2019 pracovala pro švédskou organizaci se zaměřením na obchodní spolupráci mezi ČR a Švédskem. Jako projektová manažerka měla na starosti řízení projektů, obchodní kontakty a komunikaci se zákazníky, analýzy trhu a organizaci odborných akcí.
 
-Gabriela má ráda procházky v přírodě, cyklistiku, zajímá se o zdravý životní styl a ráda čte knihy o osobním rozvoji. Je vdaná a má dvě děti.
+Je mezinárodní mistryní v šachu. V roce 1997 vyhrála Mistrovství ČR v kategorii žen a juniorek a v následujících letech získala jednu stříbrnou a dvě bronzové medaile. Reprezentovala Českou republiku na světových a evropských šampionátech mládeže, mezinárodních turnajích a na šachové olympiádě.
+
+Má ráda procházky v přírodě, cyklistiku, zajímá se o zdravý životní styl a ráda čte knihy o osobním rozvoji. Je vdaná a má dvě děti.
