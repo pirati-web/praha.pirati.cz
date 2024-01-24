@@ -54,8 +54,6 @@ Během studia na střední škole se zapojil do International Young Naturefriend
 
 V roce 2018 byl za Piráty zvolen do zastupitelstva hlavního města Prahy a do zastupitelstva městské části Praha 5. Poté, co byl zvolen starostou městské části Praha 5, v souladu s pirátským kodexem na mandát zastupitele hlavního města rezignoval. Jako starosta Prahy 5 se věnoval rozvoji městské části, rozvoji IT infrastruktury úřadu, některým projektům MČ financovaným z rozvojových fondů EU a v návaznosti na interní audit i odkrývání problémových veřejných zakázek. V září 2019 byl z funkce starosty odvolán a Piráti odsunuti do opozice. Rozpad koalice následoval poté, co Mazur jako starosta v koalici poukázal na nutnost vyvození důsledků z výsledků auditu předražené zakázky z roku 2018 včetně nutnosti provedení auditu několika desítek dalších zakázek stejného typu. 
 
-Opoziční práci na Praze 5 nyní odvádí ve Výboru pro otevřenou radnici, ve Finančním výboru a v Komisi informačních technologií městské části.
+Na Praze 5 působí ve Finančním výboru jako opoziční zastupitel.
 
-V roce 2022 kandidoval na 5. místě do zastupitelstva hl. m. Prahy na pirátské listině. Byl zvolen a stal se předsedou zastupitelského klubu Pirátů. Od listopadu 2022 je také předsedou výboru pro výchovu a vzdělávání pražského zastupitelstva.
-
-V únoru 2023 se stal členem Rady hlavního města Prahy s gescemi Smart City, ICT, věda a výzkum.
+V roce 2022 kandidoval na 5. místě do zastupitelstva hl. m. Prahy na pirátské listině. Byl zvolen a stal se předsedou zastupitelského klubu Pirátů. Od listopadu 2022 je také předsedou výboru pro výchovu a vzdělávání pražského zastupitelstva. V únoru 2023 se stal členem Rady hlavního města Prahy s gescemi Smart City, ICT, věda a výzkum. Zvolen byl rovněž i předsedou zastupitelského klubu Pirátů. Jako radní pro oblast IT se věnuje pokračování digitalizace úřadu, blacklistování nedůvěryhodných dodavatelů Magistrátu nebo vzniku pražského vědeckotechnického parku, který je výsledkem návštěvy Japonska. 
