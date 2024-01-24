@@ -39,9 +39,9 @@ orddr: 4
 
 Pochází z Třeboně a v Praze žije od roku 1997. Vystudovala obor mezinárodní obchod na Vysoké škole ekonomické v Praze. Zúčastnila se také zahraničních studijních pobytů na Wirstchaftsuniversität Wien v Rakousku a Stockholm School of Economics ve Švédsku. Poté absolvovala MBA program na Anglo-American University, který zaštiťuje Chapman University v Kalifornii, USA.
 
-V září 2022 jsem byla zvolena zastupitelkou hl. města Prahy, kde je členkou výborů pro dopravu, územní rozvoj, strategické investice, zahraniční vztahy a EU fondy. V květnu 2023 byla jmenována do funkce předsedkyně komise Rady hl. města Prahy pro pěší a bezbariérovost. Je členkou dozorčí rady Dopravního podniku hl. města Prahy a TSK Praha.
+V září 2022 byla zvolena zastupitelkou hl. města Prahy, kde je členkou výborů pro dopravu, územní rozvoj, strategické investice, zahraniční vztahy a EU fondy. V květnu 2023 byla jmenována do funkce předsedkyně komise Rady hl. města Prahy pro pěší a bezbariérovost. Je členkou dozorčí rady Dopravního podniku hl. města Prahy a TSK Praha.
 
-Od listopadu 2018 je zastupitelkou městské části Praha–Suchdol. V letech 2019 – 2022 působila jako manažerka evropského projektu SMACKER se zaměřením na udržitelnou dopravu v severozápadní části pražské aglomerace. [www.interreg-central.eu/Content.Node/SMACKER.html](www.interreg-central.eu/Content.Node/SMACKER.html) [https://praha-suchdol.citychangers.cz/](https://praha-suchdol.citychangers.cz/)
+Od listopadu 2018 je zastupitelkou městské části Praha–Suchdol. V letech 2019 – 2022 působila jako manažerka evropského projektu SMACKER se zaměřením na udržitelnou dopravu v severozápadní části pražské aglomerace. [https://praha-suchdol.citychangers.cz/](https://praha-suchdol.citychangers.cz/)
 
 V letech 2005-2019 pracovala pro švédskou organizaci se zaměřením na obchodní spolupráci mezi ČR a Švédskem. Jako projektová manažerka měla na starosti řízení projektů, obchodní kontakty a komunikaci se zákazníky, analýzy trhu a organizaci odborných akcí.
 
