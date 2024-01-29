@@ -2,7 +2,7 @@
 title: "Praha hledá nejvhodnější využití Kasáren Karlín. O jejich revitalizaci bude diskutovat s památkáři i současným provozovatelem"
 author: MHMP
 image: posts/kasarna-karlin.jpg
-tags: [Majetek]
+tags: [Kasárna Karlín, Praha 8, Majetek, Majetkové směny se státem]
 ---
 
 Hlavní město vidí budoucnost Kasáren Karlín v kombinovaném využití pro funkce vzdělávacího zařízení, vědeckotechnického parku, kulturně společenského centra, městského bydlení pro studenty vysokých škol, centra pro inovační firmy nebo sdíleného pracovního prostředí. O plánech na jejich revitalizaci chce diskutovat s památkáři i současným provozovatelem.

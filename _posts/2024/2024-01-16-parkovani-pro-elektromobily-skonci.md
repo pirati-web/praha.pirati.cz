@@ -2,7 +2,7 @@
 title: "Na konci letošního roku skončí parkování zdarma pro elektromobily, zrušena budou také přenosná parkovací oprávnění"
 author: MHMP
 image: posts/hrib-stab.jpg
-tags: [Doprava]
+tags: [Elektromobilita, Parkování, Doprava]
 ---
 
 Výjimka, která umožňuje parkování elektromobilů v Praze v zónách placeného státní zdarma, bude k 31. prosinci 2024 zrušena. Ke stejnému datu skončí také tzv. přenosná parkovací oprávnění. Oba kroky souvisí s připravovanou reformou parkovacího systému v Praze. Ostatní běžná parkovací oprávnění pro rezidenty a firmy zůstávají zatím beze změn. 

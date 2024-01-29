@@ -2,7 +2,7 @@
 title: "Praha uložila dopravnímu podniku hloubkový interní audit na výběrové řízení na metro D"
 author: MHMP
 image: posts/0hrib.jpg
-tags: [Doprava]
+tags: [Doprava, Metro D]
 ---
 Hlavní město uložilo Dopravnímu podniku hl. m. Prahy (DPP) hloubkový interní audit. Audit bude zaměřen na hodnocení referencí uchazečů o veřejnou zakázku, tedy na oblast, kvůli které Úřad pro ochranu hospodářské soutěže (ÚOHS) zrušil v rámci prvoinstančního rozhodnutí výběr dodavatele na další etapu metra D.
 

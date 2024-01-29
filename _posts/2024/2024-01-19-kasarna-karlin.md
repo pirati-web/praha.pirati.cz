@@ -2,7 +2,7 @@
 title: "Praha už vlastní Kasárna Karlín, změna majitele je potvrzena v katastru nemovitostí"
 author: MHMP
 image: posts/kasarna-karlin.jpg
-tags: [Majetek]
+tags: [Majetek, Kasárna Karlín, Praha 8, Majetkové směny se státem]
 ---
 
 Dnešním dnem byla do katastru nemovitostí zapsaná majetková směna mezi hlavním městem a Českou republikou, ve které Praha získala objekt karlínských kasáren, budovu v Hybernské ulici a další pozemky výměnou za celkem 46 pozemků a 10 staveb v areálu Fakultní nemocnice Bulovka.

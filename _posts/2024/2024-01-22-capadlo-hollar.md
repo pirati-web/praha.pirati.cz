@@ -2,7 +2,7 @@
 title: "Praha vybrala ve výběrovém řízení nového provozovatele Čapadla Hollar, který prostor převezme od letošního března"
 author: MHMP
 image: posts/hollar.jpg
-tags: [Majetek]
+tags: [Čapadlo, Majetek]
 ---
 
 Atraktivní prostor a oblíbená volnočasová lokalita na břehu Vltavy, která nabízí celou řadu kulturních i odpočinkových aktivit, bude od března 2024 provozována novým nájemcem. Městská společnost TRADE CENTRE PRAHA (TCP) spravující pražské náplavky úspěšně uzavřela výběrové řízení na nového provozovatele čapadla a náplavky Hollar. S vítězným účastníkem podepsala dvouletou nájemní smlouvu s možností opce na další tři roky.

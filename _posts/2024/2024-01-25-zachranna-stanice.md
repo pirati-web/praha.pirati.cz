@@ -2,7 +2,7 @@
 title: "Záchranná stanice pro volně žijící živočichy má za sebou rekordní rok. V dočasném působišti ošetřila 5 740 zvířat"
 author: MHMP
 image: posts/komrskova-zhmp.jpg
-tags: [Životní prostředí]
+tags: [ZOO Praha, Životní prostředí]
 ---
  
 Záchranná stanice hl. m. Prahy pro volně žijící živočichy již popáté v řadě ošetřila více než 5 000 zvířat ročně. Přestože kvůli výstavbě nového sídla v Jinonicích už rok působí v dočasném areálu Zahradnictví Ďáblice, provoz stanice funguje bez výjimky nepřetržitě. Ve většině případů loni poskytovala péči zraněným zvířatům, zejména ptákům po střetu s překážkou. V necelé třetině případů pomoc stanice potřebovala nesamostatná mláďata. 

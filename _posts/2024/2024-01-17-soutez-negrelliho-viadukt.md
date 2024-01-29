@@ -2,7 +2,7 @@
 title: "Praha vypsala otevřenou soutěž na logo a vizuální identitu pro projekt využití prostoru pod oblouky Negrelliho viaduktu"
 author: MHMP
 image: posts/zabransky-okno.jpg
-tags: [Majetek]
+tags: [Negrelliho viadukt, Majetek]
 ---
 
 Hlavní město vyhlásilo v zastoupení městské společnosti pro správu nemovitostí TRADE CENTRE PRAHA (TCP) otevřenou soutěž na návrh loga a vizuální identity Viaduktu Karlín. Tak se bude jmenovat projekt, který v následujících letech zkultivuje veřejný prostor pod oblouky Negrelliho viaduktu a po vzoru evropských metropolí vybuduje uvnitř oblouků nové společensko-kulturní centrum.
