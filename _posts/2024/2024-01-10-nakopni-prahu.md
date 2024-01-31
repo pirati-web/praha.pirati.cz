@@ -2,7 +2,7 @@
 title: "Praha spustila registrace do 5. ročníku Pražského inovačního maratonu Nakopni Prahu. Zájemci se tak opět mohou zapojit do inovativního rozvoje metropole"
 author: MHMP
 image: posts/mazur9.jpg
-tags: [Informatika]
+tags: [Nakopni Prahu, IT, Pražský inovační institut]
 ---
 
 Registrace do již 5. ročníku Pražského inovačního maratonu Nakopni Prahu, jehož cílem je nakopnout inovační kulturu v Praze, jsou ode dneška otevřeny. Letošní ročník pro hlavní město kompletně organizuje jeho městská společnost Operátor ICT (OICT). Cílem této akce je podporovat především mladé inovátory, studenty středních a vysokých škol i další kreativce a uvést v život projekty, které pomohou inovovat Prahu. Hlásit se mohou dvou až čtyřčlenné týmy.

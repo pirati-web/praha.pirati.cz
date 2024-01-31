@@ -2,7 +2,7 @@
 title: "Na náměstí Jiřího z Poděbrad se zahajují stavební práce. Přibudou nové stromy nebo nádrž na zachycení dešťové vody"
 author: MHMP
 image: posts/jzp.jpg
-tags: [Územní rozvoj]
+tags: [Praha 3, Náměstí Jiřího z Poděbrad, Územní rozvoj]
 ---
 
 Náměstí Jiřího z Poděbrad je částečně oplocené, začaly zde první přípravné práce. V rámci jeho revitalizace bude upraven prostor před kostelem, zkvalitnění doznají pěší cesty i zeleň. Nové aleje stromů oddělí park od rušných komunikací. Práce potrvají 33 měsíců a zachovány zůstanou jak kulturní akce, tak i tradiční farmářské trhy, které se budou přesouvat na náměstí podle stavebních etap.

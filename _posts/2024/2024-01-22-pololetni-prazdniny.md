@@ -2,7 +2,7 @@
 title: "Pololetní prázdniny v Praze: Starý mobil jako dětská vstupenka do zoo pomůže i gorilám"
 author: MHMP
 image: posts/jana-komrskova.jpg
-tags: [Životní prostředí]
+tags: [ZOO Praha, Životní prostředí]
 ---
 
 Akce starý mobil za vstupenku kromě odměny dětem za pololetní vysvědčení podporuje také projekt „Pomáháme jim přežít“ zaměřený na gorily nížinné. Z každého odevzdaného přístroje se na konto projektu přičte 20 Kč.

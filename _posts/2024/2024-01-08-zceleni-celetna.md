@@ -2,7 +2,7 @@
 title: "Hlavní město scelí vlastnictví budovy v Celetné ulici"
 author: MHMP
 image: posts/adam-chodba.jpg
-tags: [Majetek]
+tags: [Majetkové směny se státem, Majetek]
 ---
 
 Rada hl. m. Prahy v pondělí odsouhlasila koupi třetinového podílu nemovitosti v Celetné 17 za téměř 129 milionů korun. Scelení vlastnictví budovy, v níž sídlí mimo jiné i restaurace nebo Divadlo v Celetné, umožní městu lépe pečovat o svůj majetek.

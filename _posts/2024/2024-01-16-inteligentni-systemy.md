@@ -2,7 +2,7 @@
 title: "Praha chystá žádost o dotaci na kooperativní inteligentní dopravní systémy"
 author: MHMP
 image: posts/hrib-kamera2.jpg
-tags: [Doprava]
+tags: [Digitalizace, Doprava]
 ---
 
 Projektový záměr „Rozvoj C-ITS v Praze“ je první etapou implementace kooperativních systémů, která pokrývá studií proveditelnosti vytipované oblasti s významnou nehodovostí a současně poskytne preferenci výjezdu složek Integrovaného záchranného systému, který umožní časově zkrátit dojezd k místu zásahu od jeho nahlášení. Vytipováno bylo celkem šest lokalit. 
