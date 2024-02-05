@@ -15,7 +15,7 @@ Hlavním cílem projektu bylo rozšířit aplikaci o generačně vyšší standa
 
 Pražský radní pro ICT, Smart City, vědu a výzkum Daniel Mazur k novince v aplikaci uvádí: 
 
->„Vyhledávač tras nové generace je unikátní a mohl v Praze vzniknout jen díky jedinečné datové základně, ze které čerpá při počítání trasy. Je to výborná vizitka celého týmu datové platformy Golemio. Datová základna, kterou Operátor ICT pro tyto účely sdružuje, představuje téměř celou datovou reprezentaci dopravní reality osobní dopravy v Praze a Středočeském kraji. Jde o více než 30 rozdílných datových podkladů od silničních map a cystické infrastruktury přes jízdní řády, reálná data s polohami vozidel, obsazenost parkovišť, zohledňování výluk, intenzitu dopravy na silnicích až po zohlednění funkčnosti výtahů a eskalátorů v pražském metru.”
+> „Vyhledávač tras nové generace je unikátní a mohl v Praze vzniknout jen díky jedinečné datové základně, ze které čerpá při počítání trasy. Je to výborná vizitka celého týmu datové platformy Golemio. Datová základna, kterou Operátor ICT pro tyto účely sdružuje, představuje téměř celou datovou reprezentaci dopravní reality osobní dopravy v Praze a Středočeském kraji. Jde o více než 30 rozdílných datových podkladů od silničních map a cystické infrastruktury přes jízdní řády, reálná data s polohami vozidel, obsazenost parkovišť, zohledňování výluk, intenzitu dopravy na silnicích až po zohlednění funkčnosti výtahů a eskalátorů v pražském metru.”
 
 Mobilní aplikaci PID Lítačka aktuálně využívá už více než 1,5 milionu uživatelů a 1 milion uživatelů užívá aplikaci jako identifikátor. V loňském roce například prostřednictvím aplikace PID Lítačka bylo vyhledáno více než 100 milionů dopravních spojení či bylo aktivováno přes 8,4 milionů jízdenek. 
 
