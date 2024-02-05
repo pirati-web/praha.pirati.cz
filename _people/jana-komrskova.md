@@ -29,9 +29,9 @@ asistenti:
   - name: Mgr. Michaela Marešová
     position: vedoucí sekretariátu
     mail: michaela.maresova@praha.eu
-  - name: Vratislav Filípek
-    position: poradce
-    mail: vratislav.filipek@praha.eu
+  - name: Tatiana Jančariková
+    position: poradkyně
+    mail: tatiana.jancarikova@praha.eu
   - name: Mgr. Michal Kočí
     position: poradce
     mail: michal.koci@praha.eu
