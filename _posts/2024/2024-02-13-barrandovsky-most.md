@@ -1,0 +1,26 @@
+---
+title: "Rekonstrukce Barrandovského mostu bude letos dokončena, práce se zkrátí o rok"
+author: MHMP
+image: posts/7hrib.jpg
+tags: [Doprava]
+---
+ 
+V pondělí 11. března 2024 vyjede na Barrandovský most těžká technika a začnou tak hlavní práce třetí etapy rekonstrukce mostu. Technická správa komunikací hl. m. Prahy (TSK) prostřednictvím svého dodavatele, společnosti PORR, zahájí další etapu rozsáhlé rekonstrukce nejvytíženější dopravní tepny v České republice. Takto významné dopravní omezení je nicméně nutné připravit v předstihu a řidiči musí počítat s postupným omezováním dopravy již od soboty 9. března. Postupná instalace přenosného dopravního značení bude trvat zhruba dva dny až do pondělního rána, kdy začne samotná stavba. V letošním roce jsou naplánovány dvě poslední etapy, které na sebe budou plynule navazovat, a tím se celková rekonstrukce zkrátí o jeden rok.
+
+Stavební práce na Barrandovském mostu díky spojení etap nebudou omezovat další stavební sezónu i jiným investorům. Práce se uskuteční na severní polovině mostu, ukončení se přepokládá na konci letních prázdnin. Jeden jízdní pruh směrem z Jižní spojky na Smíchov bude převeden do protisměru, aby mohl být zachován provoz na mostě ve třech jízdních pruzích v obou směrech.
+
+> „V souvislosti s rekonstrukcí Barrandovského mostu musím ještě naposledy požádat všechny řidiče o pochopení, trpělivost a vzájemnou ohleduplnost, protože tato uzavírka bude mít na dopravu v Praze opět velmi významný dopad, větší než dvě předchozí etapy. Stojí totiž před námi velká výzva v podobě realizace zbylých dvou etap v jedné jediné stavební sezóně, což nám umožní dokončit celkovou rekonstrukci Barrandovského mostu již v letošním roce a vyhnout se tak dalším dopravním omezením v roce příštím. Půjde o velmi náročnou akci, ale věřím, že díky zkušenostem z prvních dvou etap ji zvládneme bez výraznějších komplikací,“ uvedl Zdeněk Hřib, náměstek primátora hl. m. Prahy pro oblast dopravy. 
+
+Práce, stejně jako v minulých letech, spočívají v kompletním odstranění mostního svršku a vybavení mostu na celé nosné konstrukci. Ve III. etapě se práce dotknou severní poloviny severního mostu (blíže k Podolí) a přilehlého chodníku na římse. Jedná se o dva pravé pruhy ve směru z Jižní spojky a nájezdu z Modřanské ulice na Smíchov. Celá římsa s chodníkem, včetně vozovkového souvrství, izolace a vyrovnávajícího betonu, bude kompletně zbourána a vše bude postaveno nově. Ve IV. etapě se pak práce přesunou na jižní část severní konstrukce, tedy na dva levé pruhy od Jižní spojky na Smíchov.  Dále je plánována výměna mostních dilatačních závěrů v celé šíři mostu, postaveny budou nové římsy včetně zábradlí, svodidel a svodidlového zábradlí. Na obou stranách nosné konstrukce bude položeno nové vozovkové souvrství včetně dobetonávky speciálním vysokopevnostním betonem s rozptýlenou výztuží UHPFRC (Ultra-High-Performance Fibre Reinforced Concrete), který na této konstrukci bude také sloužit jako izolace mostu. Vozovkové souvrství bude v rámci inovací pouze dvouvrstvé, namísto obvykle navrhovaného třívrstvého. V závěru etapy bude obnoveno svislé i vodorovné dopravní značení a upraveny přejezdy na most a z mostu.
+
+Rekonstrukce se uskuteční i uvnitř mostu a vznikne zde nové předpětí, což je jednou z technologicky nejnáročnějších prací. Jedná se o vrtání otvorů v příčnících mostu, které jsou uvnitř nosné konstrukce nad podpěrami. Vrty povedou přes hustě vyztuženou a armovanou železobetonovou stěnu, s předpínací výztuží a předpínacími tyčemi. Tento systém dodatečně předepne celou konstrukci a zajistí tak jeho bezproblémové fungování na další desítky let.
+
+Postup instalace značení třetí etapy a omezení Barrandovského mostu ve dnech 9. a 10. března 2024:
+
+Otevření přejezdů pro převádění dopravy do protisměru a zpět na Barrandovském mostu.
+Omezení dopravy pro instalaci proměnného značení, které doplňuje liniové řízení dopravy v trase na Městském okruhu při příjezdech na Barrandovský most.
+Práce na severní konstrukci mostu a postupné převedení jednoho jízdního pruhu z Jižní spojky na Smíchov do protisměru. Následovat bude postupné omezování dopravy ze čtyř pruhů na tři.  
+
+> „Po dokončení stavby dopravního opatření proběhne v neděli kontrola značení v místě mostu a na příjezdových komunikacích, kterou provedeme společně s odborem pozemních komunikací a drah pražského magistrátu a Policií ČR, abychom eliminovali možné problémy v prvních pracovních dnech po zahájení prací. Dále, stejně jako v loňském roce, budou připraveny odtahové vozy na klíčových místech tak, abychom v případě nehody nebo poruchy vozidla dokázali společně s Policií ČR rychle překážku odstranit a nekomplikovat již tak náročnou dopravní situaci. Současně bude připraveno jedno speciální vozidlo, které v případě sněžení bude odklízet sníh pouze na Barrandovském mostě. Připravujeme se i na řízení dopravy pomocí automatického systému TASS, který je připraven na tunelech Městského okruhu a navazujících světelných signalizacích, a společně s Ředitelstvím silnic a dálnic bude Praha nasazovat informaci i na informačních tabulích na nadřazené komunikační síti v Praze a na dálnicích, které přivádějí dopravu do hlavního města,“ upřesnil Josef Richtr, náměstek generálního ředitele Technické správy komunikací hl. m. Prahy, a.s.
+
+
