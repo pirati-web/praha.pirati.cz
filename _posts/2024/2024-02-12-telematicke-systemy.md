@@ -13,6 +13,4 @@ Využití 5G sítí v pražské dopravě povede ke snížení dopravních kolon,
 
 Dílčím cílem projektu je umožnění inteligentní regulace vjezdů a výjezdů z městského okruhu na území Městské části Praha 6, a to s cílem zamezení tvorby kolon v místech, kde by mohly omezovat plynulost provozu či blokovat průjezd vozidel Pražské integrované dopravy.
 
-Projekt 
-
-> „Demonstrativní aplikace využití 5G pro inteligentní monitoring, ovlivňování a řízení dopravy na území HMP“ má vysokou míru pravděpodobnosti úspěšnosti získání dotace, neboť se bude ucházet o finanční podporu alokovanou pro investice do demonstrativních projektů rozvoje aplikací pro města a průmyslové oblasti. Využití 5G sítě v rámci telematických systémů je v souladu jak se Strategií rozvoje telematiky v hlavním městě Praze, tak s Plánem jednotného evropského dopravního prostoru na úrovni Evropské unie. 
+Projekt „Demonstrativní aplikace využití 5G pro inteligentní monitoring, ovlivňování a řízení dopravy na území HMP“ má vysokou míru pravděpodobnosti úspěšnosti získání dotace, neboť se bude ucházet o finanční podporu alokovanou pro investice do demonstrativních projektů rozvoje aplikací pro města a průmyslové oblasti. Využití 5G sítě v rámci telematických systémů je v souladu jak se Strategií rozvoje telematiky v hlavním městě Praze, tak s Plánem jednotného evropského dopravního prostoru na úrovni Evropské unie. 
