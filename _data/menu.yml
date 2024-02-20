@@ -21,7 +21,7 @@ main:
       - name:  Piráti na Magistrátu hl. města Prahy
         link:  /lide/magistrat
         match: /lide/magistrat         
-      - name:  Piráti v dozorčích radách městských firem
+      - name:  Piráti v dozorčích radách a představenstvech městských společností
         link:  /lide/dr
         match: /lide/dr
       - name:  Piráti v městských částech
