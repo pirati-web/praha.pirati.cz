@@ -1,5 +1,5 @@
 ---
-title: "Zavedení zpětného odběru pneumatik ve sběrných dvorech má úspěch"
+title: "Praha vytipovala vhodná území pro rozvoj inovativního průmyslu a spolupracovat bude i na vytvoření Vědecko-technologického parku"
 author: MHMP
 image: posts/mazur6.jpg
 tags: [IT]
