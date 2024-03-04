@@ -5,7 +5,7 @@ image: posts/jana-komrskova.jpg
 tags: [životní prostředí]
 ---
  
-V loňském roce byl na všech sběrných dvorech hlavního města zaveden zpětný odběr pneumatik. Pro občany to v praxi znamená, že za jejich odložení již nemusí platit. Tato možnost se setkala s velkým úspěchem a zájmem Pražanů, množství odevzdaných pneumatik vzrostlo z 257 tun na 549 tun.
+V uplynulém roce byl na všech sběrných dvorech hlavního města zaveden zpětný odběr pneumatik. Pro občany to v praxi znamená, že za jejich odložení již nemusí platit. Tato možnost se setkala s velkým úspěchem a zájmem Pražanů, množství odevzdaných pneumatik vzrostlo z 257 tun na 549 tun.
 
 Počet odevzdaných pneumatik na sběrných dvorech se v loňském roce více jak zdvojnásobil. „Když jsme loni tuto novinku zaváděli, počítali jsme s velkým zájmem. Čísla však předčila naše očekávání. Dvakrát více pneumatik ve sběrných dvorech naznačuje, že na černých skládkách jich končí podstatně méně. Podobné služby občanům mají velký přesah pro životní prostředí a je vidět, že lidé si jejich využívání brzy osvojili. Před přezutím vozů na letní gumy ale neuškodí zpětný odběr pneumatik zdarma znovu zpropagovat. Loňská čísla jsou tou nejlepší reklamou,“ říká náměstkyně primátora hl. m. Prahy pro životního prostředí a klimatický plán Jana Komrsková.
 
