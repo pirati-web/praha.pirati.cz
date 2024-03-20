@@ -10,14 +10,14 @@ category:
    - mhmp
 img: people/adam-zabransky.jpg
 heroImg: Prague_panorama.jpeg
-description: radní pro majetek, legislativu a transparentnost
+description: radní pro majetek, transparentnost a legislativu
 teamDescription: 
   mhmp: zastupitel hl. města Prahy
-  mhmp-rhmp: radní pro majetek, legislativu a transparentnost
-profession: radní pro majetek, legislativu a transparentnost
+  mhmp-rhmp: radní pro majetek, transparentnost a legislativu
+profession: radní pro majetek, transparentnost a legislativu
 partyUid: pirati
 funkce: 
-  - radní hl. města pro majetek, legislativu a transparentnost
+  - radní hl. města pro majetek, transparentnost a legislativu
   - předseda Inventarizační komise RHMP
   - předseda Majetkové komise RHMP
   - předseda Komise RHMP pro předzahrádky, stánky a trhy
