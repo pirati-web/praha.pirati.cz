@@ -2,7 +2,7 @@
 title: "Inovační maraton Nakopni Prahu 2024 postupuje do další fáze. Zlepšovat život v metropoli chce téměř padesátka týmů"
 author: MHMP
 image: posts/mazur9.jpg
-tags: [Doprava]
+tags: [Inovace]
 ---
  
 Pražský inovační maraton Nakopni Prahu zaujal více než 132 inovativních kreativců. Ti se mohli hlásit se svými nápady na zlepšení života v české metropoli do 7. března 2024. Skoro padesátka týmů přihlásila své inovativní projekty v celkem pěti výzvách. Vybrané týmy se potkají společně s mentory a partnery projektu na úvodní akci Nakopni Prahu 2024, která se uskuteční v pražském CAMPu ve čtvrtek 21. března 2024.
