@@ -1,7 +1,7 @@
 ---
 title: "Praha zahajuje sezónní svoz bioodpadu"
 author: MHMP
-image: posts/jana-komrskova-2022.jpg
+image: posts/komrskova-zhmp.jpg
 tags: [Životní prostředí]
 ---
  
