@@ -61,7 +61,7 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
     <div class="card__body">
       <p><b><a href="http://www.marekhilser.cz">Marek Hilšer</a></b> je v současné době senátorem za Prahu 2 a 3, na podzim bude obhajovat mandát. Vystudoval medicínu a mezinárodní vztahy na Univerzitě Karlově, působil na lékařských misích v Africe a učí také na 1. Lékařské fakultě UK. V Senátu prosazuje protikorupční zákony, transformaci energetiky ve prospěch obnovitelných zdrojů a zastává se obětí bezohledných exekucí. Systematicky se věnuje problematice oligarchizace politiky, která podkopává tržní prostředí a důvěru v demokratické instituce.</p>
   <button class="btn btn--autowidth ">
-  <div class="btn__body"><a href="http://wwww.marekhilser.cz""><b>Více informací</b></a></div>
+  <div class="btn__body"><a href="http://wwww.marekhilser.cz"><b>Více informací</b></a></div>
   </button>
     </div>
 </div>
