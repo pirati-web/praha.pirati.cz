@@ -42,9 +42,6 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
   <div class="card elevation-1">
     <div class="card__body">
       <b>Lukáš Wagenknecht<b> kandiduje v Praze 8.
-      <button class="btn btn--autowidth ">
-        <div class="btn__body"><a href="http://lukaswagenknecht.cz>Více informací</a>/div>
-      </button>
     </div>
   </div>
 
@@ -59,7 +56,6 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
      <b>Marek Hilšer<b> kandiduje v Praze 2.
     </div>
   </div>
-
 </div>
 
 <div class="inline-flex flex-col sm:flex-row space-y-8 sm:space-y-0 sm:space-x-8">
