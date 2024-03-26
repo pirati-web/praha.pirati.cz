@@ -41,22 +41,25 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
 <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
   <div class="card elevation-1">
     <div class="card__body">
-      <b>Lukáš Wagenknecht<b> kandiduje v Praze 8.
+      elevation-1
     </div>
   </div>
 
   <div class="card elevation-2">
     <div class="card__body">
-      <b>Eva Tylová kandiduje<b> v Praze 12.
+      elevation-2
     </div>
   </div>
 
   <div class="card elevation-3">
     <div class="card__body">
-     <b>Marek Hilšer<b> kandiduje v Praze 2.
+      elevation-3
     </div>
   </div>
+
 </div>
+
+<h2>Děkujeme za podporu!</h2>
 
 <div class="inline-flex flex-col sm:flex-row space-y-8 sm:space-y-0 sm:space-x-8">
   <div class="inline-flex flex-col space-y-2">
