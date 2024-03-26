@@ -42,18 +42,21 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
   <div class="card__body">
     <p><b><a href="http://wwww.lukaswagenknecht.cz">Lukáš Wagenknecht</a></b> je šestým rokem jsem senátorem obvodu č. 23, který zahrnuje Prahu 8, Prahu 18 a okolí. Na poodzim bude obhajovat mandát. Původní profesí je ekonom a přes 15 let pracoval jako auditor. V Senátu předsedá Komisi pro dohled nad veřejnými prostředky a je členem Hospodářského výboru. Věnuje se efektivní veřejné správě, energetice, dopravě, transparentnosti, boji proti korupci a ochraně klimatu. Kromě toho přednáší na dvou vysokých školách předmět Interní audit.</p>
   </div>
+  <button class="btn btn--autowidth ">
+  <div class="btn__body">a href="http://wwww.lukaswagenknecht.cz">Více informací o Lukáši Wagenknechtovi</a></div>
+  </button>
 </div>
 
 
 <div class="card card--hoveractive ">
     <div class="card__body">
-    <p><b>Eva Tylová</b> dlouhá léta působila jako místostarostka městské části Praha 12. V současné době je zastupitelkou hlavního města a klade si za cíl hájit zájmy místních občanů a chránit životní prostředí proti zájmům developerů a energetických korporací. Z pozice zastupitelky má ale omezené možnosti, proto by v boji za vaše práva ráda pokračovala jako senátorka. Dříve působila i jako náměstkyně na Ministerstvu životního prostředí a následně řídila Českou inspekci životního prostředí.</p>
+    <p><b><a href="https://praha.pirati.cz/lide/eva-tylova.html">Eva Tylová</a></b> dlouhá léta působila jako místostarostka městské části Praha 12. V současné době je zastupitelkou hlavního města a klade si za cíl hájit zájmy místních občanů a chránit životní prostředí proti zájmům developerů a energetických korporací. Z pozice zastupitelky má ale omezené možnosti, proto by v boji za vaše práva ráda pokračovala jako senátorka. Dříve působila i jako náměstkyně na Ministerstvu životního prostředí a následně řídila Českou inspekci životního prostředí.</p>
     </div>
   </div>
 
 <div class="card card--hoveractive ">
     <div class="card__body">
-      <p><b>Marek Hilšer</b> je v současné době senátorem za Prahu 2 a 3, na podzim bude obhajovat mandát. Vystudoval medicínu a mezinárodní vztahy na Univerzitě Karlově, působil na lékařských misích v Africe a učí také na 1. Lékařské fakultě UK. V Senátu prosazuje protikorupční zákony, transformaci energetiky ve prospěch obnovitelných zdrojů a zastává se obětí bezohledných exekucí. Systematicky se věnuje problematice oligarchizace politiky, která podkopává tržní prostředí a důvěru v demokratické instituce.</p>
+      <p><b>a href="http://www.marekhilser.cz">Marek Hilšer</a></b> je v současné době senátorem za Prahu 2 a 3, na podzim bude obhajovat mandát. Vystudoval medicínu a mezinárodní vztahy na Univerzitě Karlově, působil na lékařských misích v Africe a učí také na 1. Lékařské fakultě UK. V Senátu prosazuje protikorupční zákony, transformaci energetiky ve prospěch obnovitelných zdrojů a zastává se obětí bezohledných exekucí. Systematicky se věnuje problematice oligarchizace politiky, která podkopává tržní prostředí a důvěru v demokratické instituce.</p>
     </div>
 </div>
 
