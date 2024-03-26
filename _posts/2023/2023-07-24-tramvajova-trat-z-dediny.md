@@ -2,7 +2,7 @@
 title: "Praha plánuje stavbu nové tramvajové tratě z Dědiny k Nádraží Dlouhá Míle"
 author: MHMP
 image:  posts/hrib-logoprahy.jpg
-tags:   [Doprava, Tramvajové tratě]
+tags:   [Doprava, Tramvajové tratě, IPR]
 ---
 
 Rada hl. m. Prahy na pondělním jednání schválila zahájení přípravy nové tramvajové tratě Dědina – Nádraží Dlouhá Míle.  Dopravní podnik hl. m. Prahy (DPP) pro investiční akci zajistí projektovou dokumentaci, následná povolení pro stavbu, vysoutěží zhotovitele a stavbu postaví v koordinaci s Institutem plánování a rozvoje hl. m. Prahy (IPR) a Technickou správou komunikací hl. m. Prahy (TSK). Výstavba nové tramvajové tratě na Nádraží Dlouhá Míle má být zahájena v roce 2027. 

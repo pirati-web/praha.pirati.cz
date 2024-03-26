@@ -2,7 +2,7 @@
 title: "Praha vypracuje manuál kultivovaného dopravního značení"
 author: MHMP
 image: posts/hrib-logoprahy.jpg
-tags: [Doprava]
+tags: [Doprava, TSK]
 ---
  
 Pražští radní schválili záměr na vypracování metodického materiálu Kultivovaného dopravního značení v prostředí města jako doplňku k Manuálu tvorby veřejných prostranství hl. m. Prahy. V příštím roce se ve spolupráci s Institutem plánování a rozvoje, odborem dopravy a odborem drah a pozemních komunikací pražského magistrátu a Technickou správou komunikací uskuteční první pilotní projekty ve vybraných lokalitách po projednání s příslušnými městskými částmi.

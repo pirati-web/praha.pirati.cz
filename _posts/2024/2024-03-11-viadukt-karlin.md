@@ -2,7 +2,7 @@
 title: "Praha vybrala v otevřené soutěži vítězný návrh nové vizuální identity Viaduktu Karlín"
 author: MHMP
 image: posts/adam-zabransky-sal.jpg
-tags: [Majetek]
+tags: [Negrelliho viadukt, Praha 8, Trade Centre Praha]
 ---
  
 V designové soutěži na novou vizuální identitu projektu Viadukt Karlín, kterou vypsala městská společnost pro správu nemovitostí TRADE CENTRE PRAHA (TCP), se sešlo celkem 78 návrhů od grafických designérek a designérů. Ti se pokusili svými nápady a kreativitou ztvárnit záměr, jenž v následujících letech zkultivuje veřejný prostor pod oblouky Negrelliho viaduktu a po vzoru evropských metropolí v nich vznikne nové společensko-kulturní centrum. Vítězný návrh Jana Slabihoudka komisi zaujal svou nápaditostí i komplexním využitím.

@@ -2,7 +2,7 @@
 title: "Praha pronajme stovky garážových stání"
 author: MHMP
 image: posts/adam-zabransky-garaz.jpg
-tags: [Majetek]
+tags: [Parkování, Majetek]
 ---
  
 Hlavní město Praha vypsalo záměr pronajmout více než 330 volných garážových stání. Dosud prázdné garáže městu přinesou asi tři miliony korun.  

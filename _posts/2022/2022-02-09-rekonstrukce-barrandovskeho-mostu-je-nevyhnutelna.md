@@ -2,7 +2,7 @@
 title: "Rekonstrukce Barrandovského mostu je nevyhnutelná"
 author: MHMP
 image: posts/barrandovsky-most.jpg
-tags: [Doprava, Barrandovský most]
+tags: [Doprava, Barrandovský most, TSK]
 ---
 
 **Barrandovský most se řadí mezi nejrozsáhlejší mostní díla v Praze a okolí, budoval se deset let a kompletně byl otevřen v roce 1988 (jižní polovina již v září 1983). Významný dopravní uzel jižní části hlavního města spojuje Braník na pravém břehu a Hlubočepy na levém. Pojmenován je podle čtvrti Barrandov, kam také vede. Mezi lety 1981 a 1990 nesl most jméno Antonína Zápotockého.**

@@ -2,7 +2,7 @@
 title: "Rekonstrukce Barrandovského mostu bude letos dokončena, práce se zkrátí o rok"
 author: MHMP
 image: posts/7hrib.jpg
-tags: [Doprava]
+tags: [Barrandovský most, TSK, Doprava]
 ---
  
 V pondělí 11. března 2024 vyjede na Barrandovský most těžká technika a začnou tak hlavní práce třetí etapy rekonstrukce mostu. Technická správa komunikací hl. m. Prahy (TSK) prostřednictvím svého dodavatele, společnosti PORR, zahájí další etapu rozsáhlé rekonstrukce nejvytíženější dopravní tepny v České republice. Takto významné dopravní omezení je nicméně nutné připravit v předstihu a řidiči musí počítat s postupným omezováním dopravy již od soboty 9. března. Postupná instalace přenosného dopravního značení bude trvat zhruba dva dny až do pondělního rána, kdy začne samotná stavba. V letošním roce jsou naplánovány dvě poslední etapy, které na sebe budou plynule navazovat, a tím se celková rekonstrukce zkrátí o jeden rok.

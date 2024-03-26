@@ -2,7 +2,7 @@
 title: "V pondělí odstartuje rekonstrukce Barrandovského mostu. Řidiči se již od soboty musí připravit na komplikace"
 author: MHMP
 image: 	posts/barrandovsky-most.jpg
-tags:   [Barrandovský most, Doprava]
+tags:   [Barrandovský most, Doprava, TSK]
 ---
 
 **V pondělí 16. května 2022 se na plno rozjedou práce na Barrandovském mostě. Technická správa komunikací (TSK) prostřednictvím svého dodavatele, společnosti PORR, zahájí rozsáhlou rekonstrukcí nejvytíženější dopravní tepny v České republice. Životnost mostu se tak prodlouží o desítky let a zvýší se jeho zatížitelnost. S dopravním omezením ale musí řidiči počítat již od soboty 14. května, kdy se začne stavět dopravní značení. Toto postupné omezování provozu bude trvat dva dny a vyvrcholí v neděli úplným uzavřením rampy ze Strakonické ulice, aby vše bylo připravené na pondělní zahájení prací.**

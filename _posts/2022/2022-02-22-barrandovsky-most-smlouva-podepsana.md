@@ -2,7 +2,7 @@
 title: "TSK podepsala smlouvu na rekonstrukci Barrandovského mostu"
 author: MHMP
 image: posts/barrandovsky-most.jpg
-tags: [Doprava, Barrandovský most]
+tags: [Doprava, Barrandovský most, TSK]
 ---
 
 V úterý 22. února 2022 podepsala Technická správa komunikací (TSK) se společností PORR, a.s., smlouvu na rekonstrukci Barrandovského mostu. Oprava nejvytíženější dopravní tepny v České republice začne letos v květnu. Životnost mostu se tak prodlouží až o třicet let a zvýší se jeho zatížitelnost.

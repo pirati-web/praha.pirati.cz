@@ -2,7 +2,7 @@
 title: "Pražští radní představili výsledky prvního roku práce pro hlavní město"
 author: MHMP
 image: posts/novaradnice6.jpg
-tags: [Koalice]
+tags: [SPOLU, STAN, Piráti]
 ---
  
 Členové Rady hl. m. Prahy jsou již rok ve svých funkcích. O dosavadních úspěších v jednotlivých gescích, ale také o vizích na další období, dnes hovořil primátor hl. m. Prahy a pražští radní na tiskové konferenci. Pražská koalice v tomto volebním období funguje ve složení SPOLU (ODS, TOP 09 a KDU-ČSL), Piráti a STAN.

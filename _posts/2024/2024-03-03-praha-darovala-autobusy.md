@@ -2,7 +2,7 @@
 title: "Praha věnovala ukrajinským městům Mykolajiv a Buča pět autobusů"
 author: MHMP
 image: posts/autobusy.jpg
-tags: [Doprava]
+tags: [Doprava, Válka na Ukrajině]
 ---
  
 Dopravní podnik hl. m. Prahy (DPP) ve spolupráci s hlavním městem Prahou a prostřednictvím neziskové organizace Člověk tísni daroval na Ukrajinu další vyřazená vozidla, tentokrát pět autobusů SOR. Příjemcem pomoci jsou dopravní podniky ve městech Mykolajiv a Buča, darovaná vozidla zde budou sloužit ve veřejné dopravě. Autobusy jsou plně provozuschopné, dnes si je převzali zástupci obou měst a po vlastní ose s nimi odjeli na Ukrajinu.

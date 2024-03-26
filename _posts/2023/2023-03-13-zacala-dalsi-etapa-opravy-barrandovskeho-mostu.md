@@ -2,7 +2,7 @@
 title: "Druhá etapa rekonstrukce Barrandovského mostu začne v polovině května"
 author: MHMP
 image:  posts/reko.jpg
-tags:   [Doprava, Barrandovský most]
+tags:   [Doprava, Barrandovský most, TSK]
 ---
 
 **Už v polovině května letošního roku odstartují hlavní práce na druhé etapě rekonstrukce Barrandovského mostu, klíčové dopravní tepny v Praze, kterou denně využije 144 tisíc vozidel. Opravovat se bude severní polovina jižního mostu a barrandovská rampa vedoucí z ulice K Barrandovu na most. Přímo na mostě bude doprava vedena ve třech provizorních jízdních pruzích v každém směru. Tedy tři pruhy směrem na Smíchov a tři pruhy směrem na Braník. Největším dopravním omezením, které zásadně dopravu v Praze ovlivní, bude uzavření barrandovské rampy od Barrandova ve směru z ulice K Barrandovu na Jižní spojku, a to současně s dopravním omezením přímo na mostě. Tuto rampu denně využije 1,5násobku vozidel, které využívají již zrekonstruovanou strakonickou rampu. Z toho je zřejmé, že zásah do dopravy v celé Praze bude významnější, než při první etapě rekonstrukce v roce 2022.**

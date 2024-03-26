@@ -2,7 +2,7 @@
 title: "Praha v rámci podpory udržitelnosti a odpovědného přístupu připravila pro veřejnost krejčovské kurzy"
 author: MHMP
 image: posts/novaradnice6.jpg
-tags: [Životní prostředí]
+tags: [Re-Use Centrum]
 ---
  
 Hlavní město ve spolupráci s Vysokou školou uměleckoprůmyslovou (UMPRUM) v Praze přichystalo pro širokou veřejnost sérii krejčovských kurzů, na kterých se dvě dílenské mistrové podělí o tipy, jak vylepšit svůj šatník a naučit se nové techniky a postupy.

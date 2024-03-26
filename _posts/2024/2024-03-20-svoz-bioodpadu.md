@@ -2,7 +2,7 @@
 title: "Praha zahajuje sezónní svoz bioodpadu"
 author: MHMP
 image: posts/komrskova-zhmp.jpg
-tags: [Životní prostředí]
+tags: [Pražské služby, Životní prostředí]
 ---
  
 Hlavní město Praha ve spolupráci se svozovou společností Pražské služby zveřejnilo na [svém webu harmonogramy svozu bioodpadu](https://www.psas.cz/upload/files/harmonogram-bio-sezona-2024-1x-tydne-xlsx.pdf) pro sezónu 2024 se zahrnutím celého území hl. m. Prahy.

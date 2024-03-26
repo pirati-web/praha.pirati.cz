@@ -2,7 +2,7 @@
 title: "Vozovna ve Stromovce bude mít nového provozovatele. Praha by mohla získat na nájmu přes 3 miliony korun ročně"
 author: MHMP
 image: posts/stromovka-vozovna.jpg
-tags: [Majetek]
+tags: [Majetek, Stromovka]
 ---
  
 Rada hlavního města Prahy schválila pořadí nabídek zájemců o provoz restaurace Vozovna i podepsání nájemní smlouvy s předkladatelem nejvyšší z nich. Společnost KOOL FOOD SERVICE za pronájem nabídla 3 432 158 Kč ročně. Dosavadní provozovatel možnost dorovnání nabídky nevyužil.

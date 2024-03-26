@@ -2,7 +2,7 @@
 title: "Praha vytipovala vhodná území pro rozvoj inovativního průmyslu a spolupracovat bude i na vytvoření Vědecko-technologického parku"
 author: MHMP
 image: posts/mazur6.jpg
-tags: [IT]
+tags: [IT, Pražský inovační institut, Vědecko-technologický park]
 ---
  
 Představitelé hlavního města diskutovali na konferenci nazvané Rozvoj města pro průmysl a inovace, která se konala ve středu 28. února 2024, se zástupci inovativního průmyslu, odborníky na plánování měst i se zástupci akademické sféry o budoucnosti a rozvoji průmyslu v Praze. Společně hledali také možnosti pro vznik městského Vědecko-technologického parku. 

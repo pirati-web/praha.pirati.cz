@@ -2,7 +2,7 @@
 title: "Základní kámen obnovy náměstí Jiřího z Poděbrad pochází z Pražského hradu"
 author: MHMP
 image: posts/nam.jpg
-tags: [Územní plánování]
+tags: [Praha 3, Náměstí Jiřího z Poděbrad]
 ---
  
 V rámci začínající kompletní obnovy náměstí Jiřího z Poděbrad poklepali dnes zástupci hlavního města a radnice Prahy 3 na základní kámen, který byl na místo přivezen z areálu Pražského hradu. Jedná se o originální dlažební kámen ze III. nádvoří, které navrhoval významný architekt Josip Plečnik, autor zároveň i kostela Nejsvětějšího Srdce Páně na náměstí Jiřího z Poděbrad. Symbolicky se tak znovu obě místa propojují.

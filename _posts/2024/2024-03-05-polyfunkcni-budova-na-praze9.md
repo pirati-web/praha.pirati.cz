@@ -2,7 +2,7 @@
 title: "Pražští radní dali zelenou výstavbě polyfunkční budovy v Praze 9"
 author: MHMP
 image: posts/zabransky-kreslo.jpg
-tags: [Majetek]
+tags: [Praha 9, Majetek]
 ---
  
 Rada hl. m. Prahy v pondělí umožnila výstavbu polyfunkční budovy u metra Prosek v Praze 9. Stavba je možná díky čerpání koeficientů zastavěnosti ze sousedních městských pozemků. Město za to získá sumu 8,5 milionu korun bez DPH stanovenou znaleckým posudkem.
