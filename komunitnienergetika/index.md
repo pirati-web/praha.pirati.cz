@@ -40,10 +40,10 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
 
 <div class="card card--hoveractive ">
   <div class="card__body">
-    <b>Lukáš Wagenknecht</b> je šestým rokem jsem senátorem obvodu č. 23, který zahrnuje Prahu 8, Prahu 18 a okolí. Na poodzim bude obhajovat mandát. Původní profesí je ekonom a přes 15 let pracoval jako auditor. V Senátu předsedá Komisi pro dohled nad veřejnými prostředky a je členem Hospodářského výboru. Věnuje se efektivní veřejné správě, energetice, dopravě, transparentnosti, boji proti korupci a ochraně klimatu. Kromě toho přednáší na dvou vysokých školách předmět Interní audit.
-    <button class="btn btn--autowidth ">
-      <div class="btn__body"><a href="http://lukaswagenknecht.cz">Více informací</a></div>
-     </button>
+    <div class="avatar ">
+       <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+    </div>
+    <b>Lukáš Wagenknecht</b> je šestým rokem jsem senátorem obvodu č. 23, který zahrnuje Prahu 8, Prahu 18 a okolí. Na poodzim bude obhajovat mandát. Původní profesí je ekonom a přes 15 let pracoval jako auditor. V Senátu předsedá Komisi pro dohled nad veřejnými prostředky a je členem Hospodářského výboru. Věnuje se efektivní veřejné správě, energetice, dopravě, transparentnosti, boji proti korupci a ochraně klimatu. Kromě toho přednáší na dvou vysokých školách předmět Interní audit.</br>
   </div>
 </div>
 
@@ -58,9 +58,9 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
     <div class="card__body">
       <b>Marek Hilšer</b> je v současné době senátorem za Prahu 2 a 3, na podzim bude obhajovat mandát. Vystudoval medicínu a mezinárodní vztahy na Univerzitě Karlově, působil na lékařských misích v Africe a učí také na 1. Lékařské fakultě UK. V Senátu prosazuje protikorupční zákony, transformaci energetiky ve prospěch obnovitelných zdrojů a zastává se obětí bezohledných exekucí. Systematicky se věnuje problematice oligarchizace politiky, která podkopává tržní prostředí a důvěru v demokratické instituce.
     </div>
-  </div>
-
 </div>
+
+
 
 <h2>Děkujeme za podporu!</h2>
 
