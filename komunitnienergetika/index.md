@@ -41,10 +41,10 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
 <div class="card card--hoveractive ">
   <div class="card__body">
     <p><b><a href="http://wwww.lukaswagenknecht.cz">Lukáš Wagenknecht</a></b> je šestým rokem jsem senátorem obvodu č. 23, který zahrnuje Prahu 8, Prahu 18 a okolí. Na poodzim bude obhajovat mandát. Původní profesí je ekonom a přes 15 let pracoval jako auditor. V Senátu předsedá Komisi pro dohled nad veřejnými prostředky a je členem Hospodářského výboru. Věnuje se efektivní veřejné správě, energetice, dopravě, transparentnosti, boji proti korupci a ochraně klimatu. Kromě toho přednáší na dvou vysokých školách předmět Interní audit.</p>
-  </div>
   <button class="btn btn--autowidth ">
-  <div class="btn__body"><a href="http://wwww.lukaswagenknecht.cz">Více informací o Lukáši Wagenknechtovi</a></div>
+  <div class="btn__body">< a href="http://wwww.lukaswagenknecht.cz">Více informací o Lukáši Wagenknechtovi</a></div>
   </button>
+  </div>
 </div>
 
 
