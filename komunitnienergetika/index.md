@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Energie ze Slunce pomůže přírodě i naší peněžence"
+title: "Energie ze Slunce pomůže přírodě i peněžence"
 description: "Energie ze Slunce pomůže přírodě i naší peněžence"
-tags: [Komunitní energetika, Senát, Volby 2024, Životní prostředí]
+tags: [Senát, Volby 2024, Životní prostředí]
 image: posts/senat2024/volby2024-energetika.jpg
 keywords: Senát, Volby do Senátu, Komunitní energetika
 ---
@@ -15,13 +15,15 @@ Lidi ale složitá byrokracie od prvního kroku k přechodu na tuto přirozenou 
 
 Zkušenosti pro začínající solárníky bude pravidelně předávat kandidátka do Senátu [Eva Tylová](https://praha.pirati.cz/lide/eva-tylova.html), ale i stávající senátoři [Lukáš Wagenknecht](https://praha.pirati.cz/lide/lukas-wagenknecht.html) a [Marek Hilšer](https://www.marekhilser.cz/) v doprovodu dalších pirátů a pirátek z Prahy. Kolem fotovoltaiky totiž panují časté předsudky, které úmyslně šíří někteří zástupci energetických firem. Např. že v zimě si kafe elektřinou ze solárů neuvaříte. To samozřejmě není pravda, protože většina sestav fotovoltaických elektráren obsahuje i baterii.  Na seminářích ci konzultacích se dozvíte mimo jiné, že díky solární energii si i v zimě uvaříte kafe klidně dvě a k tomu i polévku a hlavní chod.
 
-
-### Termíny - kdy kiosek bude na vaší městské části</h3>
+### Termíny - kdy kiosek bude na vaší městské části
+- termín 1
+- termín 2
+- termín 3
 
 ### Termíny - semináře v Pirátském centru a konzultační hodiny</h3> 
-
-<p>.</p> 
-
+- termín 1
+- termín 2
+- termín 3
 
 <div class="inline-flex flex-col sm:flex-row space-y-8 sm:space-y-0 sm:space-x-8">
   <div class="inline-flex flex-col space-y-2">
@@ -36,6 +38,107 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
 
 
 <h2>Nerecyklujte staré konzervy, do Senátu pošlete liberály!</h2>
+
+<div class="candidate-card container-padding--zero sm:container-padding--auto ">
+  <div class="candidate-card__wrapper ">
+    <div class="card candidate-card__body elevation-0 hover:elevation-10 transition duration-200">
+      <div class="candidate-card__avatar">
+        <div class="candidate-card__position">Praha 2</div>
+        <a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">
+          <div class="avatar avatar--sm sm:avatar--lg">
+            <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+          </div>
+        </a>
+      </div>
+      <div class="candidate-card__bio">
+        <h1 class="head-heavy-xs"><a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">Marek Hilšer</a></h1>
+        <a href="#" class="candidate-card__bio-item block mb-4">someone.from.the.party@pirati.cz</a>
+        <h2 class="candidate-card__bio-item">senátor</h2>
+        <h2 class="head-allcaps-4xs mt-4">Praha 2</h2>
+      </div>
+      <div class="candidate-card__affiliation">
+        <div>30 let</div>
+        <div>
+          <div class="avatar w-6 mr-2">
+            <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+          </div>
+
+          <a href="#" class="font-bold font-condensed">Pirátská strana</a>
+        </div>
+      </div>
+      <div class="card__body candidate-card__social">
+        <p class="font-light text-sm leading-snug italic mb-4 hidden md:block">Evropská unie není vzdálená instituce žijící svým životem – jsme to my všichni. Přesto máme někdy problém se orientovat či přímo angažovat v evropské politice.</p>
+        <div class="social-icon-group space-x-2 ">
+          <a href="#" class="social-icon "><i class="ico--twitter"></i></a>
+
+          <a href="#" class="social-icon "><i class="ico--feed"></i></a>
+
+          <a href="#" class="social-icon "><i class="ico--youtube"></i></a>
+
+          <a href="#" class="social-icon "><i class="ico--instagram"></i></a>
+
+          <a href="#" class="social-icon "><i class="ico--flickr"></i></a>
+
+          <a href="#" class="social-icon "><i class="ico--envelope"></i></a>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="candidate-card container-padding--zero sm:container-padding--auto ">
+  <div class="candidate-card__wrapper ">
+    <div class="card candidate-card__body elevation-0 hover:elevation-10 transition duration-200">
+      <div class="candidate-card__avatar">
+        <div class="candidate-card__position">Praha 8</div>
+        <a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">
+          <div class="avatar avatar--sm sm:avatar--lg">
+            <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+          </div>
+        </a>
+      </div>
+      <div class="candidate-card__bio">
+        <h1 class="head-heavy-xs"><a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">Lukáš Wagenknecht</a></h1>
+        <a href="#" class="candidate-card__bio-item block mb-4">someone.from.the.party@pirati.cz</a>
+        <h2 class="candidate-card__bio-item">senátor</h2>
+        <h2 class="head-allcaps-4xs mt-4">Praha 2</h2>
+      </div>
+      <div class="candidate-card__affiliation">
+        <div>30 let</div>
+        <div>
+          <div class="avatar w-6 mr-2">
+            <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+          </div>
+
+          <a href="#" class="font-bold font-condensed">Pirátská strana</a>
+        </div>
+      </div>
+      <div class="card__body candidate-card__social">
+        <p class="font-light text-sm leading-snug italic mb-4 hidden md:block">Evropská unie není vzdálená instituce žijící svým životem – jsme to my všichni. Přesto máme někdy problém se orientovat či přímo angažovat v evropské politice.</p>
+        <div class="social-icon-group space-x-2 ">
+          <a href="#" class="social-icon "><i class="ico--twitter"></i></a>
+
+          <a href="#" class="social-icon "><i class="ico--feed"></i></a>
+
+          <a href="#" class="social-icon "><i class="ico--youtube"></i></a>
+
+          <a href="#" class="social-icon "><i class="ico--instagram"></i></a>
+
+          <a href="#" class="social-icon "><i class="ico--flickr"></i></a>
+
+          <a href="#" class="social-icon "><i class="ico--envelope"></i></a>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
 
 Marek Hilšer (Praha 2)
 
