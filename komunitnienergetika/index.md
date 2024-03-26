@@ -5,8 +5,6 @@ description: "Energie ze Slunce pomůže přírodě i naší peněžence"
 tags: [Senát, Volby 2024, Životní prostředí]
 image: posts/senat2024/volby2024-energetika.jpg
 keywords: Senát, Volby do Senátu, Komunitní energetika
-candidateListUid: 2024-senat
-customizeHeader: true
 ---
 
 **Zákon o komunitní energetice tzv. LEX OZE II vstoupil v lednu v platnost a od 1. 7. nabude účinnosti. Od července mohou v České republice vznikat energetické komunity, které budou mezi sebou sdílet místně vyrobenou elektřinu z obnovitelných zdrojů prostřednictvím distribuční sítě. Tyto výhody přinese zákon i jednotlivým vlastníkům fotovoltaické elektrárny tzv. „aktivním zákazníkům“, kteří si mohou poslat přes distribuční síť vyrobenou elektřinu do více odběrných míst.**
@@ -22,7 +20,7 @@ Zkušenosti pro začínající solárníky bude pravidelně předávat kandidát
 - termín 2
 - termín 3
 
-### Termíny - semináře v Pirátském centru a konzultační hodiny</h3> 
+### Termíny - semináře v Pirátském centru a konzultační hodiny
 - termín 1
 - termín 2
 - termín 3
@@ -38,22 +36,31 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
   </div>
 </div>
 
+<h1>Nerecyklujte staré konzervy, do Senátu pošlete liberály!</h1>
 
-<h2>Nerecyklujte staré konzervy, do Senátu pošlete liberály!</h2>
+<div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+  <div class="card elevation-1">
+    <div class="card__body">
+      <b>Lukáš Wagenknecht<b> kandiduje v Praze 8.
+      <button class="btn btn--autowidth ">
+        <div class="btn__body"><a href="http://lukaswagenknecht.cz>Více informací</a>/div>
+      </button>
+    </div>
+  </div>
 
-{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
+  <div class="card elevation-2">
+    <div class="card__body">
+      <b>Eva Tylová kandiduje<b> v Praze 12.
+    </div>
+  </div>
 
-{% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
+  <div class="card elevation-3">
+    <div class="card__body">
+     <b>Marek Hilšer<b> kandiduje v Praze 2.
+    </div>
+  </div>
 
-Další uváděné představení:
-
-Marek Hilšer (Praha 2)
-
-Jiří Drahoš (Praha 4)
-
-Lukáš Wagenknecht (Praha 8)
-
-Eva Tylová (Praha 12) 
+</div>
 
 <div class="inline-flex flex-col sm:flex-row space-y-8 sm:space-y-0 sm:space-x-8">
   <div class="inline-flex flex-col space-y-2">
