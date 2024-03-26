@@ -40,10 +40,13 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
 
 <div class="card card--hoveractive ">
   <div class="card__body">
-    <div class="avatar ">
-       <img src="https://praha8.pirati.cz/assets/7a1bb2-c00847e2d30ee6df5217bf2e9d08dfaef4162861400b92024c3ff7aa6b88da07.jpg" align=left alt="Avatar" />
-    </div>
-    <b>Lukáš Wagenknecht</b> je šestým rokem jsem senátorem obvodu č. 23, který zahrnuje Prahu 8, Prahu 18 a okolí. Na poodzim bude obhajovat mandát. Původní profesí je ekonom a přes 15 let pracoval jako auditor. V Senátu předsedá Komisi pro dohled nad veřejnými prostředky a je členem Hospodářského výboru. Věnuje se efektivní veřejné správě, energetice, dopravě, transparentnosti, boji proti korupci a ochraně klimatu. Kromě toho přednáší na dvou vysokých školách předmět Interní audit.</br>
+    <p><b><a href="http://wwww.lukaswagenknecht.cz">Lukáš Wagenknecht</a></b> je šestým rokem jsem senátorem obvodu č. 23, který zahrnuje Prahu 8, Prahu 18 a okolí. Na poodzim bude obhajovat mandát. Původní profesí je ekonom a přes 15 let pracoval jako auditor. V Senátu předsedá Komisi pro dohled nad veřejnými prostředky a je členem Hospodářského výboru. Věnuje se efektivní veřejné správě, energetice, dopravě, transparentnosti, boji proti korupci a ochraně klimatu. Kromě toho přednáší na dvou vysokých školách předmět Interní audit. </p>
+     <div class="social-icon-group space-x-2 ">
+        <a href="https://www.facebook.com/WagenknechtLuk/" class="social-icon "><i class="ico--facebook"></i></a>
+        <a href="https://twitter.com/WagenknechtLuk" class="social-icon "><i class="ico--twitter"></i></a>
+        <a href="https://www.instagram.com/wagenknecht_luk" class="social-icon "><i class="ico--instagram"></i></a>
+        <a href="https://cs.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Wagenknecht" class="social-icon "><i class="ico--wikipedia"></i></a>
+     </div>
   </div>
 </div>
 
