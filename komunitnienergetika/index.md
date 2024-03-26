@@ -41,7 +41,7 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
 <div class="card card--hoveractive ">
   <div class="card__body">
     <div class="avatar ">
-       <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+       <img src="https://praha8.pirati.cz/assets/7a1bb2-c00847e2d30ee6df5217bf2e9d08dfaef4162861400b92024c3ff7aa6b88da07.jpg" align=left alt="Avatar" />
     </div>
     <b>Lukáš Wagenknecht</b> je šestým rokem jsem senátorem obvodu č. 23, který zahrnuje Prahu 8, Prahu 18 a okolí. Na poodzim bude obhajovat mandát. Původní profesí je ekonom a přes 15 let pracoval jako auditor. V Senátu předsedá Komisi pro dohled nad veřejnými prostředky a je členem Hospodářského výboru. Věnuje se efektivní veřejné správě, energetice, dopravě, transparentnosti, boji proti korupci a ochraně klimatu. Kromě toho přednáší na dvou vysokých školách předmět Interní audit.</br>
   </div>
