@@ -5,9 +5,8 @@ description: "Energie ze Slunce pomůže přírodě i naší peněžence"
 tags: [Senát, Volby 2024, Životní prostředí]
 image: posts/senat2024/volby2024-energetika.jpg
 keywords: Senát, Volby do Senátu, Komunitní energetika
-campaignGroupUid: volby-2024
-campaignCategoryUid: 2024-senat
 candidateListUid: 2024-senat
+customizeHeader: true
 ---
 
 **Zákon o komunitní energetice tzv. LEX OZE II vstoupil v lednu v platnost a od 1. 7. nabude účinnosti. Od července mohou v České republice vznikat energetické komunity, které budou mezi sebou sdílet místně vyrobenou elektřinu z obnovitelných zdrojů prostřednictvím distribuční sítě. Tyto výhody přinese zákon i jednotlivým vlastníkům fotovoltaické elektrárny tzv. „aktivním zákazníkům“, kteří si mohou poslat přes distribuční síť vyrobenou elektřinu do více odběrných míst.**
@@ -42,10 +41,12 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
 
 <h2>Nerecyklujte staré konzervy, do Senátu pošlete liberály!</h2>
 
+{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
 
-{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %} 
+{% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
 
----------------
+Další uváděné představení:
+
 Marek Hilšer (Praha 2)
 
 Jiří Drahoš (Praha 4)
