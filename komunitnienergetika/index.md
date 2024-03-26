@@ -39,107 +39,161 @@ Stáhněte si všechny aktuální informace a požadavky na výstavbu fotovoltai
 
 <h2>Nerecyklujte staré konzervy, do Senátu pošlete liberály!</h2>
 
-<div class="candidate-card container-padding--zero sm:container-padding--auto ">
-  <div class="candidate-card__wrapper ">
-    <div class="card candidate-card__body elevation-0 hover:elevation-10 transition duration-200">
-      <div class="candidate-card__avatar">
-        <div class="candidate-card__position">Praha 2</div>
-        <a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">
-          <div class="avatar avatar--sm sm:avatar--lg">
-            <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
-          </div>
-        </a>
-      </div>
-      <div class="candidate-card__bio">
-        <h1 class="head-heavy-xs"><a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">Marek Hilšer</a></h1>
-        <a href="#" class="candidate-card__bio-item block mb-4">someone.from.the.party@pirati.cz</a>
-        <h2 class="candidate-card__bio-item">senátor</h2>
-        <h2 class="head-allcaps-4xs mt-4">Praha 2</h2>
-      </div>
-      <div class="candidate-card__affiliation">
-        <div>30 let</div>
-        <div>
-          <div class="avatar w-6 mr-2">
-            <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
-          </div>
 
-          <a href="#" class="font-bold font-condensed">Pirátská strana</a>
+ <div class="candidate-card-list grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+  <div class="candidate-card container-padding--zero sm:container-padding--auto ">
+    <div class="candidate-card__wrapper candidate-card-list__item-wrapper">
+      <div class="card candidate-card__body elevation-0 hover:elevation-10 transition duration-200">
+        <div class="candidate-card__avatar">
+          <div class="candidate-card__position">1</div>
+          <a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">
+            <div class="avatar avatar--sm sm:avatar--lg">
+              <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+            </div>
+          </a>
         </div>
-      </div>
-      <div class="card__body candidate-card__social">
-        <p class="font-light text-sm leading-snug italic mb-4 hidden md:block">Evropská unie není vzdálená instituce žijící svým životem – jsme to my všichni. Přesto máme někdy problém se orientovat či přímo angažovat v evropské politice.</p>
-        <div class="social-icon-group space-x-2 ">
-          <a href="#" class="social-icon "><i class="ico--twitter"></i></a>
-
-          <a href="#" class="social-icon "><i class="ico--feed"></i></a>
-
-          <a href="#" class="social-icon "><i class="ico--youtube"></i></a>
-
-          <a href="#" class="social-icon "><i class="ico--instagram"></i></a>
-
-          <a href="#" class="social-icon "><i class="ico--flickr"></i></a>
-
-          <a href="#" class="social-icon "><i class="ico--envelope"></i></a>
-
+        
+<div class="candidate-card__bio">
+          <h1 class="head-heavy-xs"><a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">Junius Koolen</a></h1>
+          <a href="#" class="candidate-card__bio-item block mb-4">someone.from.the.party@pirati.cz</a>
+          <h2 class="candidate-card__bio-item">Software company manager and open-source software expert</h2>
+          <h2 class="head-allcaps-4xs mt-4">Valašské Meziříčí</h2>
         </div>
+        <div class="candidate-card__affiliation">
+          <div>30 let</div>
+          <div>
+            <div class="avatar w-6 mr-2">
+              <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+            </div>
 
+            <a href="#" class="font-bold font-condensed">Pirátská strana</a>
+          </div>
+        </div>
+        <div class="card__body candidate-card__social">
+          <p class="font-light text-sm leading-snug italic mb-4 hidden md:block">Evropská unie není vzdálená instituce žijící svým životem – jsme to my všichni. Přesto máme někdy problém se orientovat či přímo angažovat v evropské politice.</p>
+          <div class="social-icon-group space-x-2 ">
+            <a href="#" class="social-icon "><i class="ico--twitter"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--feed"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--youtube"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--instagram"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--flickr"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--envelope"></i></a>
+
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </div>
 
-
-
-<div class="candidate-card container-padding--zero sm:container-padding--auto ">
-  <div class="candidate-card__wrapper ">
-    <div class="card candidate-card__body elevation-0 hover:elevation-10 transition duration-200">
-      <div class="candidate-card__avatar">
-        <div class="candidate-card__position">Praha 8</div>
-        <a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">
-          <div class="avatar avatar--sm sm:avatar--lg">
-            <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
-          </div>
-        </a>
-      </div>
-      <div class="candidate-card__bio">
-        <h1 class="head-heavy-xs"><a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">Lukáš Wagenknecht</a></h1>
-        <a href="#" class="candidate-card__bio-item block mb-4">someone.from.the.party@pirati.cz</a>
-        <h2 class="candidate-card__bio-item">senátor</h2>
-        <h2 class="head-allcaps-4xs mt-4">Praha 2</h2>
-      </div>
-      <div class="candidate-card__affiliation">
-        <div>30 let</div>
-        <div>
-          <div class="avatar w-6 mr-2">
-            <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
-          </div>
-
-          <a href="#" class="font-bold font-condensed">Pirátská strana</a>
+ <div class="candidate-card-list grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+  <div class="candidate-card container-padding--zero sm:container-padding--auto ">
+    <div class="candidate-card__wrapper candidate-card-list__item-wrapper">
+      <div class="card candidate-card__body elevation-0 hover:elevation-10 transition duration-200">
+        <div class="candidate-card__avatar">
+          <div class="candidate-card__position">1</div>
+          <a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">
+            <div class="avatar avatar--sm sm:avatar--lg">
+              <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+            </div>
+          </a>
         </div>
-      </div>
-      <div class="card__body candidate-card__social">
-        <p class="font-light text-sm leading-snug italic mb-4 hidden md:block">Evropská unie není vzdálená instituce žijící svým životem – jsme to my všichni. Přesto máme někdy problém se orientovat či přímo angažovat v evropské politice.</p>
-        <div class="social-icon-group space-x-2 ">
-          <a href="#" class="social-icon "><i class="ico--twitter"></i></a>
-
-          <a href="#" class="social-icon "><i class="ico--feed"></i></a>
-
-          <a href="#" class="social-icon "><i class="ico--youtube"></i></a>
-
-          <a href="#" class="social-icon "><i class="ico--instagram"></i></a>
-
-          <a href="#" class="social-icon "><i class="ico--flickr"></i></a>
-
-          <a href="#" class="social-icon "><i class="ico--envelope"></i></a>
-
+        
+<div class="candidate-card__bio">
+          <h1 class="head-heavy-xs"><a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">Junius Koolen</a></h1>
+          <a href="#" class="candidate-card__bio-item block mb-4">someone.from.the.party@pirati.cz</a>
+          <h2 class="candidate-card__bio-item">Software company manager and open-source software expert</h2>
+          <h2 class="head-allcaps-4xs mt-4">Valašské Meziříčí</h2>
         </div>
+        <div class="candidate-card__affiliation">
+          <div>30 let</div>
+          <div>
+            <div class="avatar w-6 mr-2">
+              <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+            </div>
 
+            <a href="#" class="font-bold font-condensed">Pirátská strana</a>
+          </div>
+        </div>
+        <div class="card__body candidate-card__social">
+          <p class="font-light text-sm leading-snug italic mb-4 hidden md:block">Evropská unie není vzdálená instituce žijící svým životem – jsme to my všichni. Přesto máme někdy problém se orientovat či přímo angažovat v evropské politice.</p>
+          <div class="social-icon-group space-x-2 ">
+            <a href="#" class="social-icon "><i class="ico--twitter"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--feed"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--youtube"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--instagram"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--flickr"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--envelope"></i></a>
+
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </div>
 
+ <div class="candidate-card-list grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+  <div class="candidate-card container-padding--zero sm:container-padding--auto ">
+    <div class="candidate-card__wrapper candidate-card-list__item-wrapper">
+      <div class="card candidate-card__body elevation-0 hover:elevation-10 transition duration-200">
+        <div class="candidate-card__avatar">
+          <div class="candidate-card__position">1</div>
+          <a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">
+            <div class="avatar avatar--sm sm:avatar--lg">
+              <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+            </div>
+          </a>
+        </div>
+        
+<div class="candidate-card__bio">
+          <h1 class="head-heavy-xs"><a href="#" data-href="&#x2F;patterns&#x2F;03-templates-candidate-detail&#x2F;03-templates-candidate-detail.rendered.html">Junius Koolen</a></h1>
+          <a href="#" class="candidate-card__bio-item block mb-4">someone.from.the.party@pirati.cz</a>
+          <h2 class="candidate-card__bio-item">Software company manager and open-source software expert</h2>
+          <h2 class="head-allcaps-4xs mt-4">Valašské Meziříčí</h2>
+        </div>
+        <div class="candidate-card__affiliation">
+          <div>30 let</div>
+          <div>
+            <div class="avatar w-6 mr-2">
+              <img src="https:&#x2F;&#x2F;picsum.photos&#x2F;100" alt="Avatar" />
+            </div>
 
+            <a href="#" class="font-bold font-condensed">Pirátská strana</a>
+          </div>
+        </div>
+        <div class="card__body candidate-card__social">
+          <p class="font-light text-sm leading-snug italic mb-4 hidden md:block">Evropská unie není vzdálená instituce žijící svým životem – jsme to my všichni. Přesto máme někdy problém se orientovat či přímo angažovat v evropské politice.</p>
+          <div class="social-icon-group space-x-2 ">
+            <a href="#" class="social-icon "><i class="ico--twitter"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--feed"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--youtube"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--instagram"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--flickr"></i></a>
+
+            <a href="#" class="social-icon "><i class="ico--envelope"></i></a>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+---------------
 Marek Hilšer (Praha 2)
 
 Jiří Drahoš (Praha 4)
