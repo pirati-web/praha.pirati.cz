@@ -13,8 +13,6 @@ profession: konzultantka činností v oblasti leadershipu
 description: místopředsedkyně KS Praha
 teamDescription:
 funkce: 
- - místopředsedkyně KS Praha
- - místopředsedkyně MS Praha 9
  - zastupitelka MČ Praha 9
 mail:
 - kornelia.gottmannova@pirati.cz

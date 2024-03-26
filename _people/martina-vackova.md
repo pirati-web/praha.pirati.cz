@@ -14,8 +14,6 @@ teamDescription:
 partyUid: bezpp
 funkce:
  - kontaktní osoba pro média (ZHMP)
- - tisková mluvčí primátora Zdeňka Hřiba
- - asistentka 1. náměstka primátora <a href="https://praha.pirati.cz/lide/zdenek-hrib.html">Zdeňka Hřiba</a>
 mail:
 - martina.vackova@pirati.cz
 mob: +420 725 926 422

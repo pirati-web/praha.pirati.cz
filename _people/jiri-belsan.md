@@ -11,7 +11,7 @@ img: people/jiri-belsan.jpg
 heroImg: Prague_panorama.jpeg
 contactType: Ředitel kanceláře KS Praha
 description: Ředitel kanceláře KS Praha
-partyUid: pirati
+partyUid: bezpp
 funkce: 
   - ředitel kanceláře KS Praha
 mail: jiri.belsan@pirati.cz
