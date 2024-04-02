@@ -1,0 +1,24 @@
+---
+title: "Začala příprava stavby Energocentra, využívat bude teplo z čistírny odpadních vod"
+author: MHMP
+image: posts/komrskova-zhmp.jpg
+tags: [životní prostředí]
+---
+ 
+Pražští radní schválili přípravu stavby Energocentra, které bude zpracovávat odpadní teplo z Ústřední čistírny odpadních vod Praha na Císařském ostrově. Prvním krokem bude zajištění dokumentace pro územní rozhodnutí. Energocentrum by mohlo v první etapě dodat celkem přibližně 1 660 000 GJ tepla ročně a zásobovat jím více než 41 tisíc domácností. V provozu by mohlo být do roku 2030.
+
+Hlavní město hledá alternativní, čisté zdroje energie. „Energetická bezpečnost a jistota zajištění zdrojů a soběstačnost jsou naší prioritou. Dlouho jsme v Praze nevyužívali potenciálu vody, odpadní vody přitékající na čistírnu mají díky významné spotřebě teplé užitkové vody relativně vysokou teplotu. A tyto vyčištěné odpadní vody mají významný potenciál být zdrojem tepelné energie využitelné především ve vytápění. Jejich využití může významně přispět ke snížení závislosti na zemním plynu a ke snižování uhlíkové stopy teplárenských soustav v hlavním městě Praze. A výmluvné je myslím i množství domácností a Pražanů, které Energocentrum bude zásobovat – ve finále půjde skoro o sto tisíc lidí,“ říká pražský primátor Bohuslav Svoboda.
+
+Prvním krokem schválené investiční akce je zajištění dokumentace pro územní rozhodnutí (DUR), posouzení vlivu na životní prostředí (EIA), včetně související inženýrské činnosti a příprava návrhu žádosti o dotační podporu. Vypracována bude studie proveditelnosti napojení Energocentra na páteřní infrastrukturu zásobování teplem na území Prahy včetně oblasti Bubny-Zátory.
+
+> „Energocentrum považuji za jeden z nejdůležitějších projektů pražského klimatického plánu, protože může velkému množství Pražanů ušetřit potenciální náklady na vytápění svých domácností. Podobná centra fungují s úspěchem už desítky let v Dánsku nebo ve Švédku a není důvod, aby tomu tak nebylo i u nás. Jsem ráda, že se projekt posouvá vpřed,“ říká Jana Komrsková, náměstkyně primátora pro oblast životního prostředí a klimatického plánu.
+
+> „Projekt Energocentra dokáže zajistit teplo pro stávající obyvatele například v oblasti Veleslavína, ale i pro nové obyvatele v plánovaných čtvrtích, jako jsou Bubny-Zátory. Energocentrum využije relativně vysoké teploty odpadních vod, které do Ústřední čistírny odpadních vod na Císařském ostrově přitékají, a jež po vyčištění mají i v chladnějších měsících teplotu kolem 15 °C. Za pomoci soustavy tepelných čerpadel o výkonu až 2 x 90 MW se teplota zvýší až na 110 °C a budeme ji schopni dodávat do systému centrálního zásobování teplem. Pražská vodohospodářská společnost nyní zahájila projektovou přípravu stavby, s předpokládaným zahájením realizace v roce 2028,“ říká Michal Hroza, pražský radní pro oblast infrastruktury.
+
+Předběžnými výpočty bylo stanoveno, že tepelná kapacita jedné vodní linky je schopna zabezpečit teplem oblast Juliska – Veleslavín a kapacita druhé vodní linky připravovanou oblast Bubny – Zátory a případně i blízké navazující oblasti.
+
+V případě úplného vystrojení bude Energocentrum schopno do každé zásobované oblasti dodat přibližně 830 000 GJ tepla ročně, celkem tedy cca 1 660 000 GJ tepla ročně. Takové množství je schopno v každé zásobované oblasti pokrýt teplem přibližně 41 500 domácností se zhruba 100 tisíci obyvatel, celkem tedy pro obě uvažované etapy zásobovaného z tohoto zdroje přibližně 83 000 domácností se zhruba 200 tisíci obyvatel.
+
+> „Projekt energocentra je unikátním řešením využití potenciálu zbytkového tepla, které máme akumulováno v odpadních vodách čistírenské infrastruktury. Jde tak o využití tepla, které se v současné chvíli jinak dále nevyužívá a zároveň bude mít Praha svůj vlastní velký ekologický zdroj tepla. V danou chvíli je Praha totiž primárně zásobena uhelnou teplárnou z Mělníku. Zapadá tak do celkové strategie teplárenství, kterou hlavní město Praha v současné chvíli zpracovává. S ohledem na evropské trendy na zachování a rozšiřování centrálních zásobovacích soustav teplem a jejich nutnou ekologizaci, jde tak jednoznačně o krok správným směrem, i s ohledem na nově schválené předpisy v oblasti požadavků na nízkoemisní budovy a jejich nutnost být připojen na nízkoemisní teplo. Díky možnosti využití tohoto odpadního tepla a jeho připojením do centrální zásobovací soustavy tak budou moci nové budovy snadno plnit legislativní požadavky,“ říká Jan Chabr, předseda Výboru pro energetiku Zastupitelstva hl. m. Prahy.
+
+Předpokládá se, že Energocentrum přispěje k významné úspoře zemního plynu (až o 14,6 milionu m3/rok, resp. 29,2 milionu m3/rok) a odpovídajícímu snížení uhlíkové stopy z vytápění.  Využití nízkopotenciálního odpadního tepla z ÚČOV je také jedním z prioritních opatření uvedených v Klimatickém plánu hlavního města Prahy do roku 2030.
