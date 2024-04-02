@@ -2,10 +2,10 @@
 title: "Začala příprava stavby Energocentra, využívat bude teplo z čistírny odpadních vod"
 author: MHMP
 image: posts/komrskova-zhmp.jpg
-tags: [životní prostředí]
+tags: [Bubny-Zátory, Energocentrum, Životní prostředí]
 ---
  
-Pražští radní schválili přípravu stavby Energocentra, které bude zpracovávat odpadní teplo z Ústřední čistírny odpadních vod Praha na Císařském ostrově. Prvním krokem bude zajištění dokumentace pro územní rozhodnutí. Energocentrum by mohlo v první etapě dodat celkem přibližně 1 660 000 GJ tepla ročně a zásobovat jím více než 41 tisíc domácností. V provozu by mohlo být do roku 2030.
+**Pražští radní schválili přípravu stavby Energocentra, které bude zpracovávat odpadní teplo z Ústřední čistírny odpadních vod Praha na Císařském ostrově. Prvním krokem bude zajištění dokumentace pro územní rozhodnutí. Energocentrum by mohlo v první etapě dodat celkem přibližně 1 660 000 GJ tepla ročně a zásobovat jím více než 41 tisíc domácností. V provozu by mohlo být do roku 2030.**
 
 Hlavní město hledá alternativní, čisté zdroje energie. „Energetická bezpečnost a jistota zajištění zdrojů a soběstačnost jsou naší prioritou. Dlouho jsme v Praze nevyužívali potenciálu vody, odpadní vody přitékající na čistírnu mají díky významné spotřebě teplé užitkové vody relativně vysokou teplotu. A tyto vyčištěné odpadní vody mají významný potenciál být zdrojem tepelné energie využitelné především ve vytápění. Jejich využití může významně přispět ke snížení závislosti na zemním plynu a ke snižování uhlíkové stopy teplárenských soustav v hlavním městě Praze. A výmluvné je myslím i množství domácností a Pražanů, které Energocentrum bude zásobovat – ve finále půjde skoro o sto tisíc lidí,“ říká pražský primátor Bohuslav Svoboda.
 
