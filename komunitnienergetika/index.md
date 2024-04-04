@@ -15,16 +15,6 @@ Lidi ale složitá byrokracie od prvního kroku k přechodu na tuto přirozenou 
 
 Zkušenosti pro začínající solárníky bude pravidelně předávat kandidátka do Senátu [Eva Tylová](https://praha.pirati.cz/lide/eva-tylova.html), ale i stávající senátoři [Lukáš Wagenknecht](https://praha.pirati.cz/lide/lukas-wagenknecht.html) a [Marek Hilšer](https://www.marekhilser.cz/) v doprovodu dalších pirátů a pirátek z Prahy. Kolem fotovoltaiky totiž panují časté předsudky, které úmyslně šíří někteří zástupci energetických firem. Např. že v zimě si kafe elektřinou ze solárů neuvaříte. To samozřejmě není pravda, protože většina sestav fotovoltaických elektráren obsahuje i baterii.  Na seminářích ci konzultacích se dozvíte mimo jiné, že díky solární energii si i v zimě uvaříte kafe klidně dvě a k tomu i polévku a hlavní chod.
 
-### Termíny - kdy kiosek bude na vaší městské části
-- termín 1
-- termín 2
-- termín 3
-
-### Termíny - semináře v Pirátském centru a konzultační hodiny
-- termín 1
-- termín 2
-- termín 3
-
 <div class="inline-flex flex-col sm:flex-row space-y-8 sm:space-y-0 sm:space-x-8">
   <div class="inline-flex flex-col space-y-2">
     <span class="alert alert--black">
