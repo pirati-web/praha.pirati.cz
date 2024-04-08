@@ -2,7 +2,7 @@
 title: "Praha pomůže neziskovým organizacím v sociální oblasti výpůjčkou nemovitostí"
 author: MHMP
 image: posts/zabransky-kreslo.jpg
-tags: [Majetek]
+tags: [Majetek, Sociální politika]
 ---
  
 Rada hl. m. Prahy schválila výpůjčku budovy a přilehlého pozemku v Lahovicích organizaci Z Hnízda podporující lidi s mentálním postižením a prodloužila výpůjčku domu se zahradou organizaci Helpless, která provozuje chráněné bydlení s asistencí pro lidi s mentálním postižením.

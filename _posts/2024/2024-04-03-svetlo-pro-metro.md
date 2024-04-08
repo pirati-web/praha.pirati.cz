@@ -2,7 +2,7 @@
 title: "Stanici metra Florenc ozdobí světelné dílo Synapse v rámci projektu Světlo pro metro"
 author: MHMP
 image: posts/8hrib.jpg
-tags: [Doprava]
+tags: [Doprava, Umění ve veřejném prostoru]
 ---
  
 Radní hl. m. Prahy schválili realizaci světelného díla Synapse, jehož autorem je Jan Poš. Umístěno bude ve vestibulu stanice metra Florenc v pasáži propojující severní a jižní vestibul metra na lince C. Celkově by měly práce a dílo stát přibližně 18 milionů korun a lidé by jej na místě mohli vidět už v roce 2026. Radní zároveň schválili poskytnutí financí pro Galerii hl. m. Prahy na letošní rok k realizaci botanické zahrady světel veřejného osvětlení z celého světa u Dvoreckého mostu.

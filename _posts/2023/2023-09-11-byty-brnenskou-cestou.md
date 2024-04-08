@@ -2,7 +2,7 @@
 title: "Rozdělování městských bytů v Praze jde “brněnskou cestou”, bude neprůhledné a neověřitelné "
 author: Piráti Praha
 image:  posts/bytyfail.jpg
-tags:   [Bydlení, Sociální oblast]
+tags:   [Bydlení, Sociální politika]
 ---
 
 **Praha, 11. září 2023 – Rada hlavního města v pondělí na svém jednání odhlasovala novou podobu pravidel pro přidělování městských bytů. Tisk byl odhlasován těsnou většinou 7 hlasů. Pirátští radní pro ně ruku nezvedli, protože de facto zavádí netransparentní “brněnský model” přidělování městských bytů u bytů pro seniory a bytů pro mladé rodiny. V průběhu jednání o podobě dokumentu pirátský klub jasně deklaroval, že nepodpoří žádnou podobu pravidel, ve kterých nebude průhledný a ověřitelný systém založený na bodovém systému.**

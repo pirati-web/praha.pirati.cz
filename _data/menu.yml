@@ -32,8 +32,12 @@ main:
         match: /lide/krajske-expertni-tymy/
   - name: Volby 
     submenu:
+      - name: Volby do Evropského parlamentu 2024
+        link: "https://eurovolby.pirati.cz/"
       - name: Komunální volby 2022
         link: /volby/2022-komunalni.html
+      - name: Komunální volby 2022 - Mapa úspěchů
+        link: /mapa/za-prosperitu-prahy.html
       - name: Volby do Sněmovny 2021
         link: "https://www.piratiastarostove.cz/kandidati/kraj/praha/"
       - name: Volby do Evropského parlamentu 2019
@@ -42,8 +46,8 @@ main:
         link: /volby/2018-komunalni.html
       - name: Komunální volby 2014   
         link: /volby/2014-komunalni.html
-  - name: Mapa úspěchů
-    link: /mapa/za-prosperitu-prahy.html
+  - name: Komunitní energetika
+    link: /komunitnienergetika/
   - name: Pirátské centrum
     link: /pice/
   - name: Kontakt
