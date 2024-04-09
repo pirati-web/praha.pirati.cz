@@ -1,7 +1,7 @@
 ---
 title: "Praha vydá nový jízdní řád dopravních investic. Aktualizuje Plán udržitelné mobility"
 author: MHMP
-image: posts/5hrib.jpg
+image: posts/7hrib.jpg
 tags: [Doprava]
 ---
  
