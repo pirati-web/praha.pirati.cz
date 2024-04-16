@@ -30,21 +30,21 @@ asistenti:
   - name: Ing. Bohdana Holá
     position: vedoucí sekretariátu
     mail: bohdana.hola@praha.eu
-    phone: 236 00 3106
+    tel: 236 00 3106
   - name: Mgr. Michal Polák
     position: poradce
     mail: michal.polak@praha.eu
   - name: Marta Schwarzová
     position: sekretářka
     mail: marta.schwarzova@praha.eu
-    phone: 236 00 3388
+    tel: 236 00 3388
   - name: Tatiana Jančaríková
     position: Mediální podpora
     mail: tatiana.jancarikova@praha.eu
   - name: Tereza Koubíková
     position: asistentka
     mail: tereza.koubikova@praha.eu
-    phone: 236 00 3488
+    tel: 236 00 3488
   - name: Michal Novák
     position: poradce
     mail: michal.novak@praha.eu
