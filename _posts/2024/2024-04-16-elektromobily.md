@@ -2,7 +2,7 @@
 title: "Praha podá dvě žádosti o dotace z evropských fondů na vybudování dobíjecích stanic pro elektromobily"
 author: MHMP
 image: posts/hrib03.jpg
-tags: [Majetek]
+tags: [Doprava]
 ---
  
 Hlavní město chce podpořit rozvoj elektromobility prostřednictvím dvou projektových záměrů. V případě úspěchu žádostí lze předpokládat dotace z evropských fondů až do výše 80 % způsobilých nákladů. Projekty by se měly následně uskutečnit v letech 2025–2027.

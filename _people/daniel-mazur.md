@@ -3,14 +3,14 @@ uid: daniel.mazur
 name:     Daniel Mazur  	# běžně používáné jméno
 titles:
   before: RNDr. 
-  after:  Ph.D.
+  after:  PhD.
 category:                 	
   - mhmp-rhmp
   - mhmp
 img: people/daniel-mazur-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-profession: radní pro Smart City, ICT, vědu a výzkum
-description: radní pro Smart City, ICT, vědu a výzkum
+profession: radní pro Smart City, ICT, vědu, výzkum a inovace
+description: radní pro Smart City, ICT, vědu, výzkum a inovace
 partyUid: pirati
 teamDescription:
   mhmp: předseda zastupitelského klubu
@@ -28,14 +28,29 @@ mail:
 mob: +420 602 439 639
 asistenti:
   - name: Ing. Bohdana Holá
-    position: asistentka
+    position: vedoucí sekretariátu
     mail: bohdana.hola@praha.eu
+    phone: 236 00 3106
   - name: Mgr. Michal Polák
     position: poradce
     mail: michal.polak@praha.eu
   - name: Marta Schwarzová
     position: sekretářka
     mail: marta.schwarzova@praha.eu
+    phone: 236 00 3388
+  - name: Tatiana Jančaríková
+    position: Mediální podpora
+    mail: tatiana.jancarikova@praha.eu
+  - name: Tereza Koubíková
+    position: asistentka
+    mail: tereza.koubikova@praha.eu
+    phone: 236 00 3488
+  - name: Michal Novák
+    position: poradce
+    mail: michal.novak@praha.eu
+  - name: Marek Křejpský
+    position: IT expert
+    mail: marek.krejpsky@praha.eu
 profiles:
   github:     https://github.com/daniel-mazur
   facebook:   https://www.facebook.com/daniel.mazur.5268
