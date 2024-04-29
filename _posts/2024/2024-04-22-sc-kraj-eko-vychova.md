@@ -2,7 +2,7 @@
 title: "Praha ve spolupráci se Středočeským krajem spouští hru pro návštěvníky středisek ekologické výchovy"
 author: MHMP
 image: posts/komrskova-zhmp.jpg
-tags: [Majetek]
+tags: [Středočeský kraj, Životní prostředí]
 ---
  
 Široká veřejnost má nově příležitost zapojit se do Návštěvnické hry a putovat po vybraných ekocentrech v Praze a Středočeském kraji, kde je možné získat jeden ze 6 dílků skládačky, která dohromady tvoří schematickou mapu. Jednotlivé dílky jsou vyrobené z dřevěné bukové překližky a na zadní straně jsou opatřeny magnetem. Pokud účastníci hry navštíví všechna zapojená střediska ekologické výchovy Středočeského kraje a minimálně jedno ekocentrum na území hlavního města, sestaví si celou skládačku, a zároveň se dozví mnoho zajímavých informací o ochraně přírody.

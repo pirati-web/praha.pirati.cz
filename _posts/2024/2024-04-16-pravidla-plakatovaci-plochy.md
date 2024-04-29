@@ -2,7 +2,7 @@
 title: "Praha schválila nová pravidla pro plakátovací plochy, plakátovací sloupy dostanou novou podobu"
 author: MHMP
 image: posts/zabransky-kreslo.jpg
-tags: [Majetek]
+tags: [Majetek, Veřejný prostor]
 ---
  
 Rada hl. m. Prahy v pondělí schválila nová pravidla pro plakátovací plochy na nemovitostech ve vlastnictví hlavního města. Nyní Institut plánování a rozvoje hl. m. Prahy vytipuje vhodná místa na umístění reklamních sloupů a zajistí zpracování jejich designu a odbor majetku pražského magistrátu připraví soutěž na nové provozovatele.

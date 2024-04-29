@@ -2,7 +2,7 @@
 title: "Praha koupí pozemky v Karlíně důležité pro rozvoj okolí Negrelliho viaduktu"
 author: MHMP
 image: posts/zabransky-kreslo.jpg
-tags: [Majetek]
+tags: [Praha 8, Negrelliho viadukt, Majetek]
 ---
  
 Zastupitelé hlavního města Prahy na čtvrtečním zasedání schválili odkup osmi pozemků od Českých drah. Pozemky se nacházejí v katastru Karlína v okolí Negrelliho viaduktu a pod ním. Celková cena všech pozemků činí necelých 11 milionů korun. 

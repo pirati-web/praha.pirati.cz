@@ -2,7 +2,7 @@
 title: "Praha rozdělí téměř 24 milionů na projekty městských částí, 23 projektů bude směřovat na boj se změnou klimatu"
 author: MHMP
 image: posts/novaradnice7.jpg
-tags: [Městské části]
+tags: [Pražský klimatický závazek]
 ---
  
 Zastupitelstvo hl. m. Prahy na čtvrtečním jednání schválilo poskytnutí 23 dotací městským částem na projekty týkající se boje se změnou klimatu, a to v celkové výši 23,87 milionu korun. Radnice jednotlivé záměry uskuteční jako součást Klimatického plánu, který Praha schválila. Plán zahrnuje projekty na výsadbu stromů a keřů, revitalizace ploch, cest, mobiliáře a zeleně a také projekty na zadržování vody a hospodaření s dešťovou vodou.

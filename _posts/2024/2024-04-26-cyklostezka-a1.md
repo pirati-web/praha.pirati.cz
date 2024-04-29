@@ -2,7 +2,7 @@
 title: "Praha zprovoznila další část cyklostezky A1 mezi Stromovkou a ulicí Varhulíkové"
 author: MHMP
 image: posts/hrib05.jpg
-tags: [Doprava]
+tags: [Cyklodoprava, Doprava]
 ---
  
 Hlavní město prostřednictvím Technické správy komunikací hl. m. Prahy (TSK) otevřelo novou část páteřní cyklotrasy A1 od mostu Barikádníků po ulici Varhulíkové v Holešovicích. Vznikla podél levého břehu Vltavy společně s částí nového parku U Vody, který revitalizuje městská část Praha 7 a jehož součástí je i venkovní posilovna a mobiliář.  Zvýšena byla také bezpečnost provozu v navazující části ulice Varhulíkové metodami taktického urbanismu.

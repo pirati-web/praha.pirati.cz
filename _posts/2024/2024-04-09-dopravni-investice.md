@@ -2,7 +2,7 @@
 title: "Praha vydá nový jízdní řád dopravních investic. Aktualizuje Plán udržitelné mobility"
 author: MHMP
 image: posts/7hrib.jpg
-tags: [Doprava]
+tags: [Doprava, Plán udržitelné mobility]
 ---
  
 Na veřejném projednání byl představen návrh Plánu udržitelné mobility Prahy a okolí (P+) do roku 2026. Ten stanoví nový jízdní řád dopravních investic hlavního města Prahy. Hlavními cíli aktualizace Plánu je stanovení priorit jednotlivých projektů dopravní infrastruktury a s tím spojené efektivní vynakládání energie na přípravu opatření, která se budou realizovat. Plán pracuje s aktuálně dostupnými finančními prostředky města, které jsou nyní k dispozici v důsledku financování stavby metra D bez jakéhokoliv příspěvku státu. Prioritou aktualizovaného Plánu udržitelné mobility je také úspěšně usilovat o získávání financí z jednotlivých dotačních titulů Evropské unie do roku 2030.

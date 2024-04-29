@@ -2,7 +2,7 @@
 title: "Reakce radního Adama Zábranského na údajné vynášení citlivých informací v soudním sporu"
 author: Adam Zábranský
 image: posts/adam-zabransky-8.jpg
-tags: [Majetek]
+tags: [Piráti, Majetek]
 ---
  
 Ředitel odboru majetku poslal vedení Magistrátu dopis, který následně buď on, nebo někdo jiný z úřadu poskytl médiím (nebo jim minimálně sděloval detaily o jeho obsahu), a ve kterém obviňuje mého asistenta z vyzrazování strategických informací protistraně soudního sporu. Já jsem dopis neviděl, ač jsem si ho vyžádal – v tuto chvíli mi ho úřad odmítá poskytnout s argumentem, že se ředitel odboru označil za whistleblowera, a proto budou tuto věc šetřit tak, aby nedocházelo k úniku informací. Považuji to za absurdní vzhledem k tomu, že obsah dopisu se už šíří médii, kde je očerňováno dobré jméno Pirátů, mojí osoby i osoby mého poradce. My ale dosud nevíme, v čem konkrétně obvinění spočívá.

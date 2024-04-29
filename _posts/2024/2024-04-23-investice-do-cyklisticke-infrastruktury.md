@@ -2,7 +2,7 @@
 title: "Praha pokračuje i letos v investicích do cyklistické infrastruktury"
 author: MHMP
 image: posts/cyklostezka.jpg
-tags: [Doprava]
+tags: [Cyklodoprava, Doprava]
 ---
  
 V rámci rozvoje infrastruktury pro cyklisty připravuje hlavní město aktuálně řadu projektů. Prostřednictvím Technické správy komunikací investuje Praha v roce 2024 do této oblasti celkem 137 milionů korun, další akce pak realizují městské části z přidělených dotací. Jako první byla v letošním roce zprovozněna nová část nadřazené cyklotrasy A1 v Holešovicích.

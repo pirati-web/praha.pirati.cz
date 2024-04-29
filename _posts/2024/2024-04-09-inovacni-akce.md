@@ -2,7 +2,7 @@
 title: "Nový dotační program podpoří inovační akce částkou pět milionů korun z rozpočtu Prahy"
 author: MHMP
 image: posts/mazur5.jpg
-tags: [Inovace]
+tags: [Inovace, Pražský inovační institut]
 ---
  
 Rada hl. m. Prahy v pondělí schválila Program na podporu akcí v oblasti inovací v hlavním městě pro rok 2024. Program spouští město s cílem poskytovat podporu inovačním akcím systematicky a předvídatelně. K financování akcí z tohoto programu Praha pro rok 2024 vyčlenila 5 milionů korun.
