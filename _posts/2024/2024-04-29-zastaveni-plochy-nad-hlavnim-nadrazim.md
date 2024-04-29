@@ -1,7 +1,7 @@
 ---
 title: "Magistrátní klub Pirátů projevil zdrženlivost při projednávání využití plochy nad kolejištěm Hlavním nádraží"
 author: Piráti
-image: posts/hlavni-nadrazi-zastaveni.jpg
+image: posts/hlavni-nadrazi-zastaveni2.jpg
 tags: [Hlavní nádraží, Piráti, Praha 2]
 ---
  
