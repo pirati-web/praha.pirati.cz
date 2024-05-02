@@ -1,7 +1,7 @@
 ---
 title: "Hlavní město a Středočeský kraj chystají velkou soutěž na železniční dopravce. Na území metropole i kraje by měli zajišťovat dopravu po dobu 15 a 30 let"
 author: MHMP
-image: posts/hrib03.jpg
+image: posts/ce.jpg
 tags: [Doprava]
 ---
  
