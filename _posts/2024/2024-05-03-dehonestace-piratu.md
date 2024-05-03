@@ -2,7 +2,7 @@
 title: "Piráti požadují objasnění absurdního úniku tajného dokumentu se lživým obviněním "
 author: Piráti Praha
 image: posts/adam-zizkov.jpg
-tags: [Doprava]
+tags: [Kauzy]
 ---
  
 Praha, 30. dubna 2024 – Pražští Piráti žádají ředitele magistrátu Martina Kubelku o vysvětlení úniku dokumentu, který je označen za tajný. Tento pamflet lživě obviňuje poradce radního Adama Zábranského Petra Beneše z údajného vyzrazení tajných informací v souvislosti se soudním sporem mezi Prahou a společností Vinci. Pirátům tento dokument na rozdíl od médií nebyl poskytnut, nejsou tudíž seznámeni s jeho obsahem a nemohou se vůči nepravdivým nařčením bránit.
