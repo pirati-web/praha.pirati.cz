@@ -1,5 +1,5 @@
 ---
-title: "Piráti požadují objasnění absurdního úniku tajného dokumentu se lživým obviněním "
+title: "Piráti chtějí vědět, kdo médiím poskytl tajný dokument se lživým obviněním"
 author: Piráti Praha
 image: posts/adam-zizkov.jpg
 tags: [Kauzy]
