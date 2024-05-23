@@ -2,7 +2,7 @@
 title: "Praha podepíše memorandum o spolupráci v oblasti nakládání s bioodpadem v metropoli"
 author: MHMP
 image: posts/jana-komrskova.jpg
-tags: [Životní prostředí]
+tags: [Pražské služby, Životní prostředí]
 ---
 
 Rada hl. m. Prahy na svém pondělním jednání schválila uzavření Memoranda o spolupráci v oblasti nakládání s biologicky rozložitelnými odpady v hl. m. Praze, které hlavní město podepíše se společnostmi Pražské služby, a.s., Pražská vodohospodářská společnost, a.s. a Pražské vodovody a kanalizace, a.s. Smyslem dokumentu je stanovit podmínky vzájemné spolupráce při vytvoření projektu komplexního systému sběrů a zpracování biologicky rozložitelných odpadů produkovaných na území Prahy.

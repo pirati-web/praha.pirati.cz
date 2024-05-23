@@ -2,7 +2,7 @@
 title: "S pomocí nových pravidel už bude zjevné, za jakých podmínek je možné provozovat restaurační zahrádku"
 author: MHMP
 image: posts/zabransky-predzahradky.jpg
-tags: [Majetek]
+tags: [Majetek, Veřejný prostor]
 ---
  
 Pražští radní schválili nová pravidla, která zprůhlední rozhodování o tom, jaké provozovny mohou získat smlouvu na pronájem veřejného prostranství v hlavním městě za účelem provozování restaurační zahrádky.

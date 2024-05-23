@@ -2,10 +2,10 @@
 title: "Zdeněk Hřib: Požadavek SPOLU a STAN na super-posudek je obstrukce, která může poškodit město. Právní posouzení k vystoupení z projektu Nové Holešovice bylo na žádost SPOLU předloženo už v dubnu"
 author: Piráti Praha
 image: posts/7hrib.jpg
-tags: [Doprava]
+tags: [Nové Holešovice, Územní rozvoj]
 ---
  
-Vyjádření náměstka pro dopravu Zdeňka Hřiba na tiskovou zprávu SPOLU a STAN ohledně tzv. "superposudku "na Nové Holešovice.
+**Vyjádření náměstka pro dopravu Zdeňka Hřiba na tiskovou zprávu SPOLU a STAN ohledně tzv. "superposudku "na Nové Holešovice.**
  
 1. V pondělí 20.5. je poslední květnové jednání rady a zároveň to je poslední příležitost, kdy je možné o exitu ze společného podniku rozhodnout bez následků.
 

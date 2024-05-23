@@ -2,7 +2,7 @@
 title: "Praha obdaruje dlouholeté dárce krve ročním kuponem na MHD zdarma"
 author: Piráti Praha
 image: posts/0hrib.jpg
-tags: [Doprava]
+tags: [Doprava, Sociální politika]
 ---
  
 Hlavní město obdaruje dárce krve ročním kuponem na městskou hromadnou dopravu zdarma. Jednat se bude v letošním roce o celkem 372 dárců, kteří dosáhli na 80, 120, 160 nebo 250 odběrů krve. Celkem metropole vyčlení na dary 1 357 800 Kč. Praha tím chce nejen podpořit tyto dárce, ale také motivovat ostatní, aby v darování krve pokračovali a pomáhali tak lidem, kteří to potřebují.

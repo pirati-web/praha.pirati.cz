@@ -2,7 +2,7 @@
 title: "Piráti chtějí vědět, kdo médiím poskytl tajný dokument se lživým obviněním"
 author: Piráti Praha
 image: posts/adam-zizkov.jpg
-tags: [Kauzy]
+tags: [Piráti]
 ---
  
 Praha, 30. dubna 2024 – Pražští Piráti chtějí vědět, kdo médiím poskytl dokument, který je označen za tajný. Tento pamflet lživě obviňuje poradce radního Adama Zábranského Petra Beneše z údajného vyzrazení tajných informací v souvislosti se soudním sporem mezi Prahou a společností Vinci. Pirátům tento dokument na rozdíl od médií nebyl poskytnut, nejsou tudíž seznámeni s jeho obsahem a nemohou se vůči nepravdivým nařčením bránit.

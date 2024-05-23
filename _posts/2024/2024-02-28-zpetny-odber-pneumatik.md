@@ -2,7 +2,7 @@
 title: "Zavedení zpětného odběru pneumatik ve sběrných dvorech má úspěch"
 author: MHMP
 image: posts/jana-komrskova.jpg
-tags: [životní prostředí]
+tags: [Životní prostředí]
 ---
  
 V uplynulém roce byl na všech sběrných dvorech hlavního města zaveden zpětný odběr pneumatik. Pro občany to v praxi znamená, že za jejich odložení již nemusí platit. Tato možnost se setkala s velkým úspěchem a zájmem Pražanů, množství odevzdaných pneumatik vzrostlo z 257 tun na 549 tun.

@@ -2,7 +2,7 @@
 title: "Koaliční partneři ze SPOLU a STAN opět nepodpořili na mimořádném jednání Rady vystoupení z projektu Nové Holešovice. Jednalo se o poslední možnost bez rizika následků"
 author: MHMP
 image: posts/novaradnice7.jpg
-tags: [Územní plánování]
+tags: [Nové Holešovice, Územní rozvoj]
 ---
  
 Praha, 22. května 2024 – Radní za pirátskou stranu dnes hlasovali pro definitivní ukončení kontroverzního projektu Nové Holešovice a chtěli tak udělat definitivní tečku za kauzou Dozimetr. Koaliční partneři z koalice SPOLU a hnutí STAN ovšem své hlasy nepřipojili, kromě Jiřího Pospíšila z TOP09. Exit ze společného podniku tak nebyl odsouhlasen o jeden hlas.

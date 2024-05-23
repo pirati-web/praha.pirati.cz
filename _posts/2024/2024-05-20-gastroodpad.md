@@ -2,7 +2,7 @@
 title: "Projekt svozu gastroodpadu se rozšiřuje o další školy a nově i o domovy seniorů"
 author: MHMP
 image: posts/komrskova-zhmp2.jpg
-tags: [Životní prostředí]
+tags: [Pražské služby, Životní prostředí]
 ---
  
 Služba svozu gastroodpadu z provozů zřizovaných hlavním městem a městskými částmi se rozšíří o další subjekty. Pražští radní schválili dodatek smlouvy, která tuto službu zajišťuje. Díky němu bude společnost Pražské služby a.s. svážet gastroodpad z dalších 20 školních jídelen a nově také z osmi domovů seniorů.

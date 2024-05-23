@@ -2,7 +2,7 @@
 title: "Praha schválila nová pravidla pro regulaci venkovní reklamy podle dohody s Úřadem pro ochranu hospodářské soutěže"
 author: MHMP
 image: posts/novaradnice7.jpg
-tags: [Majetek]
+tags: [Majetek, Veřejný prostor]
 ---
  
 Rada hl. m. Prahy v pondělí schválila novelu nařízení o regulaci venkovní reklamy, která odpovídá požadavkům Úřadu pro ochranu hospodářské soutěže. Výsledkem bude větší harmonizace podmínek umisťování plachet a reklamních billboardů na stěnách budov.
