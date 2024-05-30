@@ -1,7 +1,7 @@
 ---
 title: "Piráti vyzývají hnutí STAN a jejich lídryni do eurovoleb Danuši Nerudovou k distancování se od projektu Nové Holešovice spojeného s kauzou Dozimetr a možnými úplatky"
 author: Piráti
-image: posts/nove-holesovice-pirati.jpg
+image: posts/noveholesovice.jpg
 tags: [Nové Holešovice, Piráti, STAN, Kauza Dozimetr]
 ---
  
