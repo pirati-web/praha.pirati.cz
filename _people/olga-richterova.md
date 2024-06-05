@@ -24,13 +24,14 @@ profiles:
   facebook:  https://www.facebook.com/olga.piratka.richterova
   twitter: 	 https://twitter.com/olgarichterova
   instagram: https://www.instagram.com/olga_piratka_richterova
-  wikipedia: https://cs.wikipedia.org/wiki/Olga_Richterov%C3%A1
   flickr:    https://www.flickr.com/search/?text=Olga%20Richterov%C3%A1
+  web: https://olgarichterova.cz/
+  linkedin: https://www.linkedin.com/in/olga-richterova/
 asistenti:
-  - name: Nela Melicharová
+  - name: Patricie Sokolová
     position: asistentka
     mob: +420 778 111 472
-  - name: Soňa Pohanková
+  - name: Katarína Ryšavá
     position: asistentka
     mob: +420 778 111 457
 calendar: gn1i05sfapugq65d6l5jcav8b4@group.calendar.google.com
