@@ -16,7 +16,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha1.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha1.png" alt="Přípravný tým Praha 18" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://letnany.pirati.cz" target="_blank">Přípravný tým Praha 1</a></h1> 
-<p class="card-body-text">Nikol Švecová<br /><a href="mailto:nikol.svecova@pirati.cz">nikol.svecova@pirati.cz</a></p>
+<p class="card-body-text">Jana Raiterová<br /><a href="mailto:jana.raiterova@pirati.cz">jana.raiterova@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/PiratiP1" class="social-icon "><i class="ico--facebook"></i></a>
@@ -45,7 +45,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha3.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha3.png" alt="MS Praha 3" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha3.pirati.cz" target="_blank">MS Praha 3</a></h1> 
-<p class="card-body-text">Simona Mikušová<br /><a href="mailto:simona.mikusova@pirati.cz">simona.mikusova@pirati.cz</a></p>
+<p class="card-body-text">Jakub Michálek<br /><a href="mailto:jakub.michalek@pirati.cz">jakub.michalek@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://fb.com/piratipraha3" class="social-icon "><i class="ico--facebook"></i></a>
@@ -75,7 +75,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha5.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha5.png" alt="MS Praha 5" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha5.pirati.cz" target="_blank">MS Praha 5</a></h1> 
-<p class="card-body-text">Linda Neubergová<br /><a href="mailto:linda.neubergova@pirati.cz">linda.neubergova@pirati.cz</a></p>
+<p class="card-body-text">Filip Karel<br /><a href="mailto:filip.karel@pirati.cz">filip.karel@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://fb.com/PiratiP5" class="social-icon "><i class="ico--facebook"></i></a>
