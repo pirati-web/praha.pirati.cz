@@ -1,7 +1,7 @@
 ---
 title: "Praha chce zapojit umělou inteligenci do projektu Chytrý svoz odpadu, využije pracoviště ČVUT zaměřené na digitální inovace"
 author: MHMP
-image: posts/jana-komrskova-2022.jpg
+image: posts/komrskova-zhmp.jpg
 tags: [Životní prostředí]
 ---
  
