@@ -2,7 +2,7 @@
 title: "Praha chce zapojit umělou inteligenci do projektu Chytrý svoz odpadu, využije pracoviště ČVUT zaměřené na digitální inovace"
 author: MHMP
 image: posts/jana-komrskova-2022.jpg
-tags: [Doprava]
+tags: [Životní prostředí]
 ---
  
 Hlavní město uzavře smlouvu na bezplatné využití specializovaného pracoviště ČVUT Evropského centra pro digitální inovace, kde chce otestovat možnost zapojení umělé inteligence (AI) do projektu „Chytrý svoz odpadu“. Záměrem projektu, na kterém se budou podílet odbor ochrany přírody (OCP) pražského magistrátu a městská společnost Operátor ICT (OICT) je zapojení AI do komplexního nástroje pro monitoring nádob na tříděný odpad.
