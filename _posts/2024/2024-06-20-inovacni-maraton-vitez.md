@@ -1,5 +1,5 @@
 ---
-title: "Pražský primátor na návštěvě Kolovrat ocenil hasiče, jednal o plánovaných projektech a navštívil i seniory"
+title: "Inovační maraton Nakopni Prahu zná své vítěze. První místo získal e-shop na dobré skutky HELP (YOURSELF)"
 author: MHMP
 image: posts/mazur8.jpg
 tags: [Inovace]
