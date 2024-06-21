@@ -1,7 +1,7 @@
 ---
 title: "Projev senátora Marka Hilšera na zasedání Zastupitelstva HMP k návrhu změny územního plánu na pražském Hlavním nádraží"
 author: MHMP
-image: posts/novaradnice4.jpg
+image: posts/marek-hilser.jpg
 tags: [Projevy, Marek Hilšer]
 ---
  
