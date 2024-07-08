@@ -4,7 +4,7 @@ category:     blog
 tags:         [Praha 22]
 layout:       post
 title:        "Eurodotace pro vládnoucí koalici na Praze 22" 
-image:        proprahu22.jpg
+image:        posts/proprahu22.jpg
 author:       Ondřej Kallasch
 ---
 
