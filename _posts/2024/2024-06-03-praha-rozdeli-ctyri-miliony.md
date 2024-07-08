@@ -2,7 +2,7 @@
 title: "Praha rozdělí čtyři miliony korun ze vstupného do zoo na ochranu kriticky ohrožených druhů zvířat"
 author: MHMP
 image: posts/komrskova-zhmp.jpg
-tags: [Zoologická zahrada]
+tags: [ZOO Praha]
 ---
  
 Radní hlavního města Prahy schválili rozdělení dalších 3 994 272 korun na celkem 13 tzv. in situ projektů pražské zoo napomáhajících ochraně ohrožených druhů zvířat. Finance pocházejí z části utrženého vstupného do zoo, na projekty je z ceny prodané vstupenky vyčleněno 8 korun. Díky příspěvku může pokračovat ochrana goril nížinných, koní Převalského, modráska východního a dalších živočichů přímo v místech jejich přirozeného výskytu (in situ).

@@ -2,7 +2,7 @@
 title: "Praha bude lídrem v digitalizaci. Inspirovat chce další města a obce"
 author: MHMP
 image:  posts/konf.jpg
-tags:   [Digitalizace, IT]
+tags:   [Digitalizace, Digitalizujeme Prahu, IT]
 ---
 
 Praha se po vzoru jiných evropských měst připravuje na digitalizaci svých agend. Zároveň chce lépe spolupracovat s městskými částmi v oblasti agend v přenesené a samosprávné působnosti. Konference na téma Digitalizujeme Prahu představila pozitivní přínos digitalizace a nové možnosti, které přináší v každodenním životě.

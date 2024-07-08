@@ -2,7 +2,7 @@
 title: "Eva Tylová vyzývá: Už ani jedno zneužité dítě! Petice žádá zajištění potřebné ochrany dětí před sexuálním zneužíváním a zpřísnění trestů za tyto činy"
 author: MHMP
 image: posts/4piratskecentrum.jpg
-tags: [Děti]
+tags: [Sociální politika, Petice]
 ---
  
 Praha, 27. června 2024 – Tresty za pohlavní zneužití a další sexuální násilí na dětech nejsou adekvátní, nejsou odrazující a stávající legislativa nezajišťuje dostatečnou ochranu dětí před opakováním této násilné trestné činnosti. Statistiky a současná praxe mluví jasně. Změnit se to snaží petice, která požaduje po Ministerstvu spravedlnosti úpravu trestního zákoníku tak, aby zajistila možnost celoživotního zákazu práce s dětmi v případě závažných trestných činů, vyloučení dohody o vině a trestu a alternativních trestů a řadu dalších opatření dle doporučení expertů. Petici iniciovala zastupitelka hl. m. Prahy Eva Tylová společně se senátorkou Hanou Kordovou Marvanovou, dokumentaristkou Olgou Sommerovou a lékařkou Džamilou Stehlíkovou. Výzvu podpořili také odborníci a známé osobnosti. Petici může svým podpisem podpořit každý občan.

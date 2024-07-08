@@ -2,7 +2,7 @@
 title: "Inovační maraton Nakopni Prahu zná své vítěze. První místo získal e-shop na dobré skutky HELP (YOURSELF)"
 author: MHMP
 image: posts/mazur8.jpg
-tags: [Inovace]
+tags: [Inovace, Nakopni Prahu]
 ---
  
 Odborná porota inovačního maratonu Nakopni Prahu 2024 vybrala z deseti finalistů tři nejlepší týmy, které získají finanční a projektovou podporu na realizaci nápadů, jejichž cílem je zlepšit život v Praze. Na prvním místě se umístil projekt HELP (YOURSELF) zaměřující se na zlepšení psychického zdraví a propagaci dobrovolnictví. Druhou příčku obsadil tým Vyrob si! s projektem edukační stavebnice osobní odjezdové tabule využívající data o poloze vozů MHD. Třetím nejlepším týmem se stal tým Opravárna věnující se cirkulární ekonomice a využití použité elektroniky.

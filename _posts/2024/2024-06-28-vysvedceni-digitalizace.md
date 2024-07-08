@@ -2,7 +2,7 @@
 title: "Zástupci pražského magistrátu a městských částí vystavili vysvědčení pokrokům v digitalizaci"
 author: MHMP
 image: posts/novaradnice6.jpg
-tags: [Informatika]
+tags: [IT, Digitalizace, Digitalizujeme Prahu]
 ---
  
 Tento týden se uskutečnil již čtvrtý ročník konference Digitalizujeme Prahu 2023-2026. Záštitu nad akcí převzal radní hl. m. Prahy pro IT, vědu, výzkum a inovace Daniel Mazur. Odborníci na digitalizaci, tajemníci městských částí, zaměstnanci IT odborů, stavebních odborů a další hosté vystavili pomyslné „vysvědčení” jednotlivým celoměstsky významným projektům v oblasti IT za osobní účasti místopředsedy vlády pro digitalizaci a ministra pro místní rozvoj Ivana Bartoše.  Debatovali ale i o financování digitalizace veřejné správy v podmínkách hlavního města Prahy. 

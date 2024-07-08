@@ -2,7 +2,7 @@
 title: "Praha upraví projekt dostavby Radlické radiály, aby byl v souladu se schválenými koncepčními dokumenty"
 author: MHMP
 image: 	posts/radlicka-radiala.jpg
-tags:   [Doprava, Městský okruh, Praha 5]
+tags:   [Doprava, Radlická radiála, Městský okruh, Praha 5]
 ---
 
 **Rada hl. m. Prahy dnes rozhodla o nezbytnosti přepracovat projekt chystaného úseku Radlické radiály Jihozápadní město – Smíchov do podoby, která bude v souladu se schválenými koncepčními a strategickými dokumenty hl. m. Prahy jako jsou Strategický plán, Manuál veřejných prostranství a další. Podobný postup zvolilo hlavní město už při plánování dostavby východní části vnitřního Městského okruhu. Zároveň byly schváleny technické studie, které prověřují možnosti spojení Butovického a Jinonického tunelu a řeší i úpravy v oblasti mimoúrovňové křižovatky Jinonice a v úseku mezi mimoúrovňovými křižovatkami Bucharova a Butovice.**

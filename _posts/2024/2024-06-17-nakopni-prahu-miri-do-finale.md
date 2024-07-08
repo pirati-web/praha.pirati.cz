@@ -2,7 +2,7 @@
 title: "Inovační maraton Nakopni Prahu 2024 míří do finále"
 author: MHMP
 image: posts/mazur9.jpg
-tags: [Inovace]
+tags: [Inovace, Nakopni Prahu]
 ---
  
 Pátý ročník inovačního maratonu Nakopni Prahu se blíží do finále. Odborná porota ve středu 19. června 2024 vybere tři vítězné týmy z celkem desítky finalistů. Tři nejlepší projekty poté získají od české metropole finanční, a především projektovou podporu na rozjezd projektu, který pomocí inovací zlepší život v Praze. 

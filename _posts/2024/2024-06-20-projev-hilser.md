@@ -1,8 +1,8 @@
 ---
 title: "Projev senátora Marka Hilšera na zasedání Zastupitelstva HMP k návrhu změny územního plánu na pražském Hlavním nádraží"
-author: MHMP
+author: Marek Hilšer
 image: posts/marek-hilser.jpg
-tags: [Projevy, Marek Hilšer]
+tags: [Zastupitelstvo, Senát, Volby 2024]
 ---
  
 Vážený pane primátore, vážené zastupitelky, vážení zastupitelé,

@@ -2,7 +2,7 @@
 title: "Kompetenční centra v Praze narovnají vztahy s dodavateli"
 author: MHMP
 image: 	posts/0hrib.jpg
-tags:   [IT]
+tags:   [IT, Digitalizujeme Prahu]
 ---
 
 Kompetenční centra, která budou mít za úkol rozvíjet různé oblasti systémů v hlavním městě, pomohou Magistrátu hl. m. Prahy (MHMP) efektivně využívat získané know-how v oblasti ICT. Centra budou fungovat napříč městem, jejich služeb tak bude moci využívat nejen pražský magistrát, ale i všechny městské části, společnosti a příspěvkové organizace. Jejich fungování přiblížil primátor Zdeněk Hřib v rámci konference Digitalizujeme Prahu.

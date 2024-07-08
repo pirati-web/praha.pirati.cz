@@ -2,7 +2,7 @@
 title: "Praha schválila novou podobu Radlické radiály, z velké části povede pod zemí"
 author: MHMP
 image: posts/novaradnice3.jpg
-tags: [Doprava]
+tags: [Doprava, Radlická radiála, Praha 5]
 ---
  
 Pražští radní v pondělí schválili zásadní proměnu Radlické radiály. Vylepšený návrh svede dopravu z velké části pod zem a výrazně tak ulehčí obyvatelům žijícím v okolí. Úpravy projektu nesníží dopravní funkci stavby a současně nenaruší okolní prostředí vytvořením těžko prostupné bariéry.
