@@ -18,6 +18,6 @@ funkce:
 orddr: 23
 ---
 
-**Tomáš Popela** (* 22. září 1984) je členem dozorčí rady společnosti Želivská provozní, a.s., která patří hlavnímu městu Praze.
+**Tomáš Popela** je členem dozorčí rady společnosti Želivská provozní, a.s., která patří hlavnímu městu Praze.
 
-Vystudoval Vysokou školu chemicko-technologickou v oborech zaměřených na chemii materiálů a materiálové inženýrství. Pracoval na pozicích výzkumný pracovník a posléze technolog. V současné době vede laboratorní sekci v nadnárodní společnosti věnující se analýzám vzorků životního prostředí a odpadů. Má bohatou mezinárodní zkušenost. Je nadšeným vodákem a celoživotním skautem.
+Vystudoval Vysokou školu chemicko-technologickou v oborech zaměřených na chemii materiálů a materiálové inženýrství. Pracoval na pozicích výzkumný pracovník a posléze technolog, pak vedl laboratorní sekci v nadnárodní společnosti věnující se analýzám vzorků životního prostředí a odpadů. Aktuálně pracuje jako projektový manažer v konzultingu. Rád dotahuje věci do konce.
