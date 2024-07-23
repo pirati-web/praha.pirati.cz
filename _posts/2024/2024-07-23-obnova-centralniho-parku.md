@@ -1,7 +1,7 @@
 ---
 title: "Praha dokončí obnovu Centrálního parku na Jižním Městě zahrnující výsadbu stromů i vybudování toalet, altánu, mlhoviště, nového mobiliáře nebo kavárny"
 author: MHMP
-image: posts/jana-komrskova-2022.jpg
+image: posts/komrskova-zhmp2.jpg
 tags: [Životní prostředí]
 ---
  
