@@ -2,7 +2,7 @@
 title: "Praha dokončí obnovu Centrálního parku na Jižním Městě zahrnující výsadbu stromů i vybudování toalet, altánu, mlhoviště, nového mobiliáře nebo kavárny"
 author: MHMP
 image: posts/komrskova-zhmp2.jpg
-tags: [Životní prostředí]
+tags: [Praha 11, Životní prostředí]
 ---
  
 Rada hl. m. Prahy na dnešním jednání rozhodla o výběru dodavatele stavebních prací v rámci veřejné zakázky na dokončení Centrálního parku na Jižním Městě. Nabídková cena je ve výši 74,9 milionu Kč bez DPH. Cílem úprav je prostor dotvořit, doplnit chybějícím zázemím a vytvořit zde plnohodnotný městský park.

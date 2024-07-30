@@ -2,7 +2,7 @@
 title: "Bude digitální mapa stavebních prací. Pomůže koordinaci a minimalizuje dopady výluk na dopravu ve městě"
 author: MHMP
 image: posts/novaradnice3.jpg
-tags: [Dopravaí]
+tags: [Digitalizace, Doprava, IPR]
 ---
  
 Pražští radní přípravou mapové aplikace pověřili Institut plánování a rozvoje (IPR). Ten by měl ve spolupráci s dalšími městskými institucemi zkompletovat dostupné informace o plánovaných opravách a výstavbě, které budou mít vliv na dopravní situaci ve městě. Cílem je vytvořit přehledný digitální nástroj, který v hlavním městě umožní efektivněji plánovat stavební práce a dopravní výluky a minimalizovat jejich dopad na kvalitu dopravy. 
