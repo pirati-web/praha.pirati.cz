@@ -5,7 +5,7 @@ image: posts/novaradnice4.jpg
 tags: [Doprava]
 ---
 
-**Web Neovlivní.cz v pondělí 26. srpna zveřejnil příspěvek o auditu v městské společnosti Operátor ICT. Celý článek k tématu je dostupný pouze předplatitelům časopisu Neovlivní.cz, zveřejněný příspěvek však považujeme za zavádějící, a proto přinášíme vyjádření také Zdeňka Hřiba. Doplňujeme zásadní informace, které v úryvku nezazněly.**
+**Web Neovlivní.cz v pondělí 26. srpna zveřejnil příspěvek o [auditu v městské společnosti Operátor ICT](https://neovlivni.cz/policie-vysetruje-hribuv-operator-ict/). Celý článek k tématu je dostupný pouze předplatitelům časopisu Neovlivní.cz, zveřejněný příspěvek však považujeme za zavádějící, a proto přinášíme vyjádření také Zdeňka Hřiba. Doplňujeme zásadní informace, které v úryvku nezazněly.**
  
 > Jedná se o audit práce úředníků magistrátu v několika volebních obdobích a zásadní auditované smlouvy byly uzavřeny již za vlády ANO v Praze, kdy byla společnost OICT založena. Na drtivé většině z nich je ostatně i za městskou firmu OICT podepsán člen hnutí ANO, který ji mnoho let vedl. Naopak mne ani žádného dalšího radního za Piráty policie ohledně žádných smluv nijak nekontaktovala. 
 
