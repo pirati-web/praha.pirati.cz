@@ -47,3 +47,5 @@ V letech 2002–2003 a 2008–2010 byla ředitelkou České inspekce životního
 V roce 2010 až 2014 působila na Praze 12 jako místostarostka pro ochranu životního prostředí a územní rozvoj. Prosazovala otevřenou a transparentní radnici (např. občané se mohou stát členy komisí rady), zveřejnění nejen smluv, ale i objednávek úřadu atd. Zavedla řadu komunitních a ekologicky zaměřených akcí. Vystupovala proti předimenzovaným developerským projektům. Místostarostkou MČ Praha 12 byla také mezi lety 2018 a 2022.
 
 V roce 2022 byla zvolena na kandidátní listině Pirátů do celopražského zastupitelstva. Od roku 2023 je rovněž členkou dozorčí rady společnosti Pražské služby, a.s. a Pražské vodohospodářské společnosti a.s.
+
+Eva Tylová kandiduje ve volbách v roce  2024 do Senátu v obvodu č. 17 (Praha 12 a okolní městské části).
