@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
   - vybor
   - dr
-img: people/jan-hora-2022.jpg   # 165 x 220
+img: people/jan-hora.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
 description: zastupitel MČ Praha 4
