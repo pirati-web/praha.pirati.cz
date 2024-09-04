@@ -2,7 +2,7 @@
 uid: ondrej.vojta
 name: Ondřej Vojta
 titles:
-  before:  
+  before: Ing.
   after:
 category:
  - pks
