@@ -2,7 +2,7 @@
 title: "Praha pokračuje v přípravě Radlické radiály, vypíše výběrová řízení na pokračování průzkumu a monitoringu a údržbu průzkumné štoly"
 author: MHMP
 image: posts/hrib02.jpg
-tags: [Doprava]
+tags: [Doprava, Radlická radiála, Praha 5]
 ---
 
 Praha je opět o krok blíže stavby Radlického radiály, která povede převážně v podzemí. Pražští radní v pondělí odhlasovali vypsání dvou výběrových řízení na pokračování podrobného inženýrsko-geologického průzkumu a hydrogeologického a geotechnického monitoringu a dále na údržbu průzkumné štoly od roku 2025 do roku 2030. Zásadní proměnu přípravy Radlické radiály, která svede dopravu z velké části pod zem a výrazně tak ulehčí obyvatelům žijícím v okolí, schválili radní letos v červnu.

@@ -2,7 +2,7 @@
 title: "Dvorecký most ozdobí historická lampa z Budapešti. Praze ji maďarská metropole daruje zdarma"
 author: MHMP
 image: posts/dvorecky.jpg
-tags: [Doprava]
+tags: [Dvorecký most, Doprava]
 ---
 
 Radní hl. m. Prahy na pondělním zasedání souhlasili s uzavřením darovací smlouvy mezi Budapeští a Prahou. Ta se týká darování historické lampy ze Széchenyiho řetězového mostu v maďarské metropoli. Lampa bude součástí Dvoreckého mostu, který po jeho dokončení ozdobí několik desítek lamp veřejného osvětlení z celého světa.

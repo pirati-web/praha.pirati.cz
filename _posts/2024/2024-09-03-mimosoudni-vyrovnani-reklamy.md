@@ -2,7 +2,7 @@
 title: "Praha se dohodla na mimosoudním urovnání sporu s reklamními společnostmi, které provozovaly nelegální reklamu na městských pozemcích"
 author: MHMP
 image: posts/adam-zabransky-sal.jpg
-tags: [Majetek]
+tags: [Reklama, Majetek]
 ---
 
 Pražští radní v pondělí schválili mimosoudní urovnání sporu se dvěma reklamními společnostmi, které nelegálně provozovaly reklamu na městských pozemcích.

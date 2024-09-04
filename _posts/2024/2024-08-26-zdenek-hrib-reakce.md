@@ -2,7 +2,7 @@
 title: "Reakce Zdeňka Hřiba na článek na Neovlivni.cz z 26.8. 2024"
 author: Piráti Praha
 image: posts/novaradnice4.jpg
-tags: [Doprava]
+tags: [Operátor ICT, Zdeněk Hřib]
 ---
 
 **Web Neovlivní.cz v pondělí 26. srpna zveřejnil příspěvek o [auditu v městské společnosti Operátor ICT](https://neovlivni.cz/policie-vysetruje-hribuv-operator-ict/). Celý článek k tématu je dostupný pouze předplatitelům časopisu Neovlivní.cz, zveřejněný příspěvek však považujeme za zavádějící, a proto přinášíme vyjádření také Zdeňka Hřiba. Doplňujeme zásadní informace, které v úryvku nezazněly.**
