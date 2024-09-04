@@ -27,7 +27,7 @@ profiles:
   flickr:		  
 ---
 
-*Ondřej Vojta** (*2000) je 1. místopředseda pražských Pirátů a zastupitel MČ Praha-Petrovice. Po studiu filmové a televizní tvorby na SPŠ ST Praha dále vystudoval program ekonomika a management na Vysoké škole ekonomie a managementu (získal titul Ing. v oboru marketing, zaměření reklama a PR). Po zkušené v oblastech marketingu nestátní neziskové organizace a v PR agentuře zakotvil v oblasti komunikace a PR ve veřejném sektoru.
+**Ondřej Vojta** (*2000) je 1. místopředseda pražských Pirátů a zastupitel MČ Praha-Petrovice. Po studiu filmové a televizní tvorby na SPŠ ST Praha dále vystudoval program ekonomika a management na Vysoké škole ekonomie a managementu (získal titul Ing. v oboru marketing, zaměření reklama a PR). Po zkušené v oblastech marketingu nestátní neziskové organizace a v PR agentuře zakotvil v oblasti komunikace a PR ve veřejném sektoru.
 
 Nejvíce času Ondřej věnuje dobrovolnému hasičstvu. Je členem jednotky požární ochrany a dále trenérem a vedoucím družstva mladých hasičů v SDH Dolní Měcholupy. V červnu 2021 byl zvolen do Výkonného výboru Městského sdružení hasičů hl. m. Prahy.
 
