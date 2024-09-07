@@ -1,7 +1,7 @@
 ---
 title: "Piráti zahájili horkou fázi kampaně do Senátu. Nebojte, stojíme za Vámi, oslovovali občany"
-author: MHMP
-image: posts/konicek.jpg
+author: Piráti Praha
+image: posts/sen2024.jpg
 tags: [Senát]
 ---
 
