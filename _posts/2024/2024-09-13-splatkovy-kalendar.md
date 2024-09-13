@@ -1,7 +1,7 @@
 ---
 title: "Pražské zastupitelstvo schválilo splátkový kalendář s významným dlužníkem"
 author: MHMP
-image: posts/adam-zabransky-sal.jpg
+image: posts/novaradnice6.jpg
 tags: [Majetek]
 ---
  Zastupitelstvo hl. m. Prahy schválilo čtyřletý splátkový kalendář se společností Lorinfaj Promotion dlužící za nájem domu na Staroměstském náměstí 27 milionů korun. Město tak v průběhu čtyř let získá dlužnou částku zpět a nebude riskovat soudní proces s nejistým výsledkem. Dohodu musí ještě podepsat druhá strana.
