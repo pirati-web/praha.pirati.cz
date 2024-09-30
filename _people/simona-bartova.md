@@ -14,7 +14,7 @@ partyUid: pirati
 teamDescrioption: 
   pks: místopředsedkyně KS Praha
 mail: simona.bartova@pirati.cz
-mob: +420 603 523 065
+mob: +420 604 266 268
 funkce:
   - místopředsedkyně KS Praha
   - místopředsedkyně MS Praha 3
