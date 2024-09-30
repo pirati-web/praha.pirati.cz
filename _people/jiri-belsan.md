@@ -27,11 +27,6 @@ asistenti:
     position: koordinátor pro Prahu
     mob: +420 770 114 940
     mail: david.rauser@pirati.cz
-  - name: Martin Huňady
-    uid: martin.hunady
-    position: koordinátor pro Prahu
-    mob: +420 770 113 641
-    mail: martin.hunady@pirati.cz
   
 ---
 
