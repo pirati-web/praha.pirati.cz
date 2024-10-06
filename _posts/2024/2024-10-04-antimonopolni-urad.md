@@ -1,7 +1,7 @@
 ---
 title: "Piráti poukázali na nezákonné zadávání zakázek v Praze 10. Antimonopolní úřad potvrdil rekordní pokutu 750 000 korun"
 author: MHMP
-image: posts/delenizakazek.jpg
+image: posts/vinice-praha10.jpg
 tags: [Praha 10, Transparentnost, Piráti]
 ---
 
