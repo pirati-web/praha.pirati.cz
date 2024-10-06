@@ -46,8 +46,6 @@ main:
         link: /volby/2018-komunalni.html
       - name: Komunální volby 2014   
         link: /volby/2014-komunalni.html
-  - name: Komunitní energetika
-    link: /komunitnienergetika/
   - name: Pirátské centrum
     link: /pice/
   - name: Kontakt
