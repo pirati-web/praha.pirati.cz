@@ -2,7 +2,7 @@
 title: "Praha pokračuje v přípravě Hornopočernické spojky, vyhlašuje výběrové řízení na zajištění projektové dokumentace"
 author: MHMP
 image: posts/7hrib.jpg
-tags: [Doprava]
+tags: [Doprava, Hornopočernická spojka]
 ---
 
 Pražští radní na svém pondělním schválili vyhlášení výběrového řízení na projektovou a inženýrskou činnost pro realizaci stavby, která bude plnit funkci východního obchvatu Horních Počernic a umožní napojení na dálnici D11.

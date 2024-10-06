@@ -2,7 +2,7 @@
 title: "Piráti poukázali na nezákonné zadávání zakázek v Praze 10. Antimonopolní úřad potvrdil rekordní pokutu 750 000 korun"
 author: MHMP
 image: posts/delenizakazek.jpg
-tags: [Kauzy]
+tags: [Praha 10, Transparentnost, Piráti]
 ---
 
 Praha, 4. 10. 2024 – Na podezření z obcházení zákona o zadávání veřejných zakázek upozornil opoziční zastupitel MČ Praha 10 Petr Beneš (Piráti) už před více než rokem. Nyní mu Úřad pro ochranu hospodářské soutěže (ÚOHS) dal za pravdu a definitivně potvrdil městské části velmi vysokou pokutu týkající se rekonstrukce budovy Vinice. Místostarostu Tomáše Peka (TOP 09), který má v gesci majetek i akciovou společnost, jenž se na zakázce podílela, nyní Piráti vyzývají k vyvození odpovědnosti a rezignaci.

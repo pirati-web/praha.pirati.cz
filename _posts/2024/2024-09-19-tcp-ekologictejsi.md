@@ -2,7 +2,7 @@
 title: "Městská společnost TRADE CENTRE PRAHA bude po změně stanov transparentnější a ekologičtější"
 author: MHMP
 image: posts/zabransky-kreslo.jpg
-tags: [Majetek]
+tags: [Trade Centre Praha, Městské firmy, Majetek]
 ---
 
 Městská akciová společnost TRADE CENTRE PRAHA (TCP) se stane už druhou městskou společností po Operátorovi ICT, která bude mít veřejnou politiku odměňování. Mezi svými hlavními cíli bude mít i zveřejňování otevřených dat o své činnosti a hospodaření. Jako první městská společnost navíc bude mít povinnost podílet se na snaze snižovat emise skleníkových plynů a její hospodaření bude také transparentnější. Změnu stanov na svém zasedání minulý týden schválilo Zastupitelstvo hl. m. Prahy. 

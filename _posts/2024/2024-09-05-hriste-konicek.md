@@ -2,7 +2,7 @@
 title: "Praha znovu otevřela dětské hřiště Koníček v Královské oboře Stromovka"
 author: MHMP
 image: posts/konicek.jpg
-tags: [Životní prostředí]
+tags: [Praha 7, Stromovka, Životní prostředí]
 ---
 
 Praha se začátkem školního roku opětovně otevřela dětské hřiště Koníček. Dětské hřiště a jeho bezprostřední okolí se v uplynulých měsících dočkaly kompletní obnovy. Od začátku rekonstrukce v dubnu letošního roku byly vyměněny povrchy, opraveny a doplněny byly hrací prvky a byla zde obnovena také zeleň. Celá revitalizace vyšla na téměř 16 milionů korun bez DPH.

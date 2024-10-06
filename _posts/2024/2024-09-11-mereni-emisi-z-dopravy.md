@@ -2,7 +2,7 @@
 title: "Praha se zaměřuje na měření emisí z dopravy. Díky novým přístrojům by se ovzduší mohlo zlepšit"
 author: MHMP
 image: posts/7hrib.jpg
-tags: [Doprava]
+tags: [Doprava, Životní prostředí]
 ---
 
 Praha se dlouhodobě potýká s problémem vysoké koncentrace škodlivých emisí v ovzduší. Ve spolupráci s Centrem služeb pro silniční dopravu (CSPSD) a Policií ČR podniká pravidelné kontroly, jejichž součástí je i měření emisí z dopravy. Problém se snaží řešit i pomocí inovativních technologií. Ve spolupráci s Českými Radiokomunikacemi (CRA) a jejich partnery, jako je například ČVUT, vzniklo komplexní řešení pro detekci vozidel s nadměrnými emisemi pevných částic.

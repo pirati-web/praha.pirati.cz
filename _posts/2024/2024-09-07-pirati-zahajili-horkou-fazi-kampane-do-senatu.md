@@ -2,7 +2,7 @@
 title: "Piráti zahájili horkou fázi kampaně do Senátu. Nebojte, stojíme za Vámi, oslovovali občany"
 author: Piráti Praha
 image: posts/sen2024.jpg
-tags: [Senát]
+tags: [Praha 2, Praha 4, Praha 8, Praha 12, Senát]
 ---
 
 Praha, 6. září 2024 – Pražští Piráti připomněli konání zářijových voleb poněkud netradičně u vstupu do Žižkovského tunelu pod nápisem “Neboj”, a to za účasti předsedy krajského sdružení Ondřeje Chrásta, předsedy poslaneckého klubu Jakuba Michálka a kandidátů a kandidátky do Senátu: Lukáše Wagenknechta, Marka Hilšera a Evy Tylové. Jako hostka vystoupila na tiskové konferenci také advokátka a senátorka Hana Kordová Marvanová, která připomněla význam liberální části zastoupení Senátu a vyjádřila podporu kandidátům, které Piráti v Praze do Senátu nominují, nebo je podporují. Po skončení tiskové konference navázala kontaktní kampaň s občany na hranici sousedských volebních obvodů Praha 8 a Praha 3. 
