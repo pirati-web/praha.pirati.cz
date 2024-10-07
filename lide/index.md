@@ -15,10 +15,4 @@ groups:
   - name: Senátoři a senátorky
     category: senat
     sort: ordsenat
-  - name: Starostové a starostky městských částí
-    category: starostove
-    sort: ordstar
-  - name: Členové vlády České republiky
-    category: vlada 
-    sort: ordvlada
 ---

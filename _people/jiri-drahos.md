@@ -16,7 +16,7 @@ funkce:
   - senátor za vol. obvod 20 - Praha 4
 mail:
   - drahosj@senat.cz
-mob: +
+mob:
 profiles:             
   facebook:  https://www.facebook.com/drahosjiri
   instagram: https://www.instagram.com/jiri.drahos.official
