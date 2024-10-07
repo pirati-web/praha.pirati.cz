@@ -23,7 +23,7 @@ profiles:
   twitter:   https://twitter.com/davidsmoljak
   wikipedia: https://cs.wikipedia.org/wiki/David_Smoljak
   web:       https://www.davidsmoljak.cz/
-ordsenat: 5
+ordsenat: 4
 ---
 
 David Smoljak (8. února 1959 Praha) je senátor za obvod č. 24 – Praha 9  spolunominovaný Pirátskou stranou a český scenárista, dramaturg a publicista. Od roku 2018 je také radní městské části Praha-Vinoř. Je členem hnutí STAN.

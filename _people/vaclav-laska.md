@@ -24,7 +24,7 @@ profiles:
   twitter: 	https://twitter.com/VaclavLaska
   instagram:    https://www.instagram.com/vaclavlaska
   web:          https://vaclavlaska.cz
-ordsenat: 2
+ordsenat: 3
 ---
 
 Václav Láska (4. srpna 1974, Rakovník) je senátor za volební obvod Praha 5, zvolený s podporou Pirátů.

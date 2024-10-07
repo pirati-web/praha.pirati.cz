@@ -9,9 +9,6 @@ groups:
   - name: Členové rady hlavního města Prahy
     category: mhmp-rhmp
     sort: ordrhmp
-  - name: Členové vlády České republiky
-    category: vlada 
-    sort: ordvlada
   - name: Poslanci a poslankyně
     category: poslanci 
     sort: ordpos
@@ -21,4 +18,7 @@ groups:
   - name: Starostové a starostky městských částí
     category: starostove
     sort: ordstar
+  - name: Členové vlády České republiky
+    category: vlada 
+    sort: ordvlada
 ---
