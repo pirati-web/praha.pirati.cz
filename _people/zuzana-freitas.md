@@ -5,7 +5,6 @@ titles:
   before: Mgr.
   after:
 category: 
-  - vlada
   - mhmp
 img: people/zuzana-freitas-2022-3.jpg
 heroImg: Prague_panorama.jpeg

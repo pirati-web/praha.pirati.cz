@@ -6,7 +6,6 @@ titles:
   after: 
 category:
  - pks
- - vlada
 img: people/ondrej-chrast-2022.jpg
 heroImg: Prague_panorama.jpeg
 description: náměstek ministra kultury ČR

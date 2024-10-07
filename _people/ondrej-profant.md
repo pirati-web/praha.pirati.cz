@@ -5,7 +5,6 @@ titles:
   before: 
   after:
 category:
-  - vlada
 img: people/ondrej-profant.jpg
 heroImg: Prague_panorama.jpeg
 profession: náměstek ministra pro legislativu ČR
