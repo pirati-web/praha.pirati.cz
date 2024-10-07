@@ -25,7 +25,6 @@ mail:
 - zuzana.freitas@pirati.cz
 mob: "+420 776 278 860"
 ordmhmp: 7
-ordvlada: 3
 profiles:
   github:       
   facebook: https://www.facebook.com/FreitasLopesova   

@@ -24,7 +24,6 @@ profiles:
   web:       https://www.profant.eu/
   wikipedia: https://cs.wikipedia.org/wiki/Ond%C5%99ej_Profant
   flickr:    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant  
-ordvlada: 4
 ---
 
 Jsem informatik a specialista na svobodný software. Od června do října 2009 jsem byl místopředsedou Pirátů, řadu let jsem vedl pražské krajské sdružení, v letech 2014 až 2017 jsem byl zastupitelem hlavního města Prahy a od roku 2017 do října roku 2022 jsem byl poslancem Poslanecké sněmovny PČR. **Od ledna 2022 jsem náměstkem vicepremiéra a ministra pro místní rozvoj ČR Ivana Bartoše, později pak poradcem. V současné době jsem náměstkem ministra pro legislativu ČR. **

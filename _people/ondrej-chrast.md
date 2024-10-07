@@ -22,7 +22,6 @@ mail:
   - ondrej.chrast@pirati.cz
 mob: +420 606 914 916
 ordpks: 1
-ordvlada: 2
 profiles:         
   facebook:  https://www.facebook.com/ondrejchrast.pirati/
   twitter:   https://twitter.com/chrast_o
