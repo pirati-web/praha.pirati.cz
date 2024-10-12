@@ -85,12 +85,12 @@ tail: # zbytek kandidatky
     city: Praha 22
     partyUid: pirati
 # 14.
-  - uid: ladislav.kos2
+  - name: Ing. Ladislav Kos
     age: 32
     profession: konzultant online marketingu
     partyUid: pirati
 # 15.
-  - uid: martin.arden
+  - name: Martin Arden
     age: 51
     profession: pastorační pracovník
     partyUid: pirati
@@ -110,12 +110,12 @@ tail: # zbytek kandidatky
     profession: programátor a analytik
     partyUid: pirati
 # 19.
-  - name: Jitka Novotná
+  - name: Mgr. Jitka Novotná
     age: 28
     profession: informatička
     partyUid: pirati    
 # 20.
-  - uid: jiri.hoskovec
+  - name: Ing. Jiří Hoskovec
     age: 26
     profession: forenzní specialista na finanční zločin
     partyUid: pirati
@@ -125,7 +125,7 @@ tail: # zbytek kandidatky
     profession: ekonom a ekolog
     partyUid: pirati
 # 22.
-  - uid: david.bodecek
+  - name: Mgr. David Bodeček
     age: 38
     profession: pedagog a procesní analytik
     partyUid: pirati
@@ -160,7 +160,7 @@ tail: # zbytek kandidatky
     profession: programátor
     partyUid: pirati
 # 29.
-  - name: Petr Daubner
+  - name: Mgr. prahaPetr Daubner
     age: 45
     profession: středoškolský učitel
     partyUid: pirati
