@@ -48,6 +48,8 @@ Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se
 
 * **Námi vydávané Pirátské listy** jsou evidovány na webu [piratskelisty.cz](https://www.piratskelisty.cz/clanek-2015-vsechny-verze-kvetnovych-piratskych-listu-ve-formatu-pdf).
 
+* Odebírejte rovněž i [**newsletter Pirátů**](https://lists.pirati.cz/subscription/OoNVntEmWp?locale=cs-CZ)
+
 # Celostátní pirátská infolinka:  
 
 | telefonní číslo            | volací doba      |
