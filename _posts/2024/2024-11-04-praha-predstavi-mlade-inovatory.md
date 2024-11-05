@@ -1,11 +1,11 @@
 ---
-title: "Praha na světovém veletrhu Smart City Expo Wolf Congress v Barceloně představí mladé inovátory"
+title: "Praha na světovém veletrhu Smart City Expo World Congress v Barceloně představí mladé inovátory. "
 author: MHMP
 image: posts/mazur9.jpg
 tags: [inovace]
 ---
 
-Hlavní město Praha se společně s Brnem a Plzní zúčastní světového veletrhu chytrých měst Smart City Expo Wordu Congress (SCEWC) ve španělské Barceloně. Třináctý ročník celosvětově nejvýznamnější akce v tomto oboru se koná ve dnech 5. – 7. listopadu 2024. Akce se letos zúčastní na 130 vystavovatelů z celého světa. Česká účast by měla být rekordní, kromě měst se představí třicet českých vystavovatelů z řad start-upů, inovativních firem a univerzit. Hlavní město zde představí například moderní digitalizované přístřešky MHD.
+ Hlavní město Praha se společně s Brnem a Plzní zúčastní světového veletrhu chytrých měst Smart City Expo World Congress (SCEWC) ve španělské Barceloně. Třináctý ročník celosvětově nejvýznamnější akce v tomto oboru se koná ve dnech 5. – 7. listopadu 2024. Akce se letos zúčastní na 130 vystavovatelů z celého světa. Česká účast by měla být rekordní, kromě měst se představí třicet českých vystavovatelů z řad start-upů, inovativních firem a univerzit. Hlavní město zde představí například moderní digitalizované přístřešky MHD.
 
 Unikátní národní expozici organizuje Ministerstvo průmyslu a obchodu ČR (MPO) a jeho agentura CzechTrade. Praha se světově uznávaného veletrhu účastní již od roku 2022.
 
