@@ -15,7 +15,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <article class="card card--hoveractive">
 <a href="https://praha1.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha1.png" alt="MS Praha 18" /></a>
 <div class="card__body p-4">
-<h1 class="card-headline mb-2"><a href="http://letnany.pirati.cz" target="_blank">MS Praha 1</a></h1> 
+<h1 class="card-headline mb-2"><a href="http://praha1.pirati.cz" target="_blank">MS Praha 1</a></h1> 
 <p class="card-body-text">Jana Raiterová<br /><a href="mailto:jana.raiterova@pirati.cz">jana.raiterova@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
