@@ -18,6 +18,7 @@ teamDescription:
   mhmp: zastupitel hl. města Prahy
   dr: Dopravní podnik hl. města Prahy, a.s. 
 funkce: 
+  - předseda České pirátské strany
   - 1. náměstek primátora hl. města pro dopravu
   - zastupitel hlavního města Prahy
   - předseda dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
@@ -62,7 +63,7 @@ ordmhmp: 4
 orddr: 1
 
 ---
-**Zdeněk Hřib** (\* 1981) 1. náměstek primátora hl. města pro dopravu. Narodil se ve Slavičíně a vyrůstal ve Zlíně. V letech 1999 až 2006 vystudoval obor všeobecné lékařství na 3. lékařské fakultě Univerzity Karlovy v Praze (získal titul MUDr., specializace nemoci z ozáření). Během studií absolvoval v roce 2005 stáž na Tchaj-wanu. V Praze žije od roku 1999. Je ženatý a má 3 děti.
+**Zdeněk Hřib** (\* 1981) je předsedou České pirátské strany a 1. náměstek primátora hl. města pro dopravu. Narodil se ve Slavičíně a vyrůstal ve Zlíně. V letech 1999 až 2006 vystudoval obor všeobecné lékařství na 3. lékařské fakultě Univerzity Karlovy v Praze (získal titul MUDr., specializace nemoci z ozáření). Během studií absolvoval v roce 2005 stáž na Tchaj-wanu. V Praze žije od roku 1999. Je ženatý a má 3 děti.
 
 V roce 2007 pracoval pro akciovou společnost MD Access, kde byl vedoucím projektů MD KEY a MD COMFORT. O rok později působil jako vedoucí sekce informatiky ve Státním ústavu pro kontrolu léčiv a absolvoval stáž National Patient Safety Agency v Londýně. V letech 2008 až 2018 byl dále konzultantem ve společnosti AQUASOFT, která v roce 2016 změnila název na Solitea Business Solutions. V této firmě se podílel na projektu elektronického receptu.
 
@@ -73,6 +74,8 @@ Od října 2013 je registrovaným příznivcem Pirátů. V komunálních volbác
 V roce 2022 byl zvolen členem výboru ZHMP pro zdravotnictví.
 
 V roce 2023 byl v nové koalici zvolen 1. náměstkem primátora zodpovědným za oblast dopravy. Je rovněž předsedou dozorčí rady Dopravního podniku hl. m. Prahy, a.s.
+
+V roce 2024 byl zvolen na předsedu České pirátské strany.
 
 ### Otevřený kalendář
 
