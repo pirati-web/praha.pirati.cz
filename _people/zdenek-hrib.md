@@ -26,7 +26,7 @@ funkce:
   - člen Komise RHMP pro vznik koncertního sálu hl. m. Prahy - Vltavská filharmonie
   - člen Komise RHMP pro klima
 mail:
-- zdenek.hrib@pirati.cz
+- zdenek.hrib@praha.eu
 mob: +420 602 560 028
 asistenti:
   - name: Mgr. Marek Šafra
