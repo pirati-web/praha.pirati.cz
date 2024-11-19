@@ -17,7 +17,7 @@ funkce:
    - členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1600">Podvýboru pro ochranu spotřebitele</a>
 mail:
    - olga.richterova@pirati.cz
-mob: +420 774 153 361
+mob: 
 partyUid: pirati
 profiles:
   github:                 
