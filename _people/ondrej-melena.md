@@ -2,7 +2,7 @@
 uid: ondrej.melena
 name: Ondřej Melena  	# běžně používáné jméno
 titles:
-  before: Ing. 
+  before: Bc. 
   after:
 category:
 - pks
