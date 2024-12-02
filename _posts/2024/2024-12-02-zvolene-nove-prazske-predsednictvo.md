@@ -1,6 +1,6 @@
 ---
 title: "Pražští Piráti mají nové krajské vedení. Ve volebních letech je povede Ondřej Melena"
-author: MHMP
+author: Piráti Praha
 image: posts/novepks.jpg
 tags: [Piráti]
 ---
