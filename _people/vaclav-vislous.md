@@ -14,6 +14,7 @@ teamDescription:
 mail:
   - vaclav.vislous@pirati.cz
 mob: +420 777 954 389
+ordpks: 2
 profiles:
   github:       
   facebook: https://www.facebook.com/vaclavvislous 
@@ -26,7 +27,7 @@ funkce:
   - člen Komise RHMP pro cyklodopravu 	  
 ---
 
-**Václav Vislous** je vystudovaným ekonomem a manažerem a je předsedou Pirátů v Praze 9
+**Václav Vislous** je místopředsedou krajského sdružení Pirátů v Praze a zároveň předsedou Pirátů v Praze 9
 
 Václav Vislous získal bakalářské vzdělání na Institutu ekonomických studií Fakulty sociálních věd Univerzity Karlovy v Praze (IES FSV UK) a navázal na něj magisterským studiem v oboru manažerské a finanční ekonomie na francouzské HEC Paris. Hlavními oblastmi jeho zájmu jsou udržitelná mobilita, moderní energetika a ekonomická konkurenceschopnost.
 
@@ -38,6 +39,9 @@ Od roku 2018 působí jako zastupitel městské části Praha 9, kde je dnes př
 
 Václav dále působí jako zástupce Pirátů ve výboru zastupitelstva hl. m. Prahy pro energetiku, je členem komise Rady hl. m. Prahy pro cyklistiku a vede pražský pirátský expertní tým pro energetiku. Václav se dále zapojuje do odborné práce v rámci pirátských resortních týmů Doprava, Finance a Průmysl a v rámci krajských týmů Doprava a Životní prostředí.
 Václav je dlouhodobým příznivcem a propagátorem principů udržitelné a prostorově efektivní dopravy, elektromobility a moderního urbanismu.
-Od roku 2021 je vlastníkem produktu v projektu CO2IN, jehož cílem je vytvoření důvěryhodného a škálovatelného nástroje pro dobrovolnou kompenzaci uhlíkové stopy (nejen) z dopravy.
+
+Od roku 2021 je vlastníkem produktu v projektu CO2IN, jehož cílem je vytvoření důvěryhodného a škálovatelného nástroje pro dobrovolnou kompenzaci u
+hlíkové stopy (nejen) z dopravy. V roce 2024 byl zvolen za místopředsedu pražského sdružení Pirátů.
+
 Václav mluví kromě češtiny dalšími šesti evropskými jazyky (angličtina, ruština, němčina, italština, španělština a francouzština). Hraje ochotnické divadlo v Divadelním studiu Martiny Výhodové. Hraje na kytaru, příčnou flétnu a didgeridoo.
 

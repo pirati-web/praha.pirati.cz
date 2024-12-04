@@ -24,10 +24,10 @@ profiles:
 ordpks: 3		  
 ---
 
-**Simona Mikušová je od listopadu 2022 místopředsedkyní krajského sdružení a od prosince 2020 je také místopředsedkyní místního sdružení v Praze 3.** 
+**Simona Mikušová** je členkou krajského sdruežní Pirátů v Praze. 
 
 Je absolventkou VŠE Praha oboru Informatika a knihovnictví. Pracovala jako account manager v reklamní agentuře a v roku 2004 se rozhodla úplně změnit obor. Od té doby pracuje jako vizážistka a také lektorka ve škole profesionálního make-upu.
 
-Příznivkyní Pirátů je od roku 2017. Od té doby se aktivně účastnila všech předvolebních kampaní jako dobrovolnice a později koordinátorka. Nyní spolupracuje také na koordinaci činnosti krajských expertních týmů. Nejvíce se zajímá o participaci občanů na věcech veřejných.
+Příznivkyní Pirátů je od roku 2017. Od té doby se aktivně účastnila všech předvolebních kampaní jako dobrovolnice a později koordinátorka. Nyní spolupracuje také na koordinaci činnosti krajských expertních týmů. Nejvíce se zajímá o participaci občanů na věcech veřejných. V roce 2024 byla zvolena do krajského předsednictva.
 
 

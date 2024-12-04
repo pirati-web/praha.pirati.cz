@@ -23,6 +23,7 @@ funkce:
 mail:
 - magdalena.valdmanova@pirati.cz
 mob:
+ordpks: 5
 asistenti:
   - name: Ing. Monika Weinerová
     position: poradkyně
@@ -39,7 +40,7 @@ profiles:
 ordmhmp: 3
 ---
 
-**Magdalena Valdmanová** je předsedkyní výboru ZHMP pro bydlení a bytovou výstavbu. Je rovněž členkou zastupitelstva hlavního města Prahy a místopředsedkyní zastupitelského klubu.
+**Magdalena Valdmanová** je předsedkyní výboru ZHMP pro bydlení a bytovou výstavbu. Je rovněž členkou zastupitelstva hlavního města Prahy a místopředsedkyní zastupitelského klubu. Dále je členkou předsednictva krajského sdružení Pirátů v Praze.
 
 Celý život žije v Praze. Po maturitě v oboru management a podnikání v umění a reklamě nastoupila na mateřskou dovolenou. Poté pracovala v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětských domovů. Právě pro ně pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti získala ve startupu zaměřeném na e-learning, v kanceláři pražského primátora Zdeňka Hřiba, kde pracovala jako jeho poradkyně. Asistentskou pozici později vykonávala u zastupitele Viktora Mahrika, který byl předsedou výboru ZHMP pro správu majetku. V roce 2022 byla zvolena do celopražského zastupitelstva. V roce 2023 byla zvolena předsedkyní výboru ZHMP pro bydlení a bytovou výstavbu. V témže roce byla také zvolena i místopředsedkyní zastupitelského klubu.
 
