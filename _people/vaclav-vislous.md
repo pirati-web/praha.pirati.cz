@@ -6,6 +6,7 @@ titles:
   after: MSc.
 category:
   - vybor
+  - pks
 img: people/vaclav-vislous2.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: předseda MS Praha 9

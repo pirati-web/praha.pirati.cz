@@ -6,6 +6,7 @@ titles:
   after:
 category:
  - mhmp
+ - pks
 img: people/magdalena-valdmanova-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
