@@ -5,7 +5,6 @@ titles:
   before: Mgr. 
   after: 
 category:
- - pks
 img: people/ondrej-chrast-2022.jpg
 heroImg: Prague_panorama.jpeg
 description: náměstek ministra kultury ČR
@@ -21,7 +20,6 @@ funkce:
 mail:
   - ondrej.chrast@pirati.cz
 mob: +420 606 914 916
-ordpks: 1
 profiles:         
   facebook:  https://www.facebook.com/ondrejchrast.pirati/
   twitter:   https://twitter.com/chrast_o
@@ -30,7 +28,7 @@ profiles:
   web:       https://www.chrast.eu  
 ---
 
-**Ondřej Chrást** (* 1980) Pochází z Františkových Lázní. Dlouhodobě žije na Praze 6. Od října 2022 je předsedou pražského Krajského sdružení Pirátů. V současné době (od ledna 2022) působí jako náměstek ministra kultury Martina Baxy. V období 2022-2026 je podruhé zvoleným zastupitelem Prahy 6.
+**Ondřej Chrást** (* 1980) Pochází z Františkových Lázní. Dlouhodobě žije na Praze 6. Od října 2022 do listopadu 2024 byl předsedou pražského Krajského sdružení Pirátů. Působil jako náměstek ministra kultury Martina Baxy. V období 2022-2026 je podruhé zvoleným zastupitelem Prahy 6.
 
 Vystudoval psychosociální studia a teologii na UK a v současné době se pohybuje také na Fakultě podnikohospodářské Vysoké školy ekonomické v Praze, v oboru Ekonomika a management v rámci katedry Arts managementu, kde zúročuje svůj dlouhodobý odborný i osobní zájem o památkovou péči a obecně o udržitelnost, ekonomizaci a propagaci kulturního dědictví.
 
