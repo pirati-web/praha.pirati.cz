@@ -1,7 +1,7 @@
 ---
 title: "Štvanická lávka získala ocenění Víta Brandy za unikátní design i rychlejší a bezpečnější cestování"
 author: MHMP
-image: posts/lavka.jpg
+image: posts/lavka-holka.jpg
 tags: [Doprava]
 ---
 
