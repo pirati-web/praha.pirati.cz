@@ -13,4 +13,4 @@ Piráti se na primátora Svobodu otevřenou výzvou obrátili poté, co v médi�
 
 Informace o výši odměn publikoval veřejnoprávní zpravodajský server iROZHLAS.cz už v pondělí 2. prosince.
 
-* Text otevřeného dopisu [zde](https://mrak.pirati.cz/apps/files/files/4830517?dir=/Assets/praha/img&openfile=true)
+* Text otevřeného dopisu [zde](https://github.com/pirati-web/praha.pirati.cz/blob/master/otevreny-dopis-svoboda.pdf)
