@@ -12,11 +12,11 @@ description: člen předsednictva KS Praha
 profession: specialista komunikace a PR, zastupitel MČ Praha–Petrovice
 partyUid: pirati
 teamDescription:
-  pks: člen předsednictva KS Praha
+  pks: místopředseda KS Praha
 ordpks: 4
 funkce:
   - zastupitel MČ Praha-Petrovice
-  - 1. místopředseda KS Praha
+  - místopředseda KS Praha
 mail:
 - ondrej.vojta@pirati.cz
 mob: +420 736 726 061			 

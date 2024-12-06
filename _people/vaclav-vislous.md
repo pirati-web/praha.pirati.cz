@@ -12,6 +12,7 @@ heroImg: Prague_panorama.jpeg
 description: předseda MS Praha 9
 teamDescription:
   vybor: člen výboru ZHMP pro energetiku 
+  pks: 1. místopředseda KS Praha
 mail:
   - vaclav.vislous@pirati.cz
 mob: +420 777 954 389
@@ -22,6 +23,7 @@ profiles:
   twitter:  https://twitter.com/VaclavVislous		  
   flickr:
 funkce:
+  - 1. místopředseda KS Praha
   - předseda MS Praha 9
   - zastupitel MČ Praha 9	
   - člen výboru ZHMP pro energetiku

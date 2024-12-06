@@ -12,7 +12,10 @@ heroImg: Prague_panorama.jpeg
 partyUid: pirati
 teamDescription:
   mhmp: místopředsedkyně zast. klubu
+  pks: místopředsedkyně KS Praha
 funkce: 
+  - místopředsedkyně KS Praha
+  - místopředsedkyně MS Praha 2
   - zastupitelka MČ Praha 2
   - zastupitelka hl. města prahy
   - místopředsedkyně zastupitelského klubu v ZHMP
@@ -23,7 +26,7 @@ funkce:
   - členka Komise RHMP pro oblast integrace cizinců
 mail:
 - magdalena.valdmanova@pirati.cz
-mob:
+mob: +420 777 698 156
 ordpks: 5
 asistenti:
   - name: Ing. Monika Weinerová

@@ -7,15 +7,11 @@ titles:
 category:
 img: people/ondrej-chrast-2022.jpg
 heroImg: Prague_panorama.jpeg
-description: náměstek ministra kultury ČR
+description: projektový manažer v kultuře a vzdělávání
 profession: projektový manažer v kultuře a vzdělávání
 partyUid: pirati
 teamDescription:
-  pks: předseda KS Praha
-  vlada: náměstek ministra kultury ČR
 funkce:
-  - předseda KS Praha
-  - náměstek ministra kultury ČR
   - zastupitel MČ Praha 6
 mail:
   - ondrej.chrast@pirati.cz
