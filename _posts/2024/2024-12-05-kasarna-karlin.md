@@ -1,7 +1,7 @@
 ---
 title: "Praha otevřela pilotní oblouk Viaduktu Karlín Bude v něm informační centrum a prostor pro kulturu"
 author: MHMP
-image: posts/kasarna-karlin.jpg
+image: posts/oblouk.jpg
 tags: [Majetek]
 ---
 
