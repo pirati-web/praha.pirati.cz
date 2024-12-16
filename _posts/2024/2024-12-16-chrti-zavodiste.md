@@ -1,7 +1,7 @@
 ---
 title: "Praha odkoupí areál chrtího závodiště v Praze 5, bude z něj atletický stadion"
 author: MHMP
-image: posts/zabransky-okno.jpg
+image: posts/zabransky-kreslo.jpg
 tags: [Sport]
 ---
 
