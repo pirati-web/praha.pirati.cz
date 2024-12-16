@@ -1,0 +1,18 @@
+---
+title: "Pražské sběrné dvory v roce 2025: nově budou odebírat textil a upraví limity pro objemný a stavební odpad"
+author: MHMP
+image: posts/jana-komrskova.jpg
+tags: [Životní prostředí]
+---
+
+Praha rozhodla o novelizaci vyhlášky o obecním systému odpadového hospodářství. Do nového znění od ledna 2025 přidává možnost odkládání a povinnost odběru již nepoužitelného textilu ve sběrných dvorech, což vyžaduje zákon o odpadech. Tento způsob sběru platí pro deset sběrných dvorů, které pro Prahu provozuje městská společnost Pražské služby. I nadále však platí, že na všech sběrných dvorech lze odevzdat textil určený pro charitativní účely. 
+
+Zároveň město přistoupilo k zavedení limitu pro bezplatné odevzdání objemného odpadu v množství 750 kg na osobu a rok. Dalším krokem je snížení množství stavebního odpadu, které může fyzická osoba bezplatně dovést do sběrného dvora z 12 na 4 m3 na osobu ročně. Objemný a stavební odpad jsou komoditou, která je na sběrných dvorech nejčastěji odevzdávána a zároveň je jejich odložení nejčastěji předmětem neoprávněného jednání ze strany soukromých firem, které se takto snaží ušetřit. Změny mají zajistit, že sběrné dvory hlavního města Prahy budou i nadále kapacitně dostačovat pro odkládání objemného a stavebního odpadu ze strany občanů.
+
+> „Ke změně nás vedlo rostoucí množství jak stavebního, tak objemného odpadu neoprávněně odevzdaného ze strany podnikatelských subjektů v našich sběrných dvorech. Považujeme za velmi nefér, aby tato služba, která je určena hlavně pro Pražany, byla zneužívána ze strany soukromých subjektů, které obcházejí svou zákonnou povinnost platit za odložení odpadu vznikajícího z jejich podnikatelské činnosti. Pro drtivou většinu Pražanů se nic nezmění, protože nastavené limity se počítají vždy na osobu a rok, takže běžná rodina bude mít k dispozici dostatečný objem, což by mělo bez problémů postačovat pro odložení odpadu vznikajícího při rekonstrukci bytu nebo obměně nábytku,“ popisuje změnu náměstkyně primátora hl. m. Prahy pro životní prostředí a klimatický plán Jana Komrsková.
+
+Za odložení metru krychlového stavebního odpadu ve sběrném dvoře nyní platí právnické osoby 1 500 korun, u objemného odpadu poplatek činí aktuálně 1 800 korun. V případě, že by občan přesáhl povolený bezplatný limit, hradil by za každý další metr krychlový rovněž 1 500 či 1 800 korun, jako je účtováno běžně právnickým osobám. Cena za tuto službu se může lišit v závislosti na tom, zda je daný sběrný dvůr provozován Pražskými službami či jiným soukromým provozovatelem.
+
+> „Nutno říct, že Praha jako samospráva je velice benevolentní, bezplatný příjem stavebního odpadu na sběrných dvorech není v českých obcích standardem. Rovněž zavedení limitu pro odložení objemného odpadu není v odpadových systémech obcí v České republiky ničím neobvyklým. Navíc pro pohodlné odložení objemného odpadu město Pražanům prakticky celoročně přistavuje v ulicích města velkoobjemové kontejnery bez hmotnostního omezení. Ročně jich takto město přistaví ve spolupráci se svozovou společností Pražské služby, a.s., na svém území až pět tisíc. Jak se provedené změny ve fungování sběrných dvorů projeví, budeme sledovat. Nicméně jsme přesvědčeni, že občanů se stanovení příslušných limitů nedotkne, pro odložení jejich produkce nebudou překážkou a nebude snížen vysoký standard městem poskytovaných služeb. Očekáváme však, že změna by mohla mít pozitivní vliv na rozpočet hlavního města a ušetřené prostředky tak můžeme využít pro rozvoj jiných služeb poskytovaných občanům města v rámci odpadového hospodářství,“ shrnuje vedoucí oddělení odpadů pražského magistrátu Radim Polák.
+
+ 
