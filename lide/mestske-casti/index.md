@@ -30,7 +30,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha2.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha2.png" alt="MS Praha 2" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha2.pirati.cz" target="_blank">MS Praha 2</a></h1> 
-<p class="card-body-text">Robert Veverka<br /><a href="mailto:robert.veverka@pirati.cz">robert.veverka@pirati.cz</a></p>
+<p class="card-body-text">Filip Lerbletier<br /><a href="mailto:filip.lerbletier@pirati.cz">filip.lerbletier@pirati.cz</a></p>
 <br />
   <div class="social-icon-group space-x-2 ">
      <a href="https://fb.com/piratipraha2" class="social-icon "><i class="ico--facebook"></i></a>
@@ -90,7 +90,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha6.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha6.png" alt="MS Praha 6" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha6.pirati.cz" target="_blank">MS Praha 6</a></h1> 
-<p class="card-body-text">Ondřej Vykoukal<br /><a href="mailto:ondrej.vykoukal@pirati.cz">ondrej.vykoukal@pirati.cz</a></p>
+<p class="card-body-text">Jan Klofáč<br /><a href="mailto:jan.klofac@pirati.cz">jan.klofac@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/piratipraha6" class="social-icon "><i class="ico--facebook"></i></a>
@@ -152,7 +152,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha10.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha10.png" alt="MS Praha 10" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha10.pirati.cz" target="_blank">MS Praha 10</a></h1> 
-<p class="card-body-text">Michal Kočí<br /><a href="mailto:michal.koci@pirati.cz">michal.koci@pirati.cz</a></p>
+<p class="card-body-text">František Král<br /><a href="mailto:frantisek.kral@pirati.cz">frantisek.kral@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/piratipraha10" class="social-icon "><i class="ico--facebook"></i></a>
