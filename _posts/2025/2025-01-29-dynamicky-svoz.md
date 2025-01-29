@@ -1,7 +1,7 @@
 ---
 title: "Metropole spouští pilotní projekt dynamického svozu odpadu v Praze 11. Místo pevně stanoveného harmonogramu rozhodne skutečná naplněnost nádob"
 author: MHMP
-image: posts/komrskova-zhmp-2.jpg
+image: posts/komrskova-zhmp2.jpg
 tags: [IT]
 ---
 
