@@ -5,9 +5,6 @@ top:
   - link: "piratskyobchod.cz"
     url:  "https://piratskyobchod.cz"
     icon: "ico--cart"
-  - link: "Pirátské listy"
-    url:  "http://www.piratskelisty.cz"
-    icon: "ico--newspaper"
 
 
 main:
