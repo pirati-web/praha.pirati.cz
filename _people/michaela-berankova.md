@@ -21,7 +21,7 @@ profiles:
 ordpraha: 
 ---
 
-**Michaela Beránková** je asistentka předsedy výboru pro výchovu a vzdělávání Jiřího Brůžka. Pochází z jižní Moravy. Vystudovala obor Ekologie a ochrana krajiny na Střední odborné škole a gymnáziu ve Starém městě u Uherského Hradiště. Od srpna 2022 do září 2023 byla asistentkou Jany Skopalíkové, radní pro životní prostředí Středočeského kraje. 
+**Michaela Šarochová** je asistentka předsedy výboru pro výchovu a vzdělávání Jiřího Brůžka. Pochází z jižní Moravy. Vystudovala obor Ekologie a ochrana krajiny na Střední odborné škole a gymnáziu ve Starém městě u Uherského Hradiště. Od srpna 2022 do září 2023 byla asistentkou Jany Skopalíkové, radní pro životní prostředí Středočeského kraje. 
 
 Je členkou místního sdružení Pirátů na Praze 5. Od voleb v roce 2022 až do ledna 2025 byla také členkou redakční rady na Praze 5.
 
