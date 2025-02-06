@@ -28,9 +28,6 @@ profiles:
   web: https://olgarichterova.cz/
   linkedin: https://www.linkedin.com/in/olga-richterova/
 asistenti:
-  - name: Patricie Sokolová
-    position: asistentka
-    mob: +420 778 111 472
   - name: Katarína Ryšavá
     position: asistentka
     mob: +420 778 111 457
