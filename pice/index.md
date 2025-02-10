@@ -4,7 +4,7 @@ description: Pice - Pirátské centrum Praha
 keywords: pice, pirátské-centrum, centrum
 title: PICE - Pirátské centrum Praha
 shorthand: PICE
-openingHoursSEO: Mo Pondělí 9-13 hodin, mimo tuto dobu po domluvě
+openingHoursSEO: Mo Pondělí 11-18 hodin, mimo tuto dobu po domluvě
 heroHeadline: PICE - Pirátské centrum Praha
 heroDescription: Přijďte za námi do pirátského centra v centru Prahy! 
 heroImg: Pice.jpg
