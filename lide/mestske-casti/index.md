@@ -152,7 +152,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha10.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha10.png" alt="MS Praha 10" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha10.pirati.cz" target="_blank">MS Praha 10</a></h1> 
-<p class="card-body-text">František Král<br /><a href="mailto:frantisek.kral@pirati.cz">frantisek.kral@pirati.cz</a></p>
+<p class="card-body-text">Petr Benešl<br /><a href="mailto:petr.benes@pirati.cz">petr.benes@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/piratipraha10" class="social-icon "><i class="ico--facebook"></i></a>
@@ -167,7 +167,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha11.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha11.png" alt="MS Praha 11" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha11.pirati.cz" target="_blank">MS Praha 11</a></h1> 
-<p class="card-body-text">Tomáš Kapler<br /><a href="mailto:tomas.kapler@pirati.cz">tomas.kapler@pirati.cz</a></p>
+<p class="card-body-text">Jiří Dohnal<br /><a href="mailto:jiri.dohnal@pirati.cz">jiri.dohnal@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/pirati11.cz" class="social-icon "><i class="ico--facebook"></i></a>
@@ -183,7 +183,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha12.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha12.png" alt="MS Praha 12" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha12.pirati.cz" target="_blank">MS Praha 12</a></h1> 
-<p class="card-body-text">Jakub Rychlý<br /><a href="mailto:jakub.rychly@pirati.cz">jakub.rychly@pirati.cz</a></p>
+<p class="card-body-text">Jiří Brůžek<br /><a href="mailto:jiri.bruzek@pirati.cz">jiri.bruzek@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/PiratiP12" class="social-icon "><i class="ico--facebook"></i></a>
