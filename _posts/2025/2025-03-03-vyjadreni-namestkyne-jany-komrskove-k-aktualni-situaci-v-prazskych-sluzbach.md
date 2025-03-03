@@ -12,5 +12,3 @@ V pátek jsem odeslala dopis panu předsedovi odborové organizace Juklovi, kde 
 Rozhodně podporuji navýšení platů zaměstnanců Pražských služeb. Ovšem nestojí to na mém osobním rozhodnutí. Pražské služby hospodaří se ziskem 100 milionů korun a mají uzavřenou smlouvu s městem na 10 let, na základě které mají úklidové služby městu poskytovat. Pokud by mělo dojít k navýšení platů zaměstnanců, muselo by o tom rozhodnout představenstvo Pražských služeb v čele s panem ředitelem Romanem. Já opravdu nevidím žádný důvod, aby mzdy nebyly navýšeny.
 
 Mé výtky jsou opravdu směřovány od začátku k počínání pouze problémů ze zákazkou JAPOS-STAV s.r.o. Musím také zopakovat, že je nepřijatelné, aby dodavatelská společnost která vyfakturovala pražským službám 130 milionů korun, měla své kanceláře v sídle, které osobně vlastní pan ředitel. Podle mého názoru je pan ředitel ve střetu zájmů a navíc si myslím, že zakázka má znaky nehospodárnosti.
-
-Ve světle aktuální korupční kauzy ve FN Motol nás překvapuje, že ostatní strany dané věci nepřikládají dostatečnou váhu. Motolská kauza vykazuje podobné devadesátkové znaky korupčních kauz.
