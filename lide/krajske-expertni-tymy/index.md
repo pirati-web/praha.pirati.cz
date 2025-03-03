@@ -97,7 +97,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 <a href="https://forum.pirati.cz/viewforum.php?f=1265"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-transparentnost.png" alt="Transparentnost a legislativa" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="https://forum.pirati.cz/viewforum.php?f=1265" target="_blank">Transparentnost a legislativa</a></h1> 
-<p class="card-body-text">Adam Rut<br /><a href="mailto:adam.rut@pirati.cz">adam.rut@pirati.cz</a></p>
+<!--<p class="card-body-text">Adam Rut<br /><a href="mailto:adam.rut@pirati.cz">adam.rut@pirati.cz</a></p>-->
 </div>
 </article>   
 
