@@ -30,4 +30,4 @@ asistenti:
   
 ---
 
-**Jiří Belšán**  je ředitelem kanceláře krajského sdružení Praha a vedoucím Pražského stálého volebního štábu
+**Jiří Belšán**  je ředitelem kanceláře krajského sdružení Praha.
