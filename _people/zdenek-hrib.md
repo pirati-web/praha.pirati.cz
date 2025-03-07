@@ -32,9 +32,9 @@ asistenti:
   - name: Mgr. Marek Šafra
     position: vedoucí sekretariátu
     mail: marek.safra@praha.eu
-  - name: Veronika Kubičková
+  - name: Veronika Vorlíčková
     position: poradkyně
-    mail: veronika.kubickova@praha.eu
+    mail: veronika.vorlickova@praha.eu
   - name: Bc. Marek Bělor
     position: poradce
     mail: marek.belor@praha.eu
