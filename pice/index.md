@@ -40,4 +40,4 @@ Budova je přizpůsobena i pro pohyb imobilních osob, máme k dispozici rampu.
 Kolem Pirátského centra je fialová zóna, kde je možné volné stání v provozní době po dobu maximálně 12 hodin po platbě v parkovacím automatu nebo přes virtuální parkovací hodiny v mobilní aplikaci (např. MPLA). Mimo základní provozní dobu není parkování ve fialové zóně regulováno.
 
 # Otevírací doba
-V návaznosti na služby koordinátorů máme otevřeno **od pondělí do čtvrtka od 9 do 18 hodin.** Když budete potřebovat zůstat déle, domluvte se na přímo s jedním z koordinátorů.
+V návaznosti na služby koordinátorů máme otevřeno **od pondělí do čtvrtka od 11 do 18 hodin.** Když budete potřebovat zůstat déle, domluvte se na přímo s jedním z koordinátorů.
