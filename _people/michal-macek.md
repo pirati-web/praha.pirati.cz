@@ -6,11 +6,10 @@ titles:
 category:
 img: people/michal-macek.jpg
 heroImg: Prague_panorama.jpeg
-profession: tajemník poslaneckého klubu Pirátů
+profession: poradce předsedy magistrátního výboru pro vzdělávání
 partyUid: pirati
 description: předseda MS Praha 12
 teamDescription: 
-  pks: místopředseda KS Praha
 mob: +420 603 817 630
 mail:
   - michal.macek@pirati.cz
@@ -18,9 +17,7 @@ profiles:
   facebook: https://www.facebook.com/michal.macek.733
   twitter: 
 funkce:
-  - místopředseda KS Praha
   - předseda MS Praha 12
-  - tajemník poslaneckého klubu Pirátů
   - zastupitel MČ Praha 12
 
 ---
