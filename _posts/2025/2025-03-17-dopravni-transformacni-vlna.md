@@ -1,7 +1,7 @@
 ---
 title: "Pražská dopravní a inovační transformace na plné obrátky"
 author: MHMP
-image: posts/praha-skyline-10.jpg
+image: posts/dvoreckymost3.jpg
 tags: [Koalice]
 ---
 
