@@ -58,9 +58,8 @@ V březnu 2025 byl Václav zvolen na pozici člena správní rady spolku Climate
 
 Václav mluví šesti evropskými jazyky (angličtina, ruština, němčina, italština, španělština a francouzština). Hraje ochotnické divadlo v Divadelním studiu Martiny Výhodové. Hraje na kytaru, příčnou flétnu a didgeridoo.
 
-Za svou práci v zastupitelstvu pobírá od MČ Praha 9 hrubou měsíční odměnu ve výši 9.302 Kč. Její výše vyplývá z Nařízení vlády č. 318/2017 Sb., a dále z usnesení Zastupitestva MČ Praha 9.
+Za svou práci v zastupitelstvu pobírá od MČ Praha 9 hrubou měsíční odměnu ve výši 9 302 Kč. Její výše vyplývá z [Nařízení vlády č. 318/2017 Sb.](https://www.zakonyprolidi.cz/cs/2017-318), a dále z [usnesení Zastupitestva MČ Praha 9](https://praha9.cz/sites/default/files/downloads/import/z-20-018-us_0.pdf).
 
 Historický přehled všech příjmů plynoucích z veřejných funkcí je dostupný na této stránce.
 
-Václav vede veřejný kalendář, dostupný zde, který slouží mj. i pro zaznamenávání lobbistických kontaktů dle příslušných předpisů Pirátské strany.
-
+Václav vede veřejný kalendář, [dostupný zde](https://calendar.google.com/calendar/embed?src=vaclav.vislous%40pirati.cz&ctz=Europe%2FPrague), který slouží mj. i pro zaznamenávání lobbistických kontaktů dle příslušných předpisů Pirátské strany.
