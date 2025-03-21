@@ -32,9 +32,6 @@ asistenti:
   - name: Tatiana Jančariková
     position: poradkyně
     mail: tatiana.jancarikova@praha.eu
-  - name: Mgr. Michal Kočí
-    position: poradce
-    mail: michal.koci@praha.eu
   - name: Mgr. Blanka Bidmonová
     position: sekretářka
     mail: blanka.bidmonova@praha.eu
