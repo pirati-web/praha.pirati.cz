@@ -7,6 +7,7 @@ titles:
 category:
   - vybor
   - pks
+  - dr
 img: people/vaclav-vislous2.jpg   # 165 x 220
 heroImg: Prague_panorama.jpeg
 description: předseda MS Praha 9
@@ -27,7 +28,8 @@ funkce:
   - předseda MS Praha 9
   - zastupitel MČ Praha 9	
   - člen výboru ZHMP pro energetiku
-  - člen Komise RHMP pro cyklodopravu 	  
+  - člen Komise RHMP pro cyklodopravu 	 
+  - člen dozorčí rady Pražská energetika holding 
 ---
 
 **Václav Vislous** je ekonom a manažer s mezinárodním přehledem, širokou jazykovou vybaveností a bohatými zkušenostmi ze státního, poradenského i soukromého sektoru v sektorech energetiky, udržitelnosti a dopravy.
