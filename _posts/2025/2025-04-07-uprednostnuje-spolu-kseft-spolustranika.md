@@ -1,7 +1,7 @@
 ---
 title: "Upřednostňuje SPOLU kšeft pro spolustraníka před vyššími příjmy pro hlavní město z vánočních trhů?"
 author: Piráti Praha
-image: posts/stanky.jpg
+image: posts/stanek.jpg
 tags: [Kauzy]
 ---
 
