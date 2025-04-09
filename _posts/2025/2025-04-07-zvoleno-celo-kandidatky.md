@@ -1,7 +1,7 @@
 ---
 title: "Pražští Piráti mají čelo své kandidátky do voleb. Richterovou s Hřibem doplní odborníci a ekonomové Vislous s Duškem"
 author: Piráti Praha
-image: posts/zdenek-olga.jpg
+image: posts/olgazdenek2.jpg
 tags: [Volby]
 ---
 
