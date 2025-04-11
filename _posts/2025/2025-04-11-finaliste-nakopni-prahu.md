@@ -15,43 +15,43 @@ Finálovou desítku vybírala na základě inovačního potenciálu, přínosu p
 
 Mezi desítku týmů, které se z téměř 60 přihlášených projektů probojovaly do finále, patří:
 
-1. NavigAR – navigace rozšířenou realitou
+* 1. NavigAR – navigace rozšířenou realitou
 
 Tým vyvíjí aplikaci pro orientaci v MHD pomocí rozšířené reality. Chtějí zpříjemnit pohyb cestujícím v podzemí a zlepšit uživatelskou přívětivost veřejné dopravy.
 
-2. Živé okapové svody
+* 2. Živé okapové svody
 
 Architekti vyvinuli chytrý systém pro zadržování dešťové vody bez elektřiny. Ověřená technologie podporuje městskou zeleň a řeší odvodnění i tam, kde jiné systémy selhávají.
 
-3. Reuse Recognizer
-
+* 3. Reuse Recognizer
+ 
 Tým reuse expertů využívá umělou inteligenci k automatickému rozpoznání předmětů ve sběrných centrech. Cílem je zefektivnit třídění a posílit principy cirkulární ekonomiky.
 
-4. Virtuální lampář
+* 4. Virtuální lampář
 
 Projekt je zaměřený na efektivnější správu pouličního osvětlení pomocí digitalizace a automatizace.
 
-5. Urban Data Repository
+* 5. Urban Data Repository
 
 Vývojáři zapojují AI do sběru dat o parkování a integrují je do Lítačky. Pomáhají řidičům lépe plánovat parkování a snižovat emise z neefektivního hledání míst.
 
-6. Energeticky soběstačné elektrické cargo vozíky
+* 6. Energeticky soběstačné elektrické cargo vozíky
 
 Odborníci na elektromobilitu vyvíjejí vozíky, které si samy vyrábějí elektřinu. Nabízí řešení pro udržitelnou městskou logistiku bez závislosti na externích zdrojích.
 
-7. Hlasovačka
+* 7. Hlasovačka
 
 Studenti strategické komunikace chtějí přiblížit občanům rozhodování ve městě skrze participativní platformu. Aplikace umožní komentovat projekty a hlasovat o nich.
 
-8. Potřebuji vlastnit auto?
+* 8. Potřebuji vlastnit auto?
 
 Tři mladí Pražané tvoří kalkulačku, která porovnává náklady na vlastnictví auta s alternativní dopravou. Chtějí podpořit udržitelný životní styl a lepší veřejný prostor.
 
-9. Potřeba
+* 9. Potřeba
 
 Studentka VŠE a absolvent ČVUT navrhují chytré veřejné toalety do parků. Modulární řešení s NFC přístupem a senzory usnadní údržbu a zlepší komfort pro návštěvníky zeleně.
 
-10. Lokální výroba organického hnojiva v Praze
+* 10. Lokální výroba organického hnojiva v Praze
 
 Eko-tým vyrábí hnojivo z bioodpadu a tím podporuje městské zemědělství. Projekt stojí na cirkulární ekonomice a přináší užitek pro půdu i životní prostředí.
 
