@@ -1,7 +1,7 @@
 ---
 title: "Praha chystá novou smluvní úpravu pro sdílenou dopravu bez elektrokoloběžek"
 author: MHMP
-image: posts/9hrib.jpg
+image: posts/hrib04.jpg
 tags: [Doprava]
 ---
 
