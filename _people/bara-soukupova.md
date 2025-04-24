@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 img: people/bara-soukupova-2022-2.jpg
 heroImg: Prague_panorama.jpeg
-profession: specialistka na eGovernment
+profession: geoinformatička
 partyUid: pirati
 description: zastupitelka hl. města Prahy
 teamDescription:
@@ -16,8 +16,6 @@ teamDescription:
 funkce:
   - zastupitelka hl. města Prahy
   - členka výboru ZHMP pro dopravu
-  - členka výboru ZHMP pro legislativu, veřejnou správu a tuzemské vztahy
-  - členka výboru ZHMP pro národnostní menšiny
   - členka výboru ZHMP pro územní rozvoj
   - předsedkyně Komise RHMP pro cyklodopravu
   - místopředsedkyně Komise RHMP pro předzahrádky, stánky a trhy
