@@ -1,7 +1,7 @@
 ---
 title: "Hlavní město pokračuje ve výstavbě fotovoltaických elektráren na městských budovách"
 author: MHMP
-image: posts/jana2.jpg
+image: posts/jana-komrskova.jpg
 tags: [Životní prostředí]
 ---
 
