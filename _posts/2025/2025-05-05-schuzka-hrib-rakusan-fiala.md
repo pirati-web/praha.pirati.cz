@@ -1,6 +1,6 @@
 ---
 title: "Zdeněk Hřib požádal Víta Rakušana a Petra Fialu o schůzku. Zástupci STAN a SPOLU v Praze blokují plnění programových slibů"
-author: MHMP
+author: Piráti
 image: posts/novaradnice.jpg
 tags: [Koalice]
 ---
