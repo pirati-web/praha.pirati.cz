@@ -17,9 +17,9 @@ mail:
 - jiri.bruzek@pirati.cz
 mob: +420 602 406 504 	
 asistenti:
-  - name: Šárka Václavíková
-    position: sekretářka
-    mail: sarka.vaclavikova@praha.eu		 
+  - name: Michaela Šarochová
+    position: asistentka
+    mail: michaela.sarochova@praha.eu		 
 profiles:
   github:       
   facebook:  https://www.facebook.com/jiri.bruzek.9   
