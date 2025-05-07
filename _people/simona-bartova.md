@@ -13,7 +13,7 @@ profession: vizážistka, lektorka ve škole profesionálního make-upu
 partyUid: pirati
 teamDescrioption: 
   pks: místopředsedkyně KS Praha
-mail: simona.bartova@pirati.cz
+mail: Simona.mikusova@pirati.cz
 mob: +420 604 266 268
 funkce:
   - místopředsedkyně KS Praha
