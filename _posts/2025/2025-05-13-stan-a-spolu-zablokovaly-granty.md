@@ -28,7 +28,6 @@ Loni hlavní město v rámci stejného programu podpořilo celkem 145 projektů 
 | III. Ochrana přírody                         | 34                    | 25                               | 22                                           | 5 840                             |
 | IV. Ekologická výchova                       | 68                    | 56                               | 36                                           | 9 160                             |
 | V. Specifické projekty                       | 11                    | 8                                | 6                                            | 1 900                             |
-| VI. Výúkové a vzdělávací programy pro školy  | 19                    | 19                               | 17                                           | 8 650                             |
+| VI. Výukové a vzdělávací programy pro školy  | 19                    | 19                               | 17                                           | 8 650                             |
 | VII. Adaptace a mitigace klimatické změny    | 63                    | 54                               | 32                                           | 10 850                            |
-|----------------------------------------------|-----------------------|----------------------------------|----------------------------------------------|-----------------------------------|
-| Celkem                                       | 233                   | 190                              | 133                                          | 42 800                            |
+| **Celkem**                                   | **233**               | **190**                          | **133**                                      | **42 800**                        |
