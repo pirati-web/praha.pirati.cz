@@ -1,8 +1,8 @@
 ---
 title: "Praha spouští revoluci v třídění oblečení prostřednictvím nového portálu a zároveň si nechala zpracovat exkluzivní data o návycích Pražanů"
 author: MHMP
-image: posts/komrskova-zhmp2.jpg
-tags: [Doprava]
+image: posts/komrskova01.jpg
+tags: [Životní prostředí]
 ---
 
 Nezisková organizace Oděvní banka ve spolupráci s hlavním městem a za podpory Ministerstva životního prostředí ČR oficiálně představila nový projekt Obleč Prahu. Unikátní portál má za cíl motivovat obyvatele metropole k efektivnímu třídění a recyklaci textilu a zároveň posílit principy cirkulární ekonomiky v hlavním městě.
