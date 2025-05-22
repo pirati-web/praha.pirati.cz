@@ -1,5 +1,5 @@
 ---
-title: "Praha vybrala zhotovitele zázemí koupaliště Motol, veřejnosti se vodní plocha otevře i v letošní sezóně"
+title: "Hlavní město pokračuje v cyklu setkání s veřejností nad klimatickým plánem, dalším tématem bude aktivní mobilita"
 author: MHMP
 image: posts/komrskova01.jpg
 tags: [Životní prostředí]
