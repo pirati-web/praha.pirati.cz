@@ -12,8 +12,8 @@ customizeHeader: true
 {% endcapture %}
 
 {% capture subContent %}
-<h2 class="head-xs md:head-base mt-2 text-left"><strong>Nadpis</strong></h2>  
-<h2 class="head-xs md:head-base mt-2 text-left">Díky důvěře Pražanů a stabilitě v koalici jsme mohli naše město 4 roky vést a měnit jej k lepšímu a také ho provést dvěma bezprecedentními krizemi. Praha za naší vlády prochází rekordním rozvojem. Zahájili jsme stavbu metra D, první nové linky po 40 letech. Loni se povolila stavba 9.700 nových bytů, což je rekord od roku 1989. Nebývalým tempem se prodlužují tramvajové trati. Otevřeli jsme rekordní množství nových P+R parkovišť. Za našich předchůdců mosty chátraly a padaly, my máme odvahu jít do velkých rekonstrukcí, bez kterých by spadly další. A nadto stavíme i nová přemostění řeky. Plán na výsadbu milionu nových stromů plníme přesně jak jsme slíbili.</h2>
+<h2 class="head-xs md:head-base mt-2 text-left"><strong>MUDr. zdeněk Hřib</strong></h2>  
+<h2 class="head-xs md:head-base mt-2 text-left">Jako primátor úspěšně provedl Prahu řadou globálních krizí, od pandemie přes ekonomickou krizi až po dobře zvládnutý příliv uprchlíků z napadené Ukrajiny. V době kdy byl primátorem Prahy se povolilo k výstavě rekordní množství nových bytů za jeden rok. Jako náměstek pro dopravu dohlíží na velké infrastrukturní projekty – Dvorecký most, Metro D, rekonstrukci Barrandovského mostu, přípravy Terminálu Smíchov nebo VRT – které posunou Prahu na novou úroveň. Dříve se jako lékař a manažer podílel na projektech v oblasti kvality péče a bezpečnosti pacientů nebo na vývoji aplikace eRecept. S vaší důvěrou nakopne Českou republiku dopředu a zajistí, aby byla naše společnost stabilní a odolná, ale přitom zůstala svobodná, jak to dokázal ve svých předchozích úlohách..</h2>
 
 {% endcapture %}
 
