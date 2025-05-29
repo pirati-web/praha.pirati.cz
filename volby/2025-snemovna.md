@@ -50,10 +50,3 @@ Někdejší pražský zastupitel, bezpečnostní odborník, IT analytik a v minu
 **Gabriela Svárovská**
 je spolupředsedkyně Strany zelených, bývalá česká diplomatka, odbornice na lidská práva. Začínala jako novinářka v Českém rozhlase a v České televizi. Po studiích nastoupila do Kanceláře prezidenta Václava Havla, následně pracovala na Ministerstvu zahraničí. Aktivně se zabývá tématy pozice Evropy ve světě, rozšiřování EU, potřebnými reformami evropských institucí, tématy bezpečnosti nebo obrany.
 
-
-{% endcapture %}
-
-{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
-
-{% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
-
