@@ -8,7 +8,7 @@ tags: [Kampaň]
 Pražští lídři Zdeněk Hřib a Olga Richterová představili svůj tým odborníků, s nímž se budou ucházet o dvouciferný výsledek v letošních sněmovních volbách. Přihlásili se k heslu, se kterým jdou letos Piráti do voleb: Nakopneme to. V týmu se objevuje pestrá škála expertů na ekonomiku, právo, sociální problematiku a bezpečnost. V případě pražského regionu zdůraznili potřebu zaměřit se na budování nových čtvrtí krátkých vzdáleností v podobně městského nájemního bydlení na budoucích dopravních terminálech bez zbytečné byrokracie a obecně také na snížení daňové zátěže rodin a kvalitní kapacitně dostupné vzdělávání.
 
 <img src="https://a.pirati.cz/praha/img/people/hrib2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 300px;">
-**1. Zdeněk Hřib**
+**1. MUDr. Zdeněk Hřib**
 Jako primátor úspěšně provedl Prahu řadou globálních krizí, od pandemie přes ekonomickou krizi až po dobře zvládnutý příliv uprchlíků z napadené Ukrajiny. V době kdy byl primátorem Prahy se povolilo k výstavě rekordní množství nových bytů za jeden rok. Jako náměstek pro dopravu dohlíží na velké infrastrukturní projekty – od výstavby Metra D po rekonstrukcí a stavby nových mostů – které posunou Prahu na novou úroveň. Dříve se jako lékař a manažer podílel na projektech v oblasti kvality péče a bezpečnosti pacientů nebo na vývoji aplikace eRecept. S vaší důvěrou, nakopne českou společnost směrem k větší stabilitě, odolnosti a svobodě, jak to dokázal už v Praze.
 <div style="clear: both;"></div>
 
@@ -53,7 +53,7 @@ Od roku 2022 je členkou zastupitelstva hl. města Prahy a od roku 2023 předsed
 **10. Jan Hora**
 Někdejší pražský zastupitel, bezpečnostní odborník, IT analytik a v minulých volbách také pirátský kandidát na starostu Prahy 4 vystudoval aplikovanou informatiku na VŠE. Povoláním je analytikem datového skladu. Na celostátní úrovni je vedoucím pirátského rezortního týmu Vnitro a bezpečnost a týmu Obrana v rámci rezortního týmu Evropa, zahraničí, obrana. Má na starosti témata bezpečnosti, obranyschopnosti a některá témata z oblasti IT. Od roku 2018 se pravidelně podílí na přípravě komunálního, celostátního i evropského volebního programu v tématech souvisejících s bezpečností a zbraňovou legislativou. V roce 2021 se stal jako náhradník pražským zastupitelem a podařilo se mu prosadit vstup města do spolku Otevřená města. V současnosti zastupuje Hl. m. Prahu v dozorčí radě společnosti Technologie hlavního města Prahy, a.s. Na úrovni Hl. m. Prahy je členem výboru pro bezpečnost. Na MČ Praha 4 je zastupitelem MČ Praha 4, členem komise pro IT a opět výboru pro bezpečnost.
 
-**11. Albert Štěrba**
+**11. MUDr. Albert Štěrba, MBA**
 Neurochirurg v nemocnici na Vinohradech se narodil v Moravskoslezském kraji, s přestávkami v podobě studijních pobytů v Itálii, Británii a Portugalsku studoval v Brně a nyní vyučuje na 3. lékařské fakultě Univerzity Karlovy v Praze. Pracoval v USA, Británii a Japonsku. V rámci své vědecké činnosti navštívil konference v řadě dalších zemí. Vedle medicíny vystudoval také MBA v managementu. Poslední tři roky je také příslušníkem aktivních záloh Armády ČR. Ve volném čase se věnuje literatuře, tvorbě podcastu Jednohubky a mnohohubky na Spotify, ochotnickému hraní v Divadle D13 v pražských Stodůlkách, cestování, turistice, silniční cyklistice i fotbalu v barvách SK Union Vršovice a české lékařské reprezentace.
 
 **12. Gabriela Svárovská**
