@@ -47,5 +47,5 @@ customizeHeader: true
 
 {% endcapture %}
 
-{% include elections-header.html mainContent=mainContent subContent=subContent}
+{% include elections-header.html mainContent=mainContent subContent=subContent %}
 
