@@ -23,7 +23,7 @@ Ekonom a manažer s mezinárodním přehledem, širokou jazykovou vybaveností a
 <div style="clear: both;"></div>
 
 <img src="https://a.pirati.cz/praha/img/people/dusek2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 300px;">
-**4. doc. Mgr. Libor Dušek, Ph. D.**
+**4.&nbsp;doc.&nbsp;Mgr. Libor Dušek, Ph. D.**
 Jeden z předních českých ekonomů, člen NERV, má doktorát z University of Chicago. Publikuje výzkumy v oblasti ekonomické analýzy práva, kriminality a veřejných financí. Působí jako vedoucí na Katedře ekonomie a empirických právních studií Právnické fakulty Univerzity Karlovy, kterou zreformoval na moderní pracoviště mezinárodní kvality. Dříve byl mj. výkonným ředitelem think-tanku IDEA a výzkumníkem na CERGE-EI. Je spoluautorem ekonomického plánu Pirátů Republika v pohybu.
 <div style="clear: both;"></div>
 
