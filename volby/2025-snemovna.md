@@ -9,9 +9,9 @@ customizeHeader: true
 
 {% capture mainContent %}<h1 class="head-alt-lg md:head-alt-xl text-center">Volby do Poslanecké sněmovny 2025</h1>{% endcapture %}
 
-{% capture subContent %}<h2 class="head-xs md:head-base mt-2 text-left"><strong>MUDr. Zdeněk Hřib</strong></h2>  
-<h2 class="head-xs md:head-base mt-2 text-left"><div style="width:300px; text-align:left; float: right;">
-        <img src="https://a.pirati.cz/praha/img/people/hrib2025.jpg"></div>
+{% capture subContent %}<div style="width:300px; text-align:left; float: right;"><img src="https://a.pirati.cz/praha/img/people/hrib2025.jpg"></div>
+<h2 class="head-xs md:head-base mt-2 text-left"><strong>MUDr. Zdeněk Hřib</strong></h2>  
+<h2 class="head-xs md:head-base mt-2 text-left">
 Jako primátor úspěšně provedl Prahu řadou globálních krizí, od pandemie přes ekonomickou krizi až po dobře zvládnutý příliv uprchlíků z napadené Ukrajiny. V době kdy byl primátorem Prahy se povolilo k výstavě rekordní množství nových bytů za jeden rok. Jako náměstek pro dopravu dohlíží na velké infrastrukturní projekty - od výstavby Metra D po rekonstrukcí a stavby nových mostů – které posunou Prahu na novou úroveň. Dříve se jako lékař a manažer podílel na projektech v oblasti kvality péče a bezpečnosti pacientů nebo na vývoji aplikace eRecept. S vaší důvěrou, nakopne českou společnost směrem k větší stabilitě, odolnosti a svobodě, jak to dokázal už v Praze.</h2>
 
 <h2 class="head-xs md:head-base mt-2 text-left"><strong>PhDr. Olga Richterová, Ph.D.</strong></h2>  
