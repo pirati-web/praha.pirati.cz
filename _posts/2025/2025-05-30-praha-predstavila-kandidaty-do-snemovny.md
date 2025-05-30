@@ -1,5 +1,5 @@
 ---
-title: "Prazští Piráti představují kandidáty do podzimních voleb do Sněmovny"
+title: "Prazští Piráti představují kandidáty a kandidátky do podzimních voleb do Sněmovny"
 author: Piráti Praha
 image: posts/predstaveni.jpg
 tags: [Kampaň]
