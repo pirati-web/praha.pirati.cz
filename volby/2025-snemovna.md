@@ -7,7 +7,7 @@ candidateListUid: 2025-snemovna
 customizeHeader: true
 ---
 
-{% capture mainContent %}<h1 class="head-alt-lg md:head-alt-xl text-center">Volby do Poslanecké sněmovny 2025</h1>{% endcapture %}
+{% capture mainContent %}<h1 class="head-alt-lg md:head-alt-xl text-center mt-0 mb-4">Volby do Poslanecké sněmovny 2025</h1>{% endcapture %}
 
 {% capture subContent %}<img src="https://a.pirati.cz/praha/img/people/hrib2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 300px;">
 <h2 class="head-xs md:head-base mt-2 text-left"><strong>MUDr. Zdeněk Hřib</strong></h2>  
