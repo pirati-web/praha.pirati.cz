@@ -29,6 +29,8 @@ main:
         match: /lide/krajske-expertni-tymy/
   - name: Volby 
     submenu:
+      - name: Volby do Sněmovny 2025
+        link: "https://praha.pirati.cz/aktuality/praha-predstavila-kandidaty-do-snemovny.html"
       - name: Volby do Evropského parlamentu 2024
         link: "https://eurovolby.pirati.cz/"
       - name: Komunální volby 2022
