@@ -5,7 +5,7 @@ image: posts/predstaveni.jpg
 tags: [Kampaň]
 ---
 
-Pražští lídři Zdeněk Hřib a Olga Richterová představili svůj tým odborníků, s nímž se budou ucházet o dvouciferný výsledek v letošních sněmovních volbách. Přihlásili se k heslu, se kterým jdou letos Piráti do voleb: Nakopneme to. V týmu se objevuje pestrá škála expertů na ekonomiku, právo, sociální problematiku a bezpečnost. V případě pražského regionu zdůraznili potřebu zaměřit se na budování nových čtvrtí krátkých vzdáleností v podobně městského nájemního bydlení na budoucích dopravních terminálech bez zbytečné byrokracie a obecně také na snížení daňové zátěže rodin a kvalitní kapacitně dostupné vzdělávání.
+Pražští lídři Zdeněk Hřib a Olga Richterová představili svůj tým odborníků a odbornic, s nímž se budou ucházet o dvouciferný výsledek v letošních sněmovních volbách. Přihlásili se k heslu, se kterým jdou letos Piráti do voleb: Nakopneme to. V týmu se objevuje pestrá škála expertů na ekonomiku, právo, sociální problematiku a bezpečnost. V případě pražského regionu zdůraznili potřebu zaměřit se na budování nových čtvrtí krátkých vzdáleností v podobně městského nájemního bydlení na budoucích dopravních terminálech bez zbytečné byrokracie a obecně také na snížení daňové zátěže rodin a kvalitní kapacitně dostupné vzdělávání.
 
 <img src="https://a.pirati.cz/praha/img/people/hrib2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 300px;">
 **1. MUDr. Zdeněk Hřib**
