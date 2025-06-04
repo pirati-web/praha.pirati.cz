@@ -1,5 +1,5 @@
 ---
-title: "Praze 10 opět ÚOHS zařízl zakázku, kvůli nezákonným podmínkám je ohrožena údržba zeleně v Záběhlicích"
+title: "Piráti upozornili na problematickou zakázku ohrožující péči o zeleň v Záběhlicích, teď ji zařízl ÚHOS"
 author: Piráti Praha
 image: posts/praha10-uohs.jpg
 tags: [Praha 10, ÚOHS]
