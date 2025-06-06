@@ -1,6 +1,6 @@
 ---
 title: "Pražskou pirátskou kandidátku uzavírají zubařka, porodní asistentka a právník bojující proti korupci Jakub Michálek"
-author: MHMP
+author: Piráti Praha
 image: posts/volby2025-kandidatka-praha.jpg
 tags: [Sněmovna, Volby 2025]
 ---
