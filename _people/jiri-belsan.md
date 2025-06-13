@@ -21,12 +21,6 @@ profiles:
   facebook: 
   twitter: 		  
   flickr:
-asistenti:
-  - name: David Raušer
-    uid: david.rauser
-    position: koordinátor pro Prahu
-    mob: +420 770 114 940
-    mail: david.rauser@pirati.cz
   
 ---
 
