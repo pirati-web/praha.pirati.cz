@@ -66,3 +66,99 @@ Neurochirurg v nemocnici na Vinohradech se narodil v Moravskoslezském kraji, s 
 **12.&nbsp;Mgr.&nbsp;Gabriela&nbsp;Svárovská, Ph.D.**
 Je spolupředsedkyně Strany zelených, bývalá česká diplomatka, odbornice na lidská práva. Začínala jako novinářka v Českém rozhlase a v České televizi. Po studiích nastoupila do Kanceláře prezidenta Václava Havla, následně pracovala na Ministerstvu zahraničí. Aktivně se zabývá tématy pozice Evropy ve světě, rozšiřování EU, potřebnými reformami evropských institucí, tématy bezpečnosti nebo obrany.
 <div style="clear: both;"></div>
+
+**13.&nbsp;Bc. Ondřej Melena**
+Je předseda pražských Pirátů, zastupitel a předseda kontrolního výboru v Praze 7.
+<div style="clear: both;"></div>
+
+**14.&nbsp;Ing. Eva Tylová**
+Je ekoložka, zastupitelka hlavního města Prahy a městské části Praha 12.
+<div style="clear: both;"></div>
+
+**15.&nbsp;PhDr. Veronika Nürnbergerová, Ph.D., C.A.S.**
+Je odbornice na kvalitu vzdělávání a fakultní ombudsmanka.
+<div style="clear: both;"></div>
+
+**16.&nbsp;Martin Rota**
+Je influencer, popularizátor vědy.
+<div style="clear: both;"></div>
+
+**17.&nbsp;Ing. Ondřej Vojta** 
+Je specialista komunikace, trenér mládeže, zastupitel městské části Praha-Petrovice.
+<div style="clear: both;"></div>
+
+**18.&nbsp;RNDr. Daniel Mazur, PhD.**
+Je fyzik, radní hl. města Prahy pro ICT, Smart City, vědu, výzkum a inovace.
+<div style="clear: both;"></div>
+
+**19.&nbsp;Dagmar Vybíralová**
+Je odborná pracovnice v sociální oblasti, lektorka jógy.
+<div style="clear: both;"></div>
+
+**20.&nbsp;Mgr. Ondřej Chrást**
+Je manažer v kultuře a vzdělávání, zastupitel městské části Praha 6.
+<div style="clear: both;"></div>
+
+**21.&nbsp;Mgr. Bára Soukupová**
+Je geoinformatička, analytička aplikace Lítačka, pražská zastupitelka, předsedkyně Komise pro cyklodopravu Rady hl. m. Prahy.
+<div style="clear: both;"></div>
+
+**22.&nbsp;Mgr. Petr Němec**
+Je advokát a mediátor.
+<div style="clear: both;"></div>
+
+**23.&nbsp;Alena Jančíková**
+Je ředitelka České asociace paraplegiků.
+<div style="clear: both;"></div>
+
+**24.&nbsp;Mgr. Zuzana Böhmová**
+Je středoškolská pedagožka, zastupitelka na Praze 11.
+<div style="clear: both;"></div>
+
+**25.&nbsp;Petr Bísek**
+Je důchodce, publicista, člen Seniorů na palubě.
+<div style="clear: both;"></div>
+
+**26.&nbsp;Mgr. Martin Štěrba**
+Je manažer, stratég komunikace, zastupitel a předseda kontrolního výboru Prahy 8.
+<div style="clear: both;"></div>
+
+**27.&nbsp;Jiří Dohnal**
+Je projektový manažer, radní městské části Praha 11.
+<div style="clear: both;"></div>
+
+**28.&nbsp;Mgr. Zuzana Lajksnerová**
+Je analytička, zastupitelka Prahy 10.
+<div style="clear: both;"></div>
+
+**29.&nbsp;MgA. Karolína Gattermayerová**
+Je scénáristka a marketérka.
+<div style="clear: both;"></div>
+
+**30.&nbsp;Tomáš Murňák**
+Je zastupitel a předseda kontrolního výboru městské části Prahy 13.
+<div style="clear: both;"></div>
+
+**31.&nbsp;Bc. Jan Klofáč** 
+Je konzultant pro digitální transformaci státu, zastupitel Prahy 6.
+<div style="clear: both;"></div>
+
+**32.&nbsp;Bc. Jan Bartko**
+Je finanční analytik, radní městské části Praha 3.
+<div style="clear: both;"></div>
+
+**33.&nbsp;Jakub Rychlý**
+Je odborník na finanční gramotnost, voják Aktivní zálohy Armády ČR.
+<div style="clear: both;"></div>
+
+**34.&nbsp;MDDr. Ing. Bára Malíková**
+Je zubařka, odbornice na analytiku ve zdravotnictví.
+<div style="clear: both;"></div>
+
+**35.&nbsp;Bc. Veronika Hažlinská**
+Je porodní asistentka a odbornice na dostupnost poporodní péče pro ženy.
+<div style="clear: both;"></div>
+
+**36.&nbsp;Mgr. et Mgr. Jakub Michálek, Ph.D.**
+Je právník bojující proti korupci a hospodářské kriminalitě, předseda poslaneckého klubu Pirátů, poslanec.
+<div style="clear: both;"></div>
