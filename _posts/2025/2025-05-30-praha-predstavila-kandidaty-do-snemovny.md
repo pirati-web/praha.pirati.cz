@@ -120,7 +120,7 @@ Je důchodce, publicista, člen Seniorů na palubě.
 <div style="clear: both;"></div>
 
 **26.&nbsp;Mgr. Martin Štěrba**
-Je manažer, stratég komunikace, zastupitel a předseda kontrolního výboru Prahy 8.
+Neurochirurg v nemocnici na Vinohradech a vyučující na 3. lékařské fakultě UK. Pochází z Frýdku-Místku; studoval v Brně, byl na klinických i vědeckých stážích a pobytech (mj. na Tchaj-wanu, v Indii, Mexiku, Japonsku, Itálii, Británii, Portugalsku či USA). Pracoval pro špičkový technologický startup zaměřený na časnou diagnostiku rakoviny plic v Oxfordu, získal MBA v managementu zdravotnictví. Je předsedou spolku Mladí lékaři, věnujícího se zlepšování poskytování zdravotní péče a vzdělávání lékařů, a také kapitánem aktivních záloh Armády ČR. Ve volném čase se věnuje literatuře, ochotnickému hraní v Divadle D13 v pražských Stodůlkách, cestování, turistice, silniční cyklistice i fotbalu v barvách české lékařské reprezentace.
 <div style="clear: both;"></div>
 
 **27.&nbsp;Jiří Dohnal**
