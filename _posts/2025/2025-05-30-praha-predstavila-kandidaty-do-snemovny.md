@@ -59,7 +59,7 @@ Někdejší pražský zastupitel, bezpečnostní odborník, IT analytik a v minu
 
 <img src="https://a.pirati.cz/praha/img/people/sterba2025.jpeg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **11.&nbsp;MUDr.&nbsp;Albert Štěrba, MBA**
-Neurochirurg v nemocnici na Vinohradech se narodil v Moravskoslezském kraji, s přestávkami v podobě studijních pobytů v Itálii, Británii a Portugalsku studoval v Brně a nyní vyučuje na 3. lékařské fakultě Univerzity Karlovy v Praze. Pracoval v USA, Británii a Japonsku. V rámci své vědecké činnosti navštívil konference v řadě dalších zemí. Vedle medicíny vystudoval také MBA v managementu. Poslední tři roky je také příslušníkem aktivních záloh Armády ČR. Ve volném čase se věnuje literatuře, tvorbě podcastu Jednohubky a mnohohubky na Spotify, ochotnickému hraní v Divadle D13 v pražských Stodůlkách, cestování, turistice, silniční cyklistice i fotbalu v barvách SK Union Vršovice a české lékařské reprezentace.
+Neurochirurg v nemocnici na Vinohradech a vyučující na 3. lékařské fakultě UK. Pochází z Frýdku-Místku; studoval v Brně, byl na klinických i vědeckých stážích a pobytech (mj. na Tchaj-wanu, v Indii, Mexiku, Japonsku, Itálii, Británii, Portugalsku či USA). Pracoval pro špičkový technologický startup zaměřený na časnou diagnostiku rakoviny plic v Oxfordu, získal MBA v managementu zdravotnictví. Je předsedou spolku Mladí lékaři, věnujícího se zlepšování poskytování zdravotní péče a vzdělávání lékařů, a také kapitánem aktivních záloh Armády ČR. Ve volném čase se věnuje literatuře, ochotnickému hraní v Divadle D13 v pražských Stodůlkách, cestování, turistice, silniční cyklistice i fotbalu v barvách české lékařské reprezentace.
 <div style="clear: both;"></div>
 
 <img src="https://a.pirati.cz/praha/img/people/svarovska2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
@@ -120,7 +120,7 @@ Je důchodce, publicista, člen Seniorů na palubě.
 <div style="clear: both;"></div>
 
 **26.&nbsp;Mgr. Martin Štěrba**
-Neurochirurg v nemocnici na Vinohradech a vyučující na 3. lékařské fakultě UK. Pochází z Frýdku-Místku; studoval v Brně, byl na klinických i vědeckých stážích a pobytech (mj. na Tchaj-wanu, v Indii, Mexiku, Japonsku, Itálii, Británii, Portugalsku či USA). Pracoval pro špičkový technologický startup zaměřený na časnou diagnostiku rakoviny plic v Oxfordu, získal MBA v managementu zdravotnictví. Je předsedou spolku Mladí lékaři, věnujícího se zlepšování poskytování zdravotní péče a vzdělávání lékařů, a také kapitánem aktivních záloh Armády ČR. Ve volném čase se věnuje literatuře, ochotnickému hraní v Divadle D13 v pražských Stodůlkách, cestování, turistice, silniční cyklistice i fotbalu v barvách české lékařské reprezentace.
+Je manažer, stratég komunikace, zastupitel a předseda kontrolního výboru Prahy 8.
 <div style="clear: both;"></div>
 
 **27.&nbsp;Jiří Dohnal**
