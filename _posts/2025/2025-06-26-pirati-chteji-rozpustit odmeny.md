@@ -22,3 +22,7 @@ Letos jde už o druhý problém spojený s nejvyšším vedením Pražských slu
 > „Celá tato věc svým pozadím vykazuje znaky podobné kauze Motol. Pana ředitele jsem proto za jeho osobní účasti veřejně vyzval na jednání zastupitelstva, aby dodal podklady, které vyloučí jeho střet zájmů. Dnes jsou to více než tři měsíce od mého veřejného požadavku a doposud jsem žádné poklady tohoto typu neobdržel. Přestože na tyto informace mám jako zastupitel nárok ze zákona o hlavním městě Praze,” dodává Hřib. Na stejném požadavku, tedy na vyvracení pochybností, se v květnu shodla dozorčí rada Pražských služeb, na jejím zmíněném úterním zasedání, ale Roman nic nepředložil a svůj úkol tak nesplnil. 
 
 Piráti proto vyzvali své koaliční partnery SPOLU a STAN, aby jejich zástupci v dozorčí radě pomohli zajistit zveřejnění odměn a prošetřit kauzu střetu zájmů ředitele Romana, a nepomáhali ji krýt.
+
+Záznam tiskové konference zastupitelského klubu Pirátů: [https://www.youtube.com/live/_bogZBRkUdA?si=IpoxTr8AgBaMEjnu](https://www.youtube.com/live/_bogZBRkUdA?si=IpoxTr8AgBaMEjnu)
+
+
