@@ -149,7 +149,7 @@ je konzultant pro digitální transformaci státu a dříve pomáhal klientům n
 je finanční analytik a radní městské části Praha 3 pro finance a životní prostředí. Většinu profesního života působil ve finančním sektoru a zabýval se settlementem burzovních transakcí. Dříve se spolupodílel na iniciativě Vzdělání není zboží, která bojovala proti zamýšlenému zavedení školného na vysokých školách. Vystudoval na FHS UK a nyní si jako aktivní místní politik doplňuje vzdělání v oboru Veřejná a sociální politika na FSV UK. 
 <div style="clear: both;"></div>
 
-**33.&nbsp;Jakub Rychlý**
+**33.Bc. &nbsp;Jakub Rychlý**
 je odborník na finanční gramotnost, zakladatel projektu Nekrachni a člen Aktivní zálohy Armády ČR. Od letošního roku je mladým delegátem do OSN, v rámci kterého se věnuje vzdělávání, AI a podnikavosti. Už v 16 letech se jako jeden z prvních v Česku nechal zplnoletnit kvůli podnikání. V rámci Nekrachni pomáhá mladým lidem pochopit peníze, dělat chytřejší finanční rozhodnutí a zvládat život bez dluhových pastí. Zajímá se o AI a její využití v budování nových projektů, které pomohou vyřešit společenské problémy.
 <div style="clear: both;"></div>
 
