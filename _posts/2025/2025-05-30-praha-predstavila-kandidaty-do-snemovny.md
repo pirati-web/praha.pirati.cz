@@ -68,97 +68,100 @@ Je spolupředsedkyně Strany zelených, bývalá česká diplomatka, odbornice n
 <div style="clear: both;"></div>
 
 **13.&nbsp;Bc. Ondřej Melena**
-Je předseda pražských Pirátů, zastupitel a předseda kontrolního výboru v Praze 7.
+Od roku 2022 zastupitelem Prahy 7 a předsedou Kontrolního výboru. Rodilý Pražák strávil rok a půl života na pomezí základní a střední školy v USA. Během studia politologie na UK absolvoval zahraniční stáž v Evropském parlamentu a začal spolupracovat s Radou pro mezinárodní vztahy, kterou později také vedl. Mezitím se vyučil truhlářem a truhlařina se postupně stala jeho hlavním zaměstnáním.  Od roku 2024 je předsedou Pražského sdružení Pirátů. Ve volném čase se otec dvou dětí věnuje rodině, práci na zahradě a sportu, především basketbalu, který hraje celý život a horolezectví, které jej zlákalo díky chalupě v Českém ráji.
 <div style="clear: both;"></div>
 
 **14.&nbsp;Ing. Eva Tylová**
-Je ekoložka, zastupitelka hlavního města Prahy a městské části Praha 12.
+Zastupitelka hl. města Prahy a Prahy 12, dlouholetá obhájkyně zájmů a práv občanů a ekoložka. Vystudovala Fakultu jadernou a fyzikálně inženýrskou ČVUT. Záhy se začala věnovat ochraně životního prostředí. Jako náměstkyně ministra životního prostředí mezi lety 1998 až 2002 se angažovala proti těžbě zlata v Mokrsku, kontroverzní dálnicí D3 přes Posázaví, požadovala výběrové řízení na sanaci dioxinových baráků ve Spolaně. V letech 2002 až 2003 a 2008 až 2010 prosazovala ochranu životního prostředí jako ředitelka České inspekce životního prostředí. Jako místostarostka pro ochranu životního prostředí a územní rozvoj v Praze 12 v letech 2010 až 2014 a poté 2018 až 2022 prosazovala otevřenou a transparentní radnici například zveřejněním smluv a objednávek úřadu či participaci občanů. Zavedla řadu komunitních a ekologicky zaměřených opatření.  Prosazuje udržitelnou výstavbu. Jako odbornice na obnovitelné zdroje připomínkovala novely energetického zákona se zaměřením na komunitní energetiku a jako ochránkyně zvířat novelu zákona o pyrotechnice. Spolupracuje s nevládními organizacemi a sama působí jako místopředsedkyně Společnosti pro udržitelný život.
 <div style="clear: both;"></div>
 
 **15.&nbsp;PhDr. Veronika Nürnbergerová, Ph.D., C.A.S.**
-Je odbornice na kvalitu vzdělávání a fakultní ombudsmanka.
+Dlouhodobě se zabývá kvalitou vzdělávání v ČR a EU, dříve hlavně v souvislostech vazeb na zaměstnatelnost, v posledních 10 letech zejména v regionálním školství. Na Univerzitě Karlově se zabývá podporou a rozvojem kvality vysokoškolské výuky. Vystudovala informační vědu a knihovnictví na Univerzitě Karlově v Praze a informační management ve vysokém školství na University of North Carolina at Chapel Hill v USA. Od r. 2015 je členkou školských rad – dříve jako volená zástupkyně rodičů, v současnosti zastupuje zřizovatele Prahy 4 a hl. města. Je členkou školské komise hl. města Prahy a Prahy 4. S manželem má dvě děti. Miluje lyžování, výlety do přírody a zpěv s přáteli ze sboru Severáček.
 <div style="clear: both;"></div>
 
 **16.&nbsp;Martin Rota**
-Je influencer, popularizátor vědy.
+Je influencer a popularizátor vědy, autor série vzdělávacích knih pro děti, člen v organizaci Team4Ukraine, a dobrovolník na Ukrajině. Zaměřuje se na “prostupování společenských bublin” s vědomím si, že jakákoliv komunikace nebude fungovat, pokud bude pouze jednosměrná. Jeho prací je nejen věci vysvětlovat, ale zároveň i pochopit odlišnost perspektiv a hledat místa, kde se mohou zase setkat. Aktivně se zabývá bojem proti populismu a dezinformacím. 
 <div style="clear: both;"></div>
 
 **17.&nbsp;Ing. Ondřej Vojta** 
-Je specialista komunikace, trenér mládeže, zastupitel městské části Praha-Petrovice.
+Je zastupitelem Prahy-Petrovic, specialistou komunikace a trenérem mládeže. Vystudoval marketing se zaměřením na reklamu a PR na Vysoké škole ekonomie a managementu. Po zkušenostech z nestátní neziskové organizace a PR agentury zakotvil v oblasti komunikace a PR ve veřejném sektoru. Nejvíce času Ondřej věnuje dobrovolnému hasičstvu. Je nejen členem jednotky požární ochrany, ale také trenérem a vedoucím družstva mladých hasičů v SDH Dolní Měcholupy. Od roku 2021 je členem Výkonného výboru Městského sdružení hasičů hl. m. Prahy. Je také členem předsednictva krajského sdružení Pirátů v Praze. Odborně se zajímá zejména o gesce bezpečnosti, sportu a volného času. Věnuje se také organizaci společenských, kulturních a sportovních akcí a podpoře registru dárců dřeně. 
 <div style="clear: both;"></div>
 
 **18.&nbsp;RNDr. Daniel Mazur, PhD.**
-Je fyzik, radní hl. města Prahy pro ICT, Smart City, vědu, výzkum a inovace.
+Jako radní hl. města Prahy pro oblast ICT, Smart City, vědu, výzkum a inovace pomáhá zlepšovat život Pražanů inovacemi jako chytré plánování tras v aplikaci Lítačka nebo chytrý svoz tříděného odpadu. Vystudoval Matematicko-fyzikální fakultu UK, povoláním je experimentální fyzik a projektový manažer. Pracovní zkušenosti nabíral na vědeckých a vzdělávacích institucích ve Spojených státech, frankofonním Švýcarsku a v severní Itálii. Celkem v zahraničí strávil 11 let. Po návratu do Česka pracoval jako výzkumník, pedagog a manažer výzkumných a infrastrukturních projektů na Univerzitě Karlově. Založil a vedl místní sdružení Pirátů v Praze 5, kde byl také starostou.
 <div style="clear: both;"></div>
 
 **19.&nbsp;Dagmar Vybíralová**
-Je odborná pracovnice v sociální oblasti, lektorka jógy.
+Je odbornou pracovnicí v nadaci, kde se věnuje pomoci ohroženým rodinám s dětmi a hospicové péči. Je také lektorkou jógy. Studovala politologii a evropská studia na UP v Olomouci, absolvovala rok studia v Haagu a stáž v Evropském parlamentu. Zabývá se především problematikou životního prostředí, sociální politikou a reformami vedoucími k férové ekonomice. Ve sněmovně se plánuje věnovat řešení situace lidí v exekuci a insolvenci, matek samoživitelek, rodin s malými dětmi, změně vzdělávacího systému tak, aby odpovídal požadavkům dnešní doby a neničil rovný přístup ke vzdělání. Má ráda historii, četbu, přírodu, plavání.
 <div style="clear: both;"></div>
 
 **20.&nbsp;Mgr. Ondřej Chrást**
-Je manažer v kultuře a vzdělávání, zastupitel městské části Praha 6.
+Je manažerem v oblasti kultury a vzdělávání. Od ledna 2022 do listopadu 2024 byl náměstkem na Ministerstvu kultury, v současné době je tamtéž koordinátorem kulturní pomoci pro Ukrajinu. Vystudoval psychosociální studia a teologii na UK a působil také na Fakultě podnikohospodářské Vysoké školy ekonomické v Praze, v oboru Ekonomika a management v rámci katedry Arts managementu. Od roku 2018 je zastupitelem v Praze 6. Vede celorepublikový Resortní tým Pirátské strany pro kulturu. Ve svém volném čase se věnuje rodině, četbě, zejména severských detektivek a biografií významných osobností, hraje šachy i jiné hry, chodí do přírody a po památkách. 
 <div style="clear: both;"></div>
 
 **21.&nbsp;Mgr. Bára Soukupová**
-Je geoinformatička, analytička aplikace Lítačka, pražská zastupitelka, předsedkyně Komise pro cyklodopravu Rady hl. m. Prahy.
+Je geoinformatička a analytička, mimo jiné aplikace Lítačka. Od roku 2022 je zastupitelkou hl. m. Prahy, od roku 2023 pak předsedkyní pražské komise pro cyklodopravu. Studovala geografii a kartografii, aplikovanou geoinformatiku a učitelství geografie na Přírodovědecké fakultě UK. V minulosti působila jako specialistka na geografické informační systémy a stojí za Mapou exekucí – projektem, který ukázal fenomén exekucí v celé šíři a spustil o tomto problému celospolečenskou diskuzi. Je také činná jako aktivistka v oblasti lidských práv a specificky trans* práv. Mezi lety 2019 a 2021 působila ve vedení spolku Transparent zasazujícím se o zlepšení situace transgender lidí na legislativní, společenské i individuální úrovni.
 <div style="clear: both;"></div>
 
 **22.&nbsp;Mgr. Petr Němec**
-Je advokát a mediátor.
+Je advokát a zapsaný mediátor, na sociální síti X ho můžete najít pod pseudonymem SemSuchar. Je známý jako “Advokát chudých” a jako člověk, který se nebojí poukazovat na lichvářské praktiky a právními nástroji s nimi bojovat. Pomohl už několika tisícům klientů s protiprávní exekucí. Nejde daleko pro ostřejší slovo, současně ale vyhrává důležité soudní pře. Jsou pro něj důležitá témata spravedlnosti, potřeby rodičů s dětmi a mezinárodní bezpečnost.
 <div style="clear: both;"></div>
 
 **23.&nbsp;Alena Jančíková**
-Je ředitelka České asociace paraplegiků.
+Je dlouholetá ředitelka České asociace paraplegiků - CZEPA, která si dává za cíl zajištění rovných příležitostí pro všechny občany bez ohledu na jejich zdravotní stav. Svět s bariérami zná jako vozíčkářka ze svých vlastních zkušeností. Chce zajistit důstojný život osobám se zdravotním postižením a aktivně je zapojit do společnosti. Toho chce dosáhnout podporou inkluzivního vzdělávání, zvýšením dostupnosti sociálních a zdravotnických potřeb reflektující individuální potřeby nemocných, či podporou zákonů odstraňujících architektonické, dopravní či informační bariéry ve veřejném prostoru. Od roku 2010 je ředitelkou České asociace paraplegiků a od roku 2024 je členkou Rady vlády pro zdravotně postižené občany. Za svou práci dostala mimo jiné Cenu Olgy Havlové, stříbrnou medaili Senátu ČR a ocenění zmocněnkyně pro lidská práva za advokační činnost.
 <div style="clear: both;"></div>
 
 **24.&nbsp;Mgr. Zuzana Böhmová**
-Je středoškolská pedagožka, zastupitelka na Praze 11.
+Je pedagožkou na střední umělecké škole, kde vyučuje matematiku a fotografii. Vystudovala Pedagogickou fakultu UK, učila také na základní škole. V letech 2018-2020 byla zastupitelkou městské části Praha 11 a jako předsedkyně Výboru pro otevřenou radnici a digitalizaci se věnovala především agendě IT, open datům, gis mapám, jednacím řádům. Po svém znovuzvolení v roce 2022 se stala neuvolněnou místostarostkou městské části pro sport, kulturu a digitalizaci. Je také členkou řídící rady celoměstské koncepce IT hl. města Prahy. Ve svém volném čase se věnuje malbě, fotografování, józe a plavání.
 <div style="clear: both;"></div>
 
 **25.&nbsp;Petr Bísek**
-Je důchodce, publicista, člen Seniorů na palubě.
+Je publicista, typograf, vydavatel Amerických listů, bývalý krajanský činovník a
+představitel v USA, veslař-veterán a diplomovaný trenér. Maturoval s vyznamenáním, pracoval jako pomocný dělník. Když mu bylo dvakrát znemožněno vysokoškolské studium, odmítl v roce 1965 nabídku členství v KSČ a s manželkou Věrou emigroval do USA, kde vychovali dvě děti. Pracoval jako typograf, 25 let trénoval veslařskou mládež, založil typografické studio a v letech 1990-2010 vydával populární Americké listy. Byl funkcionářem krajanského spolku Bohemian Citizens Benevolent Society of Astoria v New Yorku (BCBSA, aka Bohémka), z toho šest let jeho prezidentem. Je emeritním ředitelem washingtonské organizace American Friends of the Czech Republic (afocr.org). V roce 1998 dostal Petr Bísek od prezidenta Václava Havla Medaili za zásluhy 1. stupně za výraznou pomoc při vstupu ČR do NATO, spolu s manželkou Věrou v roce 2005 od ministra zahraničí cenu Gratias agit „za šíření dobrého jména České republiky v zahraničí“ a v roce 2010 Medaili předsedy Senátu ČR. Po návratu do Čech v roce 2013 se v MF Dnes ve sloupku Zpověď věnoval různým námětům z veřejného i soukromého života v ČR a USA. V letech 2009 až 2022 byl členem správní rady hudebního festivalu Americké jaro a do roku 2018 veslařským trenérem. V současné době je členem dozorčí rady Střediska Diakonie Českobratrské církve evangelické. Příznivcem Pirátů se stal v roce 2021, členem je od podzimu 2022, předsedou Seniorů na palubě (SnP) od června 2025. V Praze P8 zastupuje Piráty v Komisi pro sport a grantovou politiku, za zřizovatele je členem Školské rady Karlínského gymnázia. Petr Bísek má dva vnuky v Čechách a dva v USA. Je člen Democratic Party of USA. Jeho příběh zpracoval projekt Paměť národa.
 <div style="clear: both;"></div>
 
 **26.&nbsp;Mgr. Martin Štěrba**
-Je manažer, stratég komunikace, zastupitel a předseda kontrolního výboru Prahy 8.
+Je manažer, stratég komunikace, zastupitel a předseda kontrolního výboru městské části Praha 8. Aktivně působí také v dopravní komisi a v redakční radě časopisu Osmička. Pracoval ve velkých mediálních domech, na „volné noze“, a má zkušenosti i z neziskového sektoru. Kromě politiky se věnuje také organizaci hudebního festivalu United Islands, který dává prostor začínajícím umělcům. Od dětství je skautem – a právě skauting ho naučil neodcházet od rozdělané práce. Dlouhodobě se snaží hledat způsoby, jak věci zlepšovat, místo aby hledal důvody, proč to nejde. Tímto přístupem se řídí v práci, v politice i v osobním životě. 
 <div style="clear: both;"></div>
 
 **27.&nbsp;Jiří Dohnal**
-Je projektový manažer, radní městské části Praha 11.
+Je radním Prahy 11 pro majetek, investice, prevenci kriminality a IT. Zastupitelem této městské části je od roku 2014, v letech 2019-2022 byl také jejím starostou. Před aktivním vstupem do politiky pracoval v letech 1999-2005 na ministerstvu zahraničních věcí, v letech 2001-2005 na zastupitelském úřadu v Hanoji. Po návratu se rozhodl profesně posunout a začal se věnovat podnikání v IT. Je členem spolku South East Asia liaisons, dříve známého jako Klub Hanoi, který pomáhá porozumění mezi Čechy a Vietnamci. Dále Jiří Dohnal působí ve výboru spolku Trojmezí Chodovec, Hostivař, Záběhlice, který chrání zájmy občanů před neomezeným developmentem, je členem dobrovolné hasičské jednoty. Má dvě děti, ve volném čase se rád věnuje turistice. 
+
 <div style="clear: both;"></div>
 
 **28.&nbsp;Mgr. Zuzana Lajksnerová**
-Je analytička, zastupitelka Prahy 10.
+Je analytička, zastupitelka Prahy 10 a členka Výboru pro strategické investice a veřejné zakázky, Kulturní komise a Komise pro strategii Zdravého města a místní Agendu 21 městské části. Vystudovala Ekonomii a finance na Institutu ekonomických studií na Univerzitě Karlově, profesně působí v oblasti oceňování. 
 <div style="clear: both;"></div>
 
 **29.&nbsp;MgA. Karolína Gattermayerová**
-Je scénáristka a marketérka.
+Vystudovala obor Scenáristika a dramaturgie na pražské FAMU, je členkou Komise pro kulturu Rady městské části Praha 8, správní rady Kreativní Prahy a pirátského expertního týmu Kultura a cestovní ruch. Věnuje se marketingu i televizní a filmové tvorbě (seriál Spolu & Hladoví, projekt Film Naživo). K Pirátům ji přivedla nespokojenost se stavem Prahy 8, kde se v mnoha ohledech zastavil čas v devadesátých letech. Zpočátku se zaměřila na lokální témata, postupně se začala více zaměřovat na kulturu, k níž ji vážou profesní zkušenosti.
 <div style="clear: both;"></div>
 
 **30.&nbsp;Tomáš Murňák**
-Je zastupitel a předseda kontrolního výboru městské části Prahy 13.
+Nynější zastupitel a předseda kontrolního výboru městské části Praha 13 a v letech 2018-2022 také zastupitel hl. m. Prahy. Po většinu profesního života pracoval v softwarovém oddělení nakladatelství odborné literatury. V pražském zastupitelstvu byl místopředsedou Výboru pro územní rozvoj, územní plán a památkovou péči, místopředsedou Výboru pro infrastrukturu, veřejnou vybavenost a životní prostředí, posléze také předsedou Výboru pro legislativu, veřejnou správu a transparentnost. V politice se věnuje hlavně územnímu rozvoji a svobodnému přístupu k informacím, v soukromí cyklistice a historické literatuře.
 <div style="clear: both;"></div>
 
 **31.&nbsp;Bc. Jan Klofáč** 
-Je konzultant pro digitální transformaci státu, zastupitel Prahy 6.
+Konzultant pro digitální transformaci státu a dříve pomáhal klientům nadnárodní konzultantské firmy s inovacemi a automatizací. Poslední dva roky působí na Úřadu vlády jako vedoucí týmu digitální strategie a analýz v Kabinetu člena vlády pověřeného koordinací digitalizace, kde spolupracuje s odborníky napříč resorty a podílí se na koordinaci klíčových témat v oblasti rozvoje eGovernmentu. Zároveň je studentem FSV UK se specializací Ruská a eurasijská studia, kde se zaměřuje hlavně na problematiku dezinformací.
 <div style="clear: both;"></div>
 
 **32.&nbsp;Bc. Jan Bartko**
-Je finanční analytik, radní městské části Praha 3.
+Finanční analytik a radní městské části Praha 3 pro finance a životní prostředí. Většinu profesního života působil ve finančním sektoru a zabýval se settlementem burzovních transakcí. Dříve se spolupodílel na iniciativě Vzdělání není zboží, která bojovala proti zamýšlenému zavedení školného na vysokých školách. Vystudoval na FHS UK a nyní si jako aktivní místní politik doplňuje vzdělání v oboru Veřejná a sociální politika na FSV UK. 
 <div style="clear: both;"></div>
 
 **33.&nbsp;Jakub Rychlý**
-Je odborník na finanční gramotnost, voják Aktivní zálohy Armády ČR.
+Odborník na finanční gramotnost, zakladatel projektu Nekrachni a člen Aktivní zálohy Armády ČR. Od letošního roku je mladým delegátem do OSN, v rámci kterého se věnuje vzdělávání, AI a podnikavosti. Už v 16 letech se jako jeden z prvních v Česku nechal zplnoletnit kvůli podnikání. V rámci Nekrachni pomáhá mladým lidem pochopit peníze, dělat chytřejší finanční rozhodnutí a zvládat život bez dluhových pastí. Zajímá se o AI a její využití v budování nových projektů, které pomohou vyřešit společenské problémy.
 <div style="clear: both;"></div>
 
 **34.&nbsp;MDDr. Ing. Bára Malíková**
-Je zubařka, odbornice na analytiku ve zdravotnictví.
+Zubařka a odbornice na analytiku ve zdravotnictví pomáhala od roku 2018 poslancům se zdravotnickou problematikou a v letech 2020-2022 byla členkou Výboru pro zdravotnictví zastupitelstva hl. města Prahy, kde se věnovala problematice zubních pohotovostí na území hlavního města. V roce 2021 se v rámci resortního týmu Pirátů podílela na přípravě odborné části programu pro zdravotnictví, který byl poté ohodnocen Zdravotnickým deníkem jako nejlepší ze zdravotnických programů pro sněmovní volby. Od roku 2022 je členkou správní rady VZP.
+Vystudovala 1.lékařskou fakultu Univerzity Karlovy v Praze a Management ve zdravotnictví na Vysoké škole ekonomické.
 <div style="clear: both;"></div>
 
 **35.&nbsp;Bc. Veronika Hažlinská**
-Je porodní asistentka a odbornice na dostupnost poporodní péče pro ženy.
+Porodní asistentka, influencerka a expertka na systémovou zdravotní péči o ženu a dítě, zastupuje Piráty v Pracovní skupině k porodnictví při Radě vlády pro rovnost žen a mužů. Založila iniciativu Chci svoji porodní asistentku, která se snaží o zlepšení dostupnosti péče porodní asistentky. V letech 2022 a 2023 působila v týmu náměstka Josefa Pavlovice na Ministerstvu zdravotnictví jako odborná asistentka a podílela se např. na tvorbě Metodického pokynu k přítomnosti zákonných zástupců a osob blízkých u dětí při poskytování zdravotních služeb. Na rozvoji oboru porodní asistence se aktivně podílela v letech 2022-2024 jako viceprezidentka profesní neziskové organizace Unie porodních asistentek, se kterou nadále spolupracuje.
 <div style="clear: both;"></div>
 
 **36.&nbsp;Mgr. et Mgr. Jakub Michálek, Ph.D.**
-Je právník bojující proti korupci a hospodářské kriminalitě, předseda poslaneckého klubu Pirátů, poslanec.
+Právník, poslanec a bojovník za moderní stát, který prosadil přes 10 zákonů proti korupci a podvodům. Například donutil Babiše prodat média, zasadil se o zveřejňování výše odměn úředníků a nezávislost justice, aby vláda nemohla tlačit na veřejné žalobce vyšetřující závažnou kriminalitu. Z úspěchů v modernizaci státu můžeme uvést jednodušší formuláře pro lidi v exekuci, digitální oběh spisů na úřadech, nižší daně na potraviny, povolení aplikací pro taxíky či moderní přístup k trestům v trestním zákoníku. Za svoji práci obdržel ocenění Rekonstrukce státu. Má sen, že se Česko dostane na západní úroveň, kde na úřadech pracují šikovní a talentovaní lidé, peníze se nerozkutálejí a Česko se vytrvale posouvá dopředu. Jeho krédo zní: „Moderní stát, který vás ochrání před gaunery a nebezpečím“.
 <div style="clear: both;"></div>
