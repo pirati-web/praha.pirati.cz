@@ -5,12 +5,11 @@ titles:
   before: 
   after:
 category: 
-  - kontaktni_osoba
 ordpak: 1
 img: people/jiri-belsan.jpg
 heroImg: Prague_panorama.jpeg
-contactType: Ředitel kanceláře KS Praha
-description: Ředitel kanceláře KS Praha
+contactType: 
+description: 
 partyUid: bezpp
 funkce: 
   - ředitel kanceláře KS Praha
@@ -24,4 +23,4 @@ profiles:
   
 ---
 
-**Jiří Belšán**  je ředitelem kanceláře krajského sdružení Praha.
+**Jiří Belšán**  je bývalý ředitel kanceláře krajského sdružení Praha.
