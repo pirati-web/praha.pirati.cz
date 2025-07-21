@@ -145,7 +145,7 @@ je radním Prahy 11 pro majetek, investice, prevenci kriminality a IT. Zastupite
 
 <img src="https://a.pirati.cz/praha/img/people/lajksnerova2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **28.&nbsp;Mgr. Zuzana Lajksnerová**
-je analytička, zastupitelka Prahy 10 a členka Výboru pro strategické investice a veřejné zakázky, Kulturní komise a Komise pro strategii Zdravého města a místní Agendu 21 městské části. Vystudovala Ekonomii a finance na Institutu ekonomických studií na Univerzitě Karlově, profesně působí v oblasti oceňování. 
+je analytička, zastupitelka Prahy 10 a členka Výboru pro strategické investice a veřejné zakázky, Kulturní komise a Komise pro strategii Zdravého města a místní Agendu 21 městské části. Vystudovala Ekonomii a finance na Institutu ekonomických studií na Univerzitě Karlově, profesně působí v oblasti oceňování. Ve volném čase ráda chodí do divadla na činohru a do hor. Věnuje se také hudbě (momentálně spíš projektově), zpívala ve špičkovém dětském sboru Severáček a mládežnickém souboru Europera, na saxofon hrála mj. v souboru Horáček Swing Orchestra.
 <div style="clear: both;"></div>
 
 <img src="https://a.pirati.cz/praha/img/people/gattermayerova2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
