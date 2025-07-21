@@ -142,7 +142,7 @@ je manažer, stratég komunikace, zastupitel a předseda kontrolního výboru m�
 je radním Prahy 11 pro majetek, investice, prevenci kriminality a IT. Zastupitelem této městské části je od roku 2014, v letech 2019-2022 byl také jejím starostou. Před aktivním vstupem do politiky pracoval v letech 1999-2005 na ministerstvu zahraničních věcí, v letech 2001-2005 na zastupitelském úřadu v Hanoji. Po návratu se rozhodl profesně posunout a začal se věnovat podnikání v IT. Je členem spolku South East Asia liaisons, dříve známého jako Klub Hanoi, který pomáhá porozumění mezi Čechy a Vietnamci. Dále Jiří Dohnal působí ve výboru spolku Trojmezí Chodovec, Hostivař, Záběhlice, který chrání zájmy občanů před neomezeným developmentem, je členem dobrovolné hasičské jednoty. Má dvě děti, ve volném čase se rád věnuje turistice. 
 <div style="clear: both;"></div>
 
-<img src="https://a.pirati.cz/praha/img/people/lajsknerova2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
+<img src="https://a.pirati.cz/praha/img/people/lajksnerova2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **28.&nbsp;Mgr. Zuzana Lajksnerová**
 je analytička, zastupitelka Prahy 10 a členka Výboru pro strategické investice a veřejné zakázky, Kulturní komise a Komise pro strategii Zdravého města a místní Agendu 21 městské části. Vystudovala Ekonomii a finance na Institutu ekonomických studií na Univerzitě Karlově, profesně působí v oblasti oceňování. 
 <div style="clear: both;"></div>
