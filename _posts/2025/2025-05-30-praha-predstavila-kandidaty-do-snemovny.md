@@ -153,6 +153,7 @@ je finanční analytik a radní městské části Praha 3 pro finance a životn�
 je odborník na finanční gramotnost, zakladatel projektu Nekrachni a člen Aktivní zálohy Armády ČR. Od letošního roku je mladým delegátem do OSN, v rámci kterého se věnuje vzdělávání, AI a podnikavosti. Už v 16 letech se jako jeden z prvních v Česku nechal zplnoletnit kvůli podnikání. V rámci Nekrachni pomáhá mladým lidem pochopit peníze, dělat chytřejší finanční rozhodnutí a zvládat život bez dluhových pastí. Zajímá se o AI a její využití v budování nových projektů, které pomohou vyřešit společenské problémy.
 <div style="clear: both;"></div>
 
+<img src="https://a.pirati.cz/praha/img/people/malikova2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **34.&nbsp;MDDr. Ing. Bára Malíková**
 je zubařka a odbornice na analytiku ve zdravotnictví pomáhala od roku 2018 poslancům se zdravotnickou problematikou a v letech 2020-2022 byla členkou Výboru pro zdravotnictví zastupitelstva hl. města Prahy, kde se věnovala problematice zubních pohotovostí na území hlavního města. V roce 2021 se v rámci resortního týmu Pirátů podílela na přípravě odborné části programu pro zdravotnictví, který byl poté ohodnocen Zdravotnickým deníkem jako nejlepší ze zdravotnických programů pro sněmovní volby. Od roku 2022 je členkou správní rady VZP.
 Vystudovala 1.lékařskou fakultu Univerzity Karlovy v Praze a Management ve zdravotnictví na Vysoké škole ekonomické.
