@@ -165,7 +165,7 @@ je konzultant pro digitální transformaci státu a dříve pomáhal klientům n
 
 <img src="https://a.pirati.cz/praha/img/people/bartko2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **32.&nbsp;Bc. Jan Bartko**
-je finanční analytik a radní městské části Praha 3 pro finance a životní prostředí. Většinu profesního života působil ve finančním sektoru a zabýval se settlementem burzovních transakcí. Dříve se spolupodílel na iniciativě Vzdělání není zboží, která bojovala proti zamýšlenému zavedení školného na vysokých školách. Vystudoval na FHS UK a nyní si jako aktivní místní politik doplňuje vzdělání v oboru Veřejná a sociální politika na FSV UK. 
+je finanční analytik a radní městské části Praha 3 pro finance a životní prostředí. Většinu profesního života působil ve finančním sektoru a zabýval se settlementem burzovních transakcí. Vystudoval na FHS UK. Jako mladý se dříve spolupodílel na iniciativě Vzdělání není zboží, která bojovala proti zamýšlenému zavedení školného na vysoké školy. Volný čas tráví v komunitní zahradě, na řece v kajaku a pravidelně se účastní experimentálních filosofických seminářů.
 <div style="clear: both;"></div>
 
 <img src="https://a.pirati.cz/praha/img/people/rychly2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
