@@ -48,6 +48,7 @@ Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se
 
 * Odebírejte rovněž i [**newsletter Pirátů**](https://lists.pirati.cz/subscription/OoNVntEmWp?locale=cs-CZ)
 
+<!--
 # Celostátní pirátská infolinka:  
 
 | telefonní číslo            | volací doba      |
@@ -55,3 +56,4 @@ Je to jednoduché, [stačí se nalodit](https://nalodeni.pirati.cz/). Přidat se
 | +420 703 681 682           | PO-PÁ, 9-19 hod.  |
 | +420 608 963 111           | PO, ST, PÁ, 8-16:30 hod.  |
 | +420 608 963 111           | ÚT, ČT, 11-19:30 hod.  |
+-->
