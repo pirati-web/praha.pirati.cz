@@ -2,7 +2,7 @@
 title: "Případ Petrouš: Stopkou privatizace bytů a zavedením systémových opatření Praha předchází korupci, varuje však před podvodníky"
 author: MHMP
 image: posts/novaradnice37.jpg
-tags: [Životní prostředí]
+tags: [Kauzy]
 ---
 
 Praha, 6. srpna 2025 – Městská společnost TRADE CENTRE PRAHA uvedla v posledních letech do praxe celou řadu opatření k zamezení možných machinací s městskými byty. Navazuje tím na zastavení privatizací z minulého volebního období. Aktuálně medializovaný případ Adama Petrouše, který pravděpodobně připravil o miliony korun některé nájemce TCP a.s., když jim nabízel neexistující možnost získání bytů v majetku Prahy do soukromého vlastnictví, přesto ukazuje, že podvody ohledně privatizace městských bytů neutuchají a je nutné se mít neustále na pozoru. Celý případ nyní vyšetřuje Policie ČR na základě trestního oznámení, které podalo TCP a.s. v únoru tohoto roku.
