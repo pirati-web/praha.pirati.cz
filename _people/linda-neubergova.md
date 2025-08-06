@@ -9,7 +9,7 @@ category:
 img: people/linda-neubergova.png
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-description: zastupitelka MČ Praha 5
+description: manažerka pražské volební kampaně do Poslanecké sněmovny Parlamentu ČR
 teamDescription:
 funkce: 
   - manažerka pražské volební kampaně do Poslanecké sněmovny Parlamentu ČR
