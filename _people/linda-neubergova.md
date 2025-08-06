@@ -12,6 +12,7 @@ partyUid: pirati
 description: zastupitelka MČ Praha 5
 teamDescription:
 funkce: 
+  - manažerka pražské volební kampaně do Poslanecké sněmovny Parlamentu ČR
   - předsedkyně MS Praha 5
   - zastupitelka MČ Praha 5
 mail:
