@@ -1,13 +1,15 @@
 ---
 title: "Piráti: Tři nové čtvrti, tři prodloužení linek metra, dostupné bydlení pro lidi. Máme plán, jak v Praze postavit 80 tisíc bytů "
 author: Piráti Praha
-image: posts/novectvrti.jpg
+image: posts/novectvrti2.jpg
 tags: [Bydlení]
 ---
 
 Praha, 12. srpna 2025 – Piráti přicházejí s plánem na výstavbu tří nových živých čtvrtí s plnou občanskou vybaveností na hranicích hl. m. Prahy a Středočeského kraje díky protažení stávajících linek metra A, B a C. Tyto čtvrti mají zatím pracovní názvy Nové Kolovraty, Východní město a Západní město. Celkem by se tak otevřely možnosti bydlení pro nových 200 tisíc obyvatel v 80 tisících bytech a pracovních lokalit pro 70 tisíc lidí na 650 hektarech území. Každá čtvrť také počítá s vybudováním inovačního nebo business centra. Plán by bylo možné realizovat v úzké spolupráci města se soukromým sektorem.
 
 Vizí Pirátů je budovat nové domovy s komfortním dopravním napojením na stávající města tak, aby se začala radikálně řešit bytová krize a lidé měli znovu přístup k dostupnému vlastnickému či nájemnímu bydlení. Řešením je výstavba nových živých čtvrtí na principu tzv. “města krátkých vzáleností” formou “transit-oriented developementu” se silnou rolí veřejné správy při jejich přípravě. Cílem je i vysoká energetická soběstačnost těchto nových čtvrtí díky využívání moderních technologií a obnovitelných zdrojů energie. Trendy odhadovaného přílivu lidí jen do hlavního města Prahy (podle Institutu plánování a rozvoje v řádu až 300 tisíc nových obyvatel) dokládají, že dosavadní plány rozvoje nebudou dostatečné. Pokud má dnes metropole kolem 1,38 milionů obyvatel, v roce 2050 jich podle nejpravděpodobnější varianty studie bude až 1,68 milionů. Některé predikce přitom počítají i s variantou 2 milionů obyvatel. Cestou je se na budoucnost a potřeby budoucích nových obyvatel připravit a řešit je právě teď. 
+
+![Vizualizace jak by to mohlo vypadat](https://a.pirati.cz/praha/img/posts/novectvrti3.jpg "Ukázka, jak by nová zástavba mohla vypadat")
 
 >„Praha i její obyvatelé a všeobecně lidé ve velkých městech po celé republice potřebují, abychom zajistili dostatečný rozvoj bydlení, který udělá rozdíl v jejich životech. Umožní jim žít v místě, kde se narodili, mít možnost založit rodinu a žít beze strachu o svou budoucnost. Jen do naší metropole podle dostupných dat Institutu plánování a rozvoje brzy dorazí dalších 300 tisíc nových obyvatel. Podobně jsou na tom i jiná velká města. My máme plán na to, jak tomu jít napřed. Pojďme budovat nové plnohodnotné čtvrti krátkých vzdáleností bez zbytečných kompromisů, s občanskou vybaveností, dopravní obslužností, službami (ordinacemi, školami, školkami, sportovišti) i novými pracovními lokalitami a inovačními centry, a to vše v docházkové vzdálenosti do 15 minut,” říká Zdeněk Hřib, předseda Pirátů a pražský náměstek pro dopravu. 
 
