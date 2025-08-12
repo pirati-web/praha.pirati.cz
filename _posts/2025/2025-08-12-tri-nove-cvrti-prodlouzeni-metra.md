@@ -1,8 +1,8 @@
 ---
 title: "Piráti: Tři nové čtvrti, tři prodloužení linek metra, dostupné bydlení pro lidi. Máme plán, jak v Praze postavit 80 tisíc bytů "
-author: MHMP
+author: Piráti Praha
 image: posts/novectvrti.jpg
-tags: [Územní plánování]
+tags: [Bydlení]
 ---
 
 Praha, 12. srpna 2025 – Piráti přicházejí s plánem na výstavbu tří nových živých čtvrtí s plnou občanskou vybaveností na hranicích hl. m. Prahy a Středočeského kraje díky protažení stávajících linek metra A, B a C. Tyto čtvrti mají zatím pracovní názvy Nové Kolovraty, Východní město a Západní město. Celkem by se tak otevřely možnosti bydlení pro nových 200 tisíc obyvatel v 80 tisících bytech a pracovních lokalit pro 70 tisíc lidí na 650 hektarech území. Každá čtvrť také počítá s vybudováním inovačního nebo business centra. Plán by bylo možné realizovat v úzké spolupráci města se soukromým sektorem.
