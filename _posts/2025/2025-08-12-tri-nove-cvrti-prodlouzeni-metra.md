@@ -48,3 +48,5 @@ Další výhodou je možnost zapojení průmyslu a využití prefabrikace, BIM a
 Transit-oriented development neboli “rozvoj orientovaný na tranzit” je typem městského rozvoje, který maximalizuje množství obytných, obchodních a rekreačních prostor v docházkové vzdálenosti od uzlů veřejné dopravy. Podporuje symbiotický vztah mezi hustou, kompaktní městskou formou a používáním veřejné dopravy. Primárně jde o rozvoj na pozemcích, kam je možné přivést kapacitní kolejovou dopravu.
 
 Město krátkých vzdáleností nebo také kompaktní město je dopravně-urbanistický koncept založený na tom, že obyvatelé mají všechny denní potřeby v blízkém okolí svého bydliště. Většinu každodenních cest do práce, obchodů, za vzděláním či službami lze urazit v relativně krátkém čase (např. do 15 minut), a to pěšky, na kole nebo veřejnou dopravou. To je zajištěno pomocí vyšší hustoty zástavby, která má pestrou škálu funkcí. Takové město je konkurenceschopnější, atraktivnější, má nižší spotřebu energií, čistší ovzduší i zdravější a šťastnější obyvatelstvo. Nevzniká noclehárna ale živá čtvrť, kde se dá žít i pracovat.
+
+''Autorem vizualizací je [Matěj Čunát](https://lide.pirati.cz/profil/2053/).''
