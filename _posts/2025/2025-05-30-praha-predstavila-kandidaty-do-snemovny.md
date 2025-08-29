@@ -19,7 +19,7 @@ je místopředsedkyně Poslanecké sněmovny prosadila během svého působení 
 
 <img src="https://a.pirati.cz/praha/img/people/vislous2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **3.&nbsp;Václav Vislous, MSc.**
-je ekonom a manažer s mezinárodním přehledem, širokou jazykovou vybaveností a bohatými zkušenostmi ze státního, poradenského i soukromého sektoru v energetice, udržitelnosti a dopravě. Vystudoval Institut ekonomických studií FSV UK a manažerskou a finanční ekonomii na HEC v Paříži. Zabývá se o  udržitelnou mobilitu, moderní energetiku a ekonomickou konkurenceschopnost. Podílel se s profesorem Mejstříkem na tvorbě strategie konkurenceschopnosti ČR.
+je ekonom a manažer s mezinárodním přehledem, širokou jazykovou vybaveností a bohatými zkušenostmi ze státního, poradenského i soukromého sektoru v energetice, udržitelnosti a dopravě. Vystudoval Institut ekonomických studií FSV UK a manažerskou a finanční ekonomii na HEC v Paříži. Zajímá se o udržitelnou mobilitu, moderní energetiku a ekonomickou konkurenceschopnost. Podílel se s profesorem Mejstříkem na tvorbě strategie konkurenceschopnosti ČR.
 <div style="clear: both;"></div>
 
 <img src="https://a.pirati.cz/praha/img/people/dusek2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
