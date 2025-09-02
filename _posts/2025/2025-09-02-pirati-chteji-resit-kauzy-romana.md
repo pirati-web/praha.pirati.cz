@@ -7,7 +7,7 @@ tags: [Kauzy]
 
 Praha, 1. září 2025 – Piráti jako jediná strana pražského zastupitelstva chce řešit střet zájmů ředitele Pražských služeb Patrika Romana. SPOLU a STAN hlasovaly pro další krytí kauz ředitele Romana a navrhují změnu stanov, která dle Pirátů oslabuje kontrolní mechanismy dozorčí rady a snižuje dohled nad hospodařením městské společnosti. Piráti také neúspěšně žádali o svolání koaličního jednání k situaci Pražských služeb.
 
-> „Dnes jsme se na jednání rady projednali [tisk o porušení stanov](Assets/praha/pdf/komrskova.pdf) ze strany představenstva městské společnosti Pražské služby, o němž v minulých dnech informoval iROZHLAS.cz. Bohužel naši koaliční partneři SPOLU a STAN toto porušení stanov nevnímají jako závažné, protože pro naše usnesení nehlasovali,” popsala gesční náměstkyně Jana Komrsková. 
+> „Dnes jsme se na jednání rady projednali [tisk o porušení stanov](https://a.pirati.cz/praha/pdf/komrskova.pdf) ze strany představenstva městské společnosti Pražské služby, o němž v minulých dnech informoval iROZHLAS.cz. Bohužel naši koaliční partneři SPOLU a STAN toto porušení stanov nevnímají jako závažné, protože pro naše usnesení nehlasovali,” popsala gesční náměstkyně Jana Komrsková. 
 
 Klub SPOLU místo toho navrhl protinávrh obsahující rozvolnění stanov společnosti Pražských služeb a omluvit tak současná pochybení představenstva. 
 
