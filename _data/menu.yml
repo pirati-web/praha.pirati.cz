@@ -5,6 +5,9 @@ top:
   - link: "piratskyobchod.cz"
     url:  "https://piratskyobchod.cz"
     icon: "ico--cart"
+  - link: "Rozdávej Pirátské listy!"
+    url:  "https://docs.google.com/spreadsheets/d/1biFUu8PG6voY4Jl1VLxQdrO2XfLkWWNDVdk9dLaOslk/edit?usp=sharing"
+    icon: "ico--cart"
 
 
 main:
@@ -57,8 +60,6 @@ bottom:
         name: Dejte nám vědět
       - link: "https://nalodeni.pirati.cz"
         name: Připojte se
-      - link: "https://docs.google.com/spreadsheets/d/1biFUu8PG6voY4Jl1VLxQdrO2XfLkWWNDVdk9dLaOslk/edit?usp=sharing"
-        name: Rozdávej Pirátské listy!
   - class: small-12 medium-4
     title: Makáme
     links:
