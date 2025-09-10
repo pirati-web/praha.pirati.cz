@@ -5,9 +5,6 @@ top:
   - link: "piratskyobchod.cz"
     url:  "https://piratskyobchod.cz"
     icon: "ico--cart"
-  - link: "Kontaktní kampaň"
-    url:  "https://docs.google.com/spreadsheets/d/1biFUu8PG6voY4Jl1VLxQdrO2XfLkWWNDVdk9dLaOslk/edit?usp=sharing"
-    icon: "ico--cart"
 
 
 main:
@@ -48,6 +45,8 @@ main:
         link: /volby/2014-komunalni.html
   - name: Pirátské centrum
     link: /pice/
+  - name: Kontaktní kampaň
+    url: "https://docs.google.com/spreadsheets/d/1biFUu8PG6voY4Jl1VLxQdrO2XfLkWWNDVdk9dLaOslk/edit?usp=sharing"
   - name: Kontakt
     link: /kontakt/
     
