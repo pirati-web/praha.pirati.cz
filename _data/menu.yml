@@ -46,7 +46,7 @@ main:
   - name: Pirátské centrum
     link: /pice/
   - name: Kontaktní kampaň
-    url: "https://docs.google.com/spreadsheets/d/1biFUu8PG6voY4Jl1VLxQdrO2XfLkWWNDVdk9dLaOslk/edit?usp=sharing"
+    link: "https://docs.google.com/spreadsheets/d/1biFUu8PG6voY4Jl1VLxQdrO2XfLkWWNDVdk9dLaOslk/edit?usp=sharing"
   - name: Kontakt
     link: /kontakt/
     
