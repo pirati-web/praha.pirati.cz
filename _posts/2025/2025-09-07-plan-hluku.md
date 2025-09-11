@@ -1,6 +1,6 @@
 ---
 title: "Veřejnost má možnost připomínkovat návrh nového Akčního plánu snižování hluku pro metropoli"
-author: Piráti
+author: MHMP
 image: posts/novaradnice3.jpg
 tags: [Životní prostředí]
 ---

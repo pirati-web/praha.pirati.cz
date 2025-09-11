@@ -1,6 +1,6 @@
 ---
 title: "Navyšováním nájemného v nebytových prostorách na tržní úroveň získává Praha miliony korun navíc do městské kasy"
-author: Piráti
+author: MHMP
 image: posts/zabransky-kreslo.jpg
 tags: [Majetek]
 ---
