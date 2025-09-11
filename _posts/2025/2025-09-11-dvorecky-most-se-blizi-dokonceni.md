@@ -1,7 +1,7 @@
 ---
 title: "Stavba Dvoreckého mostu je ve finální fázi, zprovozněn má být v prvním čtvrtletí příštího roku"
 author: MHMP
-image: posts/vltava-most.jpg
+image: posts/hrib05.jpg
 tags: [Doprava]
 ---
 
