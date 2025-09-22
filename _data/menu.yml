@@ -45,6 +45,8 @@ main:
         link: /volby/2014-komunalni.html
   - name: Pirátské centrum
     link: /pice/
+  - name: Kampaň v ulicích
+    link: "https://docs.google.com/spreadsheets/d/1biFUu8PG6voY4Jl1VLxQdrO2XfLkWWNDVdk9dLaOslk/edit?usp=sharing"
   - name: Kontakt
     link: /kontakt/
     
