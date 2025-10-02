@@ -9,7 +9,7 @@ Pražští lídři Zdeněk Hřib a Olga Richterová představili svůj tým odbo
 
 <img src="https://a.pirati.cz/praha/img/people/hrib2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **1.&nbsp;MUDr.&nbsp;Zdeněk Hřib**
-jako primátor úspěšně provedl Prahu řadou globálních krizí, od pandemie přes ekonomickou krizi až po dobře zvládnutý příliv uprchlíků z napadené Ukrajiny. V době kdy byl primátorem Prahy, se povolilo k výstavbě rekordní množství nových bytů za jeden rok. Jako náměstek pro dopravu dohlíží na velké infrastrukturní projekty – od výstavby Metra D po rekonstrukci a stavby nových mostů – které posunou Prahu na novou úroveň. Dříve se jako lékař a manažer podílel na projektech v oblasti kvality péče a bezpečnosti pacientů nebo na vývoji aplikace eRecept. S vaší důvěrou nakopne českou společnost směrem k větší stabilitě, odolnosti a svobodě, jak to dokázal už v Praze.
+jako primátor úspěšně provedl Prahu řadou globálních krizí, od pandemie přes ekonomickou krizi až po dobře zvládnutý příliv uprchlíků z napadené Ukrajiny. V době, kdy byl primátorem Prahy, se povolilo k výstavbě rekordní množství nových bytů za jeden rok. Jako náměstek pro dopravu dohlíží na velké infrastrukturní projekty – od výstavby Metra D po rekonstrukci a stavby nových mostů – které posunou Prahu na novou úroveň. Dříve se jako lékař a manažer podílel na projektech v oblasti kvality péče a bezpečnosti pacientů nebo na vývoji aplikace eRecept. S vaší důvěrou nakopne českou společnost směrem k větší stabilitě, odolnosti a svobodě, jak to dokázal už v Praze.
 <div style="clear: both;"></div>
 
 <img src="https://a.pirati.cz/praha/img/people/richterova2025.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
