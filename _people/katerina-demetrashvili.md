@@ -6,7 +6,7 @@ titles:
   after:
 category:                 
   - poslanci
-img: people/demetrashvili2025.jpg 
+img: people/demetrashvili2025b.jpg 
 heroImg: Prague_panorama.jpeg
 description: poslankyně PSP ČR za Piráty
 funkce:
