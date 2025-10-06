@@ -10,11 +10,7 @@ img: people/olga-richterova.jpg
 heroImg: Prague_panorama.jpeg
 description: místopředsedkyně Poslanecké sněmovny PČR 
 funkce:
-   - místopředsedkyně Poslanecké sněmovny PČR
-   - místopředsedkyně <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1547">Organizačního výboru PSP ČR</a>
-   - členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1630">Podvýboru pro sociálně zdravotní pomezí PSP ČR</a>
-   - členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1641">Podvýboru pro média a svobodu slova</a>
-   - členka <a href="https://www.psp.cz/sqw/fsnem.sqw?id=1600">Podvýboru pro ochranu spotřebitele</a>
+   - předsedkyně poslaneckého klubu Pirátů
 mail:
    - olga.richterova@pirati.cz
 mob: 
