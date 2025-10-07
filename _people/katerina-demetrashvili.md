@@ -8,9 +8,11 @@ category:
   - poslanci
 img: people/demetrashvili2025b.jpg 
 heroImg: Prague_panorama.jpeg
-description: poslankyně PSP ČR za Piráty
+description: poslankyně PSP ČR
 funkce:
-   - poslankyně poslaneckého klubu Pirátů
+   - poslankyně PSP ČR
+teamDescription:
+  poslanci: poslankyně PSP ČR
 mail:
    - katerina.demetrashvili@pirati.cz
 mob: 
