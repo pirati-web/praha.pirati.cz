@@ -13,6 +13,7 @@ teamDescription:
   poslanci: předsedkyně poslaneckého klubu Pirátů
 funkce:
    - předsedkyně poslaneckého klubu Pirátů
+   - poslankyně PSP ČR
 mail:
    - olga.richterova@pirati.cz
 mob: 
