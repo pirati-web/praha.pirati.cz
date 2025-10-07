@@ -10,7 +10,9 @@ img: people/svarovska2025b.jpg
 heroImg: Prague_panorama.jpeg
 description: poslankyně PSP ČR Strany zelených zvolená na pirátské kandidátce
 funkce:
-   - poslankyně 
+   - poslankyně
+teamDescription:
+  poslanci: poslankyně PSPČR za Zelené
 mail:
    - gabriela.svarovska@zeleni.cz
 mob: +420 720 593 914
