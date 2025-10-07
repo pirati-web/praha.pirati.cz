@@ -8,7 +8,9 @@ category:
   - poslanci
 img: people/olga-richterova.jpg 
 heroImg: Prague_panorama.jpeg
-description: poslankyně Poslanecké sněmovny PČR 
+description: poslankyně Poslanecké sněmovny PČR
+teamDescription:
+  poslanci: předsedkyně poslaneckého klubu Pirátů
 funkce:
    - předsedkyně poslaneckého klubu Pirátů
 mail:
