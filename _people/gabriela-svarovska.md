@@ -10,7 +10,8 @@ img: people/svarovska2025b.jpg
 heroImg: Prague_panorama.jpeg
 description: poslankyně PSP ČR Strany zelených zvolená na pirátské kandidátce
 funkce:
-   - poslankyně
+   - poslankyně PSP ČR
+   - spolupředsedkyně Zelených
 teamDescription:
   poslanci: poslankyně PSP ČR za Zelené
 mail:
