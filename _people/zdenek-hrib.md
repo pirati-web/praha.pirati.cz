@@ -21,6 +21,7 @@ teamDescription:
   poslanci: poslanec PSP ČR
 funkce: 
   - předseda České pirátské strany
+  - poslanec PSP ČR
   - 1. náměstek primátora hl. města pro dopravu
   - zastupitel hlavního města Prahy
   - předseda dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
