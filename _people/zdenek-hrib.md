@@ -17,7 +17,8 @@ description: 1. náměstek primátora Prahy pro dopravu
 teamDescription:
   mhmp-rhmp: 1. náměstek primátora pro dopravu
   mhmp: zastupitel hl. města Prahy
-  dr: Dopravní podnik hl. města Prahy, a.s. 
+  dr: Dopravní podnik hl. města Prahy, a.s.
+  poslanci: poslanec PSP ČR
 funkce: 
   - předseda České pirátské strany
   - 1. náměstek primátora hl. města pro dopravu
