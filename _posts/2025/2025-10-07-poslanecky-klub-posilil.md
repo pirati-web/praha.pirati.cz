@@ -23,25 +23,3 @@ Tak letos Piráti a Pirátky! Díky za všechny vaše hlasy a podporu.
 **Katerina Demetrashvili** je studentkou práv a místopředsedkyní Mladého Pirátstva, která se stará o nábor nových členů a dokázala rozšířit řady organizace o 40 %. Podílela se na projektech Mysli na mysl, upozorňujícím na nedostupnost a nedostatečnou kvalitu psychoterapeutické péče, nebo Cyklus není luxus, usilujícím o zvýšení dostupnosti menstruačních potřeb ve školách a veřejných institucích. Absolvovala hudební gymnázium a věnuje se studiu jazyků, hře na klavír, poezii a malbě. V Poslanecké sněmovně chce se zaměřit mimo jiné na téma duševního zdraví. 
 
 **Gabriela Svárovská** je spolupředsedkyně strany Zelených, odbornice na lidská práva a boj proti oligarchizaci a bývalá česká diplomatka. Aktivně se zabývá tématy pozice Evropy ve světě, rozšiřování EU, potřebnými reformami evropských institucí, tématy bezpečnosti nebo obrany. S Piráty má společné také téma ochrany životního prostředí.  
-
-Mezi zvolenými poslankyněmi a poslanci za Pirátskou stranu jsou:
-
-* PhDr. Olga Richterová, Ph.D. – Piráti
-* MUDr. Zdeněk Hřib – Piráti
-* Mgr. Gabriela Svárovská, Ph.D. – Zelení
-* Katerina Demetrashvili – Piráti
-* PhDr. Ivan Bartoš, Ph.D. – Piráti
-* Samuel Volpe – Piráti
-* Ing. arch. Veronika Kovářová – Piráti
-* MUDr. Eva Šrámková – Piráti
-* Kateřina Stojanová – Piráti
-* Mgr. Jana Patková, MBA – Piráti
-* Mgr. Lenka Martínková Španihelová – Piráti
-* Mgr. Barbora Pipášová – Piráti
-* RNDr. Vendula Svobodová – Piráti
-* Mgr. Irena Ferčíková Konečná, Ph.D. – Zelení
-* Mgr. Šárka Kučerová – Piráti
-* Bc. Hana Ančincová – Piráti
-* Mgr. Michaela Moricová – Piráti
-* Mgr. Andrea Hoffmannová, Ph.D. – Piráti
-
