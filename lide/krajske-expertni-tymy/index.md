@@ -48,7 +48,7 @@ keywords: piráti, pirátky, praha, KET, krajské expertní týmy
 <a href="https://forum.pirati.cz/viewforum.php?f=1266"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/ket/ket-kultura.png" alt="Kultura a cestovní ruch" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2">Kultura a cestovní ruch</h1> 
-<p class="card-body-text">Ondřej Vykoukal<br /><a href="mailto:ondrej.vykoukal@pirati.cz">ondrej.vykoukal@pirati.cz</a></p>
+<p class="card-body-text">Jana Raiterová<br /><a href="mailto:jana.raiterova@pirati.cz">jana.raiterova@pirati.cz</a></p>
 </div>
 </article>
 
