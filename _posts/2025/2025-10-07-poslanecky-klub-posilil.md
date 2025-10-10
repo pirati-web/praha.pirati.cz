@@ -16,14 +16,14 @@ Pirátský klub začne okamžitě prosazovat svůj program. Stále platí, že P
 
 Tak letos Piráti a Pirátky! Díky za všechny vaše hlasy a podporu. 
 
-<img src="https://a.pirati.cz/praha/img/people/richterova-m.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
+<img src="https://a.pirati.cz/praha/img/posts/richterova-m.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **Olga Richterová** jako místopředsedkyně Poslanecké sněmovny prosadila během svého působení v politice řadu zákonných úprav v oblasti sociální politiky, ať už šlo o příspěvek na vozidlo pro zdravotně postižené, možnost střídání rodičů při ošetřování, výraznější umožnění přítomnosti rodičů u dětí v nemocnicích, prodloužení otcovské dovolené a navýšení rodičovského příspěvku, sousedské dětské skupiny a zrušení kojeneckých ústavů pro nejmenší děti. Pomohla také s nápravou chyb vlády ohledně ošetřovného a kompenzací v souvislosti s pandemií. V letošních volbách získala od Pražanů 32 447 preferenčních hlasů. 
 
-<img src="https://a.pirati.cz/praha/img/people/hrib-m.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
+<img src="https://a.pirati.cz/praha/img/posts/hrib-m.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **Zdeněk Hřib** jako primátor úspěšně provedl Prahu řadou globálních krizí, od pandemie přes ekonomickou krizi až po dobře zvládnutý příliv uprchlíků z napadené Ukrajiny. V době, kdy byl primátorem Prahy, se povolilo k výstavbě rekordní množství nových bytů za jeden rok. Jako náměstek pro dopravu dohlížel na velké infrastrukturní projekty – od výstavby Metra D po rekonstrukce a stavby nových mostů – které posunou Prahu na novou úroveň. Dříve se jako lékař a manažer podílel na projektech v oblasti kvality péče a bezpečnosti pacientů nebo na vývoji aplikace eRecept. Jako poslanec nakopne českou společnost směrem k větší stabilitě, odolnosti a svobodě, jak to dokázal už v Praze.
 
-<img src="https://a.pirati.cz/praha/img/people/demetrashvili-m.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
+<img src="https://a.pirati.cz/praha/img/posts/demetrashvili-m.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **Katerina Demetrashvili** je studentkou práv a místopředsedkyní Mladého Pirátstva, která se stará o nábor nových členů a dokázala rozšířit řady organizace o 40 %. Podílela se na projektech Mysli na mysl, upozorňujícím na nedostupnost a nedostatečnou kvalitu psychoterapeutické péče, nebo Cyklus není luxus, usilujícím o zvýšení dostupnosti menstruačních potřeb ve školách a veřejných institucích. Absolvovala hudební gymnázium a věnuje se studiu jazyků, hře na klavír, poezii a malbě. V Poslanecké sněmovně chce se zaměřit mimo jiné na téma duševního zdraví. 
 
-<img src="https://a.pirati.cz/praha/img/people/svarovska-m.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
+<img src="https://a.pirati.cz/praha/img/posts/svarovska-m.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;">
 **Gabriela Svárovská** je spolupředsedkyně strany Zelených, odbornice na lidská práva a boj proti oligarchizaci a bývalá česká diplomatka. Aktivně se zabývá tématy pozice Evropy ve světě, rozšiřování EU, potřebnými reformami evropských institucí, tématy bezpečnosti nebo obrany. S Piráty má společné také téma ochrany životního prostředí.  
