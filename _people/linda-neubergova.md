@@ -5,7 +5,6 @@ titles:
   before:
   after:
 category:
-  - kontaktni_osoba
 img: people/linda-neubergova.png
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
