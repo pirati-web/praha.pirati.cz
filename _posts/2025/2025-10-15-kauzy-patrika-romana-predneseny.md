@@ -1,7 +1,7 @@
 ---
 title: "Piráti a Praha sobě přednesli kauzy Patrika Romana zastupitelům, nové video usvědčuje ředitele PSAS ze lži"
 author: Piráti Praha
-image: posts/tk-prazskesluzby.jpg
+image: posts/tk-prazskesluzby.jpeg
 tags: [Kauzy]
 ---
 
