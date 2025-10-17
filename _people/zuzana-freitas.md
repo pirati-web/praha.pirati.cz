@@ -14,7 +14,6 @@ teamDescription:
   vlada: náměstkyně ministra práce a sociálních věcí ČR
   mhmp: zastupitelka hl. města Prahy
 funkce:
-  - náměstkyně ministra práce a sociálních věcí ČR
   - zastupitelka hl. města Prahy
   - členka výboru ZHMP pro bydlení a bytovou výstavbu
   - členka výboru ZHMP pro rodinnou politiku a sociální oblast
@@ -43,6 +42,8 @@ V rámci své práce se zaměřuje na oblasti bydlení a sociálních věcí.
 - koordinátorka ETK sociální věci (programové skupiny) pro sněmovní volby 2021
 - vedoucí pražského programového týmu pro volby 2022
 - 2020-2022 místopředsedkyně KS Praha
+
+- náměstkyně ministra práce a sociálních věcí ČR (2022-2024)
 
 **Ve volebním období 2022-2026:**
 zastupitelka Magistrátu hl. m. Prahy a členka:
