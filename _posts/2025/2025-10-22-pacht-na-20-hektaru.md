@@ -1,7 +1,7 @@
 ---
 title: "Praha propachtuje dalších 20 hektarů své zemědělské půdy. Hospodařit se na nich bude ekologicky"
 author: MHMP
-image: posts/komrskova01.jpg
+image: posts/komrskova02.jpg
 tags: [Majetek]
 ---
 
