@@ -1,7 +1,7 @@
 ---
 title: "Piráti nesouhlasí s prodejem bývalé budovy radnice v Praze 10, v objektu by mohl vzniknout školský kampus"
 author: Piráti
-image: posts/komrskova01.jpg
+image: posts/radnice10.jpg
 tags: [Praha 10]
 ---
 
