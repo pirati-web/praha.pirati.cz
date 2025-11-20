@@ -1,5 +1,5 @@
 ---
-title: "Praha připravuje rozsáhlý geotechnický průzkumnutný pro dostavbu Městského okruhu"
+title: "Praha připravuje rozsáhlý geotechnický průzkum nutný pro dostavbu Městského okruhu"
 author: MHMP
 image: posts/hrib06.jpg
 tags: [Doprava]
