@@ -1,7 +1,7 @@
 ---
 title: "Praha 10 nemá plán, jak vyřeší otázku nového sídla své radnice. Přesto chce prodat strategický majetek za miliardu"
 author: MHMP
-image: posts/komrskova01.jpg
+image: posts/radnice10.jpg
 tags: [Praha 10]
 ---
 
