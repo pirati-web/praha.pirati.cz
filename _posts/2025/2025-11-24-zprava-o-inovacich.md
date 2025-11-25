@@ -1,7 +1,7 @@
 ---
 title: "Praha představuje nejdůležitější data o inovacíchza rok 2024. V mnoha oblastech roste rekordním tempem"
 author: MHMP
-image: posts/mazur36.jpg
+image: posts/mazur10.jpg
 tags: [Smart Cities]
 ---
 
