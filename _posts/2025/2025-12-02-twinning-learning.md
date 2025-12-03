@@ -1,7 +1,7 @@
 ---
 title: "Praha prostřednictvím programu Twinning Learning získá přístup k nejlepším klimatickým řešením v Evropě"
 author: MHMP
-image: posts/mazur-9.jpg
+image: posts/mazur9.jpg
 tags: [IT]
 ---
 
