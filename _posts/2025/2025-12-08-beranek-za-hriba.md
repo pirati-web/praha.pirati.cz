@@ -2,7 +2,7 @@
 title: "Beránek za Hřiba, Slabihoudek za Pospíšila. Krajské fórum Pirátů schválilo personální změny v pražské radě "
 author: MHMP
 image: posts/novaradnice33.jpg
-tags: [IT]
+tags: [Praha]
 ---
 
 Praha, 8. prosince 2025 – Souhlasem s personálními změnami v radě hl. města Prahy skončilo víkendové hlasování krajského fóra pražských Pirátů. Stejně jako o podobě koaliční smlouvy hlasovala krajská členská základna také o jejich následných změnách. Zastupitelský klub Pirátů tak od svých krajských spolustraníků získal mandát k prohlasování výměny na pozici náměstka pro dopravu – Zdeňka Hřiba nahradí Jaromír Beránek a v gesci kultury, kde Jiřího Pospíšila vystřídá Tomáš Slabihoudek. K personálním změnám dojde během čtvrtečního zasedání pražského zastupitelstva. 
