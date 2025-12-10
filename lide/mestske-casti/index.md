@@ -152,7 +152,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <a href="https://praha10.pirati.cz"><img class="w-full h-48 object-cover" src="https://a.pirati.cz/praha/img/mestske-casti/badge/praha10.png" alt="MS Praha 10" /></a>
 <div class="card__body p-4">
 <h1 class="card-headline mb-2"><a href="http://praha10.pirati.cz" target="_blank">MS Praha 10</a></h1> 
-<p class="card-body-text">Zuzana Lajksnerová<br /><a href="mailto:zuzana.lajksnerova@pirati.cz">petr.benes@pirati.cz</a></p>
+<p class="card-body-text">Zuzana Lajksnerová<br /><a href="mailto:zuzana.lajksnerova@pirati.cz">zuzana.lajksnerova@pirati.cz</a></p>
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/piratipraha10" class="social-icon "><i class="ico--facebook"></i></a>
