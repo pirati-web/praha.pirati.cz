@@ -156,7 +156,7 @@ keywords: piráti, pirátky, praha, městské části, místní sdružení
 <br />
    <div class="social-icon-group space-x-2 ">
       <a href="https://www.facebook.com/piratipraha10" class="social-icon "><i class="ico--facebook"></i></a>
-      <a href="https://www.instagram.com/piratipraha10/" class="social-icon "><i class="ico--instagram"></i></a>    
+      <a href="https://www.instagram.com/pirati.praha10/" class="social-icon "><i class="ico--instagram"></i></a>    
       <a href="https://praha10.pirati.cz" class="social-icon "><i class="ico--globe"></i></a>
       <a href="https://forum.pirati.cz/viewforum.php?f=727" class="social-icon "><i class="ico--bubbles"></i></a>   
    </div>
