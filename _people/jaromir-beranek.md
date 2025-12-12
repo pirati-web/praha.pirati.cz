@@ -61,7 +61,7 @@ orddr: 1
 ordpos: 2
 ---
 
-Mgr. Ing. Jaromír Beránek, CEMS MIM (* 14. května 1986) je zastupitelem hl. m. Prahy za Piráty. Členem České pirátské strany je od listopadu 2016, v minulosti byl vedoucím finančního odboru strany a předsedou pražských Pirátů.
+Mgr. Ing. Jaromír Beránek, CEMS MIM (* 14. května 1986) je 1. náměstek primátora hl. města pro dopravu. Členem České pirátské strany je od listopadu 2016, v minulosti byl vedoucím finančního odboru strany a předsedou pražských Pirátů.
 
 Jaromír se narodil a vyrůstal v Praze. Po maturitě na Gymnáziu Jana Nerudy vystudoval obory CEMS – Mezinárodní management na VŠE v Praze a Právo na Univerzitě Karlově. Během studií absolvoval studijní stáže na univerzitách v Kolíně nad Rýnem v Německu a ve Fort Lauderdale ve Spojených státech a také pracovní stáž ve společnosti Bosch v holandském Eindhovenu. Několik let spolupracoval jako ekonomický komentátor a moderátor s Českým rozhlasem (stanice ČRo 6, v současnosti ČRo Plus).
 
@@ -74,6 +74,9 @@ Jaromír je ženatý a má jednoho syna. Hovoří plynně anglicky a německy a 
 V roce 2018 byl zvolen do zastupitelstva hl. m. Prahy, kde do roku 2022 působil jako předseda Výboru pro IT a Smart City ZHMP. V roce 2022 byl opětovně zvolen do funkce zastupitele a od února 2023 předsedá Výboru pro zahraniční vztahy a EU fondy. Vedle evropských a zahraničních záležitostí se i nadále věnuje oblasti Smart City, inovačním projektům a podpoře podnikání. Dále se zabývá hospodařením města, spolupracuje rovněž na rozvoji integrovaného dopravního systému a podpoře bezemisní mobility. Současně zastupuje zájmy Prahy jako akcionáře v dozorčí radě Operátora ICT a Technické správy komunikací.
 
 Od ledna 2025 vede českou pobočku organizace Outward Bound, která se věnuje rozvoji dětí a mladých lidí expedicemi a dobrodružnou výchovou v přírodě.
+
+V prosinci 2025 byl zvolen 1. náměstkem primátora hl. města pro dopravu.
+
 ***
 
 Jaromir Beranek (* May 14, 1986) is a member of the Prague City Assembly, representing the Pirate Party, and Chairman of the IT and Smart City Committee of the Prague City Assembly. He has been with the Czech Pirate Party since November 2016, later served as a financial manager of the party, and a member of the steering board of Prague Pirates.
@@ -83,3 +86,5 @@ Jaromir studied at universities in Prague, Cologne and Fort Lauderdale and holds
 In 2018, Jaromir was elected into the Prague City Assembly. As the Chairman of the IT and Smart City Committee, he focuses on Smart City and innovation projects, and promotes enterpreneurship. Furthermore, he oversees financial administration and European projects as well as the development of the integrated transportation system, and the promotion of clean mobility. Since October 2019, he has been serving also as the Deputy Chair of the Pirate Party Group in the Prague City Assembly. He was re-elected to the Prague City Assembly in 2022 and in 2023 he was elected to be the chairman of the Committee of the City Assembly for foreign relations and EU funds.
 
 Since Janury 2025, he has been acting as the executive director of the Czech branch of the Outward Bound organization, focusing on the development of children and youth through expeditions and adventuruos education in the nature.
+
+He was elected as 1st deputy of the Mayor of Prague responsible for transportation.

@@ -41,7 +41,7 @@ ordmhmp: 12
 orddr: 15
 
 ---
-**Zdeněk Hřib** (\* 1981) je předsedou České pirátské strany a 1. náměstek primátora hl. města pro dopravu. Narodil se ve Slavičíně a vyrůstal ve Zlíně. V letech 1999 až 2006 vystudoval obor všeobecné lékařství na 3. lékařské fakultě Univerzity Karlovy v Praze (získal titul MUDr., specializace nemoci z ozáření). Během studií absolvoval v roce 2005 stáž na Tchaj-wanu. V Praze žije od roku 1999. Je ženatý a má 3 děti. V roce 2025 byl ve volbách do Sněmovny zvolen poslancem Parlamentu České republiky. 
+**Zdeněk Hřib** (\* 1981) je předsedou České pirátské strany a do prosince 2025 i 1. náměstek primátora hl. města pro dopravu. Narodil se ve Slavičíně a vyrůstal ve Zlíně. V letech 1999 až 2006 vystudoval obor všeobecné lékařství na 3. lékařské fakultě Univerzity Karlovy v Praze (získal titul MUDr., specializace nemoci z ozáření). Během studií absolvoval v roce 2005 stáž na Tchaj-wanu. V Praze žije od roku 1999. Je ženatý a má 3 děti. V roce 2025 byl ve volbách do Sněmovny zvolen poslancem Parlamentu České republiky. 
 
 V roce 2007 pracoval pro akciovou společnost MD Access, kde byl vedoucím projektů MD KEY a MD COMFORT. O rok později působil jako vedoucí sekce informatiky ve Státním ústavu pro kontrolu léčiv a absolvoval stáž National Patient Safety Agency v Londýně. V letech 2008 až 2018 byl dále konzultantem ve společnosti AQUASOFT, která v roce 2016 změnila název na Solitea Business Solutions. V této firmě se podílel na projektu elektronického receptu.
 
