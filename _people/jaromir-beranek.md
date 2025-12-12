@@ -5,18 +5,20 @@ titles:
   before: Mgr. Ing. 
   after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+   - mhmp-rhmp
    - mhmp
    - dr
 img: people/jaromir-beranek-2022.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
-description:  předseda výboru pro zahraniční vztahy a EU fondy ZHMP
+description: 1. náměstek primátora hl. města Prahy pro dopravu
 partyUid: pirati
 teamDescription:
+  mhmp-rhmp: 1. náměstek primátora pro dopravu
   mhmp: zastupitel hl. města Prahy
   dr: Pražská energetika, a.s., Operátor ICT, a.s.
 funkce: 
   - zastupitel hl. města Prahy
-  - předseda výboru pro zahraniční vztahy a EU fondy ZHMP
+  - 1. náměstek primátora hl. města pro dopravu
   - člen finančního výboru ZHMP
   - člen Výboru pro evropské záležitosti ZHMP
   - člen Výboru pro IT a Smart City ZHMP
@@ -25,14 +27,38 @@ funkce:
 mail:
   - jaromir.beranek@pirati.cz
 mob: +420 775 890 490
+asistenti:
+  - name: Mgr. Marek Šafra
+    position: vedoucí sekretariátu
+    mail: marek.safra@praha.eu
+  - name: Veronika Vorlíčková
+    position: poradkyně
+    mail: veronika.vorlickova@praha.eu
+  - name: Bc. Marek Bělor
+    position: poradce
+    mail: marek.belor@praha.eu
+  - name: Ing. arch. Václav Brejška
+    position: poradce
+    mail: vaclav.brejska@praha.eu
+  - name: Mgr. Tomáš Vovsík
+    position: poradce
+    mail: tomas.vovsik@praha.eu
+  - name: Adéla Jankevič
+    position: sekretářka
+    mail: adela.jankevic@praha.eu
+  - name: Anna Cozlová
+    position: sekretářka
+    mail: anna.cozlova@praha.eu
 profiles:
   github:     
   facebook:   https://www.facebook.com/piratberanek/
   twitter:    https://twitter.com/JaromirBeranek
   flickr:
 calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
-ordmhmp: 12
-orddr: 15
+ordrhmp: 1
+ordmhmp: 4
+orddr: 1
+ordpos: 2
 ---
 
 Mgr. Ing. Jaromír Beránek, CEMS MIM (* 14. května 1986) je zastupitelem hl. m. Prahy za Piráty. Členem České pirátské strany je od listopadu 2016, v minulosti byl vedoucím finančního odboru strany a předsedou pražských Pirátů.

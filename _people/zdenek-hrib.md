@@ -5,17 +5,15 @@ titles:
   before: MUDr. 
   after:
 category:                 
-  - mhmp-rhmp
   - mhmp
   - dr
   - poslanci
 img: people/zdenek-hrib-2022.jpg
 heroImg: Prague_panorama.jpeg
 partyUid: pirati
-profession: 1. náměstek primátora hl. města Prahy pro dopravu
-description: 1. náměstek primátora Prahy pro dopravu
+profession: poslanec PČR
+description: zastupitel hl. města Prahy
 teamDescription:
-  mhmp-rhmp: 1. náměstek primátora pro dopravu
   mhmp: zastupitel hl. města Prahy
   dr: Dopravní podnik hl. města Prahy, a.s.
   poslanci: poslanec PSP ČR
@@ -31,28 +29,6 @@ funkce:
 mail:
 - zdenek.hrib@praha.eu
 mob: +420 602 560 028
-asistenti:
-  - name: Mgr. Marek Šafra
-    position: vedoucí sekretariátu
-    mail: marek.safra@praha.eu
-  - name: Veronika Vorlíčková
-    position: poradkyně
-    mail: veronika.vorlickova@praha.eu
-  - name: Bc. Marek Bělor
-    position: poradce
-    mail: marek.belor@praha.eu
-  - name: Ing. arch. Václav Brejška
-    position: poradce
-    mail: vaclav.brejska@praha.eu
-  - name: Mgr. Tomáš Vovsík
-    position: poradce
-    mail: tomas.vovsik@praha.eu
-  - name: Adéla Jankevič
-    position: sekretářka
-    mail: adela.jankevic@praha.eu
-  - name: Anna Cozlová
-    position: sekretářka
-    mail: anna.cozlova@praha.eu
 profiles:
   facebook:  https://www.facebook.com/zdenek.hrib.primator/
   twitter:   https://twitter.com/ZdenekHrib
@@ -61,10 +37,8 @@ profiles:
   flickr:    https://www.flickr.com/search/?text=zden%C4%9Bk%20H%C5%99ib
   wikipedia: https://cs.wikipedia.org/wiki/Zden%C4%9Bk_H%C5%99ib
   blog:      https://blog.aktualne.cz/blogy/zdenek-hrib.php
-ordrhmp: 1
-ordmhmp: 4
-orddr: 1
-ordpos: 2
+ordmhmp: 12
+orddr: 15
 
 ---
 **Zdeněk Hřib** (\* 1981) je předsedou České pirátské strany a 1. náměstek primátora hl. města pro dopravu. Narodil se ve Slavičíně a vyrůstal ve Zlíně. V letech 1999 až 2006 vystudoval obor všeobecné lékařství na 3. lékařské fakultě Univerzity Karlovy v Praze (získal titul MUDr., specializace nemoci z ozáření). Během studií absolvoval v roce 2005 stáž na Tchaj-wanu. V Praze žije od roku 1999. Je ženatý a má 3 děti. V roce 2025 byl ve volbách do Sněmovny zvolen poslancem Parlamentu České republiky. 
