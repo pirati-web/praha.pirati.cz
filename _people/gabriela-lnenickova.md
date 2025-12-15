@@ -10,7 +10,7 @@ category:
 img: people/gabriela-lnenickova-2022-3.jpg
 heroImg: Prague_panorama.jpeg
 profession: zastupitelka hl. města Prahy, projektová manažerka a šachová mistryně
-description: radní MČ Praha-Suchdol, projektová manažerka a šachová mistryně
+description: radní MČ Praha-Suchdol, předsedkyně výboru pro zahraniční vztahy a EU fondy ZHMP.
 teamDescription:
   mhmp: zastupitelka hl. města Prahy
   dr: Dopravní podnik hl. města Prahy, a.s., Technická správa komunikací a.s.
@@ -25,6 +25,7 @@ funkce:
   - zastupitelka hl. města Prahy
   - zastupitelka MČ Praha–Suchdol
   - vedoucí <a href="https://forum.pirati.cz/viewforum.php?f=1262">KET Doprava</a>
+  - předsedkyně výboru pro zahraniční vztahy a EU fondy ZHMP
   - předsedkyně Komise RHMP pro pěší a bezbariérovost
   - členka dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
   - členka výboru ZHMP pro dopravu
@@ -35,7 +36,7 @@ ordmhmp: 11
 orddr: 4
 ---
 
-**Gabriela Lněničková** je zastupitelka hl. m. Prahy za Piráty. 
+**Gabriela Lněničková** je zastupitelka hl. m. Prahy za Piráty, předsedkyně výboru pro zahraniční vztahy a EU fondy ZHMP.
 
 Pochází z Třeboně a v Praze žije od roku 1997. Vystudovala obor mezinárodní obchod na Vysoké škole ekonomické v Praze. Zúčastnila se také zahraničních studijních pobytů na Wirstchaftsuniversität Wien v Rakousku a Stockholm School of Economics ve Švédsku. Poté absolvovala MBA program na Anglo-American University, který zaštiťuje Chapman University v Kalifornii, USA.
 
@@ -43,7 +44,7 @@ V září 2022 byla zvolena zastupitelkou hl. města Prahy, kde je členkou výb
 
 Od listopadu 2018 je zastupitelkou městské části Praha–Suchdol. V letech 2019 – 2022 působila jako manažerka evropského projektu SMACKER se zaměřením na udržitelnou dopravu v severozápadní části pražské aglomerace. [https://praha-suchdol.citychangers.cz/](https://praha-suchdol.citychangers.cz/)
 
-V letech 2005-2019 pracovala pro švédskou organizaci se zaměřením na obchodní spolupráci mezi ČR a Švédskem. Jako projektová manažerka měla na starosti řízení projektů, obchodní kontakty a komunikaci se zákazníky, analýzy trhu a organizaci odborných akcí.
+V letech 2005-2019 pracovala pro švédskou organizaci se zaměřením na obchodní spolupráci mezi ČR a Švédskem. Jako projektová manažerka měla na starosti řízení projektů, obchodní kontakty a komunikaci se zákazníky, analýzy trhu a organizaci odborných akcí. V roce 2025 byla zvolena neuvolněnou předsedkyní výbour pro zahraniční vztahy a EU fondy ZHMP
 
 Je mezinárodní mistryní v šachu. V roce 1997 vyhrála Mistrovství ČR v kategorii žen a juniorek a v následujících letech získala jednu stříbrnou a dvě bronzové medaile. Reprezentovala Českou republiku na světových a evropských šampionátech mládeže, mezinárodních turnajích a na šachové olympiádě.
 
