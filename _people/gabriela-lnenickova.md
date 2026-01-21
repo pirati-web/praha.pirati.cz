@@ -23,15 +23,15 @@ profiles:
   twitter:  https://twitter.com/glnenickova		  
 funkce:
   - zastupitelka hl. města Prahy
-  - zastupitelka MČ Praha–Suchdol
-  - vedoucí <a href="https://forum.pirati.cz/viewforum.php?f=1262">KET Doprava</a>
   - předsedkyně výboru pro zahraniční vztahy a EU fondy ZHMP
   - předsedkyně Komise RHMP pro pěší a bezbariérovost
-  - členka dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
   - členka výboru ZHMP pro dopravu
   - členka výboru ZHMP pro strategické investice
   - členka výboru ZHMP pro územní rozvoj
-  - členka výboru ZHMP pro zahraniční vztahy a EU fondy
+  - členka dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
+  - členka dozorčí rady Technické správy komunikací HMP
+  - zastupitelka MČ Praha–Suchdol
+  - vedoucí <a href="https://forum.pirati.cz/viewforum.php?f=1262">KET Doprava</a> a vedoucí RT Doprava
 ordmhmp: 11
 orddr: 4
 ---
@@ -44,7 +44,7 @@ V září 2022 byla zvolena zastupitelkou hl. města Prahy, kde je členkou výb
 
 Od listopadu 2018 je zastupitelkou městské části Praha–Suchdol. V letech 2019 – 2022 působila jako manažerka evropského projektu SMACKER se zaměřením na udržitelnou dopravu v severozápadní části pražské aglomerace. [https://praha-suchdol.citychangers.cz/](https://praha-suchdol.citychangers.cz/)
 
-V letech 2005-2019 pracovala pro švédskou organizaci se zaměřením na obchodní spolupráci mezi ČR a Švédskem. Jako projektová manažerka měla na starosti řízení projektů, obchodní kontakty a komunikaci se zákazníky, analýzy trhu a organizaci odborných akcí. V roce 2025 byla zvolena neuvolněnou předsedkyní výbour pro zahraniční vztahy a EU fondy ZHMP
+V letech 2005-2019 pracovala pro švédskou organizaci se zaměřením na obchodní spolupráci mezi ČR a Švédskem. Jako projektová manažerka měla na starosti řízení projektů, obchodní kontakty a komunikaci se zákazníky, analýzy trhu a organizaci odborných akcí. V roce 2025 byla zvolena neuvolněnou předsedkyní výbour pro zahraniční vztahy a EU fondy ZHMP.
 
 Je mezinárodní mistryní v šachu. V roce 1997 vyhrála Mistrovství ČR v kategorii žen a juniorek a v následujících letech získala jednu stříbrnou a dvě bronzové medaile. Reprezentovala Českou republiku na světových a evropských šampionátech mládeže, mezinárodních turnajích a na šachové olympiádě.
 
