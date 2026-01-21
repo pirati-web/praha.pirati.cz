@@ -20,7 +20,6 @@ teamDescription:
 funkce: 
   - předseda České pirátské strany
   - poslanec PSP ČR
-  - 1. náměstek primátora hl. města pro dopravu
   - zastupitel hlavního města Prahy
   - předseda dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
   - předseda Řídící rady společného integrovaného dopravního systému Prahy a Středočeského Kraje 
@@ -39,6 +38,7 @@ profiles:
   blog:      https://blog.aktualne.cz/blogy/zdenek-hrib.php
 ordmhmp: 12
 orddr: 15
+calendar: emRlbmVrLmhyaWJAZ21haWwuY29t%40group.calendar.google.com
 
 ---
 **Zdeněk Hřib** (\* 1981) je předsedou České pirátské strany a do prosince 2025 i 1. náměstek primátora hl. města pro dopravu. Narodil se ve Slavičíně a vyrůstal ve Zlíně. V letech 1999 až 2006 vystudoval obor všeobecné lékařství na 3. lékařské fakultě Univerzity Karlovy v Praze (získal titul MUDr., specializace nemoci z ozáření). Během studií absolvoval v roce 2005 stáž na Tchaj-wanu. V Praze žije od roku 1999. Je ženatý a má 3 děti. V roce 2025 byl ve volbách do Sněmovny zvolen poslancem Parlamentu České republiky. 
@@ -56,7 +56,3 @@ V roce 2023 byl v nové koalici zvolen 1. náměstkem primátora zodpovědným z
 V roce 2024 byl zvolen na předsedu České pirátské strany.
 
 V roce 2025 se stal poslancem Parlamentu České republiky.
-
-### Otevřený kalendář
-
-<iframe src="https://posta16.mepnet.cz/OWA/calendar/b64e9279be6d463fa47eda3a8ad90b25@praha.eu/4bb3b7813d634d4eb7340489c556118811534601839406330643/calendar.html" style="border: 0" width="800" height="800" frameborder="0" scrolling="no"></iframe>
