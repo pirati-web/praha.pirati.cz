@@ -7,7 +7,7 @@ titles:
 category:                 	
   - mhmp-rhmp
   - mhmp
-img: people/daniel-mazur-2022.jpg    # 165 x 220
+img: people/mazur5.jpg    # 165 x 220
 heroImg: Prague_panorama.jpeg
 profession: radní pro Smart City, ICT, vědu, výzkum a inovace
 description: radní pro Smart City, ICT, vědu, výzkum a inovace
