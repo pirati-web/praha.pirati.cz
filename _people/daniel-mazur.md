@@ -18,11 +18,12 @@ teamDescription:
 funkce:
   - radní hl. města pro Smart City, ICT, inovace, vědu a výzkum
   - předseda zastup. klubu v ZHMP
-  - zastupitel hl. města Prahy
   - člen výboru ZHMP pro bezpečnost a pro prevenci kriminality
   - člen výboru ZHMP pro strategický a hospodářský rozvoj a podporu podnikání a inovací
+  - člen výboru ZHMP pro dotační vztahy k městským částem 
   - garant programového bodu Vzdělávání a věda
   - člen Komise RHMP pro mimoškolní vzdělávání a výchovu
+  - člen Komise RHMP pro rozvoj Strahova
 mail:
 - daniel.mazur@pirati.cz
 mob: +420 602 439 639
@@ -31,9 +32,10 @@ asistenti:
     position: vedoucí sekretariátu
     mail: bohdana.hola@praha.eu
     tel: 236 00 3106
-  - name: Mgr. Michal Polák
-    position: poradce
-    mail: michal.polak@praha.eu
+  - name: Bc. Josef Kubát
+    position: asistent, komunikace s občany
+    mail: josef.kubat@praha.eu
+    tel: 770 381 711
   - name: Marta Schwarzová
     position: sekretářka
     mail: marta.schwarzova@praha.eu
@@ -41,21 +43,16 @@ asistenti:
   - name: Tatiana Jančaríková
     position: Mediální podpora
     mail: tatiana.jancarikova@praha.eu
-  - name: Tereza Koubíková
+  - name: Mgr. Tereza Kotíková
     position: asistentka
-    mail: tereza.koubikova@praha.eu
+    mail: tereza.kotikova@praha.eu
     tel: 236 00 3488
-  - name: Michal Novák
+  - name: Michal Novák, MBA
     position: poradce
     mail: michal.novak@praha.eu
-  - name: Marek Křejpský
-    position: IT expert
-    mail: marek.krejpsky@praha.eu
 profiles:
-  github:     https://github.com/daniel-mazur
-  facebook:   https://www.facebook.com/daniel.mazur.5268
-  twitter:    https://twitter.com/DanielMazurP5
-  flickr:
+  facebook:    https://www.facebook.com/pirat.mazur
+  instragram: https://www.instagram.com/daniel.mazur.cz/
 ordmhmp: 1
 ordrhmp: 3
 calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
