@@ -19,7 +19,6 @@ funkce:
   - radní hl. města pro Smart City, ICT, inovace, vědu a výzkum
   - předseda zastup. klubu v ZHMP
   - člen výboru ZHMP pro bezpečnost a pro prevenci kriminality
-  - člen výboru ZHMP pro strategický a hospodářský rozvoj a podporu podnikání a inovací
   - člen výboru ZHMP pro dotační vztahy k městským částem 
   - garant programového bodu Vzdělávání a věda
   - člen Komise RHMP pro mimoškolní vzdělávání a výchovu
@@ -52,7 +51,7 @@ asistenti:
     mail: michal.novak@praha.eu
 profiles:
   facebook:    https://www.facebook.com/pirat.mazur
-  instragram: https://www.instagram.com/daniel.mazur.cz/
+  instagram: https://www.instagram.com/daniel.mazur.cz/
 ordmhmp: 1
 ordrhmp: 3
 calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
