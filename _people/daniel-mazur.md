@@ -40,7 +40,7 @@ asistenti:
     position: sekretářka
     mail: marta.schwarzova@praha.eu
     tel: 236 00 3388
-  - name: Tatiana Jančaríková
+  - name: Mgr. Tatiana Jančaríková
     position: Mediální podpora
     mail: tatiana.jancarikova@praha.eu
   - name: Mgr. Tereza Kotíková
