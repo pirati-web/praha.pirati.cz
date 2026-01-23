@@ -54,7 +54,7 @@ profiles:
   facebook:   https://www.facebook.com/piratberanek/
   twitter:    https://twitter.com/JaromirBeranek
   flickr:
-calendar: 87tlgnopq0tpcn33ftev4fitp4@group.calendar.google.com
+calendar: https://posta16.mepnet.cz/OWA/calendar/0c3d28be1ef7441db21ce1987f7d39ad@praha.eu/1dd99e6a30cd443c95eaff49a04ae4f43581776527978356087/calendar.html
 ordrhmp: 1
 ordmhmp: 4
 orddr: 1
