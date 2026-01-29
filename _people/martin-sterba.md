@@ -4,7 +4,7 @@ name: Martin Štěrba
 titles:
   before: Mgr.
 category:
-img: people/martin-sterba-2022.jpg
+img: people/martin-sterba-2025.jpg
 heroImg: Prague_panorama.jpeg
 profession: manažer a stratég on-line komunikace
 partyUid: pirati
@@ -15,7 +15,7 @@ mail:
   - martin.sterba@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/sterbamartin.praha8
-  twitter:   https://twitter.com/sterbamartin
+  twitter:   https://x.com/sterbamartin
   instagram: https://www.instagram.com/sterbamartin__
   web:       http://www.sterba.eu
   evidence:  https://evidence.pirati.cz/author/357/
@@ -27,16 +27,27 @@ funkce:
   - předseda Komise RHMP pro veřejnou dopravu
 ---
 
-Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. Od ledna 2019 do února 2022 byl poradcem primátora hlavního města Prahy Zdeňka Hřiba. [Momentálně pracuje](https://linkedin.com/in/sterbamartin/) jako manažer a stratég on-line komunikace a vede týmy komunikace se zaměřením na on-line marketing. 
+**V komunálních volbách 2022 jsem kandidoval jako lídr Pirátů do zastupitelstva MČ Praha 8. Piráti získali šest mandátů a já jsem se stal zastupitelem a následně i předsedou našeho pirátského zastupitelského klubu. Zastupitelstvo MČ Praha 8 mě na svém ustanovujícím jednání 2. listopadu 2022 zvolilo předsedou kontrolního výboru. Kromě toho jsem také členem komise pro dopravu a členem redakční rady časopisu Osmička. Na magistrátu jsem byl jmenován předsedou komise pro veřejnou dopravu.**
 
-**Registrovaným příznivcem Pirátů je od března 2018, členem strany potom od prosince 2018. Od 18. 1. 2021 je předsedou MS Praha 8,** předtím působil od ledna 2019 do ledna 2021 jako první místopředseda. **Od 24. 9. 2022 je zastupitelem městské části Praha 8 za Piráty a předsedou pirátského zastupitelského klubu.** Zastupitelstvo MČ Praha 8 ho na svém ustanovujícím jednání 2. listopadu 2022 zvolilo předsedou kontrolního výboru. Od jara 2023 je pak také předsedou komise Rady hlavního města Prahy pro veřejnou dopravu.
+V rámci Pirátské strany jsem od ledna 2021 předsedou místního sdružení Praha 8, v letech 2019 až 2021 jsem byl místopředsedou.
 
-V komunálních volbách 2022 [kandidoval jako lídr pirátské kandidátky v městské části Praha 8](https://praha8.pirati.cz/aktuality/piraty-na-praze-povede-do-voleb-martin-sterba.html), na 29. místě kandidoval i na magistrát. 
+### Úspěchy v zastupitelstvu Prahy 8
+Vedu diskuze s občany na sociálních sítích i mimo ně. Poslouchám jejich problémy a snažím se je pomáhat řešit. Povedlo se mi:
+- S Piráty se mi podařilo aktualizovat jednací řád zastupitelstva MČ Praha 8, tak aby bylo možné jednat i elektronicky.
+- Angažoval jsem se v záchraně oblíbeného koupaliště Stírka.
+- Dlouhodobě bojuju za dostavbu budovy Nová Palmovka.
+- Vyjednal jsem přijetí usnesení zastupitelstva MČ Praha 8, aby se městská část postavila za občany na sídlišti Ďáblice.
+- Navrhl jsem vznik školních ulic u osmičkových základních škol.
+- Podařilo se mi také prosadit i to, aby koalice pravidelně informovala o aktuálním stavu projektu ZŠ Rohan.
+- S Piráty dlouhodobě kritizujeme rozpočet městské části a laxnost vládnoucí osmičkové koalice.
+- Na začátku roku 2025 jsem navrhl za opozici svolání mimořádného jednání zastupitelstva kvůli pokutě za špatnému zadávání veřejných zakázek a pokutě od antimonopolního úřadu.
+- Bojuju za občanskou vybavenost na sídlištích a rozvoj Horní Libně.
 
->Vedu diskuze s občany na sociálních sítích i mimo ně. Poslouchám jejich problémy a snažím se je pomáhat řešit. Počátkem července 2020 jsem se dostal do křížku se zastupitelem za ANO Matějem Fichtnerem, který na mě [podal trestní oznámení](https://praha8.pirati.cz/aktuality/blesk-na-pirata-z-prahy8-miri-trestni-oznameni.html) za pomluvu kvůli [pravdivém článku o jeho politické trafice. Inicioval jsem a napsal novou podobu jednací řádu](https://praha8.pirati.cz/aktuality/trafika-pro-fichtnera.html). Jsem rád, že se mi společně s [Ivem Slávkou](https://praha8.pirati.cz/lide/ivo-slavka.html) podařilo sepsat [aktualizaci jednacího řádu zastupitelstva městské části Praha 8](https://praha8.pirati.cz/aktuality/zastupitele-budou-moci-jednat-online.html), aby se jednání zastupitelstva mohli účastnit on-line i zastupitelé, kteří mají nařízenou karanténu. Zastupitelé ho na návrh Iva schválili. Angažoval jsem se v [záchraně oblíbeného koupaliště Stírka](https://praha8.pirati.cz/aktuality/stitky/koupaliste-stirka/), ve spolupráci s primátorem Zdeňkem Hřibem a Magistrátem jsme požádali ÚZSVM o vyjmutí koupaliště z plánované privatizace. Ač mělo být koupaliště řešeno v rámci směn mezi hlavním městem a státem, nakonec došlo k dohodě, že jej Praha koupí. V roce 2021 jsem se také aktivně věnoval coby primátorův poradce [budoucnosti nedostavěné budovy Nová Palmovka](https://praha8.pirati.cz/aktuality/stitky/nova-palmovka/). Snažili jsme se najít takový způsob, aby došlo k vyřešení problému, a oblast Palmovky, která je celopražský významná, se mohla konečně začít rozvíjet. Jsem rád, že zastupitelstvo městské části i zastupitelstvo hlavního města Prahy odsouhlasilo převod pozemku s budovou pod správu hlavního města, trojstrannou dohodu s Metrostavem i dotační smlouvu pro Prahu 8.
+### Krátce o mně
+Narodil jsem se v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval jsem pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Celý svůj profesní život se věnuji marketingu, médiím a komunikaci. Pracoval jsem ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a mám zkušenosti i z neziskového sektoru. On-line marketingu se věnuji od roku 2013 – vedl jsem týmy pro sociální sítě hlavního města Prahy, TV Barandov či internetové televize Stream.cz, spolurozjížděl MALL.TV, spolupracoval na kampaních pro Adidas, Hyundai či Škoda Auto, byl jsem šéfem mezinárodního týmu zaměřeného na Twitter komunikaci na světovém skautském jamboree v USA a také jsem sepsal celou řadu strategií a analýz komunikace. Od ledna 2019 do února 2022 jsem byl poradcem primátora hlavního města Prahy Zdeňka Hřiba. Od podzimu 2022 pak kromě jiného vedu marketingový tým festivalu United Islands of Prague. [Všechny mé pracovní zkušenosti najdete na mém profilu na LinkedIn.](https://www.linkedin.com/in/sterbamartin)
 
-[Celý svůj profesní život](https://www.linkedin.com/in/sterbamartin/) se věnuje marketingu, médiím a komunikaci. V minulosti pracoval jako píšící redaktor v deníku Metro a také jako televizní reportér pro TV Nova. Od roku 2013 se věnuje komunikaci a marketingu na sociálních sítích – vedl týmy pro sociální sítě hlavního města Prahy, TV Barandov či internetové televize Stream.cz, spolurozjížděl MALL.TV, spolupracoval na kampaních pro Adidas či Škoda Auto, byl šéfem mezinárodního týmu zaměřeného na Twitter komunikaci na světovém skautském jamboree v USA, a také sepsal celou řadu strategií a analýz komunikace. V letech 2010–2017 byl nominován TOP 09 do komise Rady města Plzně pro integraci cizinců a menšin, a komise Rady městského obvodu Plzeň 3 pro volnočasové aktivity dětí a mládeže.
+Ve volném čase mám rád knihy, filmy, hudbu, sociální sítě, cestování do neznáma, jízdu vlakem a festivaly. Od svých dvanácti let jsem skautem, dlouhá léta jsem s přáteli organizoval a budoval skautský festival Obrok a šest let jsme se skautským projektem Svojsíkův sen dívali s heslem “Budoucnost začíná nyní” do let příštích. Chtěli jsme v České republice uspořádat světové skautské jamboree pro 50 tisíc mladých lidí z téměř dvou set zemí.
 
-Ve volném čase má rád knihy, filmy, hudbu, sociální sítě, cestování do neznáma, sezení na Náplavce, jízdu vlakem a festivaly. Od svých dvanácti let je skautem, v současné době je ředitelem skautského projektu [Svojsíkův sen](http://www.svojsikuvsen.cz), který se s heslem „Budoucnost začíná nyní“ dívá do let příštích. Dlouhá léta také z pozice šéfa komunikace a fundraisingu organizoval a budoval festival [Obrok](https://cs.wikipedia.org/wiki/Obrok).
+Právě ve skautu jsem se naučil, že od rozdělané práce se neodchází, proto se nikdy nespokojím s polovičním výsledkem. Dlouhodobě se snažím hledat možnosti, jak věci zlepšovat a nikoliv hledat důvody, proč to nejde. Toho se držím, v práci, v politice i v životě.
 
-**Ve skautu se naučil, že od rozdělané práce se neodchází, proto se nikdy nespokojí s polovičním výsledkem.** A toho se chce držet i v činnosti pro Pirátskou stranu. K Pirátům ho přivedl fakt, že to – co se děje v našem státě – je už prostě přes čáru.
+**Více informací z mé práce najdete na mých sociálních sítích.**
