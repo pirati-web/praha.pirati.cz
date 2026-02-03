@@ -1,7 +1,7 @@
 ---
 title: "Praha v loňském roce kontrolovala dopravce a řidiče okružních jízd tzv. pseudoveteránů. Ve všech případech bylo zjištěno porušení zákona"
 author: MHMP
-image: posts/novradnice37.jpg
+image: posts/novaradnice37.jpg
 tags: [Doprava]
 ---
 
