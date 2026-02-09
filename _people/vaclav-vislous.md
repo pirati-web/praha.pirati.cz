@@ -51,7 +51,7 @@ Václav je dlouhodobým příznivcem a propagátorem principů udržitelné a pr
 
 Od roku 2021 je vlastníkem produktu v projektu CO2IN, jehož cílem je vytvoření důvěryhodného a škálovatelného nástroje pro dobrovolnou kompenzaci uhlíkové stopy.
 
-V roce 2024 byl jmenován do pozice místopředsedy dozorčí rady Státního fondu dopravní infrastruktury (SFDI) a člena dozorčí rady společnosti Pražská energetika Holding a.s.
+V roce 2024 byl jmenován do pozice místopředsedy dozorčí rady Státního fondu dopravní infrastruktury (SFDI), kde působil do ledna 2026. Ve stejném roce se stal také členem dozorčí rady společnosti Pražská energetika Holding a.s.
 
 Od prosince 2024 je Václav 1. místopředsedou Pirátů Praha a zároveň vedoucím Republikové platformy Průmysl.
 
