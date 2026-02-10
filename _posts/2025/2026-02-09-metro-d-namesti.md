@@ -1,0 +1,22 @@
+---
+title: "Budoucí stanice metra D Písnice se stane srdcem nové čtvrti s náměstím i radnicí"
+author: MHMP
+image: posts/metro-d-vizualizace.jpg
+tags: [Doprava]
+---
+
+Rada hl. m. Prahy na svém pondělním jednání schválila nutné úpravy stanice Písnice v návaznosti na územní studii okolí této budoucí stanice metra D. Současně uložila Dopravnímu podniku hl. m. Prahy (DPP), aby zajistil změny projektové dokumentace, legislativní povolení a realizaci výstavby stanice Písnice a jejího nejbližšího okolí v součinnosti s vlastníky pozemků v daném území a v koordinaci s navazujícími projekty podle územní studie. Stanice Písnice podle těchto změn získá druhý, severní vestibul, jižní bude součástí navazující výstavby. V okolí stanice vznikne náměstí a v rozvojovém území bytová a administrativní výstavba soukromých subjektů. Součásti rozvoje lokality by mohla být i budoucí nová radnice městské části Praha–Libuš.
+
+Okolí budoucí stanice metra Písnice na nové lince metra D v městské části Praha–Libuš je dlouhodobě významným územím, kde se potkávají navazující rozvojové plochy a příměstská doprava s blízkými přírodními a krajinnými celky zeleně. Hlavní město ve spolupráci s Institutem plánování a rozvoje (IPR), městskou částí Praha–Libuš a vlastníky dotčených pozemků v centrální části území v minulosti iniciovaly rozvoj této lokality. V rámci dotčeného území proto nechala Praha vytvořit územní studii „Okolí budoucí stanice metra D a krajinné rozhraní Písnice“. V listopadu 2020 byla schválena jako podklad pro změnu územního plánu, která je nyní v procesu. 
+
+Klíčovým záměrem hl. m. Prahy je v dotčeném území realizovat náměstí a upravit okolí budoucí stanice metra D Písnice v souladu se schválenou územní studií a v koordinaci se záměry vlastníků pozemků. Studie uvádí do souladu zájmy veřejného a soukromého sektoru.
+
+> „Plánem výstavby metra D nastává příležitost z lokality kolem budoucí stanice metra Písnice urbanisticky vytvořit plnohodnotnou součást města s novým centrem, občanskou a komerční vybaveností. Chystáme zde klidné a kvalitní místo k životu s ochranou veškerých lokálních hodnot. Díky územní studii klademe důraz na jasná pravidla pro výškové uspořádání budoucí zástavby, její kapacitu i využití, efektivní uspořádání parkovacích stání, celkovou prostupnost územím, kvalitu a rozmanitost veřejných prostranství. Snahou města je zajistit různé standardy bydlení pro vyvážený sociální mix a vnést do této lokality život během celého dne,“ říká Petr Hlaváček, náměstek primátora hl. m. Prahy pro oblast územního a strategického rozvoje.
+
+> „Vzhledem k tomu, že doba výstavby stanice metra D Písnice je zhruba čtyři a půl roku, je vhodné zahájit proces společného legislativního povolení co nejdříve, aby bylo možné vystavět a zprovoznit stanici Písnice ideálně společně, nejdéle však jeden rok po zprovoznění úseku Pankrác – Libuš. Výstavba soukromých subjektů v dotčeném území bude následovat po výstavbě metra. Rozvoj okolí budoucí stanice metra Písnice je pečlivě připravován s vizí moderní čtvrti krátkých vzdáleností, kde nezapomínáme na bydlení, administrativní budovy, ale i služby,“ dodává Jaromír Beránek, 1. náměstek primátora hl. m. Prahy pro oblast dopravy.
+
+> „Výstavba metra D není jen dopravní projekt, ale příležitost proměnit celé okolí v plnohodnotnou městskou čtvrť. V případě Písnice chceme spojit kvalitní veřejnou dopravu s promyšleným urbanismem, veřejným prostorem a službami pro každodenní život. Díky koordinaci s územní studií vznikne nové centrum městské části, které bude funkční, dostupné a dlouhodobě udržitelné,“ popisuje primátor hl. m. Prahy Bohuslav Svoboda.
+
+Cílem tisku, který schválila Rada hl. m. Prahy, je upřesnění zadání ve vztahu k DPP zejména pro zajištění úprav projektové dokumentace, legislativních povolení i finálního řešení realizace budoucí stanice metra D Písnice a jejího blízkého okolí s ohledem na jejich aktuální stav, a to v souladu s Územní studií. Úpravy projektové dokumentace budou zahrnovat doplnění severního vestibulu stanice metra, úpravu objektu P+R a autobusového terminálu, dále vybudování náměstí a následnou stavebně technickou koordinaci a nastavení etapizace s plánovanými záměry soukromých subjektů v dotčeném území. Součástí bude také případná realizace budoucí nové radnice městské části Praha–Libuš. Úkolem DPP je zajistit úpravy a výstavbu stanice metra D Písnice a jejího blízkého okolí v součinnosti s vlastníky pozemků v dotčeném území a v koordinaci s významnými projekty v daném místě.
+
+ 
