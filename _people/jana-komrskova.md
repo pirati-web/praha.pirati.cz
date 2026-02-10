@@ -35,6 +35,15 @@ asistenti:
   - name: Mgr. Blanka Bidmonová
     position: sekretářka
     mail: blanka.bidmonova@praha.eu
+  - name: Jiří Belšán
+    position: poradce
+    mail: jiri.belsan@praha.eu
+  - name: Ivo Vojáček
+    position: poradce
+    mail: ivo.vojacek@praha.eu
+  - name: Eva Tichá
+    position: poradkyně
+    mail: eva.ticha@praha.eu
 profiles:
   facebook:  https://www.facebook.com/komrskova.jana
   instagram: https://www.instagram.com/komrskovajana
