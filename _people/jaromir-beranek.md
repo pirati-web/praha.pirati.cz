@@ -37,12 +37,6 @@ asistenti:
   - name: Bc. Marek Bělor
     position: poradce
     mail: marek.belor@praha.eu
-  - name: Ing. arch. Václav Brejška
-    position: poradce
-    mail: vaclav.brejska@praha.eu
-  - name: Mgr. Tomáš Vovsík
-    position: poradce
-    mail: tomas.vovsik@praha.eu
   - name: Adéla Jankevič
     position: sekretářka
     mail: adela.jankevic@praha.eu
