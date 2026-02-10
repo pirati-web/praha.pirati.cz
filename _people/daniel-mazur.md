@@ -57,7 +57,7 @@ ordrhmp: 3
 calendar: 29a501vqa1elaiqiho91nko8fg@group.calendar.google.com
 ---
 
-**Daniel Mazur** (* 26. května 1978) je pirátským radním pro Smart City, IT a vědu a výzkum. Je také předsedou zastupitelského klubu Pirátů v ZHMP. Členem Pirátů je od června 2014, původně na Praze 6, nyní na Praze 5. 
+**Daniel Mazur** (* 26. května 1978) je pirátským radním pro Smart City ICT, vědu, inovace a výzkum. Je také předsedou zastupitelského klubu Pirátů v ZHMP. Členem Pirátů je od června 2014, původně na Praze 6, nyní na Praze 5. 
 
 Narodil se v Praze, kde má bydliště celý život, přestože strávil 11 let života studiem a prací v zahraničí. Je zakládajícím členem a předsedou místního sdružení Pirátů na Praze 5.
 
@@ -67,5 +67,5 @@ V roce 2018 byl za Piráty zvolen do zastupitelstva hlavního města Prahy a do 
 
 Opoziční práci na Praze 5 nyní odvádí ve Výboru pro otevřenou radnici, ve Finančním výboru a v Komisi informačních technologií městské části.
 
-V roce 2022 kandidoval na 5. místě do zastupitelstva hl. m. Prahy na pirátské listině. Byl zvolen a stal se předsedou zastupitelského klubu Pirátů. V listopadu 2022 byl pražským zastupitelstvem zvolen předsedou výboru ZHMP pro výchovu a vzdělávání, což skončilo v únoru 2023, když se v rámci nové koalice stal členem Rady hlavního města Prahy s gescemi ICT, Smart Cities a věda, výzkum a inovace.
+V roce 2022 kandidoval na 5. místě do zastupitelstva hl. m. Prahy na pirátské listině. Byl zvolen a stal se předsedou zastupitelského klubu Pirátů. V listopadu 2022 byl pražským zastupitelstvem zvolen předsedou výboru ZHMP pro výchovu a vzdělávání, což skončilo v únoru 2023, když se v rámci nové koalice stal členem Rady hlavního města Prahy s gescemi ICT, Smart Cities, věda, výzkum a inovace.
 
